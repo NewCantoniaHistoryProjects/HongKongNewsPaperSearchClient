@@ -1,0 +1,8 @@
+### `requirements.txt`
+
+```txt
+# This project uses only Python standard library modules
+# No external dependencies are required
+tkinter  # Included with Python
+sqlite3  # Included with Python
+webbrowser  # Included with Python
