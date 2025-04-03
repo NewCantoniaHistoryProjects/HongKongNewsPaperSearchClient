@@ -1,0 +1,359 @@
+page 1	THEY'RE PRACTISING FOR THE NAZI BLITZKRIEG.
+page 1	Hundred German Bombers With Messerschmitt Escorts Intercepted By Royal Air Force.
+page 1	GREAT AIR BATTLE RAGES ALONG ENGLISH CHANNEL.
+page 1	150 Planes Take Part In Fight.
+page 1	30 Bombers In Action.
+page 1	Enemy Casualties.
+page 1	Bombs Dropped, Little Damage.
+page 1	German Claims.
+page 1	INVASION OF EIRE DANGER.
+page 1	R.A.F. TRIUMPH IN BIG EGYPT AIR BATTLE.
+page 1	Shoots Down Four.
+page 1	'We Belieye Departure from Manila is Imminent.'
+page 1	EVACUEES IN MANILA REGISTER FOR VOYAGE TO AUSTRALIAN PORTS.
+page 1	THE SERGANT SHOWED THE QUEEN.
+page 1	Commons Told Of Situation in H.K.
+page 1	NORTH ATLANTIC MINED.
+page 1	Danes Obey Their Master's Voice.
+page 1	WOPS RAN FROM R.N.
+page 1	"Disappointing" Says Mediterranean C. in C.
+page 1	Cruiser Hit.
+page 1	PARTHIAN'S SUCCESS.
+page 1	Hongkong Station Ship Sinks Italian U-Boat.
+page 1	EVACUEES AND THE LANDLORDS.
+page 1	"Telegraph" Secures Legal Opinion.
+page 1	NEW H.K. C.-IN-C. KNIGHTED.
+page 5	PRODUCE "LIKE HESS."
+page 5	Munition Workers 84 Hours A Week.
+page 5	CREAT AIR BATTLE RAGES.
+page 5	Salvoes Of Bombs.
+page 5	Planes All Over The Skies.
+page 5	Eyewitness Account.
+page 5	Fighters In Action.
+page 5	ITALY'S NAVAL DEFEAT.
+page 5	Turkey Delighted With Result.
+page 5	GAOLER GETS I.S.M.
+page 5	Roosevelt Asks Congress For Year's Total Of 2,500,000,000 On Serviees.
+page 5	Means Sacrifices.
+page 5	Threats To America.
+page 5	Opposed To War.
+page 5	Imputation Refuted.
+page 5	PURCHASE TAX DROPPED.
+page 5	PLIGHT OF EUROPE.
+page 5	Shocking effects Of Nazi Occupation.
+page 5	ITALIANS ATTACK IN DESERT.
+page 5	Concerted Onslaught.
+page 5	Quiet Elsewhere.
+page 5	Registration Continues.
+page 5	Portuguese Community.
+page 5	Chinese List Compiled.
+page 5	Indian Resident Passed Away.
+page 5	Devastation Of Rotterdam.
+page 5	30,000 Known To have been Killed.
+page 5	Seven Weeks After.
+page 5	The Lying Jade Active.
+page 5	Rumours Of Landings In England.
+page 5	EVACUEES IN MANILA.
+page 5	Net One Complaint.
+page 8	ANOTHER INSULT.
+page 8	Japanese Incensed At Shengking.
+page 8	Agreement Reached.
+page 8	Company Statement.
+page 8	New Zealand To Continue Struggle.
+page 8	Indian Transport Coy Missing.
+page 8	Soviet Ultimatum Is Denied.
+page 8	Recognition For Czech Government.
+page 8	Hungary "Confers" With Dictators.
+page 8	ALLEGED DEMANDS.
+page 8	Official Denial By Acting Governor.
+page 8	Evacuation Of Children.
+page 8	New Safety Measures In England.
+page 8	Transfer Overseas.
+page 9	THEV'RE PRACTISING FOR THE NAZI BLITZKRIEG.
+page 9	Hundred German Bombers With Messerschmitt Escorts Intercepted By Royal Air Force.
+page 9	GREAT AIR BATTLE RAGES ALONG ENGLISH CHANNEL.
+page 9	150 Planes Take Part In Fight.
+page 9	30 Bombers In Action.
+page 9	Enemy Casualties.
+page 9	Bombs Dropped Little Damage.
+page 9	NORTH ATLANTIC MINED.
+page 9	German Claims.
+page 9	Skipper's Story.
+page 9	R.A.F. TRIUMPH IN BIG EGYPT AIR BATTLE.
+page 9	Shoots Down Four.
+page 9	'We Believe Departure from Manila is Imminent.'
+page 9	EVACUEES IN MANILA REGISTER FOR VOYAGE TO AUSTRALIAN PORTS.
+page 9	Settled Down Happily.
+page 9	How Empress Of Japan Evacuees Are Being Looked After.
+page 9	Military Efficiency.
+page 9	Shipboard Conference.
+page 9	NEW H.K. C.-IN-. KNIGHTED.
+page 9	DRAMATIC JOURNEY TO FORT McKINLEY IS DESCRIBED.
+page 9	EVACUEES AND THE LANDLORDS.
+page 9	"Telegraph" Secures Legal Opinion.
+page 9	Egypt To Put On The Clock.
+page 9	Children Excited.
+page 9	"Just-A Nice Holiday."
+page 10	THE SERGEANT SHOWED THE QUEEN.
+page 10	Commons Told Of Situation in H.K.
+page 11	Roosevelt Asks Congress For Year's Total Of 2,500,000,000 Pounds On Services.
+page 11	FANTASTIC U.S. EXPENDITURE ON NEW DEFENCES.
+page 11	Means Sacrifices.
+page 11	Threats to America.
+page 11	Opposed To War.
+page 11	Imputation Refuted.
+page 11	TIENTSIN.
+page 11	CHINESE NOTE TO BRITAIN.
+page 11	Chungking Views Set Forth.
+page 11	PURCHASE TAX DROPPED.
+page 11	AUSTRALIA SEEKS MORE EVACUEES.
+page 11	Devastation Rotterdam.
+page 11	30,000 Known To Have Been Killed.
+page 11	Seven Weeks After.
+page 11	ITALY'S NAVAL DEFEAT.
+page 11	Turkey Delighted With Result.
+page 11	Defence Against Air-borne Troops.
+page 11	PRODUCE "LIKE HELL."
+page 11	Munition Workers 84 Hours A Week.
+page 11	Dispersing Factories.
+page 11	We Mean It.
+page 11	King Visits Factories.
+page 11	The Lying Jade Active.
+page 11	Rumours Of Landings In England.
+page 11	Authoritative Denial.
+page 11	S'hai Incident: U.S. Attitude.
+page 13	PLIGHT OF EUROPE.
+page 13	Shocking Effects Of Nazi Occupation.
+page 13	CREAT AIR BATTLE RAGES.
+page 13	Salvoes Of Bombs.
+page 13	Planes All Over The Skies.
+page 13	Eyewitness Account.
+page 13	Fighters In Action.
+page 13	War Heroes Decorated.
+page 13	Government Rewards Men Of The B.E.F.
+page 13	M.C. For Padre.
+page 13	APART FROM THE MANY CHEQUES.
+page 13	Mr. Butler Calls For National Resolution.
+page 13	FACING CHALLENGE OF NAZIS WITH ATHRILL.
+page 13	The Loudest Voice.
+page 13	Australia's Munitions.
+page 13	Wide Expansion Of Industry.
+page 13	BRITAIN WATCHES EIRE.
+page 13	Rated As Invasion Danger Spot.
+page 13	Co-operation Impossible.
+page 13	Counter Measures Hint.
+page 13	EVACUEES IN MANILA.
+page 13	Net One Complaint.
+page 13	EVACUEES ARE LOOKED AFIER.
+page 13	Rested Evacuees.
+page 13	Badminton Courts Used.
+page 13	Baguio's Co-operation.
+page 13	Mail Address.
+page 13	The "Oomph" Stowaway Girl Is Back.
+page 13	Paula Richards On Way To United States.
+page 13	Good Support For War Bonds.
+page 13	PARTHIAN'S SUCCESS.
+page 13	Hongkong Station Ship Sinks Italian U-Boat.
+page 13	DRAMATIC JOURNEY.
+page 13	Sorted Out.
+page 13	And Then Dinner.
+page 13	Indian Resident Passes Away.
+page 15	ITALIANS ATTACK IN DESERT.
+page 15	Concerted Onslaught.
+page 15	Quiet Elsewhere.
+page 15	Death Of Capt. E. Nielsen.
+page 15	Well Known In Shanghai.
+page 15	INVASION OF EIRE DANGER.
+page 15	U.S. ARMADA OF 24,951 PLANES.
+page 15	Plot To Sabotage Battleship.
+page 15	Internment Of Aliens & Refugees.
+page 15	Questions Raised In Parliament.
+page 15	No Serious Act.
+page 15	Refugees Alarmed.
+page 15	House Of Lords Questions.
+page 15	Hitler With His Hungarian Pals.
+page 15	MORE R.A.F. RAIDS.
+page 15	Damage Caused To Many Nazi Cities.
+page 15	Attacks On Shipping.
+page 15	Ships Saved From Nazis.
+page 15	Clever Action By Polish.
+page 15	Escaped Under Fire.
+page 15	ITALIANS LOSE THREE PLANES
+page 15	ARREST OF IRON GUARD LEADER.
+page 15	Democrats Want Roosevelt.
+page 16	Evacuation Children.
+page 16	New Safety Measures In England.
+page 16	Transfer Overseas.
+page 16	Canada Wants Them.
+page 16	Nazis Purging Communists.
+page 16	New Policy In Bohemia And Moravia.
+page 16	Conciliation Abandoned.
+page 16	THEY RAN FROM R.N.
+page 16	"Disappointing" Says Mediterranean C. in C.
+page 16	Cruiser Hit.
+page 16	New Zealand To Continue Struggle.
+page 16	Indian Transport Coy. Missing.
+page 16	Soviet Ultimatum Is Denied.
+page 16	Recognition For Czech Government.
+page 16	Hungary "Confers" With Dictators.
+page 16	ALLEGED DEMANDS.
+page 16	Official Denial By Acting Governor.
+page 16	IMMOBILISATION OF DUTCH ARMY.
+page 16	JAPANESE AND THE SHENKING.
+page 16	Danes Obey Their Master's Voice.
+page 17	THEV'RE PRACTISING FOR THE NAZI BLITZKRIEG.
+page 17	Hundred German Bombers With Messerschmitt Escorts Intercepted By Royal Air Force.
+page 17	GREAT AIR BATTLE RAGES ALONG ENGLISH CHANNEL.
+page 17	150 Planes Take Part In Fight.
+page 17	30 Bombers In Action.
+page 17	Enemy Casualties.
+page 17	CHUNGKING RAID.
+page 17	Japanese Claims In New Operation.
+page 17	Dogfight.
+page 17	Egypt To Put On The Clock.
+page 17	THE KING HONOURS H.K. MAN.
+page 17	'We Believe Departure from Manila is Imminent.'
+page 17	EVACUEES IN MANILA REGISTER FOR VOYAGE TO AUSTRALIAN PORTS.
+page 17	Settled Down Happily.
+page 17	How Empress Of Japan Evacuees Are Being Looked After.
+page 17	Military Efficiency.
+page 17	Shipboard Conference.
+page 17	THE BURMA ROAD.
+page 17	TALKS IN LONDON.
+page 17	Rational Settlement Sought By Britain.
+page 17	NANKING MAY PROTEST.
+page 17	DRAMATIC JOURNEY TO FORT McKINLEY IS DESCRIBED.
+page 17	EVACUEES AND THE LANDLORDS.
+page 17	"Telegraph" Secures Legal Opinion.
+page 17	NORTH ATLANTIC MINED.
+page 17	Children Excited.
+page 17	"Just A Nice Holiday."
+page 17	Shengking Affair Settled.
+page 18	NAZIS LOSE 14 PLANES.
+page 18	Salvoes Of Bombs.
+page 18	Planes All Over The Skies.
+page 18	Eyewitness Account.
+page 18	Fighters In Action.
+page 18	150 PLANES TAKE PART IN FIGHT.
+page 18	Bombs Dropped Little Damage.
+page 18	German Claims.
+page 18	Skipper's Story.
+page 18	EVACUEES ARE LOOKED AFYER.
+page 18	Rested Evacuees.
+page 18	Badminton Courts Used.
+page 18	Baguio's Co-operation.
+page 18	Mail Address.
+page 18	EVACUEES IN MANILA.
+page 18	Not One Complaint.
+page 18	DRAMATIC JOURNEY.
+page 18	Sorted Our.
+page 18	And Them Dinner.
+page 18	War Heroes Decorated.
+page 18	Government Rewards Men Of The B.E.F.
+page 18	M.C. For Padre.
+page 18	Nazis Purging Communists.
+page 18	New Policy In Bohemia And Moravia.
+page 18	Conciliation Abandoned.
+page 19	Roosevelt Asks Congress For Year's Total Of 2,500,000,000 Pounds On Services.
+page 19	FANTASTIC U.S. EXPENDITURE ON NEW DEFENCES.
+page 19	Means Sacrifices.
+page 19	Threats To America.
+page 19	Opposed To War.
+page 19	Imputation Refuted.
+page 19	TIENTSIN.
+page 19	CHINESE NOTE TO BRITAIN.
+page 19	Chungking Views.
+page 19	Set Forth.
+page 19	PURCHAXE TAX DROPPED.
+page 19	AUSTRALIA SEEKS MORE EVACUEES.
+page 19	Devastation Rotterdam.
+page 19	30,000 Known To Have.
+page 19	Seven Weeks After.
+page 19	ITALY'S NAVAL DEFEAT.
+page 19	Turkey Delighted With Result.
+page 19	Defence Against Air-borne Troops.
+page 19	PRODUCE "LIKE HESS."
+page 19	Munition Workers 84 Hours A Week.
+page 19	Dispersing Factories.
+page 19	We Mean It.
+page 19	King Visits Factories.
+page 19	The Lying Jade Active.
+page 19	Rumours Of Landings In England.
+page 19	Authoritative Denial.
+page 19	S'hai Incident: U.S. Attitude.
+page 21	BRITAIN WATCHES EIRE.
+page 21	Rated As Invasion Danger Spot.
+page 21	Co-operation Impossible.
+page 21	Counter Measures Hint.
+page 21	No Agreement.
+page 21	NEW H.K. C.-IN-C. KNIGHTED.
+page 21	DISORDERLY CONDUCT.
+page 21	Empress of Asia Evacuees Interviewed in Manila.
+page 21	No Visitors Allowed.
+page 21	New Group To Baguio.
+page 21	Evacuees Grateful.
+page 21	Sayro Boards Liner.
+page 21	Debarkation More Orderly.
+page 21	Many Get Seasick.
+page 21	Blame Chinese Refugees.
+page 21	Among The Arrivals.
+page 21	Japanese 'Well -Behaved.'
+page 21	Local Britons On Hand.
+page 21	Evacuees In Interior.
+page 21	PLIGAT OF EUROPE.
+page 21	Shocking Effects Of Nazi Occupation.
+page 21	Hitler With His Hungarian Pals.
+page 21	JAPANESE FINED $275, EXPELLED.
+page 21	Two Offences In Entering Colony.
+page 21	Came From Macao.
+page 21	Mother And 13-Year-Old Girl Charged.
+page 21	Court Told Story Of Jewellery Theft.
+page 21	Mother's Denial.
+page 21	Aftermath Of Evacuation.
+page 21	Police Discovery On Hongkong Island.
+page 21	The "Oomph" Stowaway Girl Is Back.
+page 21	Paula Richards On Way To United States.
+page 23	Death Of Capt. E. Nielsen.
+page 23	Far East Cableship Commander.
+page 23	Well Known In Shanghai.
+page 23	INVASION OF EIRE DANGER.
+page 23	GAOLER GETS I.S.M.
+page 23	Internment Of Aliens $ Refugees.
+page 23	Questions Raised In Parliament.
+page 23	No Serious Act.
+page 23	Refugees Alarmed.
+page 23	House Of Lords Questions.
+page 23	Australia's Munitions.
+page 23	Wide Expansion Of Industry.
+page 23	MORE R.A.F. RAIDS.
+page 23	Damage Caused To many Nazi Cities.
+page 23	Attacks On Shipping.
+page 23	Evacuation Of Children.
+page 23	New Safety Measures In England.
+page 23	Transfer Overseas.
+page 23	Canada Wants Them.
+page 23	Democrats Want Roosevelt.
+page 23	Commons Told Of Situation in H.K.
+page 23	ARREST OF IRON GUARD LEADER.
+page 23	Ships Saved From Nazis.
+page 23	Clever Action By Polish Skippers.
+page 23	Escaped Under Fire.
+page 24	THEY RAN FROM R.N.
+page 24	"Disappointing" Says Mediterranean C. in C.
+page 24	Cruiser Hit.
+page 24	The "Chase" Signal.
+page 24	European Drivers Summoned.
+page 24	Alleged Attack On Prison Officer.
+page 24	Plot To Sabotage Battleship.
+page 24	Week-End Blitzkrieg Threatened.
+page 24	New Instructions To Craigie.
+page 24	New Zealand To Continue Struggle.
+page 24	Indian Transport Coy. Missing.
+page 24	Soviet Ultimatum Is Denied.
+page 24	Recognition For Czech Government.
+page 24	Hungary "Confers" With Dictators.
+page 24	ALLEGED DEMANDS.
+page 24	Official Denial By Acting Governor.
+page 24	IMMOBILISATION OF DUTCH ARMY.
+page 24	JAPANESE AND THE SHENKING.
+page 24	Danes Obey Their Master's Voice.

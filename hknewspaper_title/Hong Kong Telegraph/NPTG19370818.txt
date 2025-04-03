@@ -1,0 +1,162 @@
+page 1	BOMBEERS CONTINUE S'HAI RAIDS.
+page 1	Japanese Open Heavy Bombardment Against Scattered Positions.
+page 1	CHINESE CLAIM THIRTY RAIDING PLANES SHOT DOWN IN PAST THREE DAYS OF FIGHTING.
+page 1	AIRCRAFT CASUALTHES.
+page 1	HEAVIEST LOSS.
+page 1	IDZUNO BEING REPAIRED.
+page 1	EASTERN SHANGHAI SHELLED.
+page 1	JAPANESE UNIT SURROUNDED.
+page 1	HUNDRE PRISONERS KILLED.
+page 1	NEWTRAL ZONE PLAN.
+page 1	MORE REFUEES FOR HONGKONG.
+page 1	FOOD SHORTAGE.
+page 1	MOBILISATION.
+page 1	CHINESE TROOPS BUILD DEFENCES.
+page 1	RIOTOUS CROWDS LOOSE IN S'HAI.
+page 1	Two Beaten to Death By Suspicious Mob.
+page 1	Protecting British Nationals.
+page 1	Cabinet Is Taking Necessary Steps.
+page 1	Japanese Enter Astor House.
+page 1	Japan's Weak Link.
+page 1	Morale Of Her Own People.
+page 1	Ambassador In Charge.
+page 1	French Evacuation Voluntary.
+page 1	All Lines Kept Clear For Troops.
+page 1	Peiping-Shanghai Journey Takes Two Weeks.
+page 1	Many Prisoners.
+page 1	U.S. WARNS WARRING NATIONS.
+page 1	Holding Them To Account For Any Injuries.
+page 1	WASHINGTON SHAKE-UP.
+page 5	Heavy Battles In Spain.
+page 5	Conflicting Reports Of Results.
+page 5	STRATEGIC VICTORY.
+page 5	BRILLIANT COUP.
+page 7	KENT HOME OFR AN EX-KING.
+page 7	Sixteenth Century House At Beauty Spot.
+page 7	CONGRESS MINISTERS CUT THEIR SALARIES.
+page 7	PREMIER'S FLAG.
+page 7	GOVERNOR AGREES.
+page 7	BRITISH FARMERS FACE SERIOUS LABOUR FAMINE.
+page 7	HARVEST MONEY.
+page 7	ARTISAN PROBLEM.
+page 7	CAUSE OF LOW WAGES.
+page 8	The Final Test Match Ends In A Draw.
+page 8	ENGLAND'S EFFORT OT SNTCH VICTORY IS THWARTED.
+page 8	BOROTRA WEDS IN SECRET.
+page 8	Engaged For Six Months.
+page 8	ATTRCTIVE BRIDE.
+page 8	WIMBLEDON VETERAN.
+page 8	Recovery By New Zealand.
+page 8	COPSON'S SUPERB BOWLING 8 For 11 And A Hat-Trick.
+page 8	YORKSHIRE RECOVERS LOST GROUND.
+page 8	But Middlesex Is Held To A Draw By Warwick.
+page 8	WIGHTMAN CUP TEAN SAILS FOR U.S..
+page 8	THEIR CHANCES.
+page 9	"I DON'T APPROVE OF WOMEN PLAYING CRICKET!"
+page 9	STATEMENT BY ENGLAND TEST CAPTAIN.
+page 9	FARR HAS AN EVEN CHANCE AGAINST LOUIS.
+page 12	S.P.C. AND THE MUI TSAI PETITION.
+page 12	How Directors Indicate Society's Attitude.
+page 12	INTERESTING MATTERS AT MONTHLY MEETING.
+page 12	T.B. DANGER.
+page 12	GIRL OFFERS 500POUND.
+page 12	THE PAESTINE PROBLEM.
+page 12	COMMISSION NOT AGAINST PARTITION.
+page 12	OTHER CASES.
+page 13	NEW DANGER THREATENS S'HAI.
+page 13	Japanese Reported At Liuho in Great Force For Decisive Struggle.
+page 13	HEAVY BOMBARDMENT REOPENS AT DAWM WITH WARSHIPS POUNDING POOTUNG TRECHES.
+page 13	BOMBARMENT AT DAWN.
+page 13	PLANES MORE ACTIVE.
+page 13	LEAVING HONGKEW?
+page 13	HOSPITAL OFFER.
+page 13	TRAFFIC UNCERTAIN.
+page 13	GERMAN INTERNAL LOAN ISSUED.
+page 13	REDEEMABLE IN 15 YEARS.
+page 13	RELIEF FUNDS.
+page 13	REFUGEES LEAVING.
+page 13	Japanese Enter Astor House.
+page 13	CHINESE TROOPS BUILD DEFENCES.
+page 13	RIOTOUS CROWDS LOOSE IN S'HAI.
+page 13	Two Beaten to Death By Suspicious Mob.
+page 13	SHANGHAI NEUTRAL ZONE PLAN.
+page 13	CABINET CONSIDERS.
+page 13	CANTON PANIC ENDED.
+page 13	No Signs Of Japanese Air Raiders.
+page 13	BUT TENSION REMAINS.
+page 13	Told To Evacuate.
+page 13	HONGKONG ANTI-GAS MEASURES.
+page 13	Government Arranges Instruction.
+page 13	Good Response Expected.
+page 15	Heavy Battles In Spain.
+page 15	Conflicting Reports Of Results.
+page 15	STRATEGIC VICTORY.
+page 15	BRILLIANT COUP.
+page 15	OUR GUIDE TO THE CINEMAS.
+page 15	S.P.C. AND THE MUI TSAI PETITION.
+page 15	Hon Directors Indicate Society's Attitude.
+page 15	INTERESTING MATTERS AT MONTHLY MEETING.
+page 15	T.B. DANGER.
+page 15	GIRL OFFERS 500POUND.
+page 15	OTHERS CASES.
+page 17	Ambassador In Charge.
+page 17	French Evacuation Voluntary.
+page 17	PRICES JUMP IN LONDON.
+page 17	British Trade Figures.
+page 17	South America Big Customer.
+page 17	U.S. Steering Middle Course.
+page 17	Policy In Far East Crisis.
+page 19	All Lines Kept Clear For Troops.
+page 19	Peiping-Shanghai Journey Takes Two Weeks.
+page 19	Many Prisoners.
+page 19	Confusing Japanese.
+page 19	Americans Fired On.
+page 19	Bombs On Soochow.
+page 19	NEW DANGER THREATENS SHANGHAI.
+page 19	BOMBING CONTINUE.
+page 19	AIRCRAFT CASULTIES.
+page 19	HEAVIEST LOSS.
+page 19	IDZUMO BEING REPAIRED.
+page 19	EASTERN SHANGHAI SHELLED.
+page 19	JAPANESE UNIT SURROUNDED.
+page 19	HUNDRED PRISONERS KILLED.
+page 19	NEW YORK GAINS ON LEADERS.
+page 19	Gomez Wins In Spite Of Grief.
+page 19	Sound British Finances.
+page 19	Buoyant Revenue A Feature.
+page 19	REINFORCEMENTS REACH TANGKU.
+page 19	FOOD SHORTAGE.
+page 19	MOBILISATION.
+page 19	FUTILE OPPOSITION.
+page 19	LEAVING TSINGTAO.
+page 19	CANTON PANIC ENDED.
+page 19	Four Planes Sighted.
+page 19	Planes Over Foochow.
+page 19	HONGKONG ANTI-GAS MEASURES.
+page 19	Holidays Now With Pay.
+page 19	Railway Workshops Award.
+page 20	The Final Test Match Ends In A Draw.
+page 20	ENGLAND'S FFORT TO SNATCH VICTORY IS THWARTED.
+page 20	COPSON'S SUPERB BOWWLING.
+page 20	8 For 11 And A Hat-Trick.
+page 20	BOROTRA WEDS IN SECRET.
+page 20	Engaged For Six Months.
+page 20	ATTRATIVE BRIDE.
+page 20	WIMBLEDDN VETERAN.
+page 20	Recovery By New Zealand.
+page 20	YORKSHIRE RECOVERS LOST GROUND.
+page 20	But Middlesex Is Held To A Draw By Warwick.
+page 20	COUNTY CHAMPIONSHIP.
+page 20	BRITLSH PAIR PLAY SENSATIOAL GOLF.
+page 20	Round of 62 in Four Ball Competition.
+page 21	BRITISH PAIR PLAY SENSATIONAL GOLF.
+page 21	"I DON'T APPROVE OF WIMEN PALYING CRICKET!"
+page 21	STAEMENT BY ENGLAND TEST CAPTAIN.
+page 21	FARR HAS AN EVEN CHANCE AGAINST LOUIS.
+page 24	Protecting British Nationals.
+page 24	Cabinet In Taking Necessary Stops.
+page 24	MORE REFUGEES FOR HONGKONG.
+page 24	U.S. WARNS WARRING NATIONS. 
+page 24	Holding Them To Account For Any Injuries.
+page 24	WASHINGTON SHAKE-UP.
+page 24	U.S. SUPREME COURT.

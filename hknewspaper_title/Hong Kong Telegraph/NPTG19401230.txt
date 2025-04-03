@@ -1,0 +1,263 @@
+page 1	BARDIA WEAKENS AS BRITISH APPLY INCREASED PRESSURE.
+page 1	Italy Accepts Fall Of Town As Inevitable.
+page 1	Fairly Quiet Sunday Night.
+page 1	Mysterious Report.
+page 1	Plane Allegedly Downed.
+page 1	60% Of U.S. Favours More Aid For Britain.
+page 1	HEAVY FIGHTING IN SNOW.
+page 1	Valona Foreshore Bombed.
+page 1	INDIAN LABOUR.
+page 1	Military Training.
+page 1	Mine Accident.
+page 1	Italian Planes Downed.
+page 1	Arabs Delighted.
+page 1	Plot Against Ibn Saud.
+page 1	Conspirators Caught.
+page 1	General Booth's Son Dies.
+page 1	Matsuoka Speech Hotly Criticised.
+page 1	American Resentment.
+page 1	France-German Negotiations.
+page 1	Petain Uninformative.
+page 1	Bitter Anti-Nazi Feeling.
+page 1	Aircraft Over Eire.
+page 1	--- Unidentified.
+page 1	Plan To Oust Americans.
+page 1	Threaten Doom.
+page 1	Travel Restrictions.
+page 1	EMPRESS OF BRITAIN ABLAZE.
+page 1	JAPANESE SEIZE U.S. GOODS.
+page 1	Roosevelt Talk.
+page 1	Millions Will Hear.
+page 1	JAMAICAN CIGARS FOR LONDON.
+page 1	Thailand And French Troops In Clashes.
+page 1	RUMANIAN SPIRITS UNBROKEN.
+page 2	Governor Unwell Over Week-End.
+page 2	Garrison Sergeants Annual Dinner.
+page 2	Shop Floor Gutted By Small Fire.
+page 2	Hoarding Offenders Punished.
+page 2	Fatshan Sailing To Canton.
+page 2	Nazi Ships Arming In Japan.
+page 2	Said To Be For Pacific Ralding.
+page 2	Berlin-Remains-Silent.
+page 2	Contributions To Charity.
+page 2	PROTECTION OF CHILDREN.
+page 2	CHINESE SOLDIERS.
+page 2	FIRING PRACTICE.
+page 2	PROBER.
+page 2	Immigration Warning By Government.
+page 2	CHRISTMAS DINNER.
+page 2	BANKER RETIRES.
+page 2	Mr D.M. Biggar Leaves Colony.
+page 2	Variety Show Artistes.
+page 2	Resident Waylaid Near Home.
+page 2	Menaced With Chopper.
+page 2	British Convoy Attacked.
+page 4	STUDEBAKER CHAMPION.
+page 4	"A Victorious New Year".
+page 5	New Synthetic Fuel Formula Perfected.
+page 5	Sing Tao Win Decisively.
+page 5	BRAZILIAN DEFENDERS.
+page 5	DISCOVERY RAISES CANCER CURE HOPES.
+page 5	Great Success.
+page 5	Further Experiments.
+page 5	Use of Iodine.
+page 5	Strengthens Bones.
+page 5	Future Hopes.
+page 7	Chain Letters Defeat Nazi News Suppression.
+page 7	Oil Stocks Plundered.
+page 7	Outside Convention.
+page 7	Isle Of Dogs Preferred To Mayfair.
+page 7	Wife Would Not-Take His Cheque.
+page 7	"Vexatious".
+page 7	Unreasonable.
+page 7	CANADIANS MAY TRAIN IN U.S. AIRPORTS.
+page 7	Floating Home For Seavacuees.
+page 7	More London Firemen Go For Seaside Rest.
+page 7	Had To draw Lots.
+page 7	TIN FINDS IN EGYPT. 
+page 8	Nazis Have Division In spain.
+page 8	Mediterrancan Window.
+page 8	Broke Barriers To Bathe.
+page 8	CHINESE GIFTS TO THE ROOSEVELTS.
+page 8	Old People's Hospital Hit: Many Killed.
+page 8	Tank Bursts .
+page 8	Guided By Cries.
+page 8	Nazis Want More Foreign Workers.
+page 8	Plot To Oust Mussolini.
+page 8	U.S. Sends 500 Planes Monthly.
+page 8	Japan Short Of Food.
+page 8	Anti-American Feeling.
+page 8	Husband Tests Cigarette Ashes To Build Case.
+page 8	SOLDIER CHARGED.
+page 8	Philippines Freedom Danger.
+page 8	Social Problems.
+page 8	Roxas Appeal.
+page 8	Decree For Lord Mountgarret.
+page 9	BOMBED BY ENEMY OFF IRELAND.
+page 9	EMPRESS OF BRITAIN SINDING DESCRIBED.
+page 9	BRITISH SALE.
+page 9	To Get Dollars.
+page 9	Japanese Minister To Australia.
+page 9	Saionji's Grandson May Be appointed.
+page 10	NO CENSUS NEXT YEAR.
+page 10	GLAD THEY'RE ALIVE.
+page 10	Matsuoka Speech Hotly Criticised.
+page 10	Firing Squad Execution.
+page 11	JAPANESE PLANNING A COUP D'ETAT IN BANGKOK: SENDING PLANES & TANKS.
+page 11	EXCLUSIVE TO THE "TELEGRAPH".
+page 11	Far East Situation Becoming Serious.
+page 11	To Out-Flank Singapore.
+page 11	German Promises.
+page 11	Decoux Reports Calm Reigns In Cochin China.
+page 11	HEAVY FIGHTING IN SNOW.
+page 11	Valona Foreshore Bombed.
+page 11	Mine Accident.
+page 11	Decoux For Saigon.
+page 11	CHANGEABLE SPOT.
+page 11	Another Severe Raid On London.
+page 11	Lasts For Three Hours.
+page 11	Marseilles Without Water.
+page 11	Canal Supply Is Frozen Over.
+page 11	Mysterious Report.
+page 11	Plane Allegedly Downed.
+page 11	Worst Since September.
+page 11	Several Casualties.
+page 11	Air Ministry Report.
+page 11	EMPRESS OF BRITAIN ABLAZE.
+page 11	JAPANESE SEIZE U.S. GOODS.
+page 11	Roosevelt Talk.
+page 11	Millions Will Hear.
+page 11	INDIAN LABOUR.
+page 11	Military Training.
+page 11	Thailand And French Troops In Clashes.
+page 11	RUMANIAN SPIRITS UNBROKEN.
+page 12	Governor Unwell Over Week-End.
+page 12	Garrison Sergeants Annual Dinner.
+page 12	Shop Floor Gutted By Small Fire.
+page 12	Hoarding Offenders Punished.
+page 12	Fatshan Sailing To Canton.
+page 12	Nazi Ships Arming In Japan.
+page 12	Contributions To Charity.
+page 12	PROTECTION OF CHILDREN.
+page 12	CHINESE SOLDIENS.
+page 12	FIRING PRACTICE.
+page 12	PROBER.
+page 12	Saturday's Wedding.
+page 12	Immigration Warning By Government.
+page 12	CHRISTMAS DINNER.
+page 12	MEMBERS OF LITTLE FLOWER CLUB HOLD PARTY.
+page 12	BANKER RETIRES.
+page 12	Variety Show Artistes.
+page 12	Resident Waylaid Near Home.
+page 12	Menaced With Chopper.
+page 12	British Convoy Attacked.
+page 14	"A Victorious New Year".
+page 15	BARDIA WEAKENS AS BRITISH APPLY INCREASED PRESSURE.
+page 15	Italy Accepts Fall Of Town As Inevitable.
+page 15	Italian Planes Downed.
+page 15	Arabs Delighted.
+page 15	Sing Tao Win Decisively.
+page 15	Aircraft Over Eire.
+page 15	Plot Against Ibn Saud.
+page 15	Conspirators Caught.
+page 15	Franco-German Negotiations.
+page 15	Petain Uninformative.
+page 15	Matsuoka Speech Hotly Criticised.
+page 15	American Resentment.
+page 15	Plan To Oust Americans.
+page 15	Threaten Doom.
+page 15	Travel Restrictions.
+page 15	NO CENSUS NEXT YEAR.
+page 15	60% Of U.S. Favours More Aid For Britain.
+page 15	Honeywell Scores 63 For H.M.S Tamar.
+page 19	CHINESE GIFTS TO THE ROOSEVELTS.
+page 20	Another Severe Raid On London.
+page 20	R.A.F. - Nazi Comparison.
+page 20	Far East Situation Becoming Serious.
+page 20	GLAD THEYRE ALIVE.
+page 21	ROOSEVELT WARNS THE U.S. 'FRANKLY, DANGER IS AHEAD'.
+page 21	Pleads for Nation to Gird Itself Against The Future.
+page 21	Greeks Capture More Villages.
+page 21	SPECIAL TO THE "TELEORAPH".
+page 21	Heavy Fighting In Snow.
+page 21	Valona Foreshore Bombed.
+page 21	Mine Accident.
+page 21	R.A.F Again Attack The Invasion Ports.
+page 21	GREATEST DANGER SINCE JAMESTOWN.
+page 21	PACIFIC RAIDERS.
+page 21	No Confirmation Of Reported Nazi Plans.
+page 21	Natural Move.
+page 21	Of Vital Concern.
+page 21	Nazis Deny Raider Flew Nippon Flag.
+page 21	EMPRESS OF BRITAIN ABLAZE.
+page 21	Japanese Planning A Coup D'Etal In Thai Capital.
+page 21	EXCLUSIVE TO THE "TELEGRAPH".
+page 21	Another Severe Raid On London.
+page 21	Lasts For Three Hours.
+page 21	Marseilles Without Water.
+page 21	Worst Since September.
+page 21	Close Connections.
+page 21	Serious Far East Situation.
+page 21	To Out-Flank Singapors.
+page 22	Imitation Rolex Watches.
+page 22	Lane Crawford Prosecute.
+page 22	Spanish Hoarders.
+page 22	"Dictator" Banned.
+page 22	Thailand And French Troops In Clashes.
+page 22	Artillery Duel.
+page 22	Leaflets Dropped.
+page 22	Axis Winding Up For Fresh War of Nerves.
+page 22	Strong Italian Action.
+page 22	On The Alert.
+page 22	King's Comradely Talk With Convoy Skippers.
+page 22	Italy's New Dictator.
+page 22	Control Of All Food.
+page 22	INDIAN LABOUR.
+page 22	Military Training.
+page 22	Ample Aluminium.
+page 22	Decoux Reports Calm Reigns In Cochin China.
+page 24	"A Victorious New Year".
+page 25	BARDIA WEAKENS AS BRITISH APPLY INCREASED PRESSURE.
+page 25	Italy Accepts Fall Of Town As Inevitable.
+page 25	Italian Planes Downed.
+page 25	Arabs Delighted.
+page 25	Increased Artillery Action.
+page 25	Mysterious Report.
+page 25	Plane Allegedly Downed.
+page 25	Sing Tao Win Decisively.
+page 25	Listless Football.
+page 25	JAPANESE SEIZE U.S. GOODS.
+page 25	RUMANIAN SPIRITS UNBROKEN.
+page 25	Aircraft Over Eire.
+page 25	--- Unidentified.
+page 25	Plot Against Ibn Saud.
+page 25	Conspirators Caught.
+page 25	U.S. Workers Give Plane To Great Britain.
+page 25	Matsuoka Speech Hotly Criticised.
+page 25	American Resentment.
+page 25	Plan To Oust Americans.
+page 25	Threaten Doom.
+page 25	Travel Restrictions.
+page 25	NO CENSUS NEXT YEAR.
+page 25	60% Of U.S. Favours More Aid For Britain.
+page 25	Franco-German Negotiations.
+page 25	Petain Uninformative.
+page 25	Bitter Anti-Nazi Feeling.
+page 25	Frontiers Sealed.
+page 28	CHINESE GIFTS TO THE ROOSEVELTS.
+page 29	BOMBED BY ENEMY OFF IRELAND.
+page 29	EMPRESS OF BRITAIN SINKING DESCRIBED.
+page 30	ROOSEVEIT WARNS U.S.
+page 30	Cannot Appease Nazis.
+page 30	Opposes Peace Overtures.
+page 30	Listened To By Millions.
+page 30	PACIFIC RAIDERS.
+page 30	Another Severe Raid On London.
+page 30	Several Casualties.
+page 30	Air Ministry Report.
+page 30	R.A.F --- Nazi Comparison.
+page 30	Japanese Planning A Coup D'Etat.
+page 30	Attempts To Reach Borders.
+page 30	Decoux For Saigon.
+page 30	FRANCO WANTS A NEW BASE.
+page 30	All-clear.

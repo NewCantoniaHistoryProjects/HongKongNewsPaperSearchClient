@@ -1,0 +1,272 @@
+page 1	POLICE LAUNCH ON FIRE.
+page 1	CHINESE JUNK SINKS.
+page 1	"HERO OF THE HOUR."
+page 1	FLEET AT SPITHEAD.
+page 1	ROTTERDAM.
+page 2	SCENE IN A TRAMCAR.
+page 2	AT AMSTERDAM.
+page 2	CARTERS AND DOCKERS.
+page 3	YAUMATI FERY COLLISION.
+page 3	Charge of Mansiaughter.
+page 3	Alleged Negligence.
+page 3	To-Day's Proceedings.
+page 3	FRENCH REQUEST REFUSED.
+page 3	China to Deal with Pirates.
+page 3	A NEW INDUSRY IN HONGKONG.
+page 3	First Steam Trawier.
+page 3	CATTLE MYSTERY ON LANTAO ISLAND.
+page 3	Number Found Dead.
+page 3	THE HOTEL DS COLONIES CO. LD.
+page 3	CHINESE IN THE STRAITS.
+page 4	THE CORONATION.
+page 4	THE SCENE LAST NIGHT.
+page 4	A Prety Setting.
+page 4	"God Save The King."
+page 4	Military Tattoo.
+page 4	Baluchi Dance.
+page 4	The Dragon Procession.
+page 4	CORONATION FUND.
+page 4	Additional List.
+page 4	THE MACAO RAILWAY.
+page 4	DEMAND FOR SHARES.
+page 4	JAPANESE TOURIST.
+page 4	SPYING OUT THE LAND.
+page 5	CONPANY MEETING.
+page 5	THE CATHAY TRUST LIMITED.
+page 5	FREIGHTS.
+page 5	UNCLAIMED TELEGRAMS.
+page 5	RAILWAY TO AMOY.
+page 5	SCHEME AFOOT.
+page 5	LOG BOOK.
+page 5	The Stranding of S.S. Hugo.
+page 5	Collision off Amoy.
+page 5	Loot from the "Asia."
+page 5	A SHORT SERMON.
+page 5	The Little Coat.
+page 6	ECHO OF THE REVOLT.
+page 6	In Canton.
+page 6	ST. ANDREW'S CHURCH, KOWLOON.
+page 6	Opening of New Organ.
+page 6	OUR PHILIPPINE VISITORS.
+page 6	Bathing Party at Stonecutters.
+page 6	A TRADING MATTER.
+page 6	ON THE SHAMEEN.
+page 7	HARBOUR FIREWORKS DISPLAY.
+page 7	The "Stanley's" Leading Part.
+page 7	GOVERNMENT GAZETTE.
+page 7	THE CORONATIN COMMITTEE.
+page 7	ENTERPRISE.
+page 7	STRAITS TRADING CO.
+page 7	SIR HORMUSJEE MODY DECEASED.
+page 7	YAUMATI FERRY.
+page 7	Strong Comment by Commander Beckwith.
+page 8	A "DARING DEATH" SOCIETY.
+page 8	Plainning Asassinations.
+page 8	OIL FIELDS IN THE PHILIPPINES.
+page 8	FREE FIGHT IN A WORK-HOUSE.
+page 8	Police and Soldiers Summoned.
+page 8	THE GUNN DEFALCATIONS.
+page 8	Directors to be Proceeded Against.
+page 8	A SERIOUS RIOT.
+page 8	RECEPTION TO DR. FRYER.
+page 8	HIGHWAY ROBBERY.
+page 8	NATIONAL DEFENCE OF CHINA.
+page 8	Foreign Aggression.
+page 8	POLICE LAUNCH AGAIN ON FIRE.
+page 8	HIS EXCELLENCYS THANKS.
+page 8	INDIAN NEWS.
+page 8	Military Matters.
+page 8	Mill Weavers on Strkie.
+page 8	Educational Questions.
+page 8	Opinions to be I nvited.
+page 8	POPPY CULTIVATION.
+page 8	Britian's Protest.
+page 9	GREEN ISLAND PASS.
+page 9	Passage Unobstructed.
+page 9	SMUGGLED CONTRABAND.
+page 9	The Smuglers Methods.
+page 9	SERIOUS AUTOMOBILE ACCIDENT.
+page 9	Car Dashes into a Tree.
+page 9	ESCAPED FROM CUSTODY.
+page 9	A Point of Law.
+page 9	Is Escape a Crime?
+page 9	Mr. Bowley's Statement.
+page 9	The Judge's Findings.
+page 9	The Definition.
+page 9	Defendant Dismissed.
+page 9	The Monmouth.
+page 9	THE CORONATION FESTIVITIES.
+page 9	Committee's Thanks.
+page 9	REVISING THE ORDINADNCES.
+page 9	RAID ON A KOBE FOREIGN FIRM.
+page 9	A NEW FEAURE.
+page 9	HARBOUR COLLISION.
+page 9	PERUVIAN RUBRER.
+page 9	LOOK-OUT TOWERS.
+page 9	To be Erected at Canton.
+page 9	LOOKING AHEAD.
+page 9	At Canton.
+page 9	LIST OF PASSENGERS.
+page 9	To Hongkong.
+page 10	THE RUN ON THE BANKS.
+page 10	Viceroy's Action Criticized.
+page 10	ARCANA IMPERIL.
+page 10	CHINA'S RAILWAYS.
+page 10	SOME INSURANCE INNOVATIONS.
+page 10	THE GLORIOUS FIVE HUNDRED.
+page 10	CHINESE TECHNICAL EDUCATION.
+page 10	CURENCY REFORM.
+page 11	"All Well".
+page 11	Manlia Postal Official Arrested.
+page 11	Enquirles about J.H.Forster.
+page 11	To Entertain Togo.
+page 11	Fatal Coillsion Near Canton.
+page 11	The Illuminations.
+page 11	The Ayer Panas Case.
+page 11	Easy Time for Police.
+page 11	Donations to Hospitals.
+page 11	The Nederlandsch Handelssbank.
+page 11	Macao Harbour Improvement.
+page 11	A Penans Wedding.
+page 11	Mission Votes.
+page 11	Short Life of a Newspaper.
+page 11	QIron Bux and Kid Marriott.
+page 11	Warning to Coxswalns.
+page 11	Chinese Engineering & Mining.
+page 11	Rubber.
+page 11	Japanese in Johore.
+page 11	Police Promotions.
+page 11	Clnematograph Films.
+page 11	The Decorations.
+page 11	Shanghai Dock and Engineering.
+page 11	Imperial Chinese Customs.
+page 11	Death fo Police Interpreter.
+page 11	Sale of Quarry Land.]
+page 11	Canton Shipping.
+page 11	Coronation Review.
+page 11	Hippodrome Circus.
+page 11	For a Comrade's Sake.
+page 11	Insistent Lenders.
+page 11	Killed by Wild Animals?
+page 11	Chinaman's Suicide.
+page 11	Presentation to Mr. Tisdall.
+page 12	THE KING'S TREAT TO CHILDREN.
+page 12	AT CRYSTAL PALACE.
+page 12	GOLF CHAMPIONSHIP.
+page 12	VARDON WINS.
+page 12	THE SEAMEN'S STRIKE.
+page 12	MORE RIOTING AT HULL.
+page 12	THE RING.
+page 12	LANGFORD V. FITZGERALD.
+page 12	COUNTY  CRICKET.
+page 12	THE PROUDOCK CASE.
+page 12	DEATH SENTENCE COMMUTED.
+page 12	COMBINES IN AMERICA.
+page 12	WIRE TRUST INDICTED.
+page 12	AN AVIATOR'S GIFT
+page 12	TO THE ARMY AND NAVY.
+page 12	CORONATION MESSAGES.
+page 12	FROM THE COLONIES.
+page 12	GIFT OF A UNIVERSITY.
+page 12	TO READING.
+page 12	AVIATOR KILLED.
+page 12	THE COLONIAL OFFICE.
+page 12	AND THE COLONIES.
+page 12	KING AT THE CRYSTAL PALACE.
+page 12	CHILDREN'S TREAT.
+page 12	OPEN GOLF CHAMPION.
+page 12	GERMAN SHIPPING.
+page 12	A NEW ENTERPRISE.
+page 12	"SHAKESPEARE" BALL.
+page 12	HUGE PROFITS.
+page 12	THE SHIPPING STRIKE.
+page 12	POLICE MOBBED AT HULL.
+page 12	LONDON POLICE FOR HULL.
+page 12	NATIONALIST PARTY.
+page 12	EAND THE CORONATION.
+page 12	SLAUGHTER IN ARABIA.
+page 12	2000 TURKS KILLED.
+page 12	PELAGIC SEALING.
+page 12	URKS AND ALBANIANS.
+page 12	CHINA'S BATTLESHIPS.
+page 12	BUILT IN GERMANY.
+page 12	MILITARY POSTS.
+page 12	RAILWAY AFFAIRS.
+page 12	REFUND OF CAPITAL.
+page 13	OUR CONTEMPORARIES.
+page 13	What they Think.
+page 13	The Unrest In Kwantung.
+page 13	Liberals and the Bench.
+page 13	Has Gambling Ceased.
+page 14	NAVIES OF THE WORLD.
+page 14	INTERNATIONAL POLO PLAY.
+page 14	PHOTOGRAPHIC NOTES.
+page 14	Exhibitions.
+page 14	Development.
+page 14	The Action of Light.
+page 14	BORNEO COMMERCE.
+page 14	SHOCK TO "OLD LADY".
+page 14	A SHORT SERMON.
+page 15	THE NAVAL PRIZE BILL.
+page 15	Proudlock Case.
+page 15	Liquors Ordinance.
+page 15	For Bathing Parties.
+page 15	Leave of Absence.
+page 15	Senond Assistant D.P.W.
+page 15	Health of the Port.
+page 15	A Curious Cases.
+page 15	Typhoon Warning.
+page 15	THE "STANLEY" DAMAGED.
+page 15	Run Into by Launch "Tow".
+page 15	DECMPOSED BODY FOUND.
+page 15	CANTON RECRUITS.
+page 15	Protective Force.
+page 15	KWONGTUNG FISHING.
+page 15	A Grievance.
+page 15	THE CORONATION CELEBRATIONS IN SINGAPORE.
+page 15	HOW TO HANG PUNKAHS.
+page 15	STORY OF A TIGER.
+page 15	Hunting Expedition at Lantao.
+page 15	Member Interviewed.
+page 15	ALLEGED ATTEMPTED MURDER.
+page 15	YAUMATI FERRY COLLISION.
+page 15	A DISGRACE.
+page 15	THE LUKONG.
+page 16	TO FLY THE CHANNEL.
+page 16	AVIATORS AT CALAIS.
+page 16	ORONASTION MEDALS.
+page 16	FOR VISITING TROOPS.
+page 16	COUNTY CRICKEY.
+page 16	REVENUE RETURNS.
+page 16	BIG DEOREASE.
+page 16	HAVY DAMAGES.
+page 16	AGAINST MR. BOTTOMLEY.
+page 16	BOMB OUTRAE AT MADRID.
+page 16	SIXTY PERSONS INJURED.
+page 16	PANIC IN CANTON.
+page 16	A False Alarm.
+page 16	TOWARDS NEWS ENTENTE.
+page 16	SUNDAY SERVICES.
+page 16	CHINESE PROPERTY.
+page 16	A STRANGE SUPERSTITION.
+page 16	CHINA'S NAVY.
+page 16	Canton Naval College.
+page 16	ALIENS AND THE MERCANTILE MARINE.
+page 18	WHY LONDON IS THE CENTRE.
+page 18	Discoveries in the World of Chance.
+page 18	A Race that Risks Little.
+page 18	LADIES' COLUMN.
+page 18	A Few Taffentas Dresses.
+page 18	Tortoiscshell Buttons.
+page 18	HEIGHT OF ARMY OFFICERS.
+page 19	UNIVERSAL PEACE.
+page 19	The First Universal Races Congress.
+page 19	THE ARSON'S DUTY WAS DONE IN VAIN.
+page 19	LITTLE BIAL'S SUNDAY SUIT.
+page 20	LOG BOOK.
+page 20	The Stranding of the S.S. Hugo.
+page 20	Merchant Service Cadets.
+page 20	New Steamer For B.I Trade.
+page 20	ASIATICS IN THE TRANSVAAL.
+page 20	Statement by General Botha.
+page 20	n

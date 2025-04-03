@@ -1,0 +1,147 @@
+page 1	ABYSSINIANS ROUTED BY ITALIAN TROOPS: 4,000 DEAD ON FIELD.
+page 1	"IT WAS A FAMOUS VICTORY."
+page 1	CAVALRY MOWED DOWN BY ITALIAN TANKS.
+page 1	FLEEING FORCES PURSUED BY ARMOURED CARS.
+page 1	GENERAL CHAN ARRIVES.
+page 1	Calls On Governor.
+page 1	340,000 TO BE SPENT ON TURKISH NAVY.
+page 1	ANGLO-FRENCHPLAN.
+page 1	MUTUAL ASSISTANCE PACT EXPLAINED.
+page 1	BRITISH REPLY TO GERMANY.
+page 1	SENATE ARMS ENQUIRY.
+page 1	"Infamous Libel" Deprecated.
+page 1	EPITHETS FLYING ABOUT.
+page 1	ELLSWORTH RESCUED.
+page 1	TAKEN ON BOARD "DISCOVERY II."
+page 1	SUFFERING FROM SLIGHT COLD.
+page 1	LONDON NAVAL TALKS.
+page 1	COMPOSITE PLAN OF INFORMATION.
+page 1	NOW BEING CONSIDERED BY SPECIAL COMMITTEE.
+page 1	COMMITTEE APPOINTED.
+page 1	SOVIETS IN S. ATERICA.
+page 1	STONG PROEST TO LEAGUE.
+page 1	TREASURY RESIGNATIONS IN AMERICA.
+page 1	POLITICS IN FRANCE.
+page 1	Radical-Socialist Attitude.
+page 1	GOVERNMENT CRISIS NOT DESIRED JUST NOW.
+page 1	IRISH SENATE HAS LAST MEETING.
+page 1	Debate On Bill For Abolition.
+page 1	THREE-FOLD ITALIAN PROTEST TO LEAGUE.
+page 1	ALLEGED DECAPITATION OF PRISONERS.
+page 1	MR. KIPLING'S DEATH.
+page 1	EXHAUSTED BY LONG FIGHT.
+page 1	WIFE AND DAUGHTER AT BEDSIDE.
+page 1	LANDSLIDE IN VILLAGE.
+page 1	Two People Injured In France.
+page 1	DISQUIETING NEWS OF HIS MAJESTY.
+page 1	Confined To Bed At Sandringham.
+page 1	TRYING PERIOD.
+page 1	MAHATMA GANDHI ARRIVES IN BOMBAY.
+page 1	WEATHER REPORT.
+page 1	OMINOUS SPEECH BY GOEBBELS.
+page 1	Precarious Situation In Germany.
+page 1	ITALIAN DEMANDS ARE APPRECIATED.
+page 1	STAVISKY CASE ENDED.
+page 1	Tense Scenes In Court.
+page 3	DESCENDANT OF LORD NELSON.
+page 3	Death Of American Admiral.
+page 3	CANADLAN AIRFIELD TO BE IMPROVED.
+page 6	EXPLANATION OF YESTERDAY'S CARTOON.
+page 6	THE BLIND SEER.
+page 6	On Both Sides Of The Fence.
+page 6	THE PRIVATE LIFE OF HOLLYWOOD.
+page 6	EXAGGERATED REPORTS OF PARTIES.
+page 6	MOST STARS RUN LEGITIMATE BUSINESS AS EXTRAS.
+page 6	Mostly Exaggerations.
+page 6	A Schoolnictess.
+page 6	Petrol Fithng Satious.
+page 7	NIGHT LANDING THRILLS FOR R.A.F FLIERS.
+page 7	"T" GROUND LIGHTS AS GUIDE.
+page 7	FIGHTERS IN PRACTICE AT BIGGIN HILL.
+page 7	FASCINATING SPECTACLES SEEN.
+page 7	THIRD "FLOATING ATRPORT."
+page 7	Being Constructed For German Line.
+page 7	AIRWAYS OF EMPIRE.
+page 7	EXHIBITION AT KENSINGTON.
+page 7	Past, Present And Future.
+page 7	WORKING MODELS OPEN TO VIEW.
+page 7	AUSTRIA BUYS BRITISH PLANES.
+page 7	Machines For Internal Communications.
+page 7	Interesting Models.
+page 7	WOMAN FLIER'S RECORD.
+page 7	Miss Gower A First Class Navigator.
+page 7	ONLY WOMAN TO HOLD CERTIFCICATE.
+page 7	"Air Trips Ltd."
+page 7	PILOT'S ESCAPE BY PARACHUTE.
+page 7	Machine Totally Wrecked.
+page 7	MEXICAN AIRLINES' PETITION.
+page 7	FIGHT FOR LIFE IN MID-AIR.
+page 7	Maniac's Attack On Prison Guard.
+page 7	DRAMA OF THE CLOUDS IN CANADA.
+page 7	Life And Death Struggle.
+page 7	Earlier Case.
+page 7	Air Map For Br. Isles.
+page 7	ATLANTIC AIR SERVICE.
+page 7	Four Return Trips A Week.
+page 7	REGULAR SCHEDULE IN 1937.
+page 9	LOCAL NEWS BREVITIES.
+page 9	"TOP HAI" AT THE ALHAMBRA.
+page 9	Hong Kong Residents Can Book At Gloucester.
+page 9	UNPARALLELED FEAT BY DRAKE.
+page 9	"Stop Bomus System."
+page 9	The Way Is Hard.
+page 9	ROMANGE OF STEAM.
+page 9	Bicentenary Of James Watt.
+page 9	SPECIAL BROADCAST BY B.B.C. ARRANGED.
+page 9	Mechanical Side.
+page 9	Early Days.
+page 9	Dramatic Moment.
+page 9	EX-KAISER GIVES LECTURE.
+page 9	'Working Community' Entertained.
+page 9	AUSTRALIA DAY.
+page 9	Special Broadcast By Mr. S.M. Bruce.
+page 9	VESTMENT FOR "QUEEN MARY."
+page 9	Work Of Disabled Ex-Servicemen.
+page 9	FITTINGS FOR ROMAN CATHOLIC CHAPEL.
+page 9	Valuable Work
+page 10	The First Point To Point.
+page 10	CHRISTLAN SCIENCE LESSON SERMON.
+page 10	ADDRESS ON "LIFE."
+page 10	FIRST CHURCH OF CHRIST, SCIENTIST, HONG KONG.
+page 10	God's Image.
+page 11	THE PRIVATE LIFE OF HOLLYWOOD.
+page 11	Particular Reason.
+page 11	Unusual Paries.
+page 11	"Stepping Out."
+page 11	Hollywood Has Learaed.
+page 11	H.K. VOLUNTEER DEFENCE CORPS.
+page 11	ORDERS FOR THE COMING WEEK.
+page 11	The First Point To Point.
+page 12	HOFFMAN STANDS FIRM.
+page 12	MAIN EVIDENCE QUESTIONED.
+page 12	"JERSEY JUSTICE" IN HAUPTMANN CASE.
+page 12	LOCAL DOLLAR STEADY.
+page 12	"Spot" Silver Falls.
+page 12	TOTAL ECLIPSE OF SUN.
+page 12	To Be Studied In New Zealand.
+page 12	DISQUIETING NEWS OF HIS MAJESTY.
+page 12	PEACEFUL NIGHT.
+page 12	PRINCE HENRY IN BED.
+page 12	ELISWORTH RESCUED.
+page 12	THREE-FOLD ITALIAN PROTEST TO LEAGUE.
+page 12	BOMBING CHARGE REJECTED.
+page 12	ITALY AT LEAGUE MEETING.
+page 12	"GIVE YOUR GOLD."
+page 12	"GIFT" OF DIAMOND RING.
+page 12	Apparent Generosity In Question.
+page 12	Gift Denied.
+page 12	ATLANTIQUE CASE.
+page 12	Previous Findings Confirmed.
+page 12	"FACE OF MOTHER INDIA."
+page 12	Miss Mayo's New Book Banned.
+page 12	MANCHESTER'S HONOUR.
+page 12	Naval Ship.
+page 12	OBSCENE WRITING ALLEGED.
+page 12	Sex Book Appeal Dismissed.
+page 12	"IT WAS FAMOUS VICTORY."
+page 12	CHINESE JUDGE RESIGNS FROM HAGUE COURT.

@@ -1,0 +1,91 @@
+page 1	"GENERAL" BOOTH.
+page 1	PROVISIONS OF HIS WILL.
+page 1	THE FUNERAL.
+page 1	THE FINAL RITES.
+page 1	CHINESE ROBBERS.
+page 1	RAIDS ON CUSTOMS HOUSES.
+page 1	LONDON TRAIN SMASH.
+page 1	ONE KILLED MANY INJURED.
+page 1	SPLENDID RESCUE WORK.
+page 1	THE IMPERIAL NAVY.
+page 1	A LESSON FROM HISTORY.
+page 1	THE CANADIAN MINISTERS.
+page 1	A FAREWELL STATEMENT.
+page 1	AVIATION MISHAP.
+page 1	FRENCHMAN BURNT TO DEATH.
+page 1	HOME CRICKET.
+page 1	YORKSHIRE THE CHAMPIONS.
+page 1	NEW C.P.R. STEAMER.
+page 1	LAUNCHED AT GLASGOW.
+page 1	THE BALKAN UNREST.
+page 1	TURKEY AND THE POWERS.
+page 1	THE KAISER.
+page 1	BANK DISCOUNT.
+page 1	THE CHINESE REPUBLIC.
+page 1	PRECAUTIONS IN CAPITAL.
+page 1	DR SUN ENTERTAINED.
+page 1	POST REFUSED.
+page 1	STUDENTS' DEMANDS.
+page 1	LOAN WITHOUT SECURITY.
+page 1	THE CHINESE WAY.
+page 1	THE FIGHTING GOVERNOR.
+page 1	THE HOME FLOODS.
+page 1	RENEWAL OF RAINS.
+page 1	RELIEVINGDISTRESS.
+page 1	WATER RUNNING SHORT.
+page 1	RELIEF FUNDS.
+page 1	TRAIN DERAILED.
+page 1	PRINCE HENPY ABOARD.
+page 1	PACIFIC FREIGHT RATES.
+page 1	TIBET'S FUTURE.
+page 1	SIR.J.JORDAN'S SUGGESTION.
+page 1	NICARAGUA.
+page 1	SITUATION BECOMES SERIOUS.
+page 1	INTERESTING OBJECTS.
+page 1	TELEGRAMS.
+page 1	THE NEWS CONDENSED.
+page 3	GENERAL NEWS.
+page 3	Mutinous Troops in Tungchow.
+page 3	A Japanese Dock Strike.
+page 3	Soclallst Kills Prtest.
+page 3	Tram Conductor Sent to Gaol.
+page 3	Camphor Planting in Formosa.
+page 3	Bystander Shot at Duel.
+page 3	More Disbanding.
+page 3	The Repubilc's Soldiers.
+page 3	The Shanghai French Conces-sion Murder.
+page 3	BASELESS CHARGES.
+page 3	Senator's Smiths Attack on "Tltanlc" Officers.
+page 3	AN ATHLETIC FAMILY.
+page 3	COAL-DUST EXPLOSIONS.
+page 4	SLAVERY IN HONGKONG.
+page 4	MANY THEFTS.
+page 4	A YOUTHFUL DEFENDANT.
+page 4	A FAVOURABLE VIEW.
+page 4	BOY DISCHARGED.
+page 4	ROBBERY RUMOUR.
+page 4	SOLICITORS' COSTS.
+page 5	SPECIAL CABLES.
+page 5	REBFLLOUS MONGOLS.
+page 5	DESPATCH OF TROOPS.
+page 5	THE S.S. MANBAN.
+page 5	Phillphtne Steamer on the Rocks.
+page 5	OPIUM ON S.S. KOREA.
+page 5	SUM CHUN RUMOUR.
+page 5	TENNIS.
+page 5	Accident to a Planter.
+page 5	BURGLAR SENTENCED.
+page 5	NORTH BORNEO PETRO-LEUM.
+page 5	An Agreement with the Dutch.
+page 5	KIDNAPPING CHARGE.
+page 5	PHILIPPINE TOBACCO.
+page 5	An Enouraging Outlook.
+page 5	TYPHOON WARNING.
+page 5	OPIUM-GROWING IN CHINA.
+page 10	LATE TELEGRAMS.
+page 10	Slgnature Affixed.
+page 10	Roosevelt and Penrose.
+page 10	Total Expense of Phillppines.
+page 10	BUBONIC IN THE PHILIP-PINES.
+page 10	STRICTURES ON NELSON.
+page 10	HONGKONG, AND MANI-LA TIMBER.

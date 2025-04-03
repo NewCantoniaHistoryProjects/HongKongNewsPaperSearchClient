@@ -1,0 +1,350 @@
+page 1	COMPLETE JAPANESE EVACUATION: BORDER AREA NOW DESERTED.
+page 1	"Telegraph" Reporter Visits Shum Chun, Finds All Quiet.
+page 1	English For Foreign Students.
+page 1	BRUCE AS ENVOY TO WASHINGTON.
+page 1	JAPANESE VERSION OF INCIDENT.
+page 1	Communique Brings Denial.
+page 1	RECRUITING FILLIP.
+page 1	8-Year-Old Chinese Artist Wins Acclaim.
+page 1	French Mobile Guards Disperse Demonstrators.
+page 1	LEGAL PROCEEDINGS ORDEERED.
+page 1	REQUISITIONING NOT ILLEGAL.
+page 1	PARIS CTTY COUNCIL APPROVES POLIOY.
+page 1	Changte Raid Terror: Many People Die.
+page 1	Premier's Visit To Italy.
+page 1	MANY SUBJECTS ON AGENDA.
+page 1	"Good Earth" Best-Seller In Hongkew.
+page 1	28 Die In Clash South Of Haifa.
+page 1	CHINESE TO RE-OCCUPY SHUM CHUN.
+page 2	RAID BY ARMED MEN
+page 2	Story Of Robbery From Firm's Safe.
+page 2	Padded Hips for Women Now.
+page 2	GLACIER SYATEM.
+page 2	World's Biggest is Claimed New Discovery.
+page 2	TOOK SHORT CUT IN FOG-TO DEATH.
+page 2	Just Let Your Wife Manage You.
+page 2	Lemon Grove Disitinguished.
+page 3	GAS MASKS ROTTING FOR LACK OF CONTAINERS.
+page 3	Pleas To Home Office Ignored.
+page 3	EMPIRE NEWS.
+page 3	AIR CRASH INQUIRY IN AUSTRALIA.
+page 3	RECORD INFLUX OF TOURISTS.
+page 3	Snow White Claims 40,000 Pound.
+page 4	Annual Effort on Behalf Of Colony's Poor.
+page 4	KANGAROOS FOR H.K..
+page 4	FOR THE PROTECTION OF CHILDREN.
+page 4	What to do to help a childd.
+page 4	FRENCH MOBILE GUARDS DISPERSE DEMONSTRATORS.
+page 4	Alleged Collector On Behalf of Policeman.
+page 4	Bulk of Million Left To People's Party.
+page 4	Archaeological Grant Made.
+page 5	JARDINE'S WIN ACTION AGAINST TENANT.
+page 5	Position Explained.
+page 5	Rice Broker Charged In Committal Case.
+page 5	One Unaware He Was In British Territory.
+page 5	Social Items.
+page 5	Games Afternoon And.Sale of Work.
+page 7	PIONEER NATURALISTS.
+page 7	Botanical And Zoological Aspects Of Old Hongkong.
+page 7	Bungalow As Temporary Maternity Hospital.
+page 7	Donation of $20,000 From Governor of Kwangtung.
+page 7	Women's Club Plans Party For Officers.
+page 7	Local Tribute To Queen Maud Of Norway.
+page 8	AMERICAN GIRLS TO DEMONSTRATE SOFTBALL HERE.
+page 8	TAIKOO CLUB JOINS LADIES' DOUBLES BADMINTON LEAGUE.
+page 8	To Start Programme When Present Schedule Ends.
+page 8	RIFLE SHOOTING RESUMED.
+page 8	LADDIES' LEAGUE RESULTS.
+page 8	RECREIO "A" AND EUROPEAN Y.M.C.A. WIN THEIR TIES.
+page 8	ST. ANDREW'S EUROPEAN Y.M.C.A..
+page 8	SPORTS RELATIONSHIP BETWEEN DUTCH, GERMAN BODIES NOW STRAINED.
+page 8	Springboks' 3-4-1 Serum Formation.
+page 8	Praised By British Rugby Captain.
+page 8	Southport Succeeds In F.A. Replay.
+page 8	Rev. Sargent To Be Feted By K.C.C..
+page 8	Presentation By Club-Mates.
+page 8	EUROPEANS OVERWHELM FILIPNOS.
+page 8	Exhibition Tennis Tour Concludes.
+page 8	10,000 Man Helps To Down His Old Team.
+page 8	George Geary As A Coach.
+page 8	Giving Two Exhibitions.
+page 8	Local Men To Provide Opposition.
+page 9	Trophics For Owners And Jockeys.
+page 9	Middleweight Champion Loses To Billy Conn.
+page 9	Tennis Aces To Visit Hongkong.
+page 9	"Bitsy Grant of Philippines" Upsets Yugo-Slavla Star.
+page 9	COMEBACK VICTORY.
+page 9	St. George's Lawn Bowls Rinks Chosen.
+page 9	Private Fight At Secret Venue.
+page 9	Boon and Danahar Sign Unusual Contract.
+page 9	Cricket Teams For Week-End.
+page 9	Third Of Series For Ah King Cup.
+page 9	THE HONG KONG JOCKEY CLUB.
+page 11	Shanghai News Illustrated.
+page 12	Members Leaving Aboard The Duners.
+page 12	Rejection of plan To Advance Independence.
+page 12	PHILOPPINES STATUS.
+page 12	Asks Godown Owners For Extension of Time.
+page 12	FOR STORED CARGOES.
+page 12	Improvement Started By Japanese.
+page 12	Story Told of Adventure In Hongkong in 1916.
+page 12	STOCK MARKET REPORT.
+page 12	To Give Final Concert In the Colony.
+page 13	COMPLETE JAPANESE EVACUATION: CHINESE TO RE-OCCUPY AREAS.
+page 13	Desire To Maintain Harmonious Relations Prompts Withdrawal.
+page 13	"Good Earth" Best-Seller In Hongkew.
+page 13	RECRUITING FILLIP.
+page 13	JAPANESE VERSION OF INCIDENT.
+page 13	Communique Brings Denial.
+page 13	Anglo-French Trade Pact Not Discussed.
+page 13	8-Year-Old Chinese Artist Wins Acclaim In London.
+page 13	Spain Intervention Committee Has Crisis.
+page 13	INSURGENTS PROTSST AT NEGOTIATIONS.
+page 13	English For Foreign Students.
+page 13	BRITISH PHOTEST.
+page 13	Changte Raid Terror: Many People Die.
+page 13	Premier's Visit To Italy.
+page 13	MANY SUBJECTS ON AGENDA.
+page 13	28 Die In Clash South Of Haifa.
+page 13	CHINESE ENTER SHUM CHUN.
+page 13	Customs Officials Now En Route.
+page 14	RAID BY ARMED MEN
+page 14	Story Of Robbery From Firm's Safe.
+page 14	Padded Hips for Women Now.
+page 14	GLACIER SYATEM.
+page 14	World's Biggest is Claimed New Discovery.
+page 14	TOOK SHORT CUT IN FOG-TO DEATH.
+page 14	Just Let Your Wife Manage You.
+page 14	Lemon Grove Disitinguished.
+page 15	GAS MASKS ROTTING FOR LACK OF CONTAINERS.
+page 15	Pleas To Home Office Ignored.
+page 15	EMPIRE NEWS.
+page 15	AIR CRASH INQUIRY IN AUSTRALIA.
+page 15	RECORD INFLUX OF TOURISTS.
+page 15	Snow White Claims 40,000 Pound.
+page 16	Annual Effort on Behalf Of Colony's Poor.
+page 16	KANGAROOS FOR H.K..
+page 16	FOR THE PROTECTION OF CHILDREN.
+page 16	What to do to help a childd.
+page 16	FRENCH MOBILE GUARDS DISPERSE DEMONSTRATORS.
+page 16	Alleged Collector On Behalf of Policeman.
+page 16	Bulk of Million Left To People's Party.
+page 16	Archaeological Grant Made.
+page 17	French Mobile Guards Disperse Demonstrators.
+page 17	LEGAL PROCEEDIGS ORDERED.
+page 17	REQUISITIONING NOT ILLEGAL.
+page 17	PARIS CITY COUNCIL APPROVES POLICY.
+page 17	FIRMNESS OF FRANC.
+page 17	FRANCE CONFIDENT.
+page 17	BRUCE AS ENVOY TO WASHINGTON.
+page 19	PIONEER NATURALISTS.
+page 19	Botanical And Zoological Aspects Of Old Hongkong.
+page 19	Bungalow As Temporary Maternity Hospital.
+page 19	Donation of $20,000 From Governor of Kwangtung.
+page 19	Women's Club Plans Party For Officers.
+page 19	Local Tribute To Queen Maud Of Norway.
+page 20	AMERICAN GIRLS TO DEMONSTRATE SOFTBALL HERE.
+page 20	TAIKOO CLUB JOINS LADIES' DOUBLES BADMINTON LEAGUE.
+page 20	To Start Programme When Present Schedule Ends.
+page 20	RIFLE SHOOTING RESUMED.
+page 20	LADDIES' LEAGUE RESULTS.
+page 20	RECREIO "A" AND EUROPEAN Y.M.C.A. WIN THEIR TIES.
+page 20	ST. ANDREW'S EUROPEAN Y.M.C.A..
+page 20	SPORTS RELATIONSHIP BETWEEN DUTCH, GERMAN BODIES NOW STRAINED.
+page 20	Springboks' 3-4-1 Serum Formation.
+page 20	Praised By British Rugby Captain.
+page 20	Southport Succeeds In F.A. Replay.
+page 20	Rev. Sargent To Be Feted By K.C.C..
+page 20	Presentation By Club-Mates.
+page 20	EUROPEANS OVERWHELM FILIPNOS.
+page 20	Exhibition Tennis Tour Concludes.
+page 20	10,000 Puand Man Helps To Down His Old Team.
+page 20	George Geary As A Coach.
+page 20	Giving Two Exhibitions.
+page 20	Local Men To Provide Opposition.
+page 21	Trophics For Owners And Jockeys.
+page 21	Middleweight Champion Loses To Billy Conn.
+page 21	Tennis Aces To Visit Hongkong.
+page 21	"Bitsy Grant of Philippines" Upsets Yugo-Slavla Star.
+page 21	COMEBACK VICTORY.
+page 21	St. George's Lawn Bowls Rinks Chosen.
+page 21	Private Fight At Secret Venue.
+page 21	Boon and Danahar Sign Unusual Contract.
+page 21	Cricket Teams For Week-End.
+page 21	Third Of Series For Ah King Cup.
+page 21	THE HONG KONG JOCKEY CLUB.
+page 23	Shanghai News Illustrated.
+page 24	Members Leaving Aboard The Dunera.
+page 24	Rejection of Plan To Advance Independence.
+page 24	Asks Godown Owners For Extension of Time.
+page 24	FOR STORED CARGOES.
+page 24	CONDOR OVER H.K. AT 1 P.M..
+page 24	Record Flight From Berlin.
+page 24	Story Told of Adventure In Hongkong in 1916.
+page 24	To Give Final Concert In the Colony.
+page 25	REMARKABLE FLIGHT: GERMAN MONOPLANE FLIES OVER COLONY.
+page 25	Expects To Complete Flight To Tokyo In Less Than 2 Days.
+page 25	Consul General For Japan Leaving H.K..
+page 25	Honour For Far East Professor.
+page 25	F.J.R. Bottrall Given New Appointment.
+page 25	New York Spy Trial Decision Expected.
+page 25	Soviet Crew Rescued 180 Miles At Sea.
+page 25	BIG JEWEL ROBBERY IN CITY.
+page 25	Sennet Freres lose $3,800 In Rigs.
+page 25	WARSHIPS MAY NOW NAVIGATE YANGTSE.
+page 25	Important Japanese Decision.
+page 25	ITALIAN REGIMENT IN HONGKONG.
+page 25	Jack Doyle Deported From U.S..
+page 25	BIG SKY LINER CRASHES.
+page 25	Passengers Drowned In Off-Shore Tragedy.
+page 25	Polish-Soviet Pact: Japan Assured.
+page 25	Konoye To Announce New Japan Policy.
+page 25	Japanese Troops Quit Entire Frontier, --Page Two.
+page 25	Mass Terror As Refugees Flee to H.K..
+page 25	CUSTONS OFFICIALS NOW BE ROUTE.
+page 25	DECREE NISI MADE ABSOLUTE.
+page 25	Another "Incident" On Border.
+page 25	Garrison Report Unconfirmed.
+page 25	SPY TRIAL RESULT.
+page 26	COMPLETE EVACUATION FROM COLONY BORDER BY JAPANESE.
+page 26	Desire To Maintain Harmonious Relations Prompts Evacuation.
+page 26	REPORTER VISITS SHUM CHUN.
+page 26	EVACUATION CONFIRMED.
+page 26	BRITISH VIGILANCE.
+page 26	Premier's Visit To Italy.
+page 26	MANY SUBJECTS ON AGENDA.
+page 26	REALISTIC ATTITUDE.
+page 26	JAPANESE VERSION OF INCIDENT.
+page 26	Communique Brings Denial.
+page 27	FIVE NATIONS TO CONSIDER JEWISH REFUGEE PROBLEMS.
+page 27	POSSIBILITY OF IMMIGRATION TO 31 COUNTRIES.
+page 27	ANOTHER ANTI-JEW DECREE.
+page 27	NAZIS ARRESTED FOR LOOTING.
+page 27	ROOSEVELT ONSIDERING THE PROBLEM.
+page 27	HONGKONG WEATHER REPORT.
+page 27	Stock Market Recovers In London.
+page 27	TOKYO MARKET IN CAUTIOIUS MOOD.
+page 27	PENAL REFORM MEASURE.
+page 27	New Way Of Dealing With Young Offenders.
+page 27	AMBASSADOR ON NEED FOR ANGLO-AMERICAN TRADE COLLABORATION.
+page 27	Grynszpan's Relatives Imprisoned.
+page 27	"PUPPET" OFFICIAL MURDERED.
+page 27	Another Shanghai Outrage.
+page 27	Britain To Borrow Again To Re-Arm.
+page 27	RECCRUITING FILLIP.
+page 28	Asks Godown Owners For Extension of Time.
+page 28	FOR STORED CARGOES.
+page 28	TOOK SHORT CUT IN FOG-TO DEATH.
+page 28	FOR THE PROTECTION OF CHILDREN.
+page 28	Rice Broker Charged In Committal Case.
+page 28	Just Let Your Wife Manage You.
+page 28	TWENTY-TWO DIE IN PIT DISASTER.
+page 28	Mine On 	Fire: Men Burnt To Death.
+page 28	Anglo-French Chief Of Staff Conversations.
+page 28	Bulk of Million Left To People's Party.
+page 28	Arrivals and Departures of Plane.
+page 28	PERRY'S WIFE CHEATED.
+page 28	Man Held On Fraud Charge.
+page 28	Request For Expulsion Of German Denied.
+page 28	KANGAROOS FOR H.K..
+page 28	British Accept New North China Bank Notes.
+page 28	Chinese Mission To U.S. Fails, Says Report.
+page 28	Social Items.
+page 29	JAPANESE DEPLORE EFFECTS OF WAR ON THIRD PARTIES.
+page 29	Joint Statement Issued By The Army And Navy.
+page 29	FEAR SITUATION MUST CONTINUE.
+page 29	POPE MAKING A FULL RECOVERY.
+page 29	Troopship Leaves With Many Details.
+page 29	Dunera's Homeward Trip To England.
+page 29	FOR UNITED KINGDOM.
+page 29	NEW BISHOP OF WEST SECHWAN.
+page 29	BRUCE AS ENVOY TO WASHINGTON.
+page 31	Chinese Communists Appeal To Japanese For United Front.
+page 31	ACTION DEMANDED AGAINST MILITARY LEADERS.
+page 31	REFUGEE BABIES,
+page 31	Bungalow As Temporary Maternity Hospital.
+page 31	EDEN'S 3-POINT POLICY.
+page 31	Outlines Programme To Bring Peace.
+page 31	Annual Effort on Behalf Of Clony's Poor.
+page 31	ST. ANDREW'S DAY CEREMONY AT CENOTAPH.
+page 31	More Refugees Pass Through Hongkong.
+page 31	FURIOUS PRESS ATTACKS.
+page 31	"Perfidious Lies" Of "News-Chronicle".
+page 31	GLACIER SYSTEM.
+page 31	World's Biggest is Claimed New Discovery.
+page 32	AMERICAN GIRLS TO DEMONSTRATE SOFTBALL HERE.
+page 32	TAIKOO CLUB JOINS LADIES' DOUBLES BADMINTON LEAGUE.
+page 32	To Start Programme When Present Schedule Ends.
+page 32	RIFLE SHOOTING RESUMED.
+page 32	LADDIES' LEAGUE RESULTS.
+page 32	RECREIO "A" AND EUROPEAN Y.M.C.A. WIN THEIR TIES.
+page 32	ST. ANDREW'S EUROPEAN Y.M.C.A..
+page 32	SPORTS RELATIONSHIP BETWEEN DUTCH, GERMAN BODIES NOW STRAINED.
+page 32	Springboks' 3-4-1 Serum Formation.
+page 32	Praised By British Rugby Captain.
+page 32	Southport Succeeds In F.A. Replay.
+page 32	Rev. Sargent To Be Feted By K.C.C..
+page 32	Presentation By Club-Mates.
+page 32	EUROPEANS OVERWHELM FILIPNOS.
+page 32	Exhibition Tennis Tour Concludes.
+page 32	10,000 Puand Man Helps To Down His Old Team.
+page 32	George Geary As A Coach.
+page 32	Giving Two Exhibitions.
+page 32	Local Men To Provide Opposition.
+page 33	Trophics For Owners And Jockeys.
+page 33	Middleweight Champion Loses To Billy Conn.
+page 33	Tennis Aces To Visit Hongkong.
+page 33	"Bitsy Grant of Philippines" Upsets Yugo-Slavla Star.
+page 33	COMEBACK VICTORY.
+page 33	St. George's Lawn Bowls Rinks Chosen.
+page 33	Private Fight At Secret Venue.
+page 33	Boon and Danahar Sign Unusual Contract.
+page 33	Cricket Teams For Week-End.
+page 33	Third Of Series For Ah King Cup.
+page 33	THE HONG KONG JOCKEY CLUB.
+page 34	Dutch, Swedish Withdrawals From Intervention C'ttee. Brings Crisis.
+page 34	Several Governments Modify Attitude on Civil War Question.
+page 34	LONDON ENDEAVOURS FOR REVIVAL.
+page 34	English For Foreign Students.
+page 34	AIR CRASH INQUIRY IN AUSTRALIA.
+page 34	RECORD INFLUX OF TOURISTS.
+page 34	Lemon Grove Distinguished.
+page 34	SWEDEN WITHDRAWS.
+page 34	INSURGENTS PROTEST AT NEGOTIATIONS.
+page 34	BRITISH PROTEST.
+page 34	BELGIAN POLICY APPROVED.
+page 34	Archaeological Grant Made.
+page 34	8-Year-Old Chinese Artist Wins Acclaim In London.
+page 34	Changte Raid Terror: Many People Die.
+page 34	"Good Earth" Best-Seller I Hongkew.
+page 34	28 Die In Clash South Of Haifa.
+page 34	Bogus Bills Far North.
+page 34	Snow White Claims 40,000 Pounds.
+page 34	Anglo-French Trade Pact Not Discussed.
+page 35	GENERAL STRIKE BEGINS --- THEORETICALLY.
+page 35	Midnight Tensionin France Though Paris is Quiet; Capital Entirely Mobilised.
+page 35	DALADIER'S MFASURES TO DEFEAT AGITATORS.
+page 35	READY FOR CONFLICT.
+page 35	PARIS MOBILISED.
+page 35	MOBILE GUARDS DISPERSE CROWD.
+page 35	LEGAL PROCEEDINGS ORDERED.
+page 35	REQUISITIONING NOT ILLEGAL.
+page 35	PARIS CITY COUNCIL APPROVES POLICY.
+page 35	FIRMNESS OF FRANC.
+page 35	FRANCE CONFIDENT.
+page 35	4-YEAR ECONOMIC PACT.
+page 35	RUMANIA TO SELL WHEAT, OIL TO GERMANY.
+page 35	CANTON HARBOURS.
+page 35	Improvement Started By Japanese.
+page 35	SOLDIERS INTERNED.
+page 35	One Unaware He Was In British Territory.
+page 35	More Trouble On Polish-Slovak Frontier.
+page 35	ASKED FOR CUMSHA.
+page 35	Alleged Collector On Behalf of Policeman.
+page 35	SHOULD HUSBANDS AND WIVES HAVE SEPARATE FRIENDS?
+page 37	Shanghai News Illustrated.
+page 38	QUEZON'S SCHEME.
+page 38	Rejection of Plan To Advance Independence.
+page 38	PHILIPPINES STATUS.
+page 38	Two Piracies Reported In H.K. Waters.
+page 38	LOOTERS RAVAGE SHUM CHUN.

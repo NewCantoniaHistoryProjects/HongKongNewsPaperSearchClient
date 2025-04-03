@@ -1,0 +1,153 @@
+page 1	HEAVY FIGHTING FOR CHAPEI.
+page 1	Chinese Meet Heavy Japanese Assaults With New Artillery.
+page 1	FOREIGN SHIPS WARNED TO LEAVE CHEFOO IMMEDIATELY.
+page 1	Attackers Facing Withering Fire.
+page 1	Another Attempt On Idzumo.
+page 1	Later Successes Reported.
+page 1	8th Route Army Scores Further Success.
+page 1	CHOLERA OUTBREAK IN SHIP.
+page 1	Passengers Make Trouble Aboard Shuntien.
+page 1	STORM DAMAGE SLIGHT.
+page 1	One Body Found By Police But No Report Of Wrecks.
+page 1	HOVE TO FOUR HOURS.
+page 1	CANTON WELCOMES BLOW.
+page 1	Japan Held Responsible in China War.
+page 1	LEAGUE BODY'S FINDING.
+page 1	Violated Two Peace Pacts.
+page 1	REPORTING TO MORROW.
+page 1	ACTION IN DOUBT.
+page 1	Chloroform For China's War Victims.
+page 1	Anonymous Donor In Britain.
+page 1	JAPANESE RELICS OF WAR.
+page 1	SUBMARINE ATTACKS BRITISH WARSHIPS.
+page 1	Destroyers And Planes Hunt Assailant.
+page 1	HUNT FOR ATTACKER.
+page 1	MISSED TARGET.
+page 1	Official Aid Offered Duke Of Windsor.
+page 1	PORTUGAL'S PROGRESS ASSURED.
+page 1	Friendship For Britain Firm.
+page 1	Eleven Years Of Reform.
+page 1	Fines, Prison For Political Demonstration.
+page 1	Sequel To London Disturbances.
+page 1	ITALIAN DECISION AWAITED.
+page 1	Spanish Problem Still Confronts European Powers.
+page 1	Chloroform For China's War Victims.
+page 1	Anonymous Donor In Britain.
+page 4	PORTUGAL'S PROGRESS ASSURED.
+page 4	GOVERNMENT OVERTHROWN.
+page 4	COMPLETE CHANGE.
+page 4	NEW SOCIAL STANDARDS.
+page 4	IMPETUS TO TRADE.
+page 4	DICTATORSHIP WILL PASS.
+page 4	HEAVY FIGHTING FOR CHAPEI.
+page 4	Chinese Advancing On Civic Centre.
+page 4	WANG, HULL EXCHANGE REPORTS.
+page 4	U.S. Discouraging Nationals From Going To S'hai.
+page 4	Demands That Parliament Be Summoned.
+page 4	PALESTINE QUIET.
+page 4	Troops Prepared For Trouble.
+page 4	HITER GIVEN MOUNTAIN.
+page 4	WORKING FOR GERMANY IN FAR EAST.
+page 5	Respite From Bombings.
+page 5	Fears In Canton of Japanese Landing.
+page 5	SEAMEN DESERT.
+page 5	TYPHOON DELAYS BOMBINGS.
+page 5	CANTON FEARS.
+page 5	Americans Held In Kobe.
+page 5	Forcibly Stopped From Returning To Shanghai.
+page 5	Shanghai Denial.
+page 5	Clashes On All Fronts.
+page 5	Bitter Battle For Lotien.
+page 5	NO CHANGE.
+page 5	DESPERATE FIGHTING.
+page 5	SHANGTUNG DRIVE.
+page 5	SANGYUAN FIGHTING.
+page 5	PEIPING FRONT.
+page 5	TYPHOON PASSES.
+page 5	Enters Coast Near Colony.
+page 5	TYPHOON TRACK.
+page 5	PRATAS SHOALS.
+page 5	DISORDERS IN LONDON.
+page 6	THERE IS NO MYSTERY.
+page 11	NEWS IN PHOTOGRAPHS.
+page 13	JAPANESE LANDING NEAR MACAO.
+page 13	Turning Island Into Air Base With Strong Force from Warships.
+page 13	CHINESE BATTERIES NOW TAKING OFFENSIVE IN SHANGHAI AREA.
+page 13	Chinese Guns Persistent.
+page 13	Heavy Fighting In North.
+page 13	Attackers Facing Withering Fire.
+page 13	Official Aid Offered Duke Of Windsor.
+page 13	ATTACK TO RESCUE PRISONERS.
+page 13	But French Fear For Lives Of Hostages.
+page 13	Volunteers Active.
+page 13	NEW CHIEF JUSTICE FOR SIERRA.
+page 13	Japan Held Responsible in China War.
+page 13	LEAGUE BODY'S FINDING.
+page 13	Violated Two Peace Pacts.
+page 13	CRANBORNE APPEALS.
+page 13	REPORTING TO MORROW.
+page 13	Japan Now Restricting Her Imports.
+page 13	Fuller Measures For Preparedness.
+page 13	ITALIAN DECISION AWAITED.
+page 13	Spanish Problem Still Confronts European Powers.
+page 13	COMPROMISE PREPARED.
+page 13	DECLARES WAR ON RIVALS.
+page 13	Green Leading A.F.O.L. To Battle.
+page 13	SUBMARINE ATTACKS BRITISH WARSHIPS.
+page 13	Destroyers And Planes Hunt Assailant.
+page 13	HUNT FOR ATTACKER.
+page 13	MISSED TARGET.
+page 13	CONFIRMS ATTACK.
+page 13	STORM DAMAGE SLIGHT.
+page 13	One Body Found By Police.
+page 13	But No Report Of Wrecks.
+page 13	HOVE TO FOUR HOURS.
+page 13	PASSENGERS DISCOMFORT. 
+page 17	JAPANESE LANDING NEAR MACAO.
+page 17	Another Attempt On Idzumo.
+page 17	Later Successes Reported.
+page 17	8th Route Army Scores.
+page 17	Chinese Advancing On Civic Centre.
+page 17	Japanese Capture Of Tehchow Denied.
+page 17	Chinese Repulse Japanese Attack On Chapei.
+page 17	Troops Massing Along Wen Tsao Creek.
+page 17	Aerial Bombardment Fails To Dislodge Chinese.
+page 17	Manchukuoans At Peiping.
+page 17	TIMBER THIEVES CAPTURED.
+page 17	SHIPS IN WIRELESS COMMUNICATION.
+page 17	VISITORS FLOCK TO ENGLAND.
+page 17	PORTUGAL'S PROGRESS ASSURED.
+page 17	Friendship For Britain For Britain Firm.
+page 17	Eleven Years Of Reform.
+page 17	GOVERNMENT OVERTHROWN.
+page 17	COMPLETE CHANGE.
+page 17	NEW SOCIAL STANDARDS.
+page 17	IMPETUS TO TRADE.
+page 17	DICTATORSHIP WILL PASS.
+page 17	STORM DAMAGE SLIGHT.
+page 17	HISTORY OF TYPHOON.CANTON WELCOMES BLOW.
+page 17	JAPAN HELD RESPONSIBLE IN CHINA WAR.
+page 17	ACTION IN DOUBT.
+page 17	LONG SESSION.
+page 18	THERE IS NO MYSTERY.
+page 23	NEWS IN PHOTOGRAPHS.
+page 24	Fines, Prison For Political Demonstration.
+page 24	Sequel To London Disturbances.
+page 24	CHOLERA OUT BREAK IN SHIP.
+page 24	Passengers Make Trouble Aboard Shuntien.
+page 24	NEW ROADS FOR LONDON.
+page 24	AND TROLLEY BUSES FOR TRAMS.
+page 24	COST OF LIVING ENQUIRY IN ENGLAND.
+page 24	PLEDGE TO FARMERS.
+page 24	JOBLESS SEAMAN COMMITTED.
+page 24	REVISING COUNT OF JOBLESS.
+page 24	PALESTINE QUIET.
+page 24	Troops Prepared For Trouble.
+page 24	Railroad Blocked; Workers Fired On.
+page 24	Demands That Parliament Be Summoned.
+page 24	Chloroform For China's War Victims.
+page 24	Anonymous Donor In Britain.
+page 24	LEAGUE LOOKS INTO LIVING STANDARDS.
+page 24	ANOTHER 1,000,000POUND ESTATE: WINDFALL FOR TREASURY.
+page 24	LEAVES ESTATE OF $39,500.
+page 24	DEATH, PRISON FOR ANTI-COMMUNISM.

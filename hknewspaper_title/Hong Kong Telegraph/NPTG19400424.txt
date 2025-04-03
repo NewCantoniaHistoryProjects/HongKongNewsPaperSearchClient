@@ -1,0 +1,292 @@
+page 1	SIMON'S MAMMOTH "WIN THE WAR" TAXATION PLANS.
+page 1	Supreme War Council Meets In Paris.
+page 1	Important Decisions Reached.
+page 1	Ready To Fight In Mediterranean.
+page 1	SEE PAGE FOUR.
+page 1	B. E. F. IN ACTION IN FOUR SECTORS.
+page 1	No mercy.
+page 1	German Report.
+page 1	GEN. SIKORSKI TO VISIT LONDON.
+page 1	AIR FIGHT OVER BELGIUM.
+page 1	French Nazi Planes In Conflict.
+page 1	Battle Over Verdun.
+page 1	MACKENZIE KING WITH ROOSEVELT.
+page 1	FIERCE BATTLE RAING FOR OSLO'S GATEWAY.
+page 1	Nazis Lose Four Planes.
+page 1	Nazi Counter- Attaek.
+page 1	GERMAN FOR CES MASS OPPOSITE SWEDEN.
+page 7	SIMON'S MAMMOTH "WIN THE WAR" TAXTATION PLANS.
+page 7	Direct And Indirect Taxation.
+page 7	All -Time Record.
+page 7	Mere Surtax.
+page 7	Whisky To Cost 16s. A Bottle.
+page 7	Tobacco Increases.
+page 7	Increased Postal Charges.
+page 7	No Air Mail Increases.
+page 7	 Purchase Tax.
+page 7	Must Increase Savings.
+page 7	Purchase Tax Effects.
+page 7	101,000,000 Pound Yield.
+page 7	1,433,000,000 Pound Deficit.
+page 7	ATTLEE'S COMMENTS.
+page 7	Criticises Increased Post Rates.
+page 7	Pays Tribute To Chancellor.
+page 7	Budget Well Received.
+page 7	Narvik Not In Ruins.
+page 7	Consideration Shown By British Warships.
+page 7	No Civilians Killed.
+page 7	Food Price Control.
+page 7	Limitation Of Dividends.
+page 7	British Oil For Japan.
+page 7	Searching Questions In House Of Commons.
+page 7	Pure Commercial Sales.
+page 7	IMPORTANT DECISIONS REACHED.
+page 7	New Deciaions Roached.
+page 7	Poland's Determination.
+page 7	Of Capital Importance.
+page 7	Battle Off Sweden Believed Attack On Nazi Transports.
+page 7	SAAR DISTRICT BAN DECLARED.
+page 7	THREAT TO TRONDHEIM.
+page 7	Allied Forces Still Closing In.
+page 7	Armles Said Face To Face.
+page 7	Only One Casualty.
+page 7	AIRDROMES BOMBED.
+page 7	Reckless Daring By British Planes.
+page 7	Severe Opposition.
+page 7	One Machine Hit.
+page 7	Nazi Flying Ace Killed.
+page 11	BRITISH BOMB OSLO FOR 2.1/2 HOURS.
+page 11	City Blacked Out.
+page 11	 Evacuation Prevented.
+page 11	ENORMOUS BURDEN.
+page 11	Budget Strikes At Man-In-The Street.
+page 11	Inflation Feared.
+page 11	NEW ACTIVITY IN MEDITERRANEAN.
+page 11	Concession To Allies.
+page 11	Italy And Adriatic.
+page 11	Allies Ready In Balkans.
+page 11	ANZAC DAY IN H. K.
+page 11	Australian Sailors To Take Part.
+page 11	Wreaths On Cenotaph.
+page 11	CHINA REGAINS A CAPITAL.
+page 11	Carrison Wipad Out.
+page 11	Italy To Expand Air Force.
+page 11	FIECE BATTLE RAGING FOR OSLO'S GATEWAY.
+page 11	Nazi Lose Four Planes.
+page 11	Nazi Counter- Attack.
+page 11	New Naval Fight In Skaggerak.
+page 11	Warm Reception Awaits Nazi Parachute Troops.
+page 12	ZURICH AS FINANCLAL CHPITAL.
+page 12	British Oil For Japan.
+page 12	Searching Questions In House Of Commons.
+page 12	Pure Commercial Sales.
+page 12	SWEDEN UPSETS GOEBBELS.
+page 12	Colony's Effort For B. O. F.
+page 12	Charity Show For War Orphans.
+page 12	SIMON'S MAMMOTH "WIN THE WAR" TAXATION PLANS.
+page 12	Direct And Indirect Taxation.
+page 12	All -Time Record.
+page 12	More Surtax.
+page 12	Whisky To Cost 16s A Bottle.
+page 12	Tobacco Increases.
+page 12	Increased Postal Charaes.
+page 12	No Air Mail Increases.
+page 12	Purchase Tax.
+page 12	Purchase Tax Effects.
+page 12	101,000,000 pound Yicld.
+page 12	1,433,000,000 Pound Deficit.
+page 12	Food Price Control.
+page 12	Limitation Of Divldends.
+page 12	EGYPT'S STAND.
+page 12	Full Support For The Allies.
+page 12	Common Cause.
+page 12	YUGO- SLAV CLEAN- UP.
+page 12	Police Action Against Pro-Nazis.
+page 12	Nazis Try To Sow Mines.
+page 12	Raiders Beaten Off From East Coast.
+page 12	No Warning Needed.
+page 12	Seeks 1,234,000,000 Pound Rovenue.
+page 12	Must Increase Savings.
+page 12	ATTLEE'S COMMENTS.
+page 12	Criticises Increased Post Rates.
+page 12	Pays Tribute To Chancellor.
+page 12	Budget Well Received.
+page 12	FIERCE BATTLE RAGING FOR OSLO'S GATEWAY.
+page 12	War Office Communique.
+page 12	Mare Allied Landings.
+page 12	Severe Censorship In Australia.
+page 12	Y'S MEN'S MEETING
+page 17	Supreme War Council Meets In Paris.
+page 17	Important Decisions Reached.
+page 17	Ready To Fight In Mediterranean.
+page 17	New Decisions Reached.
+page 17	Poland's Determination.
+page 17	Of Capital Importance.
+page 17	Narvik Not In Ruins.
+page 17	Consideration Shown By British Wrships.
+page 17	No Civilians Killed.
+page 17	Nazi Flying Ace Killed.
+page 17	THE NEW PAINCE OF WALES.
+page 17	B. E. F. IN ACTION IN FOUR SECTORS.
+page 17	No Mercy.
+page 17	Cerman Report.
+page 17	Report Denied.
+page 17	AIR FIGHT OVER BELGIUM.
+page 17	French, Nazi Planes In Conflict.
+page 17	Battle Over Verdun.
+page 17	Battle Off Sweden.
+page 17	Believed Attack On Nazi Transports.
+page 17	Attack On 4 Transports.
+page 17	GERMAN FORCES MASS OPPOSITE SWEDEN.
+page 17	THREAT TO TRONDHEIM.
+page 17	Allied Forces Still Closing In.
+page 17	Armies Said Face To Face.
+page 17	Only One Casualty.
+page 17	AIRDROMES BOMBED.
+page 17	Reckless Daring By British Planes.
+page 17	Severe Opposition.
+page 17	One Machine Hit.
+page 17	Nazi Barter With Rumania.
+page 20	GUNS BARK FOR HOURS.
+page 20	 Another Nazi Raid Repulsed.
+page 20	GIANT WARSHIPS.
+page 20	Extra Strength For British Navy.
+page 20	MACKENZIE KING WITH ROOSEVELT.
+page 20	Not Political Visit.
+page 20	BRITAIN NOT SO DEGENERATE.
+page 20	Warm Defence Of The Empire By Budapest Paper.
+page 20	Only Partial Success.
+page 20	Hitler Risking All.
+page 20	Nazi Fleet Decimated.
+page 20	SAAR DISTRICT BAN DECLARED.
+page 20	MORE JAPANESE NBOMINGS.
+page 20	GEN. SIKORSKI TO VISIT LONDON.
+page 21	German Convoy Caught By R. N. 
+page 21	Believed Attack On Nazi.
+page 21	Attack On 4 Transports.
+page 21	New Naval Fight.
+page 21	Italy To Expand Air Force.
+page 21	CHINA REGAINS A CAPITAL.
+page 21	Garrison Wiped Out.
+page 21	Intensified Fighting.
+page 21	FRANCE BELIEVES NAZI INVASION OF SWEDEN NEAR.
+page 21	Swedish Denial.
+page 21	German Forces Mass.
+page 21	DID NOT REPORT DEPARTURE.
+page 21	Hotel Resident Is Cautioned.
+page 21	ENORMOUS BURDEN.
+page 21	Budget Strikes At Man-In-The -Street.
+page 21	Inflation Feared.
+page 21	AMERICAN SHIPS ARRIVING.
+page 21	NEW ACTIVITY IN MEDITERANEAN.
+page 21	Italy And Adriatic.
+page 21	Allies Ready In Balkans.
+page 21	Mussolini's "Own Form Of Neutrality.
+page 21	YOU- SLAV CLEAN- UP.
+page 21	Police Action Against Pro-Nazis.
+page 21	2.1/2 HOUR AIR RAID ON OSLO.
+page 21	Germans Refuse To Allow Evacuation.
+page 21	City Blacked Out.
+page 21	Evacuation Prevented.
+page 21	Warm Reception Awaits Nazi Parachute Troops.
+page 21	FIERCE BATLE RAGING FOR OSLO'S GATEWAY.
+page 21	Nazis Lose Four Planes.
+page 21	Nazi Counter-Attack.
+page 22	CHINA REGAINS A CAPITAL.
+page 22	Japanese Desperate.
+page 22	Tear Gas Shells.
+page 22	FIERCE BATTLE RAGING FOR OSLO'S GATEWAY.
+page 22	War Office Communigue.
+page 22	More Allied Landings.
+page 22	Railway Regainged.
+page 22	ALLIES TIGHTEN GRIP.
+page 22	Situation Improves In Norway.
+page 22	Nazis Fate  At Narvik.
+page 22	By Plane Only Soon.
+page 22	British Oil For Japan.
+page 22	Searching Questions In House Of Commons.
+page 22	Pure Commercial Sales.
+page 22	British Naval Losses.
+page 22	Frank Statement In House Of Lords.
+page 22	Battleships Hit.
+page 22	ALLEGED MURDER.
+page 22	Complete Denial By Accused.
+page 22	Counsel's Ples.
+page 22	Prosocution Replies.
+page 22	Accused Testifies.
+page 22	Chase Described.
+page 22	PRESENTATIONS TO POLICE.
+page 22	Press Hails The Budget.
+page 22	Described As Bold As Bold And Realistic.
+page 22	Not Drastic Enough.
+page 22	Unanimous Public Support.
+page 22	Principal Sufferers.
+page 22	Chancellor 's Realism.
+page 22	Britain Photographed.
+page 22	TRAVEL MAGAZINE.
+page 22	President Lines Starts New Publication.
+page 25	AMOTHER VICTORY IS CHALKED UP.
+page 25	GUNS BARK FOR HOURS.
+page 25	Another Nazi Raid Repulsed.
+page 25	Charity Show For Wet Orphans.
+page 25	ATTLEE'S COMMENTS.
+page 25	Criticises Increased Post Rates.
+page 25	Pays Tribute To Chancellor.
+page 25	Budget Well Received.
+page 25	Severe Censorship In Australia.
+page 25	EGYPT'S STAND.
+page 25	Full Support For The Allies.
+page 25	Common Cause.
+page 27	Supreme War Council Meets In Paris.
+page 27	Important Decisions Reached.
+page 27	Ready To Fight In Mediterranean.
+page 27	New Decisions Reached.
+page 27	Poland's Determination.
+page 27	Of Capital Importance.
+page 27	Narvik Not In Ruins.
+page 27	Consideration Shown By British Wrships.
+page 27	No Civilians Killed.
+page 27	Nazi Flying Ace Killed.
+page 27	THE NEW PAINCE OF WALES.
+page 27	B. E. F. IN ACTION IN FOUR SECTORS.
+page 27	No Mercy.
+page 27	Cerman Report.
+page 27	Report Denied.
+page 27	AIR FIGHT OVER BELGIUM.
+page 27	French, Nazi Planes In Conflict.
+page 27	Battle Over Verdun.
+page 27	Battle Off Sweden.
+page 27	Believed Attack On Nazi Transports.
+page 27	Attack On 4 Transports.
+page 27	GERMAN FORCES MASS OPPOSITE SWEDEN.
+page 27	THREAT TO TRONDHEIM.
+page 27	Allied Forces Still Closing In.
+page 27	Armies Said Face To Face.
+page 27	Only One Casualty.
+page 27	AIRDROMES BOMBED.
+page 27	Reckless Daring By British Planes.
+page 27	Severe Opposition.
+page 27	One Machine Hit.
+page 27	Nazi Barter With Rumania.
+page 29	ZURICH AS FINANCIAL CAPITAL.
+page 29	Safest Place In War-Torn Europe.
+page 29	101,000,000, Pound Yield.
+page 29	1,433,000,000, Pound Deficit.
+page 29	Food Price Control.
+page 29	Limitation Of Dividends.
+page 29	Seeks 1,234,000,000 Pound Revenue .
+page 29	Must Increase Savings.
+page 30	GUNS BARK FOR HOURS.
+page 30	 Another Nazi Raid Repulsed.
+page 30	GIANT WARSHIPS.
+page 30	Extra Strength For British Navy.
+page 30	MACKENZIE KING WITH ROOSEVELT.
+page 30	Not Political Visit.
+page 30	BRITAIN NOT SO DEGENERATE.
+page 30	Warm Defence Of The Empire By Budapest Paper.
+page 30	Only Partial Success.
+page 30	Hitler Risking All.
+page 30	Nazi Fleet Decimated.
+page 30	SAAR DISTRICT BAN DECLARED.
+page 30	MORE JAPANESE NBOMINGS.
+page 30	GEN. SIKORSKI TO VISIT LONDON.

@@ -1,0 +1,305 @@
+page 1	ITALIANS FIGHTING HARD TO SAVE DEREN.
+page 1	Position Getting More Desperate.
+page 1	Battle Of Keren.
+page 1	WAR CABINET'S ATTENTION TO INVASION PERIL.
+page 1	BOMBERS SHOT DOWN.
+page 1	LARGE GERMAN SHIP TORPEDOED.
+page 1	WAR OF NERVES.
+page 1	CRUSHING ITALIAN DEFEAT.
+page 1	Attacks Repulsed.
+page 1	LAKHIMPUR AIR ATTACKS WARNING.
+page 1	AMERICANS WARNED TO LEAVE FRANCE.
+page 1	VIOLENT JAPANESE THREAT.
+page 2	Swift Approval Of Huge Money Vote For Aid Sought.
+page 2	"OR REPUTATION OF U.S.A. WILL SUFFER"
+page 2	further Items.
+page 2	ACTRESS WARNED NOT TO ARGUE.
+page 2	IF HITLER AND GOERING WENT.
+page 2	Hanging Together.
+page 2	Loyalty To Regime.
+page 2	CONGRATULATIONS TO INDIAN TROOPS.
+page 2	AMBUSH ON N.W. FRONTIER.
+page 2	FOOD FOR BRITAIN.
+page 2	SECRET HEARING WAR FIGURES REVEALED.
+page 2	No Further Commitmonts.
+page 2	Nominal Value.
+page 2	Empire Expenditure.
+page 2	OLD MEN AS FIRE GUARDS.
+page 2	Compensation Urged.
+page 2	DONOVAN BACK FROM TOUR.
+page 3	EUROPE'S UNITED STATES.
+page 3	Britain's Programme For A New Order.
+page 3	Different From Nazi Conceptions.
+page 3	No Small Matter.
+page 3	Naval Aid.
+page 3	HAPPY FANNY OF OLD DRURY KILLED IN RAID.
+page 3	GERMANY HESITATES.
+page 3	SHANGHAI GIFT TO DISTRESS FUND.
+page 3	WALK IN A BLITZ.
+page 3	PILOTS OF EAGLE SQUADON EAGER FOR ACTION.
+page 3	RECORD BRITISH AIRCRAFT OUTPUT.
+page 3	PENURY AFTER 2,500pounds A YEAR.
+page 3	R.A.F. AGAIN RAIDS BREMEN.
+page 4	THAILAND ENTHUSES OVER PEACE TERMS.
+page 4	Prestige Restored.
+page 4	NEW INDIAN TRADE COMMISSIONERS.
+page 4	ANXIETY LED TO DEATH CLIMB.
+page 4	MAKING POLAND GERMAN.
+page 4	Ruling Factor.
+page 5	DETECTIVES FOR AIR MINISTRY.
+page 5	The King Names A Boy Hero, 11.
+page 5	Her Great Endurance.
+page 5	Defied Bombs.
+page 5	FIRE WATCHER ON ARSON CHARGE.
+page 6	ANZACS WALK THROUG THE ITALIANS.
+page 6	Tanks Break Through.
+page 6	Creeping Barrage.
+page 6	Ships Blazing.
+page 6	Stiff Resistance.
+page 6	10 Miles In 11 Hours.
+page 6	GERMAN AIRMEN'S BOAST.
+page 6	SECRET PAPERS SCANDAL.
+page 6	Carelessness Record.
+page 7	Propaganda Pattern.
+page 8	MONING OUR AIR FRONTIER TO GERMANY.
+page 8	Increased Losses Likely.
+page 8	Reward Of Planning.
+page 8	RAID "GREETING" FOR FILM STARS.
+page 8	BOMBERS FLYING ATLANTIC.
+page 8	Saving Time.
+page 8	DESECRATING U.S. CEMETERY.
+page 8	Nazi Bombing Plan.
+page 8	LED FIRST R.A.F. RAID ON GERMANY.
+page 9	NEW REDICTOR FOR A.A. IS 'ABSOLUTE KILLER'
+page 9	Nazis Lack Variety.
+page 9	Coventry Denial.
+page 9	CANNON ATTACK ON AIR BASES.
+page 9	More Cannon Fighters.
+page 9	THOUGHT NAZI WAS R.A.F. MAN.
+page 9	ENVOY'S DISGUISE AS PEASANT.
+page 9	Escape From Nazis.
+page 13	WATSON'S DIVDEND.
+page 13	ALLECED ATTACK ON WIFE AND MAN.
+page 15	HOW FAMOUS TROPHIES ARE BEING KEPT SAFE.
+page 15	Where They Are.
+page 15	Mark Twain's Cup.
+page 15	Ted Ray Lost One.
+page 15	RUGBY STAR MISSING.
+page 15	CHARITY GOLF MATCH.
+page 15	"Justly Proud"
+page 15	FEAR OF JOCKEY SHORTAGE.
+page 15	PUTTING ACCURACY.
+page 15	By Best Ball.
+page 15	ARSENAL PLAYED KILLED.
+page 16	BERBERA'S RECAPTURE.
+page 16	Fall Story Of Operation Told In Aden.
+page 16	Four Men In A Boat.
+page 16	Two Landings.
+page 16	Use Of Force.
+page 16	Quickly Over.
+page 16	Pass Blown Up.
+page 16	"MYSTERIOUS HAPPENINGS" IN THE AIR.
+page 16	HEAVY ATTACK ON TRIPOLI.
+page 17	ITALIANS FIGHTING HARD TO SAVE KEREN.
+page 17	Position Getting More Desperate.
+page 17	Battle Of Keren.
+page 17	Berbera Capture.
+page 17	Heavy Casualties At Liverpool And Clydeside.
+page 17	WAR CABINET'S ATTENTION TO INVASION PERIL.
+page 17	CRUSHING ITALIAN DEFEAT.
+page 17	Attacks Repulsed.
+page 17	LAKHIMPUR AIR ATTACKS WARNING.
+page 17	WAR OF NERVES.
+page 17	BOMBERS SHOT DOWN.
+page 17	AMERICANS WARNED TO LEAVE FRANCE.
+page 17	VILENT JAPANESE THREAT.
+page 18	Swift Approval Of Huge Money Vote For Aid Sought.
+page 18	"OR REPUTATION OF U.S.A. WILL SUFFER"
+page 18	Loyalty To Regime.
+page 18	CONGRATULATIONS TO INDIAN TROOPS.
+page 18	AMERICAN SQUADRON TO VISIT AUSTRALIA.
+page 18	IF HITLER AND GOERING WENT.
+page 18	AMBUSH ON N.W. FRONTIER.
+page 18	FOOD FOR BRITAIN.
+page 18	SECRET HEARING WAR FIGURES REVEALED.
+page 18	No Further Commitments.
+page 18	Nominal Value.
+page 18	Empire Expenditure.
+page 18	"SARAH SIMPLE"
+page 18	Antidote To War Worries.
+page 18	FRENCH DESTROYER IN RESCUE.
+page 18	CARNARVON BUILDING ROBBERY.
+page 19	EUROPE'S UNITED STATES.
+page 19	Britain's Programme For A New Order.
+page 19	Different From Nazi Conceptions.
+page 19	No Small Matter.
+page 19	Naval Aid.
+page 19	HEAVY ATTACK ON TRIPOLI.
+page 19	MR. GANDHI'S AIDE ARRESTED.
+page 19	GERMANY HESITATES.
+page 19	SHANGHAI GIFT TO DISTESS FUND.
+page 19	ACCIDENTAL BOMBING IN YUGOSLAVIA.
+page 19	GERMAN VESSEL TORPEDOED.
+page 19	PILOTS OF EAGLE SQUADON EAGER FOR ACTION.
+page 19	RECORD BRITISH AIRCRAFT OUTPUT.
+page 19	DONOVAN BACK FROM TOUR.
+page 19	R.A.F. AGAIN RAIDS BREMEN.
+page 19	DEATH OF A CHILD.
+page 20	THAILAND ENTHUSES OVER PEACE TERMS.
+page 20	Prestige Restored.
+page 20	ANXIETY LED TO DEATH CLIMB.
+page 20	NEW INDIAN TRADE COMMISSIONERS.
+page 20	MAKING POLAND GERMAN.
+page 20	People Degraded To A Lower Class.
+page 20	Ruling Factor.
+page 21	DETECTIVES FOR AIR MINISTRY.
+page 21	The King Names A Boy Hero, 11.
+page 21	Her Great Endurance.
+page 21	Defied Bombs.
+page 21	FIRE WATCHER ON ARSON CHARGE.
+page 22	U.S. AMBASSADOR ON THE DEFENCE OF FREEDOM'S FRONTIER.
+page 22	Every Tenet.
+page 22	Britain's Victory.
+page 22	Fear The Cause.
+page 22	New Spirit Abroad.
+page 22	OLD MEN AS FIRE GUARDS.
+page 22	Compensation Urged.
+page 22	GERMAN AIRMEN'S BOAST.
+page 22	SECRET PAPERS SCANDAL.
+page 22	Carelessness Record.
+page 22	DESPATCH RIDER IN ACCIDENT.
+page 23	Propaganda Pattern.
+page 24	MOVING OUR AIR FRONTIER TO GERMANY.
+page 24	Increased Losses Likely.
+page 24	Reward Of Planning.
+page 24	RAID "GREETING" FOR FILM STARS.
+page 24	BOMBERS FLYING ATLANTIC.
+page 24	Saving Time.
+page 24	DESECRATING U.S. CEMETERY.
+page 24	LED FIRST R.A.F. RAID ON GERMANY.
+page 25	NEW PREDICTOR FOR A.A. IS 'ABSOLUTE KILLER'
+page 25	Nazis Lack Variety.
+page 25	Coventry Denial.
+page 25	CANNON ATTACK ON AIR BASES.
+page 25	More Cannon Fighters.
+page 25	THOUGHT NAZI WAS R.A.F. MAN.
+page 25	ENVOY'S DISGUISE AS PEASANT.
+page 29	WATSON'S DIVIDEND.
+page 31	HOW FAMOUS TROPHIES ARE BEING KEPT SAFE.
+page 31	Where They Are.
+page 31	Mark Twain's Cup.
+page 31	Ted Ray Lost One.
+page 31	RUGBY STAR MISSING.
+page 31	CHARITY GOLF MATCH.
+page 31	"Justly Proud"
+page 31	FEAR OF JOCKEY SHORTAGE.
+page 31	PUTTING ACCURACY.
+page 31	LA SALLE FAVOURED FOR SCHOOL SPORTS.
+page 31	ARSENAL PLAYER KILLED.
+page 32	BERBERA'S RECAPTURE.
+page 32	Full Story Operation Told In Aden.
+page 32	Four Men In A Boat.
+page 32	Two Landings.
+page 32	Use Of Force.
+page 32	Quickly Over.
+page 32	Pass Blown Up.
+page 32	"MYSTERIOUS HAPPENINGS" IN THE AIR.
+page 32	"PENTHOUSE" EJECTION CAMPAIGN.
+page 33	NEW FRANCO-GERMAN CRISIS. 
+page 33	Several Persons Shot Trying To Cross Border.
+page 33	Americans Given Orders To Leave.
+page 33	BOMBERS CHOT DOWN.
+page 33	Heavy Casualties At Liverpool And Clydeside.
+page 33	MENZIES GOING TO AMERICA.
+page 33	German Balkan Strength.
+page 33	VIOLENT JAPANESE THREAT.
+page 33	SEQUEL TO RIOT AT SOCCER MATCH.
+page 33	"BREMEN" FIRE PUT OUT.
+page 33	GERMANS PUT MORE PRESSURE ON YUGOSLAVIA.
+page 33	ATLANTIC U.S. NAVAL EXERCISE.
+page 34	Swift Approval Of Huge Money Vote For Aid Sought.
+page 34	"OR REPUTATION OF U.S.A. WILL SUFFER".
+page 34	Further Items.
+page 34	"SARAH SIMPLE".
+page 34	Antidote To War Worries.
+page 34	FRENCH DESTROYER IN RESCUE.
+page 34	GUILTY BUT INSANE VERDICT.
+page 34	Acted Childish.
+page 34	WOMAN WALKS INTO TROUBLE.
+page 34	CONGRATULATIONS TO INDIAN TROOPS.
+page 34	CARNARVON BUILDING ROBBERY.
+page 34	AMBUSH ON N.W. FRONTIER.
+page 34	FOOD FOR BRITAIN.
+page 34	AMERICAN SQUADRON TO VISIT AUSTRALIA.
+page 34	SECRET HEARING WAR FIGURES REVEALED.
+page 34	No Further Commitments.
+page 34	Nominal Value.
+page 34	Empire Expenditure.
+page 35	EUROPE'S UNITED STATES.
+page 35	Britain's Programme For A New Order.
+page 35	Different From Nazi Conceptions.
+page 35	No Small Matter.
+page 35	Naval Aid.
+page 35	HEAVY ATTACK ON TRIPOLI.
+page 35	MR. GANDHI'S AIDE ARRESTED.
+page 35	GERMANY HESITATES.
+page 35	SHANGHAI GIFT TO DISTRESS FUND.
+page 35	PILOTS OF EAGLE SQUADON EAGER FOR ACTION.
+page 35	ACCIDENTAL BOMBING IN YUGOSLAVIA.
+page 35	GERMAN VESSEL TORPEDOED.
+page 35	RECORD BRITISH AIRCRAFT OUTPUT.
+page 35	DONOVAN BACK FROM TOUR.
+page 35	R.A.F. AGAIN RAIDS BREMEN.
+page 36	THAILAND ENTHUSES OVER PEACE TERMS.
+page 36	Prestige Restored.
+page 36	CHUNGKING RAID.
+page 36	NEW INDIAN TRADE COMMISSIONERS.
+page 36	ESTATE DUTY ORDINANCE.
+page 36	WAR OF NERVES.
+page 36	SHANGHAI TRAMWAY STRIKE.
+page 36	DESPATCH RIDER IN ACCIDENT.
+page 37	THROWN INTO THE HARBOUR.
+page 37	DROP IN REVENUE AT "THE LIDO".
+page 37	Air-Conditioning.
+page 37	Lido Losing Money?
+page 38	U.S. AMBASSADOR ON THE DEFENCE OF FREEDOM'S FRONTIER.
+page 38	Every Tenet.
+page 38	Britain's Victory.
+page 38	Fear The Cause.
+page 38	New Spirit Abroad.
+page 38	FURTHER POSTAL CASES.
+page 38	BLACKOUT CASE.
+page 38	GERMAN-AIRMEN'S BOAST.
+page 38	UNREGISTERED DOCTOR FINED.
+page 38	BURGLAR SENTENCED.
+page 38	THEFT FROM A WIDOW.
+page 39	AMERICA AND THE SEA WAR.
+page 39	Propaganda Pattern.
+page 40	R.A.F. GIVES NAZIS NO RESPITE.
+page 40	MOVING OUR AIR FRONTIER TO GERMANY.
+page 40	Appreciation.
+page 40	Increased Losses Likely.
+page 40	Reward Of Planning.
+page 40	VIBRO PILING MEETING.
+page 41	Italians Fighting Hard To Save Keren.
+page 41	Battle Of Keren.
+page 41	Temperature of 105.
+page 41	Berbera Capture.
+page 41	CRUSHING ITALIAN DEFEAT.
+page 41	Attacks Repulsed.
+page 41	BAG SNATCHED FROM A CAR.
+page 41	WAR CABINET'S ATTENTION TO INVASION PERIL.
+page 41	AMERICANS WARNED TO LEAVE FRANCE.
+page 41	LAKHIMPUR AIR ATTACKS WARNING.
+page 45	THOUGHT NAZI WAS R.A.F. MAN.
+page 45	WATSON'S DIVDEND.
+page 48	BERBERA'S RECAPTURE.
+page 48	Full Story Of Operation Told In Aden.
+page 48	Four Men In A Boat.
+page 48	Two Landings.
+page 48	Use Of Force.
+page 48	Quickly Over.
+page 48	Pass Blown Up.
+page 48	"MYSTERIOUS HAPPENINGS" IN THE AIR.
+page 48	"PENTHOUSE" EJECTION CAMPAIGN.
+page 48	CHINA SQUADRON EMBLEM.

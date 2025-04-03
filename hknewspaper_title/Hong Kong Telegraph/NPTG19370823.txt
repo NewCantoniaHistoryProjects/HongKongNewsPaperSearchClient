@@ -1,0 +1,132 @@
+page 1	CRACK DIVISION NOW AT S'HAI.
+page 1	China's Finest Corps Taking Over Trenches From Original Forces.
+page 1	DESULTORY FIRING CONTINUES THROUGHOUT NIGHT; JAPANESE SPEED FIRING IN MORNING.
+page 1	QUIET NIGHT, VIOLENT DAWN.
+page 1	Recovering from Shock.
+page 1	Japanese Fail To Land.
+page 1	Funds For Refugees.
+page 1	Says China Winning War With Japan.
+page 1	FUTILE NANKING ATTACK.
+page 1	Bombers Fail To Damage City.
+page 1	Missiles Land Beyond Gates.
+page 1	NANKING ROAD BOMBING.
+page 1	Britain's Cabinet To Confer.
+page 1	"IRON BELT" PIERCED AT SANTANDER.
+page 1	Torre La Vega Now In Guns' Range.
+page 1	NOTED M.P. DIES SUDDENLY.
+page 1	ONCE NEWSBOY, MADE FORTUNE IN INDIA.
+page 1	CHINESE MACHINE-GUN UNIT.
+page 1	Dissolution Of C.N.A.C..
+page 1	Not Confirmed.
+page 1	U.S. Stock-Holders Have No Definite Information.
+page 1	SEVERING CONNECTIONS.
+page 1	BLOOD PURGE CONTINUES.
+page 1	CHINESE CLAIN BIG ADVANCES IN S'HAI AREA.
+page 1	AGAIN DECLARE JAPAN'S DEFENCE LINE BROKEN.
+page 1	At Wayside Wharf?
+page 1	Pushing Both Flanks.
+page 1	1,000 Japanese Wounded.
+page 1	Second Huge Battleship Christened.
+page 1	JAPANH WILL SEND MORE MEN NORTH.
+page 1	Four Divisions For Tientsin-Peiping Area.
+page 1	Fierce Fighting.
+page 1	Loan To Chekiang.
+page 5	U.S. CONGRESS ADJOURNS AMIDST FLARE-UP.
+page 5	Housing Bill Approved.
+page 5	Wheeler Answers Challenge.
+page 5	Shattered Harmony.
+page 5	Bills for Presldent.
+page 5	The Sugar Bill.
+page 5	BRITISH LOSSES IN SHANGHAI.
+page 5	TRADE AND COMMERCE PARALYSED.
+page 5	Brillsh Wharf Afire.
+page 5	British Opinion.
+page 5	Indian Sympathy.
+page 8	Jesse Owens's World Mark Is Beaten.
+page 8	JOHNSON'S 100 IN 10 2/10.
+page 8	HUNDRED YARDS DASH.
+page 8	Stella Walasiewicz Sets New Record.
+page 8	NEWPORT TOURNAMENT.
+page 8	DONALD BUDGE'S VICTORIES IN BOTH SINGLES AND DOUBLES.
+page 9	COUNTY CRICKET.
+page 9	Close Of Play Scores On Saturday.
+page 13	JAPAN FLEET SHIFTS TO WOOSUNG.
+page 13	Guns Blast Chinese Shore Positions As Troops Try To Land.
+page 13	CHINESE APPARENTLY PRESS HONGKEW DEFENCES HEAVILY.
+page 13	SHELLS LAND IN MIDDLE OF INTERNATIONAL AREA.
+page 13	Close Range Battle.
+page 13	Chinese Beaten Back.
+page 13	No Confirmation.
+page 13	Withdrawn Down River.
+page 13	SHELLS FALL NEAR CONSULATES.
+page 13	ITALY ACCUSED.
+page 13	EXPECT TO DELIVER DECISIVE BLOW.
+page 13	NANKING ROAD BOMBING.
+page 13	700 EVACUATED FROM SHANGHAT ARRIVE IN H.K..
+page 13	Two More Ships Here From War-Torn City.
+page 13	FEFLING OF RELIEF.
+page 13	NEARLY 300 MEN.
+page 13	CHINESE REFUGEES IN MISERY.
+page 13	Thousands Given Transportation To Villages.
+page 13	FOREIGN UNITS CO-OPERATING WELL IN S'HAI.
+page 13	FRENCH FORCE PAUSES BRIEFLY HERE ON WAY TO JOIN GARRISON.
+page 13	SEVERE BATTLES IN NORTH.
+page 13	Japanese Assert China's Advance Checked.
+page 15	DR. KUNG CONDEMNS JAPANESE AGGESSION.
+page 15	STATEMENT BY FRIENDS OF THE CHINESE.
+page 15	MEDICLA SKILL TRIUMPHS OVER DEATH.
+page 17	JAPAN FLETS SHIFTS TO WOOSUNG.
+page 17	Quiet Night, Violent Dawn.
+page 17	Recovering from Shock.
+page 17	Driven From Wharf.
+page 17	Customs Ship Hit.
+page 17	S.V.C. Rescue Attempts.
+page 17	Japanese Fail To Land.
+page 17	"IRON BELT" PIERCED AT SANTANDER.
+page 17	Torre La Vega Now In Guns' Range.
+page 17	Funds For Refugees.
+page 17	Mission Hospital Bombed.
+page 17	SEVERE BATTLES IN NORTH.
+page 17	FIERCE FIGHTING.
+page 17	LOAN TO CHEKIANG.
+page 17	MANCHUKUO REVOLT REPORTED.
+page 17	BRITAIN'S CABINET TO CONFER.
+page 17	Awaiting Reply To Guarantee Plan.
+page 17	NO REPLIES RECEIVED.
+page 17	INDIA RED SHIRT LEADER.
+page 17	BAN REMOVE BY GOVERNMENT.
+page 17	JAPANESE FLIERS SAID KILLED.
+page 17	NOTED M.P. DIES SUDDENLY.
+page 17	ONCE NEWSBOY, MADE FORTUNE IN INDIA.
+page 20	Jesse Owens's World Mark Is Beaten.
+page 20	JOHNSON'S 100 IN 10 2/10.
+page 20	HUNDRED YARDS DASH.
+page 20	Stella Walasiewicz Sets New Record.
+page 20	NEWPORT TOURNAMENT.
+page 20	DONALD BUDGE'S VICTORIES IN BOTH SINGLES AND DOUBLES.
+page 21	COUNTY CRICKET.
+page 21	Close Of Play Scores On Saturday.
+page 24	FUTILE NANKING ATTACK.
+page 24	Bombers Fail To Damage City.
+page 24	Missiles Land Beyond Gates.
+page 24	NICHT RAID FAILS.
+page 24	RAID SUIYUAN TOWNS.
+page 24	AIRCRAFT CARRIERS NEAR.
+page 24	BRIEF APPEARANCE.
+page 24	Says China Winning War With Japan.
+page 24	BLOOD PURGE CONTINUES.
+page 24	CHINESE CLAIM BIG ADVANCES IN S'HAI AREA.
+page 24	AGAIN DECLARE JAPAN'S DEFENCE LINE BROKEN.
+page 24	At Wayside Wharf?
+page 24	Pushing Both Flanks.
+page 24	1,000 Japanese Wounded.
+page 24	Dissolution Of C.N.A.C. Not Confirmed.
+page 24	U.S. Stock-Holders Have No Definite Information.
+page 24	SEVERING CONNECTIONS.
+page 24	Second Huge Battleship Chistended.
+page 24	CHINESE MACHINE-GUN UNIT.
+page 24	Rain Spoils Baseball.
+page 24	St. Louis Passes Pirates Again.
+page 24	AMERICAN LEAGUE.
+page 24	Japanese Leave Foochow.
+page 24	Business Houses All Closed.

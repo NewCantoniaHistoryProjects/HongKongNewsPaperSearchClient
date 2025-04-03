@@ -1,0 +1,138 @@
+page 1	SILENT CROWDS KEEP VIOIL OUTSIDE THE PALACE.
+page 1	POIGNANT SCENES AT SANDRINGHAM.
+page 1	QUEEN MOTHER SHOWS IRON SELF CONTROL.
+page 1	ARCHBISHOP OF CANTERBURY AT HEDSIDE.
+page 1	PARLIAMENT TO MEET.
+page 1	NEW KING'S MESSAGE TO LORD MAYOR.
+page 1	GREAT KING PASSES.
+page 1	PEACEFUL DEATH IN HIS OWN HOME.
+page 1	ITALIAN TRIBUTE IN SHANGHAI.
+page 1	"A Glorious Reign."
+page 1	APPROPRIATE MOURNING TO BE OBSERVED IN CITY.
+page 1	WORLD'S TRIBUTES.
+page 1	CANADLANS LOSE A PERSONAL FRIEND.
+page 1	OPTIMISTIC TO END.
+page 1	But Chances Slight.
+page 1	CONSITIUHON WEAKENED BY PREVIOUS ILLNESS.
+page 3	HOBBY TURNED TO PRACTICAL USE.
+page 3	Old Phone Poles Form Recreation Hall.
+page 3	PRACTICALLY A THEOSOPHIST.
+page 3	Story Of "Previous Birth" ‥By Girl.
+page 3	MANUSCRIPT OF "KIM."
+page 3	Donated To British Museum.
+page 3	MR. HU HAN-MIN.
+page 3	Going To Canton After Chinese New Year.
+page 3	CONFLICTING REPORTS AS TO MOVEMENTS.
+page 3	RESIGNATION OF DR. WANG.
+page 3	Due To Family Reasons.
+page 3	URUGUAY AND SOVIET.
+page 3	Expelled Minister In Paris.
+page 3	FINE BRITISH FILM.
+page 3	LOCAL NEWS BREVITIES.
+page 3	ITALIAN VICTORY.
+page 3	ABYSSINIANS HELPLESS.
+page 3	BEGGING FOR FOOD AND WATER.
+page 3	WAR BULIETIN ISSUED IN ROME.
+page 3	BATTLE CONTINUES.
+page 3	GENEVA DISCSSIONS.
+page 3	"REICH MOTOR ROAD."
+page 3	New Structure Opened In Germany.
+page 3	HUGE DIAMOND UNEARTHED.
+page 6	BRITAIN AND EGYPT.
+page 6	Negotiations For A Treaty.
+page 6	INTENSE COLD IN AMERICA.
+page 6	Many Death Reported From All Parts.
+page 6	BONUS BILL PASSED.
+page 6	"Baby Bonds" For Veterans.
+page 6	THE KING AS A MAN.
+page 6	RAISED THE LEVEL OF PUBLIC LIFE.
+page 6	INFLUENCE OF CHARACTER FELT.
+page 6	His Many Sided Knowledge.
+page 6	Tributes That Ring True.
+page 6	Reign That Began Amid Gathering Clouds.
+page 7	PEN PORTRAIT OF THE LATE KING.
+page 7	HE WAS "FULL OF CONSCIENCE"
+page 7	THE KING AT WORK.
+page 7	Narrative Of His Daily Life.
+page 7	MONARCH NEVER OFF DUTY.
+page 7	Royal Time Table.
+page 7	THE KING.
+page 7	HIS INSPIRING LEADERSHIP.
+page 7	Unifying Figure Of Nation.
+page 7	RARE GIFT OF UNDERSTANDING.
+page 7	Before The War.
+page 7	War Time Econmies.
+page 7	Personal Sacritices.
+page 7	LIFE OF KING GEORGE V.
+page 7	Eventful 26 Years In English History.
+page 7	MEMORABLE TOUR OF INDLA.
+page 7	Years At Sea.
+page 7	Empire Travels.
+page 7	THE KING AS A MAN.
+page 7	A Kingly Worker.
+page 7	Happy Family Life.
+page 7	THE PRINCE.
+page 7	HEIR TO HALF THE WORLD.
+page 7	Most Popular Figure In History.
+page 7	ONE OF MOST ENIGMATK.
+page 9	TOUCHING SCENES WITNESSED OUTSIDE SANDRINGHAM HOUSE.
+page 9	ANXIOUS CROWDS.
+page 9	VILLAGERS WAIT IN SILENCE.
+page 9	Many Women Join The Vigil.
+page 9	QUEEN'S LIGHT DIMMED AT11 P.M.
+page 9	NIGHT LIFE STILLED .
+page 9	West End Loses Its Glitter.
+page 9	GRAN CHACO WAR.
+page 9	Finished At Last.
+page 9	ELECTIONS IN EGYPT New Electoral Law To Operate.
+page 9	WEATHER ROPORT.
+page 9	POIGNANT SCENES AT SANDRINGHAM.
+page 9	ARSON CASE IN PARIS.
+page 9	Important Documents Burned.
+page 9	Earlier Scenes.
+page 9	ANXIETY SHOW BY THE PUBLIC.
+page 9	NAVY'S TRIBUTE TO SAILOR KING.
+page 9	ALL FLAGS IN COLONY AT HALF MAST.
+page 9	GOVERNMENT NOTIFICATION REGARDING MOURNING.
+page 9	Government Gazette Extraordinary.
+page 9	REQUEST FOR WEARING OF MOURNING.
+page 9	Supreme Court Ceremony.
+page 9	AT CENTRAL MAGISTRACY.
+page 9	ST. JOHN BRIGADE'S CONDOLENCES.
+page 9	FESTIVITLES POSTONED.
+page 9	STOCK EXCHANCE CLOSED PERFORMANCE POSTPONED.
+page 9	UNIVERSITY CLOSSED.
+page 9	Great King Passes.
+page 9	WEEK END SOCCER CANCELLED.
+page 9	BALL CANCELLED.
+page 10	FREE SUPPLIES OF GAS.
+page 10	ICE DISKS IN METER.
+page 10	BUT WONTWORK NOW.
+page 10	Metter Damp.
+page 10	THE KING AS A SPORTSMAN.
+page 10	The Royal Sond.
+page 10	The King's "Seattle."
+page 10	Saccess As Yachtiman.
+page 10	THE KING AT WORK.
+page 10	Walk In The Gardens.
+page 10	Whole Time Job.
+page 10	FALL DOWN LIFT SHAFT.
+page 10	Youth Killed In London.
+page 10	PLANE FORCED DOWN.
+page 10	25,000 YEARS AGO.
+page 10	Works Of Art Discovered.
+page 10	INERESTING FINDS INRUSSIA.
+page 10	KIWI A CHAMPION LAYER.
+page 11	PASSENGER SLIPS FROM GANGWAY.
+page 11	Jury Add Rider To Desth Verdict.
+page 11	JAPANESE OBSERVERS AT NAVAL PARLEY.
+page 11	THE KING.
+page 12	World's Tributes.
+page 12	POLITICAL CRISIS IN FRANCE.
+page 12	Expected Resignation Of Cabinet.
+page 12	SPECULATION AS TO SUCCESSOR.
+page 12	NO PLEBISCTTE IN AUSTRIA.
+page 12	Present Regime To Continue.
+page 12	PORTUGAL'S COLONIES.
+page 12	NOT WANTED BY GERMANY.
+page 12	ALL SUCH CLAIMS DENIED.

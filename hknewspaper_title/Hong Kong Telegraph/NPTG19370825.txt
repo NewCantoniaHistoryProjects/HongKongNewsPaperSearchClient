@@ -1,0 +1,147 @@
+page 1	GUNS AGAIN GREET S'HAI DAWN.
+page 1	Merciless Shelling Of Chinese Trenches Continued By Ships.
+page 1	CHINESE SCOFF AT JAPANESE CLAIM THAT ONLY 100 DIED IN WOOSUNG LANDING.
+page 1	LOTIEN RETAKEN.
+page 1	Concentrating On Woosung.
+page 1	"We Will Keep Fighting."
+page 1	Welshman At Home.
+page 1	1,000 More Refugees H.K.-Bound.
+page 1	WHEN BOMBS FELL IN SETTLEMENT.
+page 1	China Ready To Withdraw From S'hai.
+page 1	But Only If Japan Does Likewise.
+page 1	Onus Of Refusal Rests On Tokyo.
+page 1	U.S. Not Informed.
+page 1	Relief Funds.
+page 1	Germany Alert For Russia's Moves In East.
+page 1	PLANES GUARD CANTIN.
+page 1	City Considered Well Defended.
+page 1	"SALVATION BOND" ISSUE.
+page 1	Insurgents Closing On Santander
+page 1	Expect Capture In 48 Hours.
+page 1	Torrelavega Surrenders.
+page 1	SENTENCE OF DEATH.
+page 1	CLIPPER ON OCEAN HOP.
+page 1	KALGN FALLS.
+page 1	Japan Hurling Armies On Rear Of Nankow Pass.
+page 1	AIR RAIDER SHOT DOWN.
+page 1	Major Action Near.
+page 1	Raider Shot Down.
+page 1	JAPAN MAY LOSE HER.
+page 1	Buyers Doubt If Orders Can Be Carried Out.
+page 1	Six Killed In Naval Plane.
+page 1	Struck Submerged Wreckage.
+page 3	DO YOUNG DOCTORS KNOW THEIR JOB?
+page 3	I Am Uneasy About Them.
+page 3	Padre Reveals Marvels Of Spiritual Healing.
+page 7	CHURCHILL WARNS ON NAVAL GUNS.
+page 7	Newest Warships "May Be Inferior."
+page 9	BRITISH ATHLETES' TRIUMPH.
+page 9	SUPERB RUNS OF ROBERTS AND WOODERSON.
+page 9	Wooderson's Great Run At Ibrox.
+page 9	JUST MISSES A WORLD RECORD.
+page 12	Futile Hunt For Work.
+page 12	Roosevelt Cannot Help Marchers.
+page 12	NAZI PARTY CONGRESS.
+page 12	BRITISH DIPOMAL TO ATTEND.
+page 12	Income Tax Yield.
+page 12	Big Increase Shown In Britain.
+page 12	BRITISH MOTOR INDUSTRY RECORD PRODUCTIN FIGURES.
+page 12	Italian Air Victories.
+page 12	French Concerned Over Position.
+page 12	VISITORS FLOOD BRITAIN.
+page 12	THOUSANDS VISIT OLD COUNTRY.
+page 12	OLYMPIA RADIO EXHIBITION.
+page 12	FIVE MILES OF STANDS.
+page 12	BRTTAIN TO PROTEST.
+page 13	FOREIGNERS READY TO FIGHT.
+page 13	Grave Concern Felt For International Settlement's Safety.
+page 13	ALL AMERICANS WARNED FOR ACTIVE SERVICE; BRITISH OROER GUNS FORN H.K..
+page 13	May Have To Face Desperate Chinese Army In Retreat.
+page 13	GREAT JAPANESE OFFENSIVE OPENS.
+page 13	PLANS FOR GENERAL EVACUATION.
+page 13	STILL HOLDING LINES.
+page 13	PRELUDE TO BATTLE.
+page 13	China Ready To Withdraw From S'hai.
+page 13	But Only If Japan Does Likewise.
+page 13	Onus Of Refusal Rests On Tokyo.
+page 13	WHEN BOMBS FELL IN SETTLEMENT.
+page 13	COSTLY ADVANCE TOWARD NANKOW.
+page 13	HEAVY CASUALTIES AS JAPANESE ATTACK MOUNTAIN POSTS.
+page 13	Prison Delivery.
+page 13	ISLANDERS REVOLT.
+page 13	White Men Flee From Inagua.
+page 13	MAN THEY COULDN'T HANG.
+page 13	IDZUMO RETURNS.
+page 13	SEEK TO KEEP PEACE.
+page 13	ITALIAN TROOPOS COMING.
+page 13	MERCILESS SHELLING OF S'HAI.
+page 13	Chinese Retake Lotien In Woosung Battle.
+page 13	Lotien Retaken.
+page 13	Concentrating On Woosung.
+page 15	DO YOUNG DOCTORS KNOW THEIR JOB?
+page 15	I Am Uneasy About Them.
+page 15	Padre Reveals Marvels Of Spiritual Healing.
+page 17	COSTAY ADVANCE TOWARD NANKOW.
+page 17	Two Planes Fall.
+page 17	Dogged Resistance.
+page 17	Battle Near Tientsin.
+page 17	Chinese Prepared.
+page 17	To Kick Japanese Out.
+page 17	Sweeping South.
+page 17	Major Action Near.
+page 17	Raider Shot Down.
+page 17	Correspondent's Experience.
+page 17	MERCILESS SHELLING OF SHANGHAI.
+page 17	Woosung Battle Details.
+page 17	Taken By Surprise.
+page 17	Being Surrounded.
+page 17	FOREIGNERS READY TO FIGHT.
+page 17	FIRE ON AMERICAN FLAG.
+page 17	LANDING IN POOTUNG.
+page 17	SEVERE CASUALTIES.
+page 17	"We Will Keep Fighting."
+page 17	Welshmen At Home.
+page 17	Scoff At Casualty Report.
+page 17	BOUND FOR SAFETY IN HONGKONG.
+page 17	CHINA READY TO WITHDRAW FROM SHANGHAI.
+page 17	U.S. Not Informed.
+page 17	Relief Funds.
+page 17	Town Nearly Wiped Out.
+page 19	Italian Air Victories.
+page 19	French Concerned Over Position.
+page 19	GERMAN BANKER DIES.
+page 19	League Games Spoiled.
+page 19	THIEF CAUGHT.
+page 19	SHORT SHRIFT FOR TRAITORS.
+page 19	F.M.S. RADIO-PHONE.
+page 21	BRITISH ATHLETES' TRIUMPH.
+page 21	SUPERB RUNS OF ROBRTS AND WOODERSON.
+page 21	BEST PERFORMANCES.
+page 21	"DOUBLE" FOR HOLMES.
+page 21	RESULTS.
+page 21	BROWN SMASHES RECORD.
+page 21	ENGLISH POLO SEASON.
+page 24	PLANES GUARD CANTOMN.
+page 24	City Considered Well Defended.
+page 24	Income Tax Yield.
+page 24	Big Increase Shown In Britain.
+page 24	OLYMPIA RADIO EXHIBITION.
+page 24	FIVE MILES OF STANDS.
+page 24	"SALVATION BOND" ISSUE.
+page 24	Insurgents Closing On Santander.
+page 24	Expect Capture In 48 Hours.
+page 24	Torrelavega Surrenders.
+page 24	SENTENCE OF DEATH.
+page 24	1,000 More Refugees H.K.-Bound.
+page 24	Germany Alert For Russia's Moves in East.
+page 24	JAPAN MAY LOSE HER MARKETS.
+page 24	Buyers Doubt if Orders Can Be Carried Out.
+page 24	CONTRACTS CANCELLED.
+page 24	Futile Hunt For Work.
+page 24	Roosevelt Cannot Help Marchers.
+page 24	Six Killed In Naval Plane.
+page 24	Struck Submerged Wreckage.
+page 24	MOUNTAIN CRASH.
+page 24	VISITORS FLOOD BRITAIN.
+page 24	THOUSANDS VISIT OLD COUNTRY.
+page 24	CLIPPER ON OCEAN HOP.

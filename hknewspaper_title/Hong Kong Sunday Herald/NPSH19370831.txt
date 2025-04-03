@@ -1,0 +1,366 @@
+page 1	JAPANESE PLANES RAID CANTON.
+page 1	Populace in Panic As Alarm Signals Sound Approach of Raiders.
+page 1	TWO BOMBS DROPPED CLOSE TO MILITARY AERODRCME; SHAMEEN VOLUNIEERS ARE MOBILISED.
+page 1	Chinese Pursuit Planes Rush To Attack Bombing Fleet.
+page 1	Other Messages.
+page 1	Planes Brought Down?
+page 1	Another Report.
+page 1	Two Raiders Down Spokesman Claims.
+page 1	Tatung Bombed Again.
+page 1	64 Japanese Naval Vessels Off Woosung.
+page 1	Raid On Nanking Frustrated.
+page 1	China Not Ready For Peace Talk.
+page 1	Japan Must First Withdraw From Present Pestition.
+page 1	Chiang Urges Intervention.
+page 1	GENERAL MOBILISATION.
+page 1	MAKES NO APPEAL.
+page 1	FRAGMENTS OF AERIAL BOMB.
+page 1	British Ships Reported Boorced.
+page 1	JAPANESE ADVANCING IN NORTH.
+page 1	Chinese Leave Kalgan.
+page 1	Nankow Lines Untenable.
+page 1	Kalgan Evacuated.
+page 1	REINFORCEMENT FOR FENGTAI.
+page 1	WARSHIPS WILL NOW EVACUATE U.S. NATIONALS.
+page 1	Dollar Liners Won't Call at Shanghai.
+page 1	Navy Taking Over.
+page 1	Strong Protest.
+page 1	CHINA ADMITS BOMBING OF PRES HOOVER.
+page 1	EXPLANATION.
+page 1	FRESH ALARM.
+page 1	Farr Happy At Delay Of Battle.
+page 1	Eye Has Healed Satisfactorily.
+page 1	Odds Against Welshman New Shortening.
+page 1	FIGHT IS ON.
+page 1	RUSSIA DEFENDS TREATY.
+page 1	Fascist Nations Disapprove.
+page 1	Expect Crisis will Be Much Aggravated.
+page 1	"BOLSHEVIK MANOEUVRES."
+page 1	CERMAN SUSPICIOUS.
+page 3	EUROPEAN WIFE OF CHINESE BARRISTER GRANTED A DECREE NISI.
+page 3	Story Of A Holiday In Hongkong.
+page 3	WIFE'S EVIDENCE.
+page 3	HUSBAND'S WHEREABOUTS UNKNOWN.
+page 3	NEW INFANTRY TANK.
+page 3	SPEED SACRIFICED FOR ARMOUR.
+page 3	BABY BORN AFTER MOTHER'S DEATH.
+page 3	Court Order For Operation.
+page 3	"VERU STIRDU."
+page 3	TYPIS SUES JOAN CRAWFORD FOR 10,000 pounds.
+page 3	McMAHON, OUT OF GAOL, WRITES TO ROYAL DUKE.
+page 3	Not Allowed To Post Letter From Prison.
+page 3	"WILL HIDE AWAY."
+page 3	NO COMPLAINTS.
+page 3	Left, Left And Why.
+page 3	CONGRESS "BOYCOTT OF TITLES."
+page 4	France Will Protest.
+page 4	Italian Actions Amount To Open Intervention.
+page 4	Old Resident Passes Away.
+page 4	Mr. N. A. Johansenn Came Here In 1890.
+page 4	BRITISH NOTE APPROVED.
+page 4	OUTRAGES IN PALESTINE.
+page 4	BRITAIN RATIFIES AGREEMENT SUGAR INDUSTRY CONTROL.
+page 4	TRAITORS EXECUTED.
+page 4	JAPANESE PLANES RAID CANTON.
+page 4	ANOTHER RECRUITING INDUCEMENT.
+page 4	ALLEGED ASSAULT.
+page 4	LOCAL RARRISTER WIINESS IN KOWLOON CASE.
+page 4	TYFUOON WAILNING.
+page 5	CHUNG SING GALAS.
+page 5	CONCLUSION OF SERIES TO AID RELIEF FUND.
+page 5	Vlce-Presldent's Speech.
+page 5	REFUGEES COMMITTEE.
+page 5	JUMPED TO DEATH CHOLERA HORRORS DESCRIBED.
+page 5	Staff Overworked.
+page 5	A Bad Case Of Cholera.
+page 5	EXCITING VOYAGE.
+page 5	PRESIDENT LINCOLN IN HAIL OF BULLEIS.
+page 7	DARWIN DEFENCE LINK WITH FAR EAST.
+page 7	Valuable Support In An Emergency.
+page 7	AERODROME SITE FIXED.
+page 7	Troops Building Barracks And Mounting Guns.
+page 7	PROTECTION FO SEA-BORNE AND AIR-BORNE TRADE.
+page 7	PROTECT TRADE.
+page 7	BACKYARD WELLS.
+page 7	MORE AT WORK IN THE BLACK AREAS.
+page 7	"COMPULSORY ENMITY."
+page 7	Christian Attitude To Fighting.
+page 7	PROTEST AGAINST 'NEXT WAR' COMPLEX.
+page 7	NOT INEVITABLE.
+page 7	PEDESTRIAN TESTS HIS RIGHT OF WAY.
+page 7	THE MOTORIST WHO OBEYED.
+page 7	By a Pedealrlan.
+page 7	TWO MINUTES' WAIT.
+page 7	Experience If A Driver.
+page 8	OTHER RESULTS.
+page 8	ANOTHER CENTURY FOR AMES.
+page 8	BIG ESSEX WIN.
+page 8	NEW ZEALANDERS WIN.
+page 8	Challenge Cricket Match Sept. 11.
+page 8	FASTEST 100 OF THE SEASON.
+page 8	Von Cramm & Henkel Triumph: Beat Budge And Mako In U.S. Championship Final.
+page 8	Aston villa Reinstate Cummings.
+page 9	Padgham Beats Cotton.
+page 9	Swimming Gala Is Planned. 
+page 13	CANTON AIR RAIDERS DRIVEN OFF.
+page 13	Second Attack By Japanese Bombers Short Of Obiective.
+page 13	INTERCEPTED BY FAST PURSUIT PLANES WELL BEYOND CITY.
+page 13	Wreckage Of One Of Raiding Machines Discovered With Crew Of Three Killed.
+page 13	Turned Back.
+page 13	Airmen Killed.
+page 13	18 Reported Killed.
+page 13	First Attack.
+page 13	Other Messages.
+page 13	Planes Brought Down?
+page 13	Another Report.
+page 13	Two Raiders Down Spokesman Claims.
+page 13	Tatung Bombed Again.
+page 13	China Not Ready For Peace Talk.
+page 13	Japan Must Fist Withdraw From Present Position.
+page 13	Chiang Urges Intervention.
+page 13	MADAME CHIANG TRANSLATES.
+page 13	CHINA FINALLY ROUSED.
+page 13	VICTOR AND VANQUISHED.
+page 13	WARSHIPS WILL NOW EVACUATE U.S. NATIONALS.
+page 13	Dollar Liners Won't Call at Shanghai.
+page 13	Navy Taking Over.
+page 13	Strong Protest.
+page 13	CHINA ADMITS BOMBING OF PRES HOOVER.
+page 13	EXPLANATION.
+page 13	LOUIS GIVEN TOUGH FIGHT BY WELSHMAN.
+page 13	Unpopular Decision Against Farr In 15-Round Fight.
+page 13	Louis Evens Count.
+page 13	HAPPY AT DELAY.
+page 13	JAPANESE ADVANCING IN NORTH.
+page 13	Chinese Leave Kalgan.
+page 13	Nankow Lines Untenable.
+page 13	Kalgan Evacuated.
+page 13	REINFORCEMENT FOR FENGTAI.
+page 15	EUROPEAN WIEE OF CHINESE BARRISTER GRANTED A DECREE NISI.
+page 15	Story Of A Holiday In Hongkong.
+page 15	WIFE'S EVIDENCE.
+page 15	HUSSAND'S WREREABOUTS.
+page 15	NEW INFANTRY TANK.
+page 15	SPEED SACRIFICED FOR ARMOUR.
+page 15	BABY BORN AFTER MOTHER'S DEATH.
+page 15	Court Order For Operation.
+page 15	"VERY STURDY."
+page 15	TYPIST SUES JOAN CRAWFORD FOR 10,000 pounds.
+page 15	McMAHON, OUT OF GAOL, WRITES TO ROYAL DUKE.
+page 15	Not Allowed To Post Letter From Prison.
+page 15	"WILL HIDE AWAY."
+page 15	NO COMPLAINTS.
+page 16	France Will Protest.
+page 16	Italian Actions Amount To Open Intervention.
+page 16	Old Resident Passes Away.
+page 16	Mr. N. A Johansenn Cam Here In 1890.
+page 16	BRITISH NOTE APPROVED.
+page 16	OUTRAGES IN PALESTINE.
+page 16	BRITAIN RATIES AGREEMENT SUGAR INDUSTRY CONTROL.
+page 16	TRAITORS EXECUTED.
+page 16	BABY'S RIGHT TO BE BORN UPHELD.
+page 16	ANOTHER RECRUITNO INDUCEMENT.
+page 16	TYPHOON WARNING.
+page 17	DARWIN DEFENCE LINK WITH FAR EAST.
+page 17	Valuable Support In An Emergency.
+page 17	AERODROME SITE FIXED.
+page 17	Troops Building Barracks And Mounting Guns.
+page 17	PROTECTION FO SEA-BORNE AND AIR-BORNE TRADE.
+page 17	PROTECT TRADE.
+page 17	BACKYARD WELLS.
+page 17	MORE AT WORK IN THE BLACK AREAS.
+page 17	"COMPULSORY ENMITY."
+page 17	Christian Attitude To Fighting.
+page 17	PROTEST AGAINST 'NEXT WAR' COMPLEX.
+page 17	NOT INEVITABLE.
+page 17	PEDESTRIAN TESTS HIS RIGHT OF WAY.
+page 17	THE MOTORIST WHO OBEYED.
+page 17	By a Pedealrlan.
+page 17	TWO MINUTES' WAIT.
+page 17	Experience If A Driver.
+page 18	OTHER RESULTS.
+page 18	ANOTHER CENTURY FOR AMES.
+page 18	BIG ESSEX WIN.
+page 18	NEW ZEALANDERS WIN.
+page 18	Challenge Cricket Match Sept. 11.
+page 18	FASTEST 100 OF THE SEASON.
+page 18	Von Cramm & Henkel Triumph: Beat Budge And Mako In U.S. Championship Final.
+page 18	Aston villa Reinstate Cummings.
+page 19	CHUNG SING GALAS.
+page 19	CONCLUSION OF SERIES TO AID RELIEF FUND.
+page 19	Vuce-Presldent's Speech.
+page 19	REFUGEES COMMITTEE.
+page 19	JUMPED TO DEATH CHOLERA HORRORS DESCRIBED.
+page 19	Stall Overworked.
+page 19	A Bad Case Of Cholera.
+page 19	EXCITING VOYAGE.
+page 19	PRESIDENT LINCOLN IN HAIL OF BULLETS.
+page 21	Padgham Beats Cotton.
+page 21	UNHAPPY END TO THE AMTCH.
+page 21	AMATEURS' GREAT FINISII.
+page 21	Swimming Gala Is Planned.
+page 21	MAMAK HOCKEY.
+page 21	SEASON'S ENTRIES TO BE LIMITED.
+page 21	REDUCTION WILL BE MADE IN FEES.
+page 21	ELECTION OF OFFICERS.
+page 21	SECRETARY'S REPORT.
+page 21	TREASURER'S REPORT.
+page 24	FRAGMNTS OF AERIAL BOMB.
+page 24	CHINA NOT READY FOR PEACE TALK.
+page 24	NOT ONLY CIHNA'S FIGHT.
+page 24	GENERAL MOBILISATION.
+page 24	MAKES NO APPEAL.
+page 24	Man Chased Into Church And Killed.
+page 24	RUSSIA DEFENDS TREATY.
+page 24	Fascist Nations Disapprove.
+page 24	Expect Crisis Will Be Much Aggravated.
+page 24	MAIL FOR SHANGHAI.
+page 24	"BOLSHEVIK MANOEUVRES."
+page 24	GERMAN SUSPICIOUS.
+page 24	CANTON AIR RAIDERS DRIVEN OFF.
+page 24	64 Japanese Naval Vessels Off Woosung.
+page 24	Raid On Nanking Frustrated.
+page 24	Official Report.
+page 25	CANTION AIR RAIDERS DRIVEN OFF.
+page 25	Second Attack By Japanese Bombers Short Of Objective.
+page 25	INTERCEPTED BY FAST PURSUIT PLANES WELL BEYOND CITY.
+page 25	Wreckage Of One Of Raiding Machines Discovered With Crew Of Three Killed.
+page 25	SECOND RAID TURNED BACK.
+page 25	Airmen Killed.
+page 25	18 Reported Killed.
+page 25	12 Bombs Dropped.
+page 25	Shiukwan Bombed.
+page 25	MAY DEMAND QUICK REPLY.
+page 25	NO WORD FROM TOKYO.
+page 25	CLAIM TRANSPORT HIT.
+page 25	INJURED ON HOOVER.
+page 25	China Not Ready For Peace Talk.
+page 25	Japan Must First Withdraw From Present Position.
+page 25	Chiang Urges Intervention.
+page 25	MADAME CHANG TRANSLATES.
+page 25	CHINA FINALLY ROUSED.
+page 25	VICTOR AND VANQUISHED.
+page 25	WARSHIPS WILL NOW EVACUATE U. S. NATIONALS.
+page 25	Dollar Liners Won't Call at Shanghai.
+page 25	Navy Taking Over.
+page 25	Strong Protest.
+page 25	Negotiations Started.
+page 25	CHINA ADMITS BOMBING OF PRES HOOVER.
+page 25	GIANTS WIN AGAIN.
+page 25	LOUIS GIVEN TOUGHFICHT BY WELSHMAN.
+page 25	Unpopular Decision Against Farr In 15-Round Fight.
+page 25	Slim Margin.
+page 25	Louis Evens Count.
+page 25	Celebrities Cheered.
+page 25	Fight By Rounds.
+page 25	PREPARING FOR MAJOR OFFENSIVE.
+page 25	Japanese Anxious For Battle.
+page 25	Fighting Still Raging Near Liuho, Woosung.
+page 25	Japanese Being Pushed Back.
+page 25	Japanese Beaten Back.
+page 27	EUROPEAN WIFE OF CHINESE BARRISTER GRANTED A DECREE NTSI.
+page 27	Story Of A Holiday In Hongkong.
+page 27	WIFE'S EVIDENCE.
+page 27	HUSBAND'S WHERABOUTS UNKNOWN.
+page 27	NEW INFANTRY TANK.
+page 27	SPEED SACRIFICED FOR ARMOUR.
+page 27	BABY BORN AFTER MOTHER'S DEATH.
+page 27	Court Order For Operation.
+page 27	"VERY STURDY."
+page 27	TYPIST SUES JOAN CRAWFORD FOR 10,000 pounds.
+page 27	McMAHON, OUT OF GAOL, WRITES TO ROYAL DUKE.
+page 27	Not Allowed To Post Letter From Prison.
+page 27	"WILL HIDE AWAY."
+page 27	NO COMPLAINTS.
+page 28	CANTON AIR RAIDERS DRIVEN OFF.
+page 28	Saw Pilot Jump.
+page 28	Shell Hits House.
+page 28	First Attack.
+page 28	Other Messages.
+page 28	Planes Brought Down?
+page 28	Another Report.
+page 28	Two Raiders Down Spokesman Claims.
+page 28	Tatung Bombed Again.
+page 28	U. S. CONSULATE CLOSED.
+page 28	64 Japancse Naval Vessels Off Woosung.
+page 28	Raid On Nanking Frustrated.
+page 28	Official Report.
+page 29	POLICE COURT ITEMS.
+page 29	POISONED BANANAS STORY.
+page 29	TYPIHOON WARNING.
+page 29	Accused Denies Murder.
+page 29	False Evidence Allegation.
+page 29	Old Resident Passes Away.
+page 29	Mr. N. A. Johansenn Came Here In 1890.
+page 29	France Will Protest.
+page 29	Italian Actions Amount To Open Intervention.
+page 29	MORE TRAFFIC OFFENCES.
+page 29	SEVERAL EUROPEANS SUMMONED.
+page 29	AMBASSADOR'S CAR HAD BIG FLAG.
+page 29	BRITISH NOTE APPROVED.
+page 29	OUTRAGES IN PALESTINE.
+page 31	WARSHIPS WILL NOW EVACUATE U.S. NATIONALS.
+page 31	U.S. Seaman Dies.
+page 31	Hoover Bombing.
+page 31	CHINA NOT READY FOR PEACE TALK.
+page 31	NOT ONLY CHINA'S FIGHT.
+page 31	GENERAL MOBILISATION.
+page 31	MAKES NO APPEAL.
+page 31	BETTER RURAL HOUSES MARKED PROGRESS REPORTED.
+page 31	FRAGMENTS OF AERIAL BOMB.
+page 31	LOUIS GIVEN TOUGH FIGHT BY WELSHMAN.
+page 31	Round Four Even.
+page 31	Farr Takes Lead.
+page 31	Eyes Damaged Again.
+page 31	Piling Up Points.
+page 31	Crowd In Uproar.
+page 31	Farr Finishes Strongly.
+page 31	Farr's Eye Bleeding.
+page 31	Louis Still Retreating.
+page 31	Louis Fights Back.
+page 31	Louis Makes The Pace.
+page 31	PUBLIC HEALTH SERVICES BRITISH NATIONAL CAMPAICN.
+page 31	BRITAIN RATIFIES AGREEMENT SUGAR INDUSTRY CONTROL.
+page 31	40,000 See Bout.
+page 31	HAPPY AT DELAY.
+page 31	PREPAPING FOR MAJOR OFFENSIVE.
+page 31	Japanese Raids.
+page 32	YORKSHIRE --- CRICKET CHAMPIONS FOR 19TH TIME.
+page 32	BEAT HANTS BY 10 WICKETS.
+page 32	KENT FINISH STRONGLY.
+page 32	N. ZEALANDERS' GREAT WIN.
+page 32	OTHER RESULTS ANOTHER CENTURY FOR AMES.
+page 32	BIG ESSEX WIN. 
+page 32	NEW ZEALANDERS WIN.
+page 32	Challenge Cricket Match Sept. 11.
+page 32	FASTEST 100 OF THE SEASON.
+page 32	Aston villa Reinstate Cummings.
+page 33	Padgham Beats Cotton.
+page 33	UNHAPPY END TO THE MATCH.
+page 33	Hard hats For Miners.
+page 33	Value Of Protective Clothing.
+page 33	Temperature Up To-Day.
+page 33	Typhoon East Of Balintang.
+page 33	RECENT MOMBASSA RIOTS CONFINED TO FACTION FIGHTING.
+page 33	ANOTHEIL RECRUITING INDUCEMENT.
+page 36	ROYAL BIRTHDAY OBSERVED.
+page 36	Netherlands Consul Gives Reception.
+page 36	Refugee Help Appreciated.
+page 36	CONFLICT AND STRIFE.
+page 36	MR SMITH'S REPLY.
+page 36	LADIES' WELFARE COMMITTEE HELPING SHANGHAI REFUGEES.
+page 36	JAPANESE ADVANCING IN NORTH.
+page 36	Chinese Leave Kalgan.
+page 36	Nankow Lines Untenable.
+page 36	Kalgan Evacuated.
+page 36	MAIL FOR SHANGHAI.
+page 36	Reinforcement For Fengtai.
+page 36	Brisk Fighting.
+page 36	Japanese Trapped.
+page 36	RUSSIA DEFENDS TREATY.
+page 36	Fascist Nations Disapprove.
+page 36	Expect Crisis Will Be Much Aggravated.
+page 36	"BOLSHEVIK MANOEUYRES."
+page 36	GERMAN SUSPICIOUS.
+page 36	CALEDONIA ON TOUR DELIGHTS SEASIDE CROWDS.
+page 36	Fierce Fighting.

@@ -1,0 +1,6 @@
+page 2	NINGPO.
+page 2	TIENTSIN.
+page 2	PEKING.
+page 2	TOKIO.
+page 2	BANGKOK.
+page 2	DISCOVERIES OF MINERALS IN JAPAN.

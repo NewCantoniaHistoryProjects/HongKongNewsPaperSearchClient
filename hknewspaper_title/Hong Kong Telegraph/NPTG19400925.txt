@@ -1,0 +1,294 @@
+page 1	BRITISH GUNS POUNDING ATDAKAR WHILE DE GAULLE TRIES TO LAND.
+page 1	FRENCH SUBMARINE IS SUNK DURING BIG NAVAL ACTION.
+page 1	FRENCH PLANES RAID GIBRALTAR.
+page 1	R.A.F. ATTACK ON NAZI M.T.B.s.
+page 1	Dive-Bombing.
+page 1	CHANNEL OPERATIONS Brest Bombed.
+page 1	STOCK EXCHANGE.
+page 1	DEFENCES SOLID.
+page 1	German Raids On London Fail.
+page 1	They Turned Tail.
+page 1	British Pilots Carry Out Raids on Reich.
+page 1	Six Attempts To Land.
+page 1	"The Battle Continues".
+page 1	Gibraltar Raided.
+page 1	OFFICIAL VERSION.
+page 1	Why Attack Was Launched.
+page 1	Dakar Responsible.
+page 1	Chungking Urges British To Open The Burma Road.
+page 1	Terrific Night Raids By R.A.F. on Berlin.
+page 1	More Fighting In Indo-China.
+page 1	Britain's Splendid Shipping Position.
+page 2	GOVERNMENT OF HONG KONG.
+page 2	ASSISTANT IMMIGRATION OFFICER.
+page 2	FOR THE PROTECTION OF CHILDREN.
+page 2	British Air Raids On Berlin.
+page 2	Barrage Fails To Check R.A.F.
+page 2	German Accusation.
+page 2	Il Killed: 14 Injured.
+page 2	Damage Inspection Refused.
+page 2	Air Ministry Report.
+page 2	Shanghai Volunteers.
+page 2	Large Contingent For Service.
+page 2	Evacuation Exemption Considered.
+page 2	MEDICAL ASSOCIATION.
+page 2	THREE PAPERS TO BE READ AT TO-DAY'S MEETING.
+page 4	my son, my son!
+page 4	The best-selling novel by HOWARD SPRING.
+page 5	SEXES TO GET SAME PAY-RATE.
+page 5	INDUSTRY COULD USE 250,000 MORE WOMEN.
+page 5	Same Rates At Men's.
+page 5	How Many In An L.D.V. Battalion?
+page 5	Boy, 18, Rescues 3 With His New Boat.
+page 5	OFFICIAL COMMUNIQUES.
+page 5	R.A.F. Raids Italian Bases In Abyssinia.
+page 5	LONDON: German Formations Broken Up.
+page 5	R.A.F. More Raids On Italian Bases.
+page 5	CAIRO: Our Artillery Silences Enemy.
+page 5	CHANNEL: Attacks On Nazi Minesweepers.
+page 5	BRITISH GUNS POUNDING.
+page 5	Urban Council Tribute To Police Chief.
+page 5	Mr. Perdue Welcomed.
+page 5	Other Business.
+page 5	Queen Mary Loses Her Dearest Friend.
+page 5	World Trip.
+page 5	Government Control Of Civil Building.
+page 5	Licences For New Structures.
+page 5	Story Of "Reuters" Is Filmed.
+page 5	Watch On Petrol Rations.
+page 5	Checking Abuses.
+page 5	CHUNGKING URGES BRITISH.
+page 5	"Will Resist Japanese".
+page 5	American Interest.
+page 5	BRITAIN'S POSITION.
+page 5	TERRIFIC RAIDS ON BERLIN.
+page 5	Volunter Rinks.
+page 5	Private Went On With One Arm.
+page 5	'Don't Stop' He Said.
+page 7	TINPLATE SHAREHOLDERS CHALLENGE DIRECTORS.
+page 7	BOOS AND CHEERS AT STEEL CO. MEETING.
+page 7	"Give Us The Facts".
+page 7	Women's Protest.
+page 7	RESIDENT RETURNING.
+page 7	MR. T.B. WILSON ON WAY BACK FROM HOLIDAY.
+page 7	Britain's Tank Army Is Growing Fast.
+page 7	"Belgium Will Never Surrender To Germany".
+page 7	SEAVACUATION NAMES STILL BEING TAKEN.
+page 7	CRUISER "SUNK BY CHEEK" Says Italian Officer.
+page 7	"No Respect".
+page 7	JOB IS WAR-MADE.
+page 8	V.C. COMMISSIONAIRE ADMITS HE IS.
+page 8	THE MAN WHO NEARLY KILLED ADOLF HITLER.
+page 8	CHOLERA STATISTICS.
+page 8	Many Fatal Cases In Present Epidemic.
+page 8	Small Deercase Shown.
+page 8	Central flgure of the painting was Sergeant Tandey.
+page 8	Charged Machine Gun Nest.
+page 8	COSTS MORE TO LIVE.
+page 8	YOU NEED 24/2 TO BUY 1 POUNDS WORTH OF GOODS.
+page 8	Lord Catto For Bank Of England?
+page 8	"Grooming" Him.
+page 8	"Too Narraw".
+page 9	BRITISH GUNS POUNDING DAKAR WHILE DE GAULLE TRIES TO LAND.
+page 9	FRENCH SUBMARINE IS SUNK DURING BIG NAVAL ACTION.
+page 9	French Planes In Retaliation Raid.
+page 9	3-HOUR RAID ON GIBRALTAR.
+page 9	Navy Steams Out To Action.
+page 9	PRESIDENT SHIP AGROUND.
+page 9	Well-Known In H.K.
+page 9	Latest Air Mail Situation.
+page 9	DEFENCHES SOLID.
+page 9	German Raids On London Fail.
+page 9	They Turned Tail.
+page 9	Air Force Smash Up Nazi Channel Bases.
+page 9	Six Attempts To Land.
+page 9	"The Battle Continues".
+page 9	Gibraltar Raided.
+page 9	OFFICIAL VERSION.
+page 9	Why Attack Was Launched.
+page 9	Dakar Responsible.
+page 9	Britain May Send Battleships to Far East.
+page 9	Joint Anglo-U.S. Action In Orient Said Probable.
+page 9	Terrific Night Raids By R.A.F. on Berlin.
+page 9	Aerodrome Attacked.
+page 9	Gas Works Explosion.
+page 9	Chinese May Shortly Move Into Indo-China.
+page 10	British Air Raids On Berlin.
+page 10	Barrage Fails To Check R.A.F.
+page 10	German Accusation.
+page 10	Il Killed: 14 Injured.
+page 10	Damage Inspection Refused.
+page 10	Air Ministry Report.
+page 10	Shanghai Volunteers.
+page 10	Large Contingent For Service.
+page 10	Evacuation Exemption Considered.
+page 10	Appeals To Be Heard Publicly.
+page 12	my son, my son!
+page 12	The best-selling novel by HOWARD SPRING.
+page 13	Claim Consular Office Was Searched.
+page 13	Japanese Protest On Singapore Arrests.
+page 13	Searched By Mistake.
+page 13	TERRIFIC RAIDS ON BERLIN.
+page 13	Most Successful Raid Yet.
+page 13	Pilot's Story.
+page 13	British Pilots Carry Out Raids on Reich.
+page 13	DISEASE IN SHELTERS.
+page 13	JOINT ANGLO-U.S. ACTION LIKELY.
+page 13	British Move Reported.
+page 13	Mr. Hull's Statement.
+page 13	Chungking Opinion.
+page 13	They Wait For The Invader.
+page 13	Berlin-Born Count Gets D.F.C.
+page 13	Polish Pilot Shot Down Five Germans.
+page 13	Seven More D.F.C.' s
+page 13	STOCK EXCHANG.
+page 13	Firmer Tone Follows Keynes' Broodcast.
+page 13	Watch On Petrol Raions Checking Abuses.
+page 13	Shanghai Has To Walk.
+page 13	Transport Strike Spreads.
+page 13	BRITISH GUNS POUNDING.
+page 13	"United Press" and "Domei" Messages.
+page 13	CHINESE MAY SHORTLY MOVE.
+page 13	AIR FORCE SMASH UP NAZI BASES.
+page 13	TWO FOR ONE.
+page 13	Madras Makes Promise Of Aeroplanes.
+page 13	Aid Britain More Says N.Y. "Times".
+page 13	Designs For King's New Awards.
+page 13	Britain's Splendid Shipping Position.
+page 13	Government Control Of Civil Building.
+page 15	R.A.F. ATTACK ON NAZI M.T.B.s.
+page 15	Spectacular Dive-Bombing.
+page 15	Dive-Bombing.
+page 15	Chungking Urges British To Open The Burma Road.
+page 15	"Will Resist Japanese".
+page 15	American Interest.
+page 15	CHANNEL OPERATIONS Brest Bombed.
+page 15	AXIS PARLEYS.
+page 15	Collaboration Boast.
+page 15	British Submarine Feared Lost.
+page 15	Britain's Tank Army Is Growing Fast.
+page 15	OFFICIAL COMMUNIQUES.
+page 15	R.A.F. Raids Italian Bases In Abyssinia.
+page 15	LONDON: German Formations Broken Up.
+page 15	R.A.F.: More Raids On Italian Bases.
+page 15	CAIRO: Our Artillery Silences Enemy.
+page 15	CHANNEL: Attacks On Nazi Minesweepers.
+page 15	Story Of "Reuters" Is Filmed.
+page 15	Screened Before U.S. Newspapermen.
+page 15	More Aussies To Serve Overseas.
+page 16	V.C. COMMISSIONAIRE ADMITS HE IS.
+page 16	THE MAN WHO NEARLY KILLED ADOLF HITLER.
+page 16	Central flgure of the painting was Sergeant Tandey.
+page 16	Charged Machine Gun Nest.
+page 16	COSTS MORE TO LIVE.
+page 16	YOU NEED 24/2 TO BUY 1 POUNDS WORTH OF GOODS.
+page 16	Lord Catto For Bank Of England?
+page 16	"Grooming" Him.
+page 16	"Too Narraw".
+page 17	NAZI-JAPAN DEFENSIVE ALLIANCE IN THE FAR EAST IS REPORTED.
+page 17	To Become Effectives in Event Of Anglo-U.S. Collaboration.
+page 17	GIBRALTAR RAIDED BY FRENCH, SAY REPORTS.
+page 17	JOINT ANGLO-U.S. ACTION PROBABLE.
+page 17	3-HOUR RAID ON GIBRALTAR.
+page 17	Navy Steams Out To Action.
+page 17	PRESIDENT SHIP AGROUND.
+page 17	MINE-SWEEPERS BOMBED BY R.A.F.
+page 17	French Repudiate Indo-China Pact.
+page 17	Vichy Protest.
+page 17	Chinese May Move.
+page 17	Japanese Casualties.
+page 17	More Fighting.
+page 17	Haiphong Landing Scheduled.
+page 17	British More Reported.
+page 17	Mr. Hull's Statement.
+page 17	Chungking Opinion.
+page 17	Nazi Troops In Finland.
+page 17	Short Cut To Norway.
+page 17	Vivid And Exclusive Stories Of Last Night's Severe Raids On London And Southampton: Casualties High.
+page 17	Destruction In West End Reported To Be Heavy.
+page 17	Special to the "Telegraph".
+page 17	Gen. De Gaulle's Movement Spreads Rapidly in France.
+page 17	Air Force Smash Up Nazi Channel Bases.
+page 17	Vivid Description.
+page 17	23 Districts Bombed.
+page 18	FRENCH REPUDIATE PACT.
+page 18	Outwardly Quiet.
+page 18	Ambassador's Declaration.
+page 18	DESTRUCTION IN WEST END.
+page 18	Y.M.C.A. Hit.
+page 18	Southampton Too.
+page 18	Wales Visited.
+page 18	NAZI-JAPAN DEFENSIVE.
+page 18	Bases In Far East?
+page 18	DEFENCES SOLID.
+page 18	German Raids On London Fail.
+page 18	They Turned Tail.
+page 18	Fails To Report His Arrival Portuguese Fined.
+page 18	Carried Cameras In Banned Areas.
+page 18	Youth Struck By Motor Car.
+page 18	Caught In Act Of Stealing.
+page 18	Shanghai Has To Walk.
+page 18	French Trams Running.
+page 20	my son, my son!
+page 20	From The best-selling novel by HOWARD SPRING.
+page 21	BRITISH GUNS POUNDING DAKAR WHILE DE GAULLE TRIES TO LAND.
+page 21	Six Attempts To Land.
+page 21	"The Battle Continues"
+page 21	Gibraltar Raided.
+page 21	"United Press" and "Domei" Messages Fighting In Progress at 4 p.m.
+page 21	Shipping Company Fined $100.
+page 21	Failure To Submit Passenger List.
+page 21	Once In 20 Years.
+page 21	French Arrivals.
+page 21	British Pilots Carry Out Raids on Reich.
+page 21	Latest Air Mail Situation.
+page 21	STOCK EXCHANGE.
+page 21	DISEASE IN SHELTERS.
+page 21	OFFICIAL VERSION.
+page 21	Why Attack Was Launched.
+page 21	Dakar Responsible.
+page 21	No Invasion Attempt Yet.
+page 21	Doubls on Reported.
+page 21	Gale Plays Havoc.
+page 21	TWO FOR ONE.
+page 21	Madras Makes Promise Of Aeroplanes.
+page 21	They Wait For The Invader.
+page 21	Claim Consular Office Was Searched.
+page 21	Japanese Protest On Singapore Arrests.
+page 21	Searched By Mistake.
+page 21	Terrific Night Raids By R.A.F. on Berlin.
+page 21	Aerodrome Attacked.
+page 21	Gas Works Explosion.
+page 21	Most Succeuful Raid Yet.
+page 21	Pilot's Story.
+page 21	German Claims.
+page 21	Government Control Of Civil Building.
+page 23	R.A.F. ATTACK ON NAZI M.T.B.s.
+page 23	Spectacular Dive-Bombing.
+page 23	Dive-Bombing.
+page 23	Chungking Urges British To Open The Burma Road.
+page 23	"Will Resist Japanese".
+page 23	American Interest.
+page 23	CHANNEL OPERATIONS Brest Bombed.
+page 23	AXIS PARLEYS.
+page 23	Collaboration Boast.
+page 23	British Submarine Feared Lost.
+page 23	Britain's Tank Army Is Growing Fast.
+page 23	OFFICIAL COMMUNIQUES.
+page 23	R.A.F. Raids Italian Bases In Abyssinia.
+page 23	LONDON: German Formations Broken Up.
+page 23	R.A.F.: More Raids On Italian Bases.
+page 23	CAIRO: Our Artillery Silences Enemy.
+page 23	CHANNEL: Attacks On Nazi Minesweepers.
+page 23	Story Of "Reuters" Is Filmed.
+page 23	Screened Before U.S. Newspapermen.
+page 23	More Aussies To Serve Overseas.
+page 24	Evacuation Exemption Considered.
+page 24	Appeals To Be Heard Publicly.
+page 24	U.S. EMBARGO FORECAST.
+page 24	Berlin-Born Count Gets D.F.C.
+page 24	Polish Pilot Shot Down Five Germans.
+page 24	Seven More D.F.C's.
+page 24	Britain's Splendid Shipping Position.
+page 24	Full Compensation.
+page 24	Aid Britain More Says N.Y. "Times".

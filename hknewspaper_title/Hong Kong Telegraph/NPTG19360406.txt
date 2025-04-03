@@ -1,0 +1,228 @@
+page 1	H.K. PEOPLE ON BLAZING SHIP.
+page 1	RESCUE WORK HAMPERED.
+page 1	HEAVY SEA WHERE TRICOLOR BURNS BUT FREIGHTER READY TO SAVE ALL ABOARD.
+page 1	Children Aboard,
+page 1	Rescuers Reach Tricolor.
+page 1	Yarraville stands By.
+page 1	Sea Subsiding.
+page 1	Shanghai Passengers.
+page 1	PURSUING FORGERS.
+page 1	Roosevelt's Demand For New Taxes.
+page 1	MUST BALANCE HIS NEXT BUDGET.
+page 1	BUT CONGRESS OPPOSED.
+page 1	SUCCESSFUL OPERATION.
+page 1	Protests Innocencen To Death.
+page 1	Hauptmann Walks Bravely To Chair.
+page 1	'I' M AT PEACE WITH GOD'
+page 1	Died Bravely.
+page 1	Unflinching.
+page 1	Last Chapter.
+page 1	Escapes Death And Prison.
+page 1	LAMPSON WILL WRITE ON NEEDED REFORMS.
+page 1	CADOGAN WILL SEE HIROTA. 
+page 1	AMBASSADOR ON WAY TO ENGLAND.
+page 1	EX-KING MAY PLEAD FOR SPAIN'S UNITY.
+page 1	FIGHTING BOOSEVELT.
+page 1	Silver Market Improves.
+page 1	STEADY UNDERTONE PERCEPTIBLE.
+page 1	PEACE QUEST IN EUROPE.
+page 1	LOCARNO POWERS TO MEET AT GENEVA.
+page 1	FRENCH PLAN ENVISAGES NEW BONDS OF UNITY.
+page 1	French Suggestion.
+page 1	PEACE EFFORT DENIED.
+page 1	NO OVERTURES TO ITALY.
+page 1	AIR ATTACK ON DESSIYE.
+page 1	RESUME ADVANCE.
+page 1	CRASPING VICTORY.
+page 1	LEAGUE TO ACT.
+page 1	Death For Two Embezzlers.
+page 1	RUSSIA TAKES STEPS TO END CRIME.
+page 1	RUTHLESS ADVANCE.
+page 2	We All Should Live 100 Years.
+page 3	ANTI-GAS SCHOOL FOR CIVVIES.
+page 3	OPEN THIS MONTH.
+page 3	5-Yeas Minimum For marriages.
+page 3	DRUNDENNESS CAUSE FOR DIVORCE.
+page 3	Chinese Honour Ancestors.
+page 3	BIG FESTIVAL.
+page 3	WORSE AND VERSE.
+page 3	Just Learn These Lines And Dodge The Fines.
+page 3	SAVING 10,000 WRECKED MARRIAGES.
+page 3	New Laws For Husband-And-Wife Cases.
+page 3	No More Summonses On Demand.
+page 3	MAGISTRATES MUST TRY TO MAKE PEACE FIRST.
+page 3	PERSUASION.
+page 3	SECRET HEARINGS.
+page 3	SYDNEY GOES CONTINENTAL HUGE LIDO PLANNED.
+page 3	Elopement Of U.S. Ballerina.
+page 3	HER "DEVASTATING" HUSBAND.
+page 3	GERMAN SHELLS STILI KILL FRENCHMEN.
+page 3	WAR-TIME "DUDS".
+page 3	Death's Junkmen.
+page 3	Armourplate Screens.
+page 4	FLOWER DAY.
+page 4	STREET SALE RAISES $2,000.
+page 4	NOTES OF THE DAY.
+page 5	DEATH OF MR. WONG KWONG-TIN.
+page 5	LEADER OF CHINESE COMMUNITY.
+page 5	AMY MOLLISON.
+page 5	FORCED TO ABANDON ATTEMPT.
+page 5	BRITISH RECORD.
+page 5	New Time Set For Ten Mile Run.
+page 7	THE CASE OF THE GINGER MOUSTACHE.
+page 7	GIRL WHO TURNED INTO A BOY.
+page 7	FOR 10 YEARS EVEN HIS PARENTS DIDN'T KNOW.
+page 7	Blondes Are-On The Down-Grade.
+page 7	Printing the Bible is Crown's Oldest Privilege.
+page 7	ANOTHER TRADITION SURREN DERED?
+page 7	KING EDWARD MAY GIVE UP HIS MOST ANCIENT POWER.
+page 7	Ginger Rogers Appointed Texas "Admiral".
+page 7	SHIRLEY TIES WITH SPINACH.
+page 7	REDS WILL DEFEAT NANKING GOVERNMENT.
+page 7	JAPANESE VIEW.
+page 7	Lack of Information.
+page 7	Not So Red.
+page 9	ATHLETIC SQUEEZE THROUGH.
+page 9	VERY DISAPPOINTING.
+page 9	POPULAR TEAM.
+page 9	Tennis Championship Ends On April 22.
+page 9	MENZEL RETIRING.
+page 9	Plays Last Match At Alexandria.
+page 11	NEWS OF THE DAY IN PICTURES FROM FAR AND NEAR.
+page 11	PHOTONEWS.
+page 11	HAPPENINGS AS SEEN BY THE CAMERA'S EYE.
+page 12	Anticipation.
+page 12	Protecting Our Ships In Pacific.
+page 12	SHIP SUBSIDIES.
+page 12	Fear Of Failure Again Explains Suicide Of Undergraduate.
+page 12	"CAN'T GO ON…"
+page 12	"TOO INTROSPECTIVE".
+page 12	Eton Loses Foreign Office Hold.
+page 12	Statue To Memory Of Emile Coue.
+page 12	NOTED PSYCHOLOGIST.
+page 12	Doctrines In Practice.
+page 12	MISS MARY ELLIS SEEKS DIVORCE: THIRD HUSBAND.
+page 13	FRANCE PRCPARED TO FIGHT.
+page 13	URGES STERN MEASURES.
+page 13	GERMANY MUST NOT FORTIFY RHINE.
+page 13	HITLER'S PROMISE TO KEEP PEACE DOUBTED.
+page 13	Powers to Meet.
+page 13	French Suggestion.
+page 13	FIGHTING ROOSEVELT.
+page 13	Roosevelt's Demand For New Taxes.
+page 13	MUST BALNACE HIS NEXT BUDGET.
+page 13	BUT CONGRESS OPPOSED.
+page 13	Protests Innocence To Death.
+page 13	Hauptmann Walks Bravely To Chair.
+page 13	TM AT PEACE WITH GOD.
+page 13	Died Bravely.
+page 13	Unflinching.
+page 13	Last Chapter.
+page 13	Counterfeiters Pursued.
+page 13	CANTON AUTHORITIES SPREAD NET.
+page 13	EX KING MAY PLEAD FOR SPAIN'S UNITY.
+page 13	(SPECIAL TO "TELEGRAPH").
+page 13	SUCCESSFUL OPERATION.
+page 13	TWO AIR DISASTERS.
+page 13	FIVE MORE DEATHS.
+page 13	BALDWIN MAY RESIGN.
+page 13	Tricolor's passengers Rescued.
+page 13	MID-PACIFIC FIRE DRAMA.
+page 13	H.K. PASSENGERS IN BLAZING SHIP.
+page 13	SAFELY TAKEN ABOARD FREIGHTER.
+page 13	HongKong Passengers.
+page 13	Children Aboard.
+page 13	Shanghai passengers.
+page 13	Rescuers Reach Tricolor.
+page 13	Yarraville Stands By.
+page 13	Sea Subsiding.
+page 13	COMPLETE VICIORY IN SIGHT.
+page 13	ITALIANS TO MARCH ON DESSIYE.
+page 13	QUORAM NOW OCCUPIED.
+page 13	AIR ATTACK.
+page 13	RESUME ADVANCE.
+page 13	GRASPING VICTORY.
+page 15	ANTI-GAS SCHOOL FOR CIVVIES.
+page 15	OPEN THIS MONTH.
+page 15	5-Year Minimum For Marriages.
+page 15	DRUNKENNESS CAUSE FOR DIVORCE.
+page 15	Chinese Honour Ancestors.
+page 15	BIG FESTIVAL.
+page 15	WORSE AND VERSE.
+page 15	Just Learn These Lines And Dodge The Fines.
+page 15	SAVING 10,000 WRECKED MARRIAGES.
+page 15	New Laws For Husband-And-Wife Cases.
+page 15	No More Summonses On Demand.
+page 15	MAGISTRATES MUST TRY TO MAKE PEACE FIRST.
+page 15	PERSUASION.
+page 15	SECRET HEARINGS.
+page 15	SYDNEY GOES CONTINENTAL HUGE LIDO PLANNED.
+page 15	Elopement Of U.S. Ballerina.
+page 15	HER "DEVASTATING" HUSBAND.
+page 15	GERMAN SHELLS STILI KILL FRENCHMEN.
+page 15	WAR-TIME "DUDS".
+page 15	Death's Junkmen.
+page 15	Armourplate Screens.
+page 16	NOTES OF THE DAY.
+page 16	GIRL WHO TURNED INTO A BOY.
+page 16	FOR 10 YEARS EVEN HIS PARENTS DIDN'T KNOW.
+page 16	Protecting Our Ships In Pacific.
+page 16	SHIP SUBSIDIES.
+page 16	POISON CHARGE ADMITTED.
+page 16	YOUTH REMANDED AGAIN.
+page 16	CONSTRUCTION CO. REPORT.
+page 16	PROFIT OF OVER $5,000.
+page 17	Anticipation.
+page 17	Eton Loses Foreign Office Hold.
+page 17	Fear Of Failure Again Explain Suicide Of Undergraduate.
+page 17	"CAN'T GO ON…".
+page 17	"TOO INTROSPECTIVE".
+page 17	MISS MARY ELLIS SEEKS DIVORCE: THIRD HUSBAND.
+page 19	THE CASE OF THE GINGER MOUSTACHE.
+page 19	Printing the Bible is Crown's Oldest Privilege.
+page 19	ANOTHER TRADITION SURRENDERED?
+page 19	KING EDWARD MAY GIVE UP HIS MOST ANCIENT POWER.
+page 19	Blondes Are On The Down-Grade.
+page 19	REDS WILL DEFEAT NANKING GOVERNMENT.
+page 19	JAPANESE VIEW.
+page 19	Lack of Information.
+page 19	Not So Red.
+page 19	SHIRLEY TIES WITH SPINACH.
+page 21	ATHLETIC SQUEEZE THROUGH.
+page 21	VERY DISAPOINTING.
+page 21	POPULAR TEAM.
+page 21	CLUB RUGBY GAMES.
+page 21	Leading Fixtures Played In Great Britain.
+page 21	Tennis Championship Ends On April 22.
+page 21	YACHTING IN HONGKONG.
+page 21	SATURDAY'S EVENTS.
+page 21	MENZEL RETIRING.
+page 21	Plays Last Match At Alexandria.
+page 23	NEWS OF THE DAY IN PICTURES FROM FAR AND NEAR.
+page 23	PHOTONEWS.
+page 23	HAPPENINGS AS SEEN BY THE CAMERA'S EYE.
+page 24	Silver Market Improves.
+page 24	STEADY UNDERTONE PERCIPTIBLE.
+page 24	BANISHEE'S WISH GRANTED.
+page 24	WANTED TO GO TO GAOL.
+page 24	POLICE RESERVE.
+page 24	ORDERS FOR CURRENT WEEK.
+page 24	RED INVADERS SUFFERING.
+page 24	SHANSI SITUATION LESS TENSE.
+page 24	SMALL CHILD KIDNAPPED.
+page 24	WIDOW SENT TO PRISON.
+page 24	AN ADMISSION.
+page 24	OPIUM ADDICT SENTENCED.
+page 24	PORTUGUESE WHO WAS ONCE WEALTHY.
+page 24	Death For Two Embezzlers.
+page 24	RUSSIA TAKES STEPS TO END CRIME.
+page 24	CADOGAN WILL SEE HIROTA.
+page 24	AMBASSADOR ON WAY TO ENGLAND.
+page 24	Loan Cotton To Be Sold.
+page 24	GOVERNMENT FIXES BOTTOM PRICE.
+page 24	Escapes Death And Prison.
+page 24	LAMPSON WILL WRITE ON NEEDED REFORMS.
+page 24	COMPLETE VICTORY IN SIGHT.
+page 24	LEAGUE TO ACT.
+page 24	RUTHLESS ADVANCE.
+page 24	THILIPPINE GOLD MINING SHARES.

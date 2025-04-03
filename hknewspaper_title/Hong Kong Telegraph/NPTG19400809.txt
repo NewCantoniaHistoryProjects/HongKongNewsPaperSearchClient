@@ -1,0 +1,318 @@
+page 1	53 GERMAN, 16 BRITISH PLANES DOWN IN GREAT CHANNEL AIR BATTLE.
+page 1	ATTACKED IN TWO WAVES.
+page 1	Battle Out Of Sight.
+page 1	E-Boat Attack.
+page 1	Several Ships Damaged.
+page 1	Most Determined Air Attack Of War.
+page 1	THE NAVY KEEPS THE SEAS CLEAR.
+page 1	〞 AND GUNS GUARD OUR SHORES.
+page 1	IMPORTANT CHANGE IN INDIA'S CONSTITUTION.
+page 1	Indian Representatives To Join Viceroy's Executive.
+page 1	ITALIAN ADVANCE HALTED.
+page 1	British Anticipations Prove Correct.
+page 1	Quiet Elsewhere.
+page 1	Nothing Like So Effective.
+page 1	Nazi Sea Successes Compared With 1917.
+page 1	23 Years Ago.
+page 1	INDO CHINA.
+page 1	Decoux rushes troops to Kwangsi border.
+page 1	WILL RESIST INVASION.
+page 1	Pearl River Situation.
+page 1	Activity By Our Bombers.
+page 1	Day And Night Raids On Nazi 'Dromes.
+page 1	SHANGHAI TAKES NO CHANCES.
+page 1	Anniversary Of Outbreak Of War.
+page 2	Uganda's War Effort.
+page 2	14 VOTES TO 10 Betrayed France.
+page 2	HONGKONG ESTATE.
+page 2	Forced to Steal by Bully, 11.
+page 3	AMERICA WATCHES.
+page 3	Startling Disclosures Of Nazi Demand.
+page 5	BRITAIN'S SCARCITY OF ARTISANS.
+page 5	Imperious Warning Issued By Mr. Ernest Bevin.
+page 5	Method Of Persuasion.
+page 5	Fool's Paradise.
+page 5	100,000 Trainees A Year.
+page 5	British Aid In Designing U.S. Tanks.
+page 5	U.S. HAVEN FOR WAR CHILDREN.
+page 5	British Submarine Overdue.
+page 5	IMPORTANT CHANGE IN INDIA.
+page 5	Government's Decision.
+page 5	Not The Right Moment.
+page 5	Commons Approves.
+page 5	WAR SITUATION DEBATE SOON.
+page 5	Increased Pay For The Services.
+page 5	WORLD WAR DEBT.
+page 5	U.S. Considering New Form Of Action.
+page 5	Bulgaria's Claims.
+page 5	Negotiations With Rumania To Open.
+page 5	Preliminaries Finished.
+page 5	Nurses From The Empire.
+page 5	New Scheme Under Consideration.
+page 5	Government's Appreciation.
+page 5	UNITED STATES AND RUSSIA.
+page 5	DOMINIONS & THE WAR.
+page 5	Active Co-Operation Is Govt's. Policy.
+page 5	Useful Discussions.
+page 5	VICEROY'S ACCIDENT.
+page 5	Hurts Ankle During Tour Of Country.
+page 5	Goebbels Puts His Foot In It.
+page 5	RUMANIA SENDS AN INVITATION.
+page 5	BURMA ROAD DENIAL.
+page 5	ARMY RELEASES SKILLED MEN.
+page 5	Six New Aircraft Factories For U.S.
+page 5	Egypt Adopts New Precautions.
+page 5	A Newspaper Describes A Nazi.
+page 5	TAXATION DOUBTS.
+page 5	Criticisms Directed Against Budget.
+page 5	Not very Attractive.
+page 5	Chancellor's Warning.
+page 5	BRITISH PROTEST TO RUMANIA.
+page 5	Legation Messenger Is Molested.
+page 7	B.E.F. MEN WADED OUT TO THEIR RESCUERS.
+page 7	GUNS INSTEAD OF - HATS.
+page 7	REFUGEES IN COLONY.
+page 7	Slight Increase shown In Last Week's Returns.
+page 7	Nazi Invader Might Ask For Stomach Pills.
+page 7	Officer Brings Home Boy He Found on Battlefield.
+page 7	New R.A.F. Bureau.
+page 7	Earl Loses Nullity Suit "Did Not Know I Was Marrying".
+page 7	"Still Loved Him".
+page 7	Did Not See Family.
+page 7	Rang His Landlady.
+page 8	BRITAIN WATCHES FOR THE BLITZKRIEG.
+page 8	TOMMIES ESCAPED IN NAZI STEAMER.
+page 8	FARMERS TO BUILD BARRIERS IN FIELDS.
+page 8	M.O.I. STAFF OF 1,385.
+page 8	Evening Of Variety.
+page 9	53 GERMAN, 16 BRITISH PALNES DOWN IN GREAT CHANNEL AIR BATTLE.
+page 9	ATTACKED IN TWO WAVES.
+page 9	E-Boat Attack.
+page 9	Several Ships Damaged.
+page 9	Most Determined Air Attack Of War.
+page 9	NEW, GRAPHIC STORY OF THE AIR BATTLE.
+page 9	Battle Described.
+page 9	Polish Pilot's Story.
+page 9	His Bag Was Two.
+page 9	RAIDS ON BRITAIN.
+page 9	Bombs Dropped But damage Slight.
+page 9	Hospital Patients' Escape.
+page 9	Harbour bombed.
+page 9	THE NAVY DEEPS THE SEAS CLEAR.
+page 9	Rumania's Anti-Jew Legislation.
+page 9	Exclusion From The Public Services.
+page 9	Aping Hitlerism.
+page 9	AIR RAIDS CASUALTIES.
+page 9	ITALIAN ADVANCE HALTED.
+page 9	British Anticipations Prove Correct.
+page 9	Quiet Elsewhere.
+page 9	Petain's New Decree.
+page 9	Reforming Colonies Administration.
+page 9	INDO CHINA.
+page 9	Decoux rushes troops to Kwangsi border.
+page 9	WILL RESIST INVASION.
+page 9	Pearl River Situation.
+page 9	Activity By Our Bombers.
+page 9	Day And Night Raids On Nazi Dromes.
+page 9	SEA FIGHT REPORTED.
+page 9	Alcantara Believed Again In Action.
+page 9	Loud Explosions Heard.
+page 11	AMERICA WATCHES.
+page 11	Startling Disclosures Of Nazi Demand.
+page 13	BRITAIN'S SCARCITY OF ARTISANS.
+page 13	Imperious Warning Issued By Mr. Ernest Bevin.
+page 13	Method Of Persuasion.
+page 13	Fool's Paradise.
+page 13	100,000 Trainees A Year.
+page 13	ARMY RELEASES SKILLED MEN.
+page 13	M.O.I. STAFF OF 1,385.
+page 13	RUMANIA SENDS AN INVITATION.
+page 13	VICEROY'S ACCIDENT.
+page 13	Hurts Ankle During Tour Of Country.
+page 13	Duke And Duchess At Bermuda.
+page 13	Burma Road Terms.
+page 13	British Release Rumanian Ship.
+page 13	Increased Pay For The Services.
+page 13	Nothing Like So Effective.
+page 13	Nazi Sea Successes Compared With 1917.
+page 13	23 years Ago.
+page 13	WAR SITUATION DEBATE SOON.
+page 13	SHANGHAI TAKES NO CHANGES.
+page 13	53 GERMAN TO 16 BRITISH.
+page 13	Nazi Claims.
+page 13	NEW GRAPHIC AIR BATTLE.
+page 13	Decoy That Failed.
+page 13	Gallant Decision.
+page 13	SEA FIGHT REPORTED.
+page 13	Six-Inch Guns.
+page 13	A Newspaper Describes A Nazi.
+page 13	Bulgaria's Claims.
+page 13	Negotiations With Rumania To Open.
+page 13	Preliminaries Finished.
+page 13	What Hungary Wants.
+page 13	VALENCIA HEARS BIG GUNS.
+page 13	JAPANESE STILL HOLD 6 BRITONS.
+page 13	Six New Aircraft Factories For U.S.
+page 15	TAXATION DOUBTS.
+page 15	Criticisms Directed Against Budget.
+page 15	Not Very Attractive.
+page 15	Chancellor's Warning.
+page 15	Nurses From The Empire.
+page 15	New Scheme Under Consideration.
+page 15	Government's Appreciation.
+page 15	Egypt Adopts New Precautions.
+page 15	IMPORTANT CHANGE IN INDIA'S CONSTITUTION.
+page 15	Indian Representatives To Join Viceroy's Executive.
+page 15	Differences Unbridged.
+page 15	Government's Decision.
+page 15	Not The Right Moment.
+page 15	Commons Approves.
+page 15	U.S. HAVEN FOR WAR CHILDREN.
+page 15	British Submarine Overdue.
+page 15	WORLD WAR DEBT.
+page 15	U.S. Considering New From Of Action.
+page 15	DOMINIONS & THE WAR.
+page 15	Active Co-Operation Is Govt's. Policy.
+page 15	Useful Discussions.
+page 15	British Aid In Designing U.S. Tanks.
+page 15	BRITISH PROTEST TO RUMANIA.
+page 15	Legation Messenger Is Molested.
+page 15	BURMA ROAD DENIAL.
+page 15	UNITED STATES AND RUSSIA.
+page 16	BRITAIN WATCHES FOR THE BLITZKRIEG.
+page 16	Parashooters For Chungking.
+page 16	Thought Japanese May Copy The Nazis.
+page 16	Manila To Take U.S. Goods For China.
+page 16	NAZI RAIDERS KILL JAPANESE.
+page 16	FARMERS TO BUILD BARRIERS IN FIELDS.
+page 16	Evening Of Variety.
+page 16	39 KILLED IN EXPLOSION.
+page 16	Jews Arrested In Bratislava.
+page 16	New R.A.F. Bureau.
+page 16	Y.M.C.A. DISCUSSION GROUP.
+page 17	53 GERMAN, 16 BRITISH PALNES DOWN IN GREAT CHANNEL AIR BATTLE.
+page 17	ATTACKED IN TWO WAVES.
+page 17	Battle Out Of Sight.
+page 17	E-Boat Attack.
+page 17	Several Ships Damaged.
+page 17	Most Determined Air Attack Of War.
+page 17	NEW, GRAPHIC STORY OF THE AIR BATTLE.
+page 17	Battle Described.
+page 17	Polish Pilot's Story.
+page 17	His Bag Was Two.
+page 17	RAIDS ON BRITAIN.
+page 17	Bombs Dropped But damage Slight.
+page 17	Hospital Patients' Escape.
+page 17	Harbour bombed.
+page 17	THE NAVY DEEPS THE SEAS CLEAR.
+page 17	SEA FIGHT REPORTED.
+page 17	Alcantara Believed Again In Action.
+page 17	Loud Explosions Heard.
+page 17	Six-Inch Guns.
+page 17	NAZI RAIDERS KILL JAPANESE.
+page 17	ITALIAN ADVANCE HALTED.
+page 17	British Anticipations Prove Correct.
+page 17	Quiet Elsewhere.
+page 17	INDO CHINA.
+page 17	Decoux rushes troops to Kwangsi border.
+page 17	WILL RESIST INVASION.
+page 17	Pearl River Situation.
+page 17	French Fleet Ordered To Indo-China Ports.
+page 17	HONGKONG CENTENARY STAMPS DUE SOON.
+page 17	Designs Described.
+page 17	GERMANS LOSE 70 PLANES.
+page 17	Air Battle Rages For 14 Hours.
+page 18	KOWLOON THEFTS.
+page 18	NEW GRAPHIC AIR BATTLE.
+page 18	Decoy That Failed.
+page 18	Gallant Decision.
+page 18	53 GERMAN TO 16 BRITISH.
+page 18	Nazi Claims.
+page 18	Financial Secretary's Cook-Boy Charged.
+page 18	ANOTHER BODY RECOVERED.
+page 18	Jews Arrested In Bratislava.
+page 18	39 KILLED IN EXPLOSION.
+page 18	AIR RAIDS CASUALTIES.
+page 18	TRAINING CADRE ORDERS.
+page 18	Definition Of "Retail Business".
+page 18	Important Judgment By Magistrate.
+page 18	Decision Explained.
+page 18	Pays For Time.
+page 18	WAR SITUATION DEBATE SOON.
+page 19	SHANGHAI TAKES NO CHANCES.
+page 19	Anniversary Of Outbreak Of War.
+page 19	ARMY RELEASES SKILLED MEN.
+page 19	M.O.I. STAFF OF 1,385.
+page 19	British Release Rumanian Ship.
+page 21	BRITAIN'S SCARCITY OF ARTISANS.
+page 21	Imperious Warning Issued By Mr. Ernest Bevin.
+page 21	Method Of Persuasion.
+page 21	Fool's Paradise.
+page 21	100,000 Trainees A Year.
+page 21	Parashooters For Chungking.
+page 21	Thought Japanese May Copy The Nazis.
+page 21	Manila To Take U.S. Goods For China.
+page 21	Activity By Our Bombers.
+page 21	Day And Night Raids On Nazi 'Dromes.
+page 21	Increased Pay For The Services.
+page 21	Rumania's Anti-Jew Legislation.
+page 21	Exclusion From The Public Services.
+page 21	Aping Hitlerism.
+page 21	Nothing Like So Effective.
+page 21	Nazi Sea Successes.
+page 21	Compared With 1917.
+page 21	23 Years Ago.
+page 21	Duke And Duchess At Bermuda.
+page 21	RUMANIA SENDS AN INVITATION.
+page 21	VICEROY'S ACCIDENT.
+page 21	Hurts Ankle During Tour Of Country.
+page 21	Burma Road Terms.
+page 21	A Newspaper Describes A Nazi.
+page 21	Bulgaria's Claims.
+page 21	Negotiations With Rumania To Open.
+page 21	Preliminaries Finished.
+page 21	What Hungary Wants.
+page 21	Petain's New Decree.
+page 21	Reforming Colonies' Administration.
+page 21	JAPANESE STILL HOLD 6 BRITONS.
+page 21	VALENCIA HEARS BIG GUNS.
+page 23	TAXATION DOUBTS.
+page 23	Criticisms Directed Against Budget.
+page 23	Not Very Attractive.
+page 23	Chancellor's Warning.
+page 23	Nurses From The Empire.
+page 23	New Scheme Under Consideration.
+page 23	Government's Appreciation.
+page 23	Egypt Adopts New Precautions.
+page 23	IMPORTANT CHANGE IN INDIA'S CONSTITUTION.
+page 23	Indian Representatives To Join Viceroy's Executive.
+page 23	Differences Unbridged.
+page 23	Government's Decision.
+page 23	Not The Right Momant.
+page 23	Commons Approves.
+page 23	U.S. HAVEN FOR WAR CHILDREN.
+page 23	British Submarine Overdue.
+page 23	WORLD WAR DEBT.
+page 23	U.S. Considering New Form Of Action.
+page 23	DOMINIONS & THE WAR.
+page 23	Active Co-Operation Is Govt's. Policy.
+page 23	Useful Discussions.
+page 23	British Aid In Designing U.S. Tanks.
+page 23	BRITISH PROTEST TO RUMANIA.
+page 23	Legation Messenger Is Molested.
+page 23	BURMA ROAD DENIAL.
+page 23	UNITED STATES AND RUSSIA.
+page 24	JAPAN IS DOOMED.
+page 24	Chinese General's Prediction.
+page 24	European's Car Stolen.
+page 24	Chinese Student Given Stiff Sentence.
+page 24	Innocent Participants.
+page 24	Six New Aircraft Factories For U.S.
+page 24	FARMERS TO BUILD BARRIERS IN FIELDS.
+page 24	NEW SHANGHAI KIDNAPPING.
+page 24	BOMBS FALL IN ENGLAND.
+page 24	WITHDRAWAL OF TROOPS REPORT.
+page 24	AMERICA WATCHES.
+page 24	Startling Disclosures Of Nazi Demand.
+page 24	Evening Of Variety.
+page 24	Uganda's War Effort.

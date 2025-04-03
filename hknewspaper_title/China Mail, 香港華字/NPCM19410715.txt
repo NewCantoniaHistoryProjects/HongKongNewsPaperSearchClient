@@ -1,0 +1,391 @@
+page 1	FANTASTIC DIVERGENCES.
+page 1	Nazis Claim Enormous Advance Moscow Reports Still Under Control.
+page 1	Counter-Attacks.
+page 1	"No Large Operations".
+page 1	BASTILLE DAY SALUTE.
+page 1	NAVAL SLOOP SUNK.
+page 1	RAIDERS ROUND THE COAST.
+page 1	SAIGON UNSHAKEN BY NEW CAMPAIGN.
+page 1	ATTACK ON NAZI CONVOY.
+page 1	SHANGHAI TELEPHONE STRIKE.
+page 2	ROMMEL'S SUPPLY ANXIETIES.
+page 2	Navy And Air Force Concentrate On Tripoli Line.
+page 2	Submarines And Bombers Score Heavily.
+page 2	Benghazi Attack.
+page 2	LUNCH TO SOVIET MISSION.
+page 2	PETAIN'S LAMENT TO LEVANT.
+page 2	MARSHALL WINS A POINT.
+page 2	AIR RAID ON SUEZ CANAL ZONE.
+page 2	INFLATION DANGER IN AMERICA.
+page 2	BRITISH SEAMEN RELEASED.
+page 3	Britain Will Go On Hitting Until Hitler Rule Is Over.
+page 3	PRIME MINISTER ADDRESSES CIVIL DEFENCE FORCES.
+page 3	Italy's Share.
+page 3	Sombre Road.
+page 3	PETAIN'S QUATORZE JUILLIET.
+page 3	AMERICA AND THE AZORES.
+page 3	STOCK EXCHANGE QUIETER.
+page 3	RUNNING AGAIN.
+page 3	TRAGIC MISTAKE NOT TO BE REPEATED.
+page 3	FORCED LABOUR IN NORWAY.
+page 3	SOVIET MISSION'S WORK.
+page 3	U.S. SUPPLIES TO BRITAIN.
+page 3	AUSTRALIAN A.R.P. ACTIVITY.
+page 4	SYRIA TAKEN IN QUICK TIME WITHOUT BLITZ RUTHLESSNESS.
+page 4	Delicate Approach.
+page 4	MR. WINANT AND LONDON FIREMEN.
+page 4	SECRECY AT COURT HEARING.
+page 4	GREATT CREDIT TO ALLIES.
+page 5	NAZIS' DEARTH OF IMPORTS A GROWING THREAT TO EUROPE.
+page 5	A Brake On Industry.
+page 5	Old Attributes Remain.
+page 6	THE INVASION WILL COME BY THE AIR.
+page 6	Nazi Preparations.
+page 6	Shot For Refusing.
+page 6	A Landing Deck.
+page 6	FRIENDLY FELLOWS.
+page 6	OFFERS EYE TO HERO.
+page 6	"My Chance".
+page 6	U.S. CLAMOUR FOR OUR TOY SOLDIERS.
+page 6	PROPOSE TO RAISE SHIPS LOAD LINE.
+page 6	BRAINY GIRL BEST ON FARM.
+page 6	"Good As Useless".
+page 6	TWO GIRL STARS.
+page 6	STORMED SHOP FOR ORANGES.
+page 7	WHAT ABOUT BRITAIN'S "RULERS"?
+page 7	PROBLEM BEFORE AMERICA.
+page 7	Share In The Collapse.
+page 8	"MY WORKING DAY," BY AMY JOHNSON.
+page 8	The Danger Zones.
+page 8	CLOCK-IN RAMP GROWING.
+page 8	Astounded.
+page 8	Mates Help.
+page 8	U.S. AIRMEN'S OCEAN HOP.
+page 8	VEGETABLES AS FRUIT SUBSITUTE.
+page 8	SEEEPS WINNER CANNOT SEE WIFE.
+page 8	SHELTER AS ARMS WORKS.
+page 8	75 HE WINS A MEDAL.
+page 8	GD. FOR RETURNING 47 POUNDS.
+page 9	NEW REGISTER OF BRITISH WOMEN FOR WAR WORK.
+page 9	Order Of Interviewing.
+page 9	HOSPITALS ARE NOT UNSAFE.
+page 9	NO PRISONER EXCHANGES.
+page 9	INJURED, BUT SAVED SHIP.
+page 9	MILLION A DAY ON BUILDING.
+page 9	Post-War Plans.
+page 9	PENELOPE LEFT WITH THE BOYS.
+page 9	GIRL ON CHARGE OF ATTEMPT TO MURDER.
+page 9	14, VOYAGED TO AMERICA.
+page 10	STATE MAY BE FOOD SHOP.
+page 10	Seven Middlemen.
+page 10	Wholesalers Only Plan.
+page 10	SHARE IN THE COLLAPSE.
+page 10	LORD WOOLTON AND LEWIS'S.
+page 11	New Make Up Kit Offers Variety Of Effects.
+page 11	Exquisite Summer Fragrance.
+page 11	More Fun For The Beach.
+page 11	Clothes Care.
+page 12	CLIMBED BURNING BUILDING, AIDED 2.
+page 12	ACTS TO RESTRICT AXIS PROPAGANDA.
+page 12	SHAKESPEARE IN SWING MUSIC.
+page 13	FASTER BOMBER TESTED.
+page 13	REPAIRING WAR DAMAGE.
+page 13	After Dark Death Riddle.
+page 14	Molthen & Schaberg Prominent In Baseballers' First League Win.
+page 14	CHUNG HWA MAKE PROMISING START BUT THEN SUBDUED.
+page 14	Hwamen's Good Start.
+page 14	Fielder's Choice.
+page 14	Schaberg Pitches Well.
+page 14	WHEN ROZAPEREIRA BEAT MAY.
+page 14	DOWN TO 10 ESCS. IN UNDER MONTH.
+page 14	COMEDY DOES NOT PAY IN TENNIS.
+page 14	Virginia Wins Again.
+page 16	FOUR BIG SWEEPS OVER NORTHERN FRANCE.
+page 16	Cherbourg, Le Have And Hazebrouck Visited.
+page 16	Enemy Raider Machine-Guns A Train.
+page 16	Direct Hits.
+page 16	Cherbourg French Applaud R.A.F.
+page 16	White Rusians Rally.
+page 16	BRITAIN'S RESPITE.
+page 16	SUBMARINE SUCCESSES IN MEDITTERRANEAN.
+page 16	FANTASIC DIVERGENCES.
+page 16	Nazi Complaint.
+page 16	Finnish Claims.
+page 16	THAILAND PROBLEM.
+page 16	German Air Raids.
+page 17	FANTASTIC DIVERGENCES.
+page 17	Nazis Claim Enormous Advance Moscow Reports Show Situation Still Under Control.
+page 17	Counter-Attacks.
+page 17	"No Large Operations".
+page 17	SHOCK LESSON FOR U.S.
+page 17	MYSTERY FADES.
+page 17	EXTRALITY AGREEMENT.
+page 17	ATTACK ON NAZI CONVOY.
+page 17	SAIGON UNSHAKEN BY NEW CAMPAIGN.
+page 17	SHANGHAI TELEPHONE STRIKE.
+page 18	ROMMEL'S SUPPLY ANXIETIES.
+page 18	Navy And Air Force Concentrate On Tripoli Line.
+page 18	Submarines And Bombers Score Heavily.
+page 18	Benghazi Attack.
+page 18	LUNCH TO SOVIET MISSION.
+page 18	PETAIN'S LAMENT TO LEVANT.
+page 18	MARSHALL WINS A POINT.
+page 18	AIR RAID ON SUEZ CANAL ZONE.
+page 18	INFLATTION DANGER IN AMERICA.
+page 18	BRITISH SEAMEN RELEASED.
+page 19	Britain Will Go On Hitting Until Hitler Rule Is Over.
+page 19	PRIME MINISTTER ADDRESSES CIVIL DEFENCE FORCES.
+page 19	Italy's Share.
+page 19	Sombre Road.
+page 19	Remember Warsaw.
+page 19	Grisly Gang.
+page 19	AMERICA AND THE AZORES.
+page 19	JUNK EXPLOSION IN KOWLOON BAY.
+page 19	MEDICAL ADVICE ON FOOD.
+page 19	TRAGIC MISTAKE NOT TO BE REPEATED.
+page 19	FORCED LABOUR IN NORWAY.
+page 19	SOVIET MISSION'S WORK.
+page 19	U.S. SUPPLIES TO BRITAIN.
+page 19	AUSTRALIAN A.R.P. ACTIVITY.
+page 20	SYRIA TAKEN IN QUICK TIME WITHOUT BLITZ RUTHLESSNESS.
+page 20	Delicate Approach.
+page 20	PETAIN'S QUATORZE JUILLET.
+page 20	SECRECY AT COURT HEARING.
+page 20	GREAT CREDIT TO ALLIES.
+page 21	NAZIS' DEARTH OF IMPORTS A GROWING THREAT TO EUROPE.
+page 21	A Brake On Industry.
+page 21	Old Attributes Remain.
+page 22	THE INVASION WILL COME BY THE AIR.
+page 22	Nazi Preparations.
+page 22	Shot For Refusing.
+page 22	A Landing Deck.
+page 22	RUNNING AGAIN.
+page 22	OFFERS EYE TO HERO.
+page 22	"My Chance".
+page 22	FLAT DENIAL OF EXPORT ALLEGATIONS.
+page 22	NAVAL SLOOP SUNK.
+page 22	BASTILLE DAY SALUTE.
+page 22	FAITH AND HOPE.
+page 23	WHAT ABOUT BRITAIN'S "RULERS"?
+page 23	PROBLEM BEFORE AMERICA.
+page 23	Share In The Collapse.
+page 24	"MY WORKING DAY," BY AMY JOHNSON.
+page 24	The Danger Zones.
+page 24	CLOCK-IN RAMP GROWING.
+page 24	Astounded.
+page 24	Mates Help.
+page 24	U.S. AIRMEN'S OCEAN HOP.
+page 24	Cenotaph Ceremony.
+page 24	BRITAIN'S RESPITE.
+page 24	SHELTER AS ARMS WORKS.
+page 24	THAILAND PROBLEM.
+page 24	RAIDERS ROUND THE COAST.
+page 25	NEW REGISTER OF BRITISH WOMEN FOR WAR WORK.
+page 25	Order Of Interviewing.
+page 25	HOSPITALS ARE NOT UNSAFE.
+page 25	NO PRISONER EXCHANGES.
+page 25	IS STAR AT 2-1/2.
+page 25	INJURED, BUT SAVED SHIP.
+page 25	MILLION A DAY ON BUILDING.
+page 25	Post-War Plans.
+page 25	PENELOPE LEFT WITH THE BOYS.
+page 25	GIRL ON CHARGE OF ATTEMPT TO MURDER.
+page 25	ARMISTICE SIGNED.
+page 25	GD. FOR RETURNING 47 POUNDS.
+page 26	STATE MAY BE FOOD SHOP.
+page 26	Seven Middlemen.
+page 26	Wholesalers Only Plan.
+page 26	LORD WOOLTON AND LEWIS'S.
+page 27	New Make-Up Kit Offers Variety Of Effects.
+page 27	Exquisite Summer Fragrance.
+page 27	More Fun For The Beach.
+page 27	Clothes Care.
+page 28	CLIMBED BURNING BUILDING, AIDED 2.
+page 28	SHAKESPEARE IN SWING MUSIC.
+page 28	ACTS TO RESTRICT AXIS PROPAGANDA.
+page 29	STOCK EXCHANGE QUIETER.
+page 29	REPAIRING WAR DAMAGE.
+page 29	After Dark Death Riddle.
+page 30	Molthen & Schaberg Prominent In Baseballers' First League Win.
+page 30	Huge Crowd Disappointed By H.B. s Failure To Play.
+page 30	CHUNG HWA MAKE PROMISING START BUT THEN SUBDUED.
+page 30	Hwamen's Good Start.
+page 30	Fielder's Choice.
+page 30	Schaberg Pitches Well.
+page 30	WHEN ROZAPEREIRA BEAT MAY.
+page 30	DOWN TO 10 ESCS. IN UNDER MONTH.
+page 30	PASSED OVER BY 3 CLUBS.
+page 30	D.W. LEACH IN POLE OF STUMPER!
+page 30	COMEDY DOES NOT PAY IN TENNIS.
+page 30	Virginia Wins Again.
+page 30	SHANGHAI GOLF.
+page 31	MISS HOLWILL MISSES TRIPLE TENNIS CROWN.
+page 31	K.M. OMAR DEFENDING HIS LAWN BOWLS SINGLES TITLE AT CRAIGENGOWER.
+page 31	Hong Kong F.C.
+page 31	Kowloon B.G.C.
+page 31	FIVE RESULTS.
+page 31	MEDICALS' PLAYERS.
+page 31	MANY CHANGES IN ELECTRIC BOWLS TEAM.
+page 31	Indian R.C.
+page 32	FOUR BIG SWEEPS OVER NORTHERN FRANCE.
+page 32	Cherbourg, Le Havre And Hazebrouck Visited.
+page 32	Enemy Raider Machine-Guns A Train.
+page 32	Direct Hits.
+page 32	Cherbourg French Applaud R.A.F.
+page 32	Some Resistance.
+page 32	In A Tunnel.
+page 32	White Russians Rally.
+page 32	SUBMARINE SUCCESSES IN MEDITERRANEAN.
+page 32	FANTASIC DIVERGENCES.
+page 32	Nazi Complaint.
+page 32	Finnish Claims.
+page 32	German Air Raids.
+page 32	Soviet Communique On Yesterday's Battles.
+page 32	Baltic Convoy Attacked.
+page 33	SOME CHANGE IN NAZI TONE.
+page 33	No Claim To Kiev Or Leningrad.
+page 33	Baltic Convoy Shattered: Stalin Line Struggle.
+page 33	"Giant Pincer".
+page 33	SHOCK LESSON FOR U.S.
+page 33	SABOTAGE IN NORWAY.
+page 33	MORE BOMBX DROPPED ON SPAIN.
+page 33	Cows Join In Strike.
+page 33	SYRIAN CONFLICT OVER.
+page 34	ROMMEL'S SUPPLY ANXIETIES.
+page 34	Navy And Air Force Concentrate On Tripoli Line.
+page 34	Submarines And Bombers Score Heavily.
+page 34	Benghazi Attack.
+page 34	LUNCH TO SOVIET MISSION.
+page 34	PETAIN'S LAMENT TO LEVANT.
+page 34	BRITISH SEAMEN RELEASED.
+page 34	AIR RAID ON SUEZ CANAL ZONE.
+page 34	INFLATION DANGER IN AMERICA.
+page 34	SNATCHING CASE.
+page 34	TWO MANY BLOOD AND THUNDERS.
+page 34	WEEK-END THEFT OF CABLE.
+page 35	Britain Will Go On Hitting Until Hitler Rule Is Over.
+page 35	PRIME MINISTER ADDRESSES CIVIL DEFENCE FORCES.
+page 35	Italy's Share.
+page 35	Sombre Road.
+page 35	Remember Warsaw.
+page 35	Grisly Gang.
+page 35	AMERICA AND THE AZORES.
+page 35	JUNK EXPLOSION IN KOWLOON BAY.
+page 35	MEDICAL ADVICE ON FOOD.
+page 35	TRAGIC MISTAKE NOT TO BE REPEATED.
+page 35	FORCED LABOUR IN NORWAY.
+page 35	SOVIET MISSION'S WORK.
+page 35	U.S. SUPPLIES TO BRITAIN.
+page 35	AUSTRALIAN A.R.P. ACTIVITY.
+page 36	SYRIA TAKEN IN QUICK TIME WITHOUT BLITZ RUTHLESSNESS.
+page 36	Delicate Approach.
+page 36	PETAIN'S QUATORZE JUILLET.
+page 36	JULY 14 IN SHANGHAI.
+page 36	GREAT CREDIT TO ALLIES.
+page 36	CEMENT THEFT.
+page 37	SAIGON UNSHAKEN BY NEW CAMPAIGN.
+page 37	MYSTERY FADES.
+page 37	HOTEL ROOM SEARCHED.
+page 37	EXTRALITY AGREEMENT.
+page 37	ANOTHER TWIST TO THE STORY.
+page 37	MIDDIESEX L/CPL, FINED.
+page 38	Distinction More Academic Than Real Anglo-Soviet Pact.
+page 38	Swift And Smooth.
+page 38	Cooperation.
+page 38	FLAT DENIAL OF EXPORT ALLEGATIONS.
+page 38	SHANGHAI BANK ROBBERY.
+page 38	ANOTHER BANK ROBBERY.
+page 38	TSING-AN AGAIN IN CHINESE HANDS.
+page 38	FRIENDLY FELLOWS.
+page 38	BASTILLE DAY SALUTE.
+page 38	FAITH AND HOPE.
+page 38	RUNNING AGAIN.
+page 39	WHAT ABOUT BRITAIN'S "RULERS"?
+page 39	PROBLEM BEFORE AMERICA.
+page 39	Share In The Collapse.
+page 40	Moscow Reports Show Situation Still Under Control.
+page 40	Counter-Attacks.
+page 40	"No Large Operations".
+page 40	Nazi Complaint.
+page 40	Finnish Claims.
+page 40	German Air Raids.
+page 40	RAIDERS ROUND THE COAST.
+page 40	Cenotaph Ceremony.
+page 40	U.S. AIRMEN'S OCEAN HOP.
+page 40	BRITAIN'S RESPITE.
+page 40	THAILAND PROBLEM.
+page 40	POLICE INFORMER WOUNDED.
+page 40	SHANGHAI TELEPHONE STRIKE.
+page 41	SOVIET AGREEMENT WITH BRITAIN: AXIS PLAYS AT DISDAIN.
+page 41	Ankara Comment.
+page 41	CAPTAIN WIEDEMANN FRANTIC.
+page 41	SUNG SING MILL MYSTERY.
+page 41	Americans On Guard.
+page 41	Official Denial!
+page 41	TOBACCO WORKERS DEMONSTRATE.
+page 41	MARSHALL WINS A POINT.
+page 41	General's Warning.
+page 41	GOERING RUMOURS.
+page 41	CHINA'S APPEAL.
+page 42	STATE MAY BE FOOD SHOP.
+page 42	Seven Middlemen.
+page 42	Wholesalers Only Plan.
+page 42	SHARE IN THE COLLAPSE.
+page 42	LORD WOOLTON AND LEMIS'S.
+page 43	New Make-Up Kit Offers Variety Of Effects.
+page 43	Exquisite Summer Fragrance.
+page 43	More Fun For The Beach.
+page 43	Clothes Care.
+page 44	SHELTER AS ARMS WORKS.
+page 44	ACTS TO RESTRICT AXIS PROPAGANDA.
+page 44	SECRECY AT COURT HEARING.
+page 44	GIRL ON CHARGE OF ATTEMPT TO MURDER.
+page 44	MILLION A DAY ON BUILDING.
+page 44	Post-War Plans.
+page 45	UNIVERSITY INCIDENT.
+page 45	INJURED, BUT SAVED SHIP.
+page 45	NO PRISONER EXCHANGES.
+page 45	After Dark Death Riddle.
+page 45	OFFERS EYE O HERO.
+page 45	"My Chance".
+page 45	STORMED SHOP FOR ORANGES.
+page 45	PROPOSE TO RAISE SHIPS LOAD LINE.
+page 45	HOSPITALS ARE NOT UNSAFE.
+page 45	FRICK RULES $500 PENALTY AGAINST CUBS.
+page 45	Player Added.
+page 45	Exonerated.
+page 46	Molthen & Schaberg Prominent In Baseballers' First League Win.
+page 46	Huge Crowd Disappointed By H.B.'s Failure To Play.
+page 46	CHUNG HWA MAKE PROMISING START BUT THEN SUBDUED.
+page 46	Hwamen's Good Start.
+page 46	WHEN ROZAPEREIRA BEAT MAY.
+page 46	DOWN TO 10 SECS. IN UNDER MONTH.
+page 46	H.B. GIVE NOTICE OF WITHDRAWAL.
+page 46	Fielder's Choice.
+page 46	TO-DAY'S GAME.
+page 46	SHANGHAI GOLF.
+page 46	MANY CHANGES IN ELECTRIC BOWLS TEAM.
+page 47	Mrs. Chiu Answers Rumours.
+page 47	"Why Pick On Me?"
+page 47	K. M. OMAR DEFENDING HIS LAWN BOWLS SINGLES TITLE AT CRAIGENGOWER.
+page 47	Hong Kong F.C.
+page 47	Kowloon B.G.C.
+page 47	FIVE RESULTS.
+page 47	MEDICALS' PLAYERS.
+page 47	D.W. LEACH IN ROLE OF STUMPER!
+page 47	Indian R.C.
+page 47	Electric Results.
+page 48	FOUR BIG SWEEPS OVER NORTHERN FRANCE.
+page 48	Cherbourg, Le Havre And Hazebrouck Visited.
+page 48	Enemy Raider Machine-Guns A Train.
+page 48	Direct Hits.
+page 48	Cherbourg French Applaud R.A.F.
+page 48	Some Resistance.
+page 48	In A Tunnel.
+page 48	White Russians Rally.
+page 48	SUBMARINE SUCCESSES IN MEDITERRANEAN.
+page 48	ATTACK ON NAZI CONVOY.
+page 48	SOME CHANGE IN NAZI TONE.
+page 48	Moscow Reports.
+page 48	Soviet Communique On Yesterday's Battles.
+page 48	Baltic Convoy Attacked.

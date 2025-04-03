@@ -1,0 +1,290 @@
+page 1	"Attacks Will Become More Ferocious Each Day," Says Berlin Report.
+page 1	GERMANS CONTINUE MASS RAIDS ON BRITAIN: ANOTHER 39 DOWN.
+page 1	"SEVERAL HUNDRED" NAZI PLANES IN LATEST ATTACK OVER WIDE AREA.
+page 1	ATTACK ON PORTSMOUTH.
+page 1	Over Wide Area.
+page 1	39 Nazis Destroyed.
+page 1	Round Trip of Pacific.
+page 1	TROOPS MASS IN BALKANS.
+page 1	Tension Not Yet Relieved.
+page 1	Nazi Aviators Captured.
+page 1	Farmer And Motorist Secure Prisoners.
+page 1	Belisha Wants Army Of 100 Divisions.
+page 1	INVASION OF NAZI-OCCUPIED TERRITORY URGED.
+page 1	Our Economic Task.
+page 1	S. America's "Fuehrer" Is Arrested.
+page 1	May Be Deported By Argentine Govt.
+page 1	Plan To Seize Uruguay.
+page 1	Steadiness On The Stock Exchange.
+page 1	SWEDEN FACING POOR HARVEST.
+page 1	N-W Frontier Fight: Heavy Casualties.
+page 1	NAVY BRING DOWN FIVE NAZI PLANES.
+page 1	Accurate A.A. Fire.
+page 1	No Activity In Desert.
+page 1	Italian Operations Held Up.
+page 1	German Aerodromes Plastered With Bombs.
+page 1	The R.A.F. Keep Up Fine Work.
+page 1	Oil The Main Objective.
+page 1	Crew's Report.
+page 1	Burning Briskly.
+page 1	Kent, Sussex, Hants And Dorset Raided.
+page 1	But Damage And Casualties Are Comparatively Slight.
+page 1	Church Damaged.
+page 1	AIR DUEL OVERE TOWN.
+page 1	Spitfires Defeat Messerschmitts.
+page 1	At Least Two Down.
+page 2	KINGSLEY WOOD CHANCELLOR.
+page 2	MORE NAZI PRISONERS.
+page 2	FEAR OF FAMINE.
+page 2	Britain May Refuse To Relax Blockade.
+page 2	Mr. Hoover Issues Appeal.
+page 2	Hitler's Wrongs To Mankind.
+page 2	FOR THE 1 MAN IN 7 WHO SHAVES EVERY DAY.
+page 5	CAROLINA TEMPEST.
+page 5	Heavy Damage Done By Terrific Storm.
+page 5	Riom Guilt Hearing.
+page 5	British And Swiss Press Criticise Trial.
+page 5	To Please Conquerors.
+page 5	Dr. Operates During Raid.
+page 5	Wonderful Courage Shown By Civilians.
+page 5	House Demolished.
+page 5	Successful Flight.
+page 5	Trans-Atlantic Feat Is Praised.
+page 5	Bomb Falls On A Cricket Ground.
+page 5	Mr. Chamberlain Convalescent.
+page 5	OBITUARY.
+page 5	Manila Resident Dies On Holiday Visit.
+page 5	Mr. A. J. Richardson.
+page 5	SPAIN DENIES A REPORT.
+page 5	What French Did To Nazi Planes.
+page 5	CONSULATES TO CLOSE DOWN.
+page 5	KENT, SUSSEX, HANTS & DORSET.
+page 5	Trawler's Success.
+page 5	Nazi "Apology".
+page 5	Berlin Admission.
+page 5	THE R.A.F. KEEP UP FINE WORK.
+page 5	Power Station Bombed.
+page 5	AIR DUEL OVER TOWN.
+page 5	Soviets Abolish A Political Office.
+page 5	Hiking Across The Blue Mountains.
+page 5	TO ESCAPE TRAINING.
+page 5	Young Americans Rushing Into Marriage.
+page 5	Mr. Willie's Warning.
+page 5	Athens Denies Assassination Allegation.
+page 5	"War Guilt" Trial Opens To-day".
+page 5	Newspaper Comment.
+page 5	Ridiculed In Egypt.
+page 5	Allegations Of Rebellion In Hadramaut.
+page 5	TIBER HYDROPLANE BASE.
+page 6	AQUATIC CHAMPIONS PARADE.
+page 6	Lawrence Not Missed By V.R.C.: Ng Nin's Splendid Showing.
+page 7	GUARD OLD UNIFORMS.
+page 7	BACK FROM FRANCE.
+page 7	British Women Drove Through German Lines.
+page 7	MARYKNOLL CONVENT.
+page 7	INDIA BUYS PLANES.
+page 8	Famous Sportsman Pilot Is A Captive.
+page 8	The Police Reserve.
+page 8	Orders Issued For The Current Week.
+page 8	Bank Regulations.
+page 8	12-Year Old Mother.
+page 8	Husband No. 5 Left After A Month.
+page 8	Money Quarrels.
+page 8	WAITING IN DENMARK.
+page 8	Million Germans Ready To Invade Sweden.
+page 8	The Soldier's Wife Was Called Up.
+page 8	Notice To Mariners.
+page 8	Less Water In Vicinity of Saddle Islands.
+page 9	"Attacks Will Become More Ferocious Each Day." Says Berlin Report.
+page 9	GERMANS CONTINUE MASS RAIDS ON BRITAIN: ANOTHER 39 DOWN.
+page 9	"SEVERAL HUNDRED" NAZI PLANES IN LATEST ATTACK OVER WIDE AREA.
+page 9	ATTACK ON PORTSMOUTH.
+page 9	Over Wide Area.
+page 9	39 Nazis Destroyed.
+page 9	U.S. Pilot Burns To Death.
+page 9	DECISIVE BATTLE RAGING?
+page 9	Britain's Defence Of Somaliland.
+page 9	Italian Claims.
+page 9	Different British Report.
+page 9	Steadiness On The Stock Exchange.
+page 9	Volunteer Hurt In Car Crash.
+page 9	MOST INTENSE RAIDS OF THE WAR TO DATE.
+page 9	Kent Areas Bombed.
+page 9	CYCLONE KILLS 25.
+page 9	Extensive Damage To Atlantic Coast.
+page 9	MILITARY CHIEFS TO PARLEY IN S'HAI.
+page 9	Rome Opinion.
+page 9	N-W Frontier Fight: Heavy Casualties.
+page 9	NAVY BRING DOWN FIVE NAZI PLANES.
+page 9	Accurate A.A. Fire.
+page 9	SPAIN DENIES A REPORT.
+page 9	German Aerodromes Plastered With Bombs.
+page 9	The R.A.F. Keep Up Fine Work.
+page 9	Oil The Main Objective.
+page 9	Crew's Report.
+page 9	Burning Briskly.
+page 9	Kent, Sussex, Hants And Dorset Raided.
+page 9	But Damage And Casualties Are Comparatively Slight.
+page 9	Church Damaged.
+page 10	KINGSLEY WOOD CHANCELLOR.
+page 10	MORE NAZI PRISONERS.
+page 13	TROOPS MASS IN BALKANS.
+page 13	Tension Not Yet Relieved.
+page 13	Dr. Operates During Raid.
+page 13	Wonderful Courage.
+page 13	Shown By Civilians.
+page 13	House Demolished.
+page 13	BACK FROM FRANCE.
+page 13	S. America's "Fuehrer" Is Arrested.
+page 13	May Be Deported By Argentine Govt.
+page 13	Plan To Seize Uruguay.
+page 13	"War Guilt" Trial Opens To-day.
+page 13	Newspaper Comment.
+page 13	Successful Flight.
+page 13	Trans-Atlantic Feat Is Praised.
+page 13	Soviets Abolish A Political Office.
+page 13	KENT, SUSSEX, HANTS & DORSET.
+page 13	Trawler's Success.
+page 13	Nazi "Apology".
+page 13	Berlin Admission.
+page 13	THE R.A.F. KEEP UP FINE WORK.
+page 13	Power Station Bombed.
+page 13	CONSULATES TO CLOSE DOWN.
+page 13	SWEDEN FACING POOR HARVEST.
+page 13	BLOOD FOR AIR RAID VICTIMS.
+page 13	Attempt To Break Into Moutries.
+page 13	Japanese Fleet: Kunming Report,
+page 13	Athens Denies Assassination Allegation.
+page 13	Italian Protest.
+page 13	MOST INTENSE RAIDS OF WAR.
+page 13	Remarkable Fight.
+page 13	Goebbels Version.
+page 13	Eyewitness Story.
+page 13	Mr. Chamberlain Convalescent.
+page 15	Belisha Wants Army Of 100 Divisions.
+page 15	INVASION OF NAZI-OCCUPIED TERRITORY URGED.
+page 15	Our Economic Task.
+page 15	What French Did To Nazi Planes.
+page 15	Round Trip of Pacific.
+page 15	Bomb Falls On A Cricket Ground.
+page 15	AIR DUEL OVER TOWN.
+page 15	Spitfires Defeat Messerschmitts.
+page 15	At Least Two Down.
+page 15	Nazi Aviators Captured.
+page 15	Farmer And Motorist Secure Prisoners.
+page 15	MARYKNOLL CONVENT.
+page 15	INDIA BUYS PLANES.
+page 16	Famous Sportsman Pilot Is A Captive.
+page 16	Notice To Mariners.
+page 16	Less Water In Vicinity of Saddle Islands.
+page 16	12-Year Old Mother.
+page 16	Husband No. 5 Left After a Month.
+page 16	Money Quarrels.
+page 16	WAITING IN DENMARK.
+page 16	Million Germans Ready To Invade Sweden.
+page 16	19 Foreigners Arrested.
+page 16	Manchukuo Round-up Is Reported.
+page 16	Hiking Across The Blue Mountains.
+page 17	NAZIS USE SMOKE SCREENS IN MASS RAIDS ON GREAT BRITAIN.
+page 17	MOST INTENSE RAIDS OF THE WAR OF TO DATE.
+page 17	Kent Areas Bombed.
+page 17	CYCLONE KILLS 25.
+page 17	Extensive Damage To Atlantic Coast.
+page 17	U.S. Pilot Burns To Death.
+page 17	DECISIVE BATTLE RAGING?
+page 17	Britain's Defence Of Somaliland.
+page 17	Italian Claims.
+page 17	Different British Report.
+page 17	Steadiness On The Stock Exchange.
+page 17	Volunteer Hurt In Car Crash.
+page 17	Withdrawal of Troops.
+page 17	Draws Newspaper Protest.
+page 17	N-W Frontier Fight: Heavy Casualties.
+page 17	Italo-Nazi Action Thought Likely.
+page 17	Communications With Switzerland Cut.
+page 17	Wenchow Bay Bombarded.
+page 17	Japanese Navy Start New Action.
+page 17	German Aerodromes Plastered With Bombs.
+page 17	The R.A.F. Keep Up Fine Work.
+page 17	Oil The Main Objective.
+page 17	Crew's Report.
+page 17	Burning Briskly.
+page 17	ITALIANS SAID TO E TAKING PART IN HUGE AERIAL "BLITZKRIEG".
+page 17	NEW NAZI TACTICS FALL.
+page 17	Sale Of Two Children.
+page 17	Man And Two Women Sent To Prison.
+page 17	TRANSYLVANIA'S FATE DECIDED ?
+page 17	Hundreds Of Nazi Planes Take Part.
+page 17	Attack On Portsmouth.
+page 17	Over Wide Area.
+page 17	RAIDS ON WALES AND ENGLAND.
+page 17	U.S.-Soviet Trade Agreement.
+page 18	MOST INTENSE RAIDS OF WAR.
+page 18	Remarkable Fight.
+page 18	Goebbels Version.
+page 18	THE R.A.F. KEEP UP FINE WORK.
+page 18	Power Station Bombed.
+page 18	Eyewitness Story.
+page 21	Kent, Sussex, Hants And Dorset Raided.
+page 21	But Damage And Casualties Are Comparatively Slight.
+page 21	Church Damaged.
+page 21	Trawler's Success.
+page 21	Nazi "Apology".
+page 21	Berlin Admission.
+page 21	Successful Flight.
+page 21	Trans-Atlantic Feat Is Praised.
+page 21	Athens Denies Assassination Allegation.
+page 21	Italian Protest.
+page 21	CONSULATES TO CLOSE DOWN.
+page 21	SWEDEN FACING POOR HARVEST.
+page 21	S. America's "Fuehrer" Is Arrested.
+page 21	May Be Deported By Argentine Govt.
+page 21	Dr. Operates During Raid.
+page 21	Wonderful Courage Shown By Civilians.
+page 21	House Demolished.
+page 21	TROOPS MASS IN BALKANS.
+page 21	Tension Not Yet Relieved.
+page 21	19 Foreigners Arrested.
+page 21	Manchukuo Round-up Is Reported.
+page 21	"War Guilt" Trial Opens To-day.
+page 21	Newspaper Comment.
+page 21	BLOOD FOR AIR RAID VICTIMS.
+page 21	Attempt to Break Into Moutries.
+page 21	Extradition Proceedings Dropped.
+page 21	Discharge Of Accused Is Ordered.
+page 21	Robbed H.K. Visitor.
+page 21	Prison For 19 Year-Old Unemployed.
+page 21	KINGSLEY WOOD CHANCELLOR.
+page 23	Belisha Wants Army Of 100 Divisions.
+page 23	INVASION OF NAZI-OCCUPIED TERRITORY URGED.
+page 23	Our Economic Task.
+page 23	What French Did To Nazi Planes.
+page 23	Round Trip of Pacific.
+page 23	AIR DUEL OVER TOWN.
+page 23	Spitfires Defeat Messerschmitts.
+page 23	At Least Two Dewn.
+page 23	Nazi Aviators Captured.
+page 23	Farmer And Motorist Secure Prisoners.
+page 23	MARYKNOLL OCVENT.
+page 23	INDIA BUYS PLNAES.
+page 24	NAVY BRING DOWN FIVE NAZI PLANES.
+page 24	Accurate A.A. Fire.
+page 24	Hiking Across The Blue Mountains.
+page 24	Mr. Chamberlain.
+page 24	Police Raid Brings $406 To Poor Box.
+page 24	Professional Gambling School Broken Up.
+page 24	Bails Entreated.
+page 24	SPAIN DENIES A REPORT.
+page 24	MILITARY CHIEFS TO PARLEY IN S'HAI.
+page 24	Rome Opinion.
+page 24	Famous Sportsman Pilot Is A Captive.
+page 24	Notice To Mariners.
+page 24	Less Water In Vicinity Of Saddle Islands.
+page 24	AUSTRALIAN NAVY.
+page 24	Commonwealth Supplying Own Armaments.
+page 24	WAITING IN DENMARK.
+page 24	Million Germans Ready To Invade Sweden.
+page 24	AUSTRALIAN AIR DISASTER.
+page 24	GERMANS LOSE 61 PLANES.
+page 24	Nazis May Be Using Long-Range Guns.
+page 24	Soviets Abolish A Political office.

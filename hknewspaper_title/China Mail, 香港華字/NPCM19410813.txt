@@ -1,0 +1,373 @@
+page 1	DAYLIGHT RAID ON COLOGNE.
+page 1	Heavy Attack By Blenheims.
+page 1	Direct Hits On Power Stations.
+page 1	Daylight Raid On Cologne.
+page 1	Twenty 'Planes Lost.
+page 1	Patent Absurdity Of Peace Canard.
+page 1	VOLUNTEER N.C.O. DIES OF INJURIES: 11 IN HOSPITAL.
+page 1	JAPAN AND THE SOVIET.
+page 1	HUGE NEW AIR BASES.
+page 1	JAPANESE WARSHIPS AT SAIGON.
+page 1	Portugal Gets Relif.
+page 2	RETURNED IN FULL MEASURE.
+page 2	Germany Bambed More Heavily Than Britain.
+page 2	Two Thousand Tons Dropped On Ruhr Districts.
+page 2	2,000 Tons.
+page 2	Powerful Blows.
+page 2	Cannot Take It.
+page 2	BERLIN BOMBED BY SOVIET.
+page 2	Moscow Raided.
+page 2	SOVIET'S NEW WEAPON.
+page 2	LEFT-HANDED COMPLIMENT.
+page 2	R.A.F. CASUALTIES.
+page 2	SUEZ CANAL ZONE AGAIN RAIDED.
+page 2	Dyaks To Defend Borneo.
+page 2	HESITANT STOCK MARKT.
+page 2	OPPONENTS OF BILL DEFEATED.
+page 2	FINLAND CALL-UP.
+page 2	LABOUR LEADERS RESTIVE.
+page 2	GENERAL TOJO AT IMERIAL PALACE.
+page 2	TWO FAMOUS BRITISH "ACES" AMONG MISSING.
+page 2	Second "Ace" Missing.
+page 2	GERMAN WAR DRIVE.
+page 2	NO CHANGE.
+page 3	German Civilian Morale Shaken By Food Shortages.
+page 3	AND STEADY POUNDING BY R.A.F.
+page 3	MENZIES ASKED TO GO TO LONDON.
+page 3	"DEATH KNELL TO FASHION".
+page 3	WOMAN IN SCENE AT 'DROME.
+page 3	THAILAND BOUNDARY MEETINGS.
+page 3	GERMAN AGENTS STILL POURING INTO IRAN.
+page 3	Some Disquiet.
+page 3	GERAMAN "TRIALS" IN CRETE.
+page 3	U.S. READY FOR DRASTIC ACTION.
+page 3	KING AD QUEEN AT ABBEY.
+page 3	Ruins At Parliament.
+page 3	Other Raid Damage.
+page 3	RABAUL ERUPTION.
+page 4	DEATH OF FAMOUS FORMER VICEROY.
+page 4	Flight To N.Z.
+page 4	GERMAN DESERTER'S LETTER.
+page 4	BATTLE OF WITS IN AIR.
+page 4	GUERILLAS WRECK GERMAN TROOP TRAIN.
+page 4	French Sabotage.
+page 4	INJURED MAN SAVED WORKS.
+page 4	FATE OF PRISONERS.
+page 5	BRITAIN SETS SHIP RECORDS.
+page 5	"SPEED THE TANKS".
+page 5	SALE OF SHIPS.
+page 5	ANOTHER QUIET WEDDING!
+page 5	"Most Exciting".
+page 5	WOMEN IN WAR.
+page 6	GRIM ORDEAL OF THE CZECHS.
+page 6	 --- Brutality, Spoliation.
+page 6	Undermining National Will.
+page 6	Nazi Spoliation.
+page 6	German Terrorism.
+page 6	Suppression Of Cuiture.
+page 8	How Dakar Can Be A Menace To The Western Hemisphere.
+page 8	Unheathy Climate.
+page 8	Question Of Food Supply.
+page 8	Axis Sea-Lanes Vulnerable.
+page 8	Strength Of Naval Defence.
+page 8	Possible Landing Places.
+page 8	Forces Estimated At 5,000.
+page 8	HIS COURAE NOT FORGOTEN.
+page 9	ARSENAL INHOME OF SPY RING SUSPECT.
+page 9	DAKAR A MENACE.
+page 9	Nazis' Stumbling Block.
+page 9	Unlimited Manpower Needed.
+page 9	AGAIN SHE DARES SEA TO WED.
+page 9	More Presents.
+page 9	NAZIS THREATEN BISHIP'S WIFE.
+page 9	U.S. WOMEN RAID VICTIMS.
+page 9	GOEBBELS TELLS.
+page 9	"Suffered Heavity".
+page 10	CATHOLICS AND NAZIS.
+page 10	U.S. Bishop's Attack.
+page 10	REPLY TO GRMAN LEAFET.
+page 10	Defence Against Bombing.
+page 10	D.F.C. NIGHT FIGHTING.
+page 10	"KIPPS" AS FILM.
+page 11	A PAGE FOR WOMEN.
+page 11	Preserve Femininity.
+page 11	To Prevent Unlovely Muscle.
+page 13	DOVER PATROL.
+page 13	FROM SHOP BOY TO STORE CHIEF.
+page 13	DESTROY NAZI TOWNS-VICAR.
+page 13	DARING ESCAPE FROM CRETE.
+page 13	A.R.P. WORKERS' HOSPITAL.
+page 13	BATTLED WITH U-BOATS.
+page 13	Decorations for Merchant Crews.
+page 13	Submarine Hit.
+page 16	RUSSIAN WAR FRONT SITUATION ANALYSED.
+page 16	Nazis Now Fighting Mainy Holding Actions.
+page 16	Attack Diverted Towards Odessa.
+page 16	New Thrust.
+page 16	Rear Threatened.
+page 16	ADMIRAL DARLAN'S POWERS.
+page 16	GERMAN TANKS ROUTED.
+page 16	SHOCKING BRITISH AIR DISASTER.
+page 16	On Danger List.
+page 16	Japan's Softened Mood.
+page 17	DAYLIGHT RAID ONCOLOGNE.
+page 17	Heavy Attack By Blenheims Direct Hits On Power Stations.
+page 17	Daylight Raid On Cologne.
+page 17	Twenty 'Plaes Lost.
+page 17	Six Squadrons.
+page 17	Withdrawal Covered.
+page 17	Patent Absurdity Of Peace Canard.
+page 17	VOLUNTEER N.C.O. DIES OF INJURIES: 11 IN HOSPITAL.
+page 17	AUSTRALIAN WAR CABINET.
+page 17	JAPAN AND THE SOVIET.
+page 17	JOINT GUARANTEE TO TURKEY.
+page 17	CONGRESS LIKELY OT APPROVE.
+page 18	RETURNED IN FULL MEASURE.
+page 18	Germany Bombed More Heavily Than Britain.
+page 18	Two Thousand Tons Dropped On Ruhr Districts.
+page 18	2,000 Tons.
+page 18	Powerful Blows.
+page 18	Cannot Take It.
+page 18	BERLIN BOMBED BY SOVIET.
+page 18	Moscow Raided.
+page 18	SOVIET'S NEW WEAPON.
+page 18	LEFT-HANDED COMPLIMENT.
+page 18	R.A.F. CASUALTIES.
+page 18	SUEZ CANAL ZONE AGAIN RAIDED.
+page 18	Dyaks To Defend Borneo.
+page 18	HESITANT STOCK MARKET.
+page 18	OPPONENTS OF BILL DEFEATED.
+page 18	FINLAND CALL-UP.
+page 18	LABOUR LEADERS RESTIVE.
+page 18	GENERAL TOJO AT IMPERIAL PALACE.
+page 18	TWO FAMOUS BRITISH "ACES" AMONG MISSING.
+page 18	Second "Ace" Missing.
+page 18	GERMAN WAR DRIVE.
+page 18	NO CHANGE.
+page 19	German Civilian morale Shaken By Food Shortages.
+page 19	AND STEADY POUNDING BY R.A.F.
+page 19	THE FREE FRENCH AT SEA.
+page 19	MANZIES ASKED TO GO TO LONDON.
+page 19	EMPIRE AIR FORCE EXPANSION,
+page 19	U.S. READY FOR DARSTIC ACTION.
+page 19	GERMAN AGENTS STILL POURING INTO IRAN.
+page 19	Some Disquiet.
+page 19	No Fresh Developments.
+page 19	THAILAND BOUNDARY MEETINGS.
+page 19	NO GREAT EXODUS FROM SHANGHAI.
+page 19	U.S. WOMEN RAID VICTIMS.
+page 19	SATAN AND HIS WORKS.
+page 19	Incredible Savagery.
+page 19	ANOTHER FROTIER CLASH.
+page 20	DEATH OF FAMOUS FORMER VICEROY.
+page 20	Flight To N.Z.
+page 20	JAPANESE WARSHIPS AT SAIGON.
+page 20	BELGIUM MARU SAILS.
+page 20	SOVIET'S NEW WAPON.
+page 20	LEFT-HANDED COMPLIMENT.
+page 20	GUERILLAS WRECK GERMAN TROOP TRAIN.
+page 20	French Sabotage.
+page 20	ROOSEVELT YACHT SILENT.
+page 20	Portugal Gets Relief.
+page 20	CONVOY ARRIVES INPLATE.
+page 21	EXTENSIVE RAIDS BY ROYAL AIR FORCE IN THE MIDDLE EAST.
+page 21	Ship Torpedoed.
+page 21	HIS COURAGE NOT FORGOTTEN.
+page 21	AMERICAN RED CROSS WORK.
+page 22	GRIM ORDEAL OF THE CZECHS.
+page 22	 --- Brutality, Spoliation.
+page 22	Undermining National Will.
+page 22	Nazi Spoliation.
+page 22	German Terrorism.
+page 22	Suppression Of Culture.
+page 24	MARSHAL ETAIN BROADCASTS BUT FAILS TO CLEAR AIR.
+page 24	Relations With Nazis.
+page 24	Larger Horizon.
+page 24	Instinct Of Freedom.
+page 24	Despicable Tutelage.
+page 24	Twelve Points.
+page 24	Clear Line.
+page 24	BURMA DEFENCE CONTROL.
+page 24	BARON SCHRODER'S CODICIL.
+page 24	ADMIRAL DARLAN'S POWERS.
+page 24	NAZIS THREATN BISHOP'S WIFE.
+page 25	ADMIRAL DARLAN'S NEW POST: THE EXPLANATION.
+page 25	New Cabinet.
+page 25	RABAUL ERUPTION.
+page 25	INJURED MAN SAVED WORKS.
+page 25	FATE OF PRISONERS.
+page 25	STEEL HELMETS FOR ONE IN THREE.
+page 25	GOEBBELS TELLS.
+page 25	"Suffered Heavily".
+page 25	CANADIAN NAVY CHIEF IN LONDON.
+page 25	AGAIN SHE DARES SEA TO WED.
+page 25	More Presents.
+page 26	CATHOLICS AND NAZIS.
+page 26	U.S. Bishop's Attack.
+page 26	REPLY TO GERMAN LEAFLET.
+page 26	Defence Against Bombing.
+page 26	D.F.C. NIGHT FIGHTING.
+page 26	"KIPPS" AS FILM.
+page 27	A PAGE FOR WOMEN.
+page 27	Preserve Femininity.
+page 27	To Prevent Unlovely Muscle.
+page 29	BRITAIN SETS SHIP RECORDS.
+page 29	HESITANT STOCK MARKET.
+page 29	SALE OF SHIPS.
+page 29	FROM SHOP BOY TO STORE CHIEF.
+page 29	DESTROY NAZI TOWNS-VICAR.
+page 29	DARING ESCAPE FROM CRETE.
+page 29	A.R.P. WORKERS' HOSPITAL.
+page 29	BATTLE OF WITS IN AIR.
+page 29	ARMY WATER-POLO SEMI-FINALS.
+page 32	RUSSIAN WAR FRONT SITUATION ANALYSED.
+page 32	Nazis Now Fighting Mainly Holding Actions.
+page 32	Attack Diverted Towards Odessa.
+page 32	New Thrust.
+page 32	Rear Threatened.
+page 32	Japan's Softened Mood.
+page 32	GERMAN TANKS ROUTED.
+page 32	SHOCKING BRITISH AIR DISASTER.
+page 32	VOLUNTEER N.C.O. DIES OF INJURIES: 11 IN HOSPITAL.
+page 32	Cable Drum The Cause.
+page 32	On Danger List.
+page 32	Earlier Mishap.
+page 33	UKRAINE ADVANCE CHECKED.
+page 33	Cossack Cavalry Go Into Action Germans Unable To Pass Uman.
+page 33	Offensive Stayed.
+page 33	Ferry Pilots Killed.
+page 33	INJURED MEN WALK THREE MILES TO OBTAIN HELP.
+page 33	Real Pluck.
+page 33	Swayed Violently.
+page 33	UNITED STATES MIGHT BE FORCED TO ACT FIRST.
+page 33	LE TRAIT RAIDED.
+page 33	HANDS OFF THAI WARNING.
+page 33	STILL TIME FOR SENSE.
+page 34	RETURNED IN FULL MEASURE.
+page 34	Germany Bombed More Heavily Than Britain.
+page 34	Two Thousand Tons Dropped On Ruhr Districts.
+page 34	2,000 Tons.
+page 34	Powerful Blows.
+page 34	Cannot Take It.
+page 34	SOVIET TRIBUTE.
+page 34	HUGE NEW AIR BASES.
+page 34	NAZI RAIDS O SUEZ.
+page 34	Direct Hits On Power Stations.
+page 34	Daylight Raid On Cologne.
+page 34	Twenty 'Planes Lost.
+page 34	Six Squadrons.
+page 34	Withdrawal Covered.
+page 34	SUEZ CANAL ZONE AGAIN RAIDED.
+page 34	R.A.F. CASUALTIES.
+page 34	BERLIN BOMBED BY SOVIET.
+page 34	Moscow Raided.
+page 34	Squeat And Sequel.Squeat And Sequel.
+page 34	CONGRESS CUTS ARMY VOTE.
+page 34	OPPONENTS OF BILL DEFEATED.
+page 34	FINLAND CALL-UP.
+page 35	German Civilian Morale Shaken By Food Shortages.
+page 35	AND STEADY POUNDING BY R.A.F.
+page 35	EXTENSION OF SERVICE EXPECTED.
+page 35	Tentative Agreement.
+page 35	TWO-OCEAN NAVY.
+page 35	SHANGHAI BOMB BLAST.
+page 35	ANOTHER FRONTIER CLASH.
+page 35	Patent Absurdity Of Peace Canard.
+page 35	TWO FAMOUS BRITISH "ACES" AMONG MISSING.
+page 35	Second "Ace" Missing.
+page 35	CHINA AIR FORCE DAY.
+page 35	MENZIES ASKED TO GO TO LONDON.
+page 35	NO GREAT EXODUS FROM SHANGHAI.
+page 35	NO CHANGE.
+page 35	SATAN AND HIS WORKS.
+page 35	Incredible Savagery.
+page 35	THAILAND BOUNDARY MEETING.
+page 35	SHOWDOWN THOUGHT IMMINENT.
+page 36	DEATH OF FAMOUS FORMER VICEROY.
+page 36	Flight To N.Z.
+page 36	JAPANESE WARSHIPS AT SAIGON.
+page 36	BELGIUM MARU SAILS.
+page 36	SOVIET'S NEW WEAPON.
+page 36	LEFT-HANDED COMPLIMENT.
+page 36	GUERILLANS WRECK GERMAN TROOP TRAIN.
+page 36	French Sabotage.
+page 36	CONVOY ARRIVES IN PLATE.
+page 36	ROOSEVELT YACHT SILENT.
+page 36	Portugal Gets Relief.
+page 37	EXTENSIVE RAIDS BY OYAL AIR FORCE IN THE MIDDLE EAST.
+page 37	Ship Torpedoed.
+page 37	HIS COURAGE NOT FORGOTTEN.
+page 37	AMERICAN RED CROSS WORK.AMERICAN RED CROSS WORK.
+page 38	Anglo-Soviet Joint Guarantee To Turkey.
+page 38	Every Help.
+page 38	Malicious Propaganda.
+page 38	No Delusion.
+page 38	'STOOGE' NOT FINED.
+page 38	Master A Spectator.
+page 38	WOMAN HEAVILY FINED.
+page 38	GENERAL TOJO AT IMPERIAL PALACE.
+page 38	U.S. READY FOR DRASTIC ACTION.
+page 38	LABOUR LEADERS RESTIVE.
+page 38	WATERLOO RD. THEFTS.
+page 40	GOEBBELS TELLS.
+page 40	"Suffered Heavily".
+page 40	Dyaks To Defend Borneo.
+page 40	THEFT CHARGE.
+page 40	MARSHAL PETAIN BROADCASTS BUT FAILS TO CLEAR AIR.
+page 40	Relations With Nazis.
+page 40	Larger Horizon.
+page 40	Instinct Of Freedom.
+page 40	Despicable Tutelage.
+page 40	Twelve Points.
+page 40	Clear Line.
+page 40	Labour Charter.
+page 40	WOODLANDS PATH ROBBERY.
+page 40	BARON SCHRODER'S CODICIL.
+page 40	ADMIRAL DARLAN'S POWERS.
+page 40	NO MORE INSTALMENT PURCHASES.
+page 41	RUSSIAN WAR FRONT SITUATION ANALYSED.
+page 41	Nazis Now Fighting Mainly Holding Actions.
+page 41	Attack Diverted Towards Odessa.
+page 41	New Thrust.
+page 41	Rear Threatened.
+page 41	JAPAN AND THE SOVIET.
+page 41	STEEL HELMETS FOR ONE IN THREE.
+page 41	STRIKE PROBLEM IN AMERICA.
+page 41	Strike Breaking Effort.
+page 41	Not Clear.
+page 41	Army Attitude.
+page 41	AUSTRALIAN WAR CABINET.
+page 41	SHOCKING BRITISH AIR DISASTER.
+page 41	ADMIRAL DARLAN'S NEW POST: THE EXPLANATION.
+page 41	New Cabinet.
+page 41	CANADIAN NAVY CHIEF IN LONDON.
+page 42	VOLUNTEER N.C.O. DIES OF INJURIES: 11 IN HOSPITAL.
+page 42	Cable Drum The Cause.
+page 42	On Danger List.
+page 42	Earlier Mishap.
+page 42	BURMA DEFENCE CONTROL.
+page 42	WARRANT ISSUED.
+page 43	A PAGE FOR WOMEN.
+page 43	Preserve Femininity.
+page 43	To Prevent Unlovely Muscle.
+page 44	BRITAIN SETS SHIP RECORDS.
+page 44	SALE OF SHIPS.
+page 45	GERMAN AGENTS STILL POURING INTO IRAN.
+page 45	Some Disquiet.
+page 45	No Fresh Developments.
+page 45	GERMAN WAR DRIVE.
+page 45	U.S. WOMEN RAID VICTIMS.
+page 45	THE FREE FRENCH AT SEA.
+page 45	SUGAR RAMP STOPPED.
+page 45	EMPIRE AIR FORCE EXPANSION.
+page 45	HESITANT STOCK MARKET.
+page 48	BIGGEST EVER DAY RAID ONGERMANY.
+page 48	Great Cologne Power Stations Destroyed.
+page 48	New Fighters Appear In Action.
+page 48	GERMAN TANKS ROUTED.
+page 48	Japan's Softened Mood.
+page 48	CHIANG KAI-SHEK MANIFESTO.
+page 48	For Four Years.
+page 48	UKRAINE ADVANCE CHECKED.
+page 48	Severe Fighting.
+page 48	Women In Action.

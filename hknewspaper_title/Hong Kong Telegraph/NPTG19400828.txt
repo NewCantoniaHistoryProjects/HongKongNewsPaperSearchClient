@@ -1,0 +1,286 @@
+page 1	NAZI ATTACK ON CONVOY IN THE CHANNEL.
+page 1	BALKANS FLARE-UP Hungarians, Reds clash in Rumania.
+page 1	British Planes Cross Alps To Raid Italy.
+page 1	Royal Air Force Maintains Attacks On The continent.
+page 1	ANOTHER RAID ON LONDON.
+page 1	Hitler Borrows An Italian 1914-18 Idea.
+page 1	'Schnellboots'Appear In English Channel.
+page 1	NAZI DENIAL OF EIRE BOMBING.
+page 1	17 Towns Raided.
+page 1	FAROUK STRENGTHENS EGYPTIAN CABINET.
+page 1	U.S. MUST SACRIFICE Envoy's Ringing Call To Arms.
+page 1	ATTACK ON EIRE.
+page 1	Old Women Killed In Raids On Britain.
+page 2	GENELAL IRONSIDE GIVES EVIDENCE AT COURT MARTIAL.
+page 2	DRAGOONS MAJOR IS FOUND NOT GUILTY ON TWO COUNTS.
+page 2	CYCLISTS HELP WIN THE WAR.
+page 2	FRANCE'S PAY-OFF.
+page 2	AIR MINISTER VISITS AIR ACES.
+page 2	Italian Threats To Greece All 'Hot Air'
+page 2	French African Colony To Help Allied Cause.
+page 2	Awards For Naval Men Announced.
+page 2	RUMANIA ACCUSED.
+page 2	Britain's Air Losses.
+page 2	HITLER STOLE TERROR IDEAS FROM COMMUNIST RUSSIA.
+page 3	MAGAZINE PAGE.
+page 3	CANADA IS 'ALL OUT' TO WIN.
+page 3	Out of a divided Gaul.
+page 3	MORTAL.
+page 3	STORM.
+page 4	THEY'RE NOT AFRAID OF BOMBS.
+page 4	The Battle for England.
+page 4	MOYALE.
+page 4	FUNNY SIDE UP.
+page 4	FUSES WERE FORGOTTEN.
+page 4	WHISKY SAFE FOR FOUR YEARS.
+page 5	R.A.F. RAIN DOWN BOMBS DAY & NIGHT.
+page 5	CONTINUOUS ATTACKS ON NAZI AERODROMES.
+page 5	INDIAN PLAHES DEFEND ENGLAND.
+page 5	London Danced & Sang During The Air Raids.
+page 5	NAZI AIR LOSSES.
+page 5	Special Mission to Near East.
+page 5	VICHY CABINET RECONSTRUSTION NEAR?
+page 5	PETAIN 'REJUVENATES' DIPLOMATIC SERVICE.
+page 5	Shiegemitsu 'Explains' Diplomatic Shake-Up.
+page 5	SIR ARCHIBALD'S TRIP.
+page 6	Around The Courscs.
+page 6	OUTCRY AGAINST 'DOCTORED' COURSES IN U.S.
+page 6	Sarazen Wants Return Match With Ryder Cup Team: $16,00 Collected.
+page 6	Only Three Games Played Owing To Rain.
+page 6	Points For The Harry Vardon Trophy.
+page 6	Red Cross Fund SPORTSMEN DONATE OVER 74,000 POUNDS.
+page 6	HOW THE MONEY WAS RAISED.
+page 6	One-Legged Cricketer's Optimism.
+page 7	Gun-duel As Ship Is Torpedoed.
+page 7	HONGKONG REFUGEES.
+page 7	BRITISH FOREIGN LEGION.
+page 7	COLONY BLACK-OUT SAID TO BE SATISFACTORY.
+page 8	NAGGING WIFE-DECREE.
+page 8	Japan Will Stake All To End War.
+page 8	Three Heroes of the Welsh Guards.
+page 8	CHOLERA INCREASING.
+page 8	Free Scholarships For Students.
+page 8	Air Engine Factory Buih in 57 Days.
+page 8	AIR ACE DECORATED.
+page 8	CIVVIES DRILL IN TOWN CAR PARK.
+page 8	NOW IT CAN BE TOLD.
+page 9	Reserved Age Is Up For Hundreds Of Thousands.
+page 9	Woodworker's Choice Arms Jobs or Army.
+page 9	Owners of Small Shops are Now Exempt at 30
+page 9	HERE IS THE AIR ARMADA FROM THE COLONIES.
+page 9	BOY EXPLAINS JOB TO KING. 
+page 9	WANTS UNION.
+page 9	LAND GIRLS WANT JOBS.
+page 9	N.Y.K. SHIPS CHANGE.
+page 9	JULIANA LIVES SIMPLE LIFE.
+page 10	Air Raids Slacken After Day of Heavy Nazi Loss.
+page 10	NO APPEASEMENT IN ORIENT.
+page 10	"ON MY RIGHT (Shoulder) THE CHAMP"
+page 10	EGYPT'S DESTINY.
+page 10	Spearfish Loss Is Confirmed.
+page 11	NAZI ATTACK ON CONVOY IN THE CHANNEL.
+page 11	DALKANS FLARE-UP.
+page 11	Hungarians, Reds clash in Rumania.
+page 11	British Planes Cross Alps To Raid Italy.
+page 11	Royal Air Force Maintains Attacks On The Continent.
+page 11	ANOTHER RAID ON LONDON.
+page 11	Hitler Borrows An Italian 1914-18 Idea.
+page 11	'Schnellboots' Appear In English Channel.
+page 11	LETTERS FROM EVACUEES.
+page 11	COLONY SHIPS RECALLED.
+page 11	FAROUK STRENGTHENS EGYPTIAN CABINET.
+page 11	U.S. MUST SACRIFICE.
+page 11	Small War Is Going On In The Balkans.
+page 11	17 Towns Raided.
+page 11	ACKNOWLEDGMENTS.
+page 11	U.S.A. TAKES OVER.
+page 11	PROTECTION OF SOUTH AFRICAN INTERESTS.
+page 12	GENERAL IRONSIDE GIVES EVIDENCE AT COURT MARTIAL.
+page 12	DRAGOONS MAJOR IS FOUND NOT GUILTY ON TWO COUNTS.
+page 12	CYCLISTS HELP WIN THE WAR.
+page 12	FRANCE'S PAY-OFF.
+page 12	AIR MINISTER VISITS AIR ACES.
+page 12	Italian Threats To Greece All 'Hot Air'.
+page 12	Old Women Killed In Raids On Britain.
+page 12	Awards For Naval Men Announced.
+page 12	French African Colony To Help Allied Cause.
+page 12	Britain's Air Losses.
+page 12	HITLER STOLE TERROR IDEAS FROM COMMUNIST RUSSIA.
+page 13	MAGAZINE PAGE
+page 13	CANADA IS 'ALL OUT' TO WIN.
+page 13	Out of a divide Gaul.
+page 13	MORAL.
+page 13	THE STORY OF NAZI GERMANY.
+page 13	STORM.
+page 14	THEY'RE NOT AFRAID OF BOMBS.
+page 14	The Battle for England.
+page 14	MOYALE.
+page 14	FUNNY SIDE UP.
+page 14	FUSES WERE FORGOTTEN.
+page 14	WHISKY SAFE FOR FOUR YEARS.
+page 15	SHE WAS THE FIRST OOMPH GIRL.
+page 15	R.A.F RAIN DOWN BOMBS DAY & NIGHT.
+page 15	CONTINUOUS ATTACKS ON NAZI AERODROMES.
+page 15	INDIAN PLANES DEFENE ENGLAND.
+page 15	London Danced & Sang During The Air Raids.
+page 15	NAZI AIR LOSSERS.
+page 15	150 In Three Days.
+page 15	Flying-Boat's Exploits.
+page 15	Daring Raid On Nazi Planes, Fuel Dumps.
+page 15	Shiegemitsu 'Explains' Diplomatic Shake-Up.
+page 15	CHURCH UNITY.
+page 15	Amalgamation Plan Is Mooted In Japan.
+page 15	NAZI DENIAL OF EIRE BOMBING.
+page 15	Appeal For Support Of Vichy Govt.
+page 15	HONGKONG REFUGEES.
+page 15	"Andersonitis" Is Air Raid Complaint.
+page 15	New Device Against Air Raiders.
+page 16	Around The Courses.
+page 16	OUTCRY AGAINST 'DOCTORED' COURSES IN U.S.
+page 16	Sarazen Wants Return Match With Ryder Cup Team $16,000 Collected.
+page 16	Only Three Games Played Owing To Rain.
+page 16	Points For The Harry Vardon Trophy.
+page 16	SPORTSMEN DONATE OVER 74,000 POUNDS
+page 16	A Soccer Club Makes Money!
+page 16	One-Legged Cricketer's Optimism.
+page 17	VICHY CABINET RECONSTRUCTION NEAR?
+page 17	PETAIN 'REJUVENATES' DIPLOMATIC SERVICE.
+page 17	Special Mission to Near East.
+page 17	Britain's Successful "Salvage" Campaign.
+page 17	SIR ARCHIBALD'S TRIP.
+page 17	Grants To Civilians For Injuries in War.
+page 17	DEATH OF ONE OF BRITAIN'S 4 RICHEST DUKES.
+page 18	NAGGING WIFE-DECREE.
+page 18	WOMAN WITH 10,000 POUNDS JEWELS.
+page 18	Japan Will Stake All To End War.
+page 18	Three Heroes of the Welsh Guards.
+page 18	CHOLERA INCREASING.
+page 18	Free Scholarships For Students.
+page 18	Air Engine Factory Built in 57 Days.
+page 18	NOW IT CAN BE TOLD.
+page 18	AIR ACE DECORATED.
+page 18	CIVVIES DRILL IN TOWN CAR PARK.
+page 18	Why Rubber Wont Up.
+page 18	Message On The Egg.
+page 19	Reserved Age Is Up For Hundreds Of Thousands.
+page 19	Woodworkers' Choice" Arms Jobs or Army.
+page 19	Owners of Small Shops are Now Exempt at 30.
+page 19	WANTS UNION.
+page 19	LAND GIRLS WANT JOBS.
+page 19	Will Be Called Up As Tradasmen.
+page 19	JULIANA LIVES SIMPLE LIFE.
+page 20	Air Raids Slacken After Day of Heavy Nazi Loss
+page 20	NO APPEASEMENT IN ORIENT.
+page 20	Munich would be Waterloo.
+page 20	"ON MY RIGHT (Shoulder) THE CHAMP"
+page 20	EGYPT'S DESTINY.
+page 20	Spearfish Loss Is Confirmed.
+page 21	NAZI ATTACK ON CONVOY IN THE CHANNEL.
+page 21	AXIS POWERS TAKE A HAND
+page 21	Situation in the Balkans becomes grave.
+page 21	SPECLAL TO THE "TELEGRAPH".
+page 21	American Administration Criticised.
+page 21	Anglo-U.S. Far Eastern Agreement Is Revealed.
+page 21	SO POOR ADOLF HAD HONE!
+page 21	Night Attacks Against Britain's Capital.
+page 21	Waves of Nazi Planes Make Raids on London.
+page 21	EDEN MAY GET NEW JOB.
+page 21	H.K. BEER DUTY CHANGES.
+page 21	ITALIAN THREAT.
+page 21	AMERICAN PEACETIME ARMY OF 1,000,000 SOUGHT.
+page 21	SPECIAL TO THE "TELECRAPH".
+page 21	AIR MAIL HERE.
+page 21	17 Towns Raided.
+page 21	Small War Is Going On In The Balkans.
+page 22	GENERAL IRONSIDE GIVES EVIDENCE AT COURT MARTIAL.
+page 22	DRAGOONS MAJOR IS FOUND NOT GUILTY ON TWO COUNTS.
+page 22	CYCLISTS HELP WIN THE WAR.
+page 22	FRANCE'S PAY-OFF.
+page 22	83 Officials To Be Retired.
+page 22	Wanted To Go And Fight.
+page 22	AIR MINISTER VISITS AIR ACES.
+page 22	Italian Threats To Greece All 'Hot Air'.
+page 22	Old Women Killed In Raids On Britain.
+page 22	Awards For Naval Men Announced.
+page 22	French African Colny To Help Allied Cause.
+page 22	Britain's Air Losses.
+page 22	HITLER STOLE TERROR IDEAS FROM COMMUNIST RUSSIA.
+page 23	MAGAZINE PAGE.
+page 23	CANADA IS 'ALL OUT' TO WIN.
+page 23	Out of a divided Gaul.
+page 23	MORTAL.
+page 23	THE STORY OF NAZI GERMANY.
+page 23	STORM.
+page 24	THEY'RE NOT AFRAID OF BOMBS.
+page 24	The Battle for England.
+page 24	MOYALE.
+page 24	FUSES WERE FORGOTTEN.
+page 24	WHISKY SAFE FOR FOUR YEARS.
+page 25	SHE WAS THE FIRST OOMPH GIRL.
+page 25	R.A.F. RAIN DOWN BOMBS DAY & NIGHT.
+page 25	CONTINUOUS ATTACKS ON NAZI AERODROMES.
+page 25	INDIAN PLANES DEFEDN ENGLAND.
+page 25	London Danced & Sang During The Air Raids.
+page 25	NAZI AIR LOSSES.
+page 25	Flying-Boat's Exploits.
+page 25	Daring Raid On Nazi Planes, Fuel Dumps.
+page 25	Shiegemitsu 'Explains' Diplomatic Shake-Up.
+page 25	CHURCH UNITY.
+page 25	Amalgamation Plan Is Mooted In Japan.
+page 25	NAZI DENIAL OF EIRE BOMBING.
+page 25	Appeal For Support Of Vichy Govt.
+page 25	HONGKONG REFUGEES.
+page 25	"Andersonitis" Is Air Raid Complaint.
+page 25	New Device Against Air Raiders.
+page 26	Around The Courses.
+page 26	OUTCRY AGAINST 'DOCTORED' COURSES IN U.S.
+page 26	Sarazen Wants Return Match With Ryder Cup Team: $16,000 Collected.
+page 26	Points For The Harry Vardon Trophy.
+page 26	Red Cross Fand. 
+page 26	SPORTSMEN DONATE OVER 74,000 POUNDS
+page 26	A Soccer Club Makes Money!
+page 26	One-Legged Cricketer's Optimism.
+page 27	VICHY CABINET RECONSTRUCTION HEAR?
+page 27	PETAIN 'REJUVENATES' DIPLOMATIC SERVICE.
+page 27	DEATH OF ONE OF BRITAIN'S 4 RICHEST DUKES.
+page 27	Special Mission to Near East.
+page 27	Britain's Successful "Salvage" Campaign.
+page 27	SIR ARCHIBALD'S TRIP.
+page 27	Grants To Civilians For Injuries in War.
+page 28	CRISIS IN BALKANS AS TROOPS CLASH.
+page 28	U.S. Must Make Sacrifices.
+page 28	R.A.F. CONTINUE ATTACKS ON THE CONTINENT.
+page 28	Hitler Borrows An Italian 1914-18 Idea.
+page 28	'Schnellboots' Appear In English Channel.
+page 28	SPECIAL TO THE "TELECRAPH".
+page 28	"ON MY RIGHT (Shoulder) THE CHAMP"
+page 28	Geneva Gets Raid Alarm.
+page 28	LETTERS FROM EVACUEES.
+page 28	COLONY SHIPS RECALLED.
+page 28	PRES. ROOSEVELT MAKES CONGRESS RESPONSIBLE.
+page 28	FAROUK STRENGTHENS EGYPTIAN CABINET.
+page 28	NAMED AFTER EVACUEE SHIP.
+page 29	Principal Tenants Summoned.
+page 29	Receipts For Rents Not Duly Stamped.
+page 29	Factory in Shaukiwan Not Registered.
+page 29	LARCEMY FROM BARRACKS.
+page 29	Mosquito Breeding At Valley.
+page 29	N.Y.K. SHIPS CHANGE.
+page 29	WANTS UNION.
+page 29	SPENT MONEY ENTRUSTED TO WIN.
+page 29	PORTUGUESE CLERK SAYS HE WAS DRUNK: ADMITS CHARGE.
+page 29	HERE IS THE AIR ARMADA FROM THE COLONIES.
+page 29	Fine Of $200 Imposed On An Actor.
+page 29	Indecent Assault On Woman In Black-Out.
+page 29	GRILLES WERE NOT LOCKED.
+page 29	Money Changer Fined 20 Doller.
+page 30	Air Raids Slacken After Day of Heavy Nazi Loss.
+page 30	NO APPEASEMENT IN ORIENT.
+page 30	LATE NEWS.
+page 30	Stubbs Road Collapse.
+page 30	NEW BUILDINGS FOR H.K.V.D.C.
+page 30	Spearfish Loss Is Confirmed.
+page 30	MORE UNIFORMS FOR H.K.V.D.C.
+page 30	S.M.C. STUDIES NEW ISSUE.
+page 30	TIENTSIN BLAZE.
+page 30	WAR TAXATION PAYMENT.

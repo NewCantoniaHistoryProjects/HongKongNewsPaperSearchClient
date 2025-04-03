@@ -1,0 +1,216 @@
+page 1	HIS MAJESTY ILL AT WINDSOR LODGE.
+page 1	MILD ATTACK OF GASTRIC INFLUENZA.
+page 1	Sudden Attack Keeps King Confined On Eve of French Tour.
+page 1	Death Aboard Empress Liner.
+page 1	Cholera Suspected As Baby Dies.
+page 1	LEAVES FOR MANILA.
+page 1	Armoured Cars Patrol.
+page 1	Further Bombing Outrages In Palestine.
+page 1	SIXTEEN NEW CASUALTIES.
+page 1	JEWISH YOUTH KILLED.
+page 1	FREQUENT CLASHES.
+page 1	BRITISH RUSH ASSISTANCE.
+page 1	New Russian Embassy At Chungking.
+page 1	CHOLERA SWEEPS SHANGHAI.
+page 1	70 Cases Daily In Foreign Areas.
+page 1	148 DEAD IN WEEK.
+page 1	PEAK MURDER CASE OPENS AT SESSIONS.
+page 1	Former Cookboy Held For Slaying of Mrs. Challinor.
+page 1	GLORY OF RHEIMS RESTORED.
+page 1	War-Wrecked Cathedral Re-Consecrated.
+page 1	DARING ATTACK ON CONCENTRATION LYING OFF HUKOW.
+page 1	British Gunboat Steams Up-River to Avoid Trouble at Kiukiang.
+page 1	KIUKIANG STILL DEFENDED.
+page 1	Chinese Deny Loss Of Important City.
+page 1	ATTACK REPULSED.
+page 1	STUDY BRITISH FORMULA.
+page 1	Japanese Vessels Severely Punished.
+page 1	Important Chinese Gain.
+page 1	ANOTHER AIR LINK TOCOLONY.
+page 2	 Trio of Blouses.
+page 2	MORNING.
+page 2	Housewife's Bookshelf.
+page 2	By Susan Gay.
+page 2	AFTERNOON.
+page 2	Coffee Parties In Germany.
+page 2	EVENING.
+page 2	VANITY NOTES.
+page 3	"INSANITY" DIVORCES SLOW UP THE COURTS.
+page 3	Three Suits In Day.
+page 3	Polar Station In Submarine.
+page 3	Three Years Underneath Arctic Ice.
+page 3	TRANSPOLAR ROUTE.
+page 3	All Graduates Placed.
+page 3	Goat Rivals O Leary Cow.
+page 3	Garlic Crop Weaker.
+page 3	EMPIRE NEWS.
+page 3	TABLE BAY WORKS INAUGURATED.
+page 3	ATTACK ON BRITISH MAJOR.
+page 3	NEW SOUTH WALES STRIKE OVER.
+page 3	TWO DEAD IN MAIL PLANE CRASH.
+page 5	JAPANESE WARSHIPS TOP-HEAVY.
+page 5	Naval Expert Gives Information.
+page 5	USE OF GYROSCOPES.
+page 5	Sleeper Daubed With Paint.
+page 5	RADIO BROADCAST.
+page 5	THE LAST OF THE OLD GODS.
+page 5	Fiesta Headache Belated.
+page 6	THIS WEALTHY WORLD.
+page 6	SIR HENRY WOOD demands MORE MUSIC.
+page 6	The Last of the Old Gods.
+page 6	G WARD PRICE.
+page 7	NUFFIELD'S 5,000' PLANES A YEAR.
+page 7	To Build Works at Once.
+page 7	MASS-PRODUCED FIGHTERS.
+page 7	"Granite In Face Of Danger".
+page 7	WEDDING PRESENTS.
+page 7	They Belong To The Wife.
+page 7	PARTY AFTER THE TEA.
+page 7	HE WROTE OVER 60,000 LETTERS "TO THE EDITOR".
+page 7	Midget Car And Bus.
+page 7	Nazis Tear Down Synagogue To Make Car-Park.
+page 10	THE GIRL OF THE GOLDEN WEST.
+page 10	BY BEATRICE EABER.
+page 11	Countryside News.
+page 12	Hundreds Of Troops Despatched.
+page 12	To Meet Crisis In Palestine.
+page 12	JEWS STABBED.
+page 12	TIBRIAS INCIDENT.
+page 12	BRITISH TROOPS SENT.
+page 12	ZIONISTS ARRESTED.
+page 12	HIGHES HOPS FOR PARIS.
+page 12	CHINESE AIRCRART SINK WARSHIPS ON RAID.
+page 12	Launches Captured.
+page 12	Japanese Bombers Out.
+page 12	Planes Hunt Guerillas.
+page 12	Successful Year Passed By College.
+page 12	Headmaster's Report Shows Mui Fong Students' Progress.
+page 12	Reinforcement For Shansi.
+page 12	CHINESE COUNTER ATTACKING TSIYUAN.
+page 13	AMERICANS EVACUATE YANGTSE PORTS.
+page 13	GO ABOARD GUNBOAT FOR SAFETY.
+page 13	Gunfire Audible In Kiukiang As Japan Troops Press West.
+page 13	Princess Baba Seeks An Island For Her Fmpire.
+page 13	BANK GOVERNOR TO RETIRE?
+page 13	French Mines Reported Off Paracels Group.
+page 13	BOCCA TUGRIS BOMBER.
+page 13	Planes Rain Missiles On Road To H.K.
+page 13	FIRES ON NAMOA.
+page 13	NARCOTIC DEALERS PERSIST.
+page 13	Raided Divan Opens Again Same Night.
+page 13	WIDOW IN TROUBLE.
+page 13	RAILWAY TOWN BOMBED.
+page 13	PEAK MURDER CASE OPENS AT SESSIONS.
+page 13	Former Cookboy Held For Slaying of Mrs. Challinor.
+page 13	VITAL CROUND.
+page 13	JAPAN MAY LOSE 1940 OLYMPICS.
+page 13	No Steel To Spare For Stadium.
+page 13	POINTS FOR DEFENCE.
+page 13	BRITISH TROOPS RUSH TO RELIEVE BESIEGED VILLAGE.
+page 13	Reprisals by Arabs Feared Following Bomb Outrages.
+page 13	Imports Well Over Exports From Japan.
+page 13	JAPANESE LED BY AIRCRAFT.
+page 13	Invaders Follow Where Raiders Drop Bombs.
+page 13	ARMOURED CARS PATROL.
+page 13	SIXTEEN NEW CASUALTIES.
+page 13	FOUR NEW CASES OF CHOLERA.
+page 14	Trio of Blouses.
+page 14	MORNING.
+page 14	Housewife's Bookshelf.
+page 14	By Susan Gay.
+page 14	AFTERNOON.
+page 14	Coffee Parties In Germany.
+page 14	EVENING.
+page 14	VANITY NOTES.
+page 15	Chinese Aircraft Sink Warships on Raid.
+page 15	DARING ATTACK ON CONCENTRATION LYING OFF HUKOW.
+page 15	British Gunboat Steams Up-River to Avoid Truoble at Kiukiang.
+page 15	Japanese Vessels Severely Punished.
+page 15	Important Chinese Gain.
+page 15	Japanese Bombers Out.
+page 15	Launches Captured.
+page 15	ANOTHER AIR LINK TO COLONY.
+page 15	French Planes To Ply Here.
+page 15	Planes Hunt Guerillas.
+page 15	Kiukiang Still Defended.
+page 15	Death Aboard Empress Liner.
+page 15	Cholera Suspected As Baby Dies.
+page 15	STUDY BRITISH FORMULA.
+page 15	Attack Repulsed.
+page 15	CHOLERA SWEEPS SHANGHAI.
+page 15	70 Cases Daily In Foreign Areas.
+page 15	148 DEAD IN WEEK.
+page 15	CHOLERA IN LOYANG.
+page 16	NARCOTIC DEALERS PERSIST.
+page 16	LEAVES FOR MANILA.
+page 16	BRITISH AIRPORT IN ITALY.
+page 16	Fair Weather Forecast.
+page 16	STOLE A PURSE.
+page 16	TRYING TO CIRCLE GLOBE IN FOUR DAYS.
+page 16	Hughes' Big Lockheed Hops For Paris.
+page 16	MAKING FAST TIME.
+page 16	JAPNESE LED BY AIRCRAFT.
+page 16	REINFORCEMENT FOR SHANSE.
+page 16	POLICE RESERVE ORDERS.
+page 16	CHINESE COMPANY.
+page 16	INDIAN COMPANY.
+page 16	EMERGENCY UNIT RESERVE.
+page 16	CHINESE CUNTER ATTACKING TSIYUAN.
+page 17	GLORY OF RHEIMS RESTORED.
+page 17	War-Wrecked Cathedral Re-Consecrated.
+page 17	THE LAST OF THE OLD GODS.
+page 17	BURGLARS REMOVE PANE OF GLASS.
+page 17	Successful Year Passed By College.
+page 17	Headmaster's Report Shows Mui Fong Students' Progress.
+page 17	New Russian Embassy At Chungking.
+page 17	WOMAN DIES IN STREET ACCIDENT.
+page 17	THIRD VICTIM OF HARBOUR TRAGEDY.
+page 18	THIS WEALTHY WORLD.
+page 18	SIR HENRY WOOD demands MORE MUSIC.
+page 18	The Last of the Old Goods.
+page 18	By G. WARD PRICE.
+page 19	PEAK MURDER CASE OPENS AT SESSIONS.
+page 19	TOLD TO GO.
+page 19	PRISONER UPSET.
+page 19	COOLIE INVOLVED.
+page 19	TOOK AWAY BUNDLES.
+page 19	STILL IN EMPLOYMENT.
+page 19	VOICE IN NIGHT.
+page 19	STRUCK REPEATEDLY.
+page 19	CALLED FOR HEOP.
+page 19	CETECTIVES ARRIVE.
+page 19	AN HOUR'S OUTLINE.
+page 19	LEAP FROM BED.
+page 19	ALLOWED MAN TO RISE.
+page 19	OF LOW MENTALITY.
+page 19	SHOWED STRENOTH.
+page 19	65 DEAD, 200 WOUNDED IN WEEK-END RIOTING.
+page 19	JEWISH YOUTH KILLED.
+page 19	FREQUENT CLASHES.
+page 19	BRITISH RUSH ASSISTANCE.
+page 19	COOLIE'S EVIDENCE.
+page 19	STRUCK WITH HAMMER.
+page 21	BEHIND THE SPORTS THAT MILLIONS ENJOY.
+page 21	By George Edinger.
+page 21	3-Cricket.
+page 21	FREAK GOLF SHOT OF NO AVAIL.
+page 21	AUSTRALIANS VICTORIOUS.
+page 21	BRILLIANT GOLF IN U.S. PRO TOURNEY.
+page 21	Harry Cooper Leads The Field.
+page 21	Volunteers' Sports For July 22.
+page 21	Giants Win But Yankees Were Beaten.
+page 21	HUGHES HOPS FOR PARIS.
+page 22	THE GIRL OF THE GOLDEN WEST.
+page 22	BY BEATRICE FABER.
+page 23	Countryside News.
+page 24	CHINESE ABNDON YAGCHENG.
+page 24	City Has Cost Many Lives To Win And Lose.
+page 24	Two Men On Serious Charges In Hollywood.
+page 24	Ambassador's Daughter's Home Entered.
+page 24	Peiping Woman Says Servants Attacked.
+page 24	HIS MAJESTY ILL AT WINDSOR LODGE.
+page 24	Sudden Attack Keeps King Confined On Eve of French Tour.
+page 24	Heroin Divan Raided.
+page 24	ARTIFICIAL CLIFFS FOR KING.
+page 24	CIIARGED WITH EMBEAALEMENT.
+page 24	MANILA SHARES.

@@ -1,0 +1,334 @@
+page 1	CHINA UNCONQUERABLE, KUNG DECLARES.
+page 1	CONFIDENT OF FINAL VICTORY.
+page 1	Great Powers Still May Intervene To Stop Slaughter.
+page 1	Two-Penny Stamp Sold For 1,350 Pounds. 
+page 1	Paris Prepares For Evacuation In War - Time.
+page 1	DOIHARA STILL ISOLATED.
+page 1	Troops Dig In With Backs To River.
+page 1	CRITICAL STAGE REACHED.
+page 1	Insurgents Bomb and Sink British Steamer.
+page 1	BRITISH PROTEST NOTE APPARENTLY WHOLLY IGNORED.
+page 1	Heavy Loss of Life When Planes Raid Granoller.
+page 1	Terrible Loss Of Life At Granoller.
+page 1	STEPS TO CHECK INFLUX OF PENNILESS.
+page 1	CANTON RAIDS TO CONTINUE.
+page 1	Despite Repeated Protests.
+page 1	NATIONS ARGUE ABOUT COST OF WITHDRAWAL OF SPAIN VOLUNTEERS.
+page 3	EMPIRS NEWS.
+page 3	PARTY APPEAIS IN SOUTH AFRICA.
+page 3	CONGRESS PROTEST IN ORISSA.
+page 3	BISHOP'S WARNING ON "CORRUPTION".
+page 3	MARKETING EMPIRE PRODUCE.
+page 4	Quota's Cut Fails To Help Rubber.
+page 4	FUTURES RESPOND.
+page 4	Japanese Planes Raid Many Cities.
+page 4	CARDINAL'S CHARGE REFUTED.
+page 4	VICE MINISTERS STAY IN POSTS.
+page 4	Armed Turks Lead Uprising In Antioch.
+page 4	Three Killed In Fresh Outbreak.
+page 4	DOIHARA STILL ISOLATED.
+page 4	CHINESE TICHTEN GRIP.
+page 4	CHINESE GAINS.
+page 4	266 HOLIDAY DEATHS IN UNITED STATES.
+page 4	CHINA UNCONQUERABLE, KUNG DECLARES.
+page 4	Intervention Possible.
+page 4	Dodges Question.
+page 4	"We Can Take Care Of Ourselves".
+page 5	ANIT - CHOLERA SAFEGUARDS.
+page 5	URBAN COUNCIL DECLARATION.
+page 5	FREE INOCULATION.
+page 5	Commands H.M.S. Hood.
+page 5	RADIO BROADCAST.
+page 5	New Alliances Urged Upon Britain.
+page 5	SITUATION IN JAMAICA EASES.
+page 5	POPE CELEBRATES 81ST BIRTHDAY.
+page 6	IN DEFENCE OF CONSCRIPTION.
+page 11	CHINESE PREPARE OFFENSIVE ON NANKING.
+page 13	GOVERNMENY MOVES TO STOP EVICTIONS.
+page 13	PROTECTION OF TENANTS GUARNATEED.
+page 13	Bill Rushed Through Legislative Council.
+page 13	May Refuse To Give Eviction Order.
+page 13	Determining Rent.
+page 13	GREAT PROJECT MOOTED.
+page 13	Canada-U.S. To Jointly Develop Water Region.
+page 13	BRITISH PATROL FIRES ON JAPANESE.
+page 13	Australian Ship Involved In Grave Incident.
+page 13	JAPANESE FREIGHT MUST PAY DUTY.
+page 13	Third Case Of Cholera Occurs Here.
+page 13	MILLION FEARED STARVING.
+page 13	War And Floods Leave Country Unproductive.
+page 13	FEW PEOPLE IN FIELDS.
+page 13	Japanese Relief Column Nearing Doihara.
+page 13	OVERCROWDING IN H.K. PRISONS STILL H.K. PRISONS STILL UNSOLVED PROBLEM.
+page 13	Laichikok Prison.
+page 13	333 Convicts During 1937.
+page 13	SYNDICATE BEHIND THEFTS OF TIMBER.
+page 13	SWIFTLY MARCHING TROOPS YET MAY PREVENT MASSACRE.
+page 13	Chinese Press Closer On Beleaguered Division.
+page 13	Doihara Troops In Precarious Position.
+page 13	HONGKONG REDUCING WIDOW'S PENSIONS.
+page 13	STEPS TO CHECK INFLUX OF PENNILESS.
+page 13	Money Or Go Home Refugees Must Have.
+page 13	COMPANY RESPONSIBILITY.
+page 13	TEMPORARY ACCOMMODATION.
+page 14	Insurgents Bomb and Sink British Steamer.
+page 14	BRITISH PROTEST NOTE APPARENTLY WHOLLY IGNORED.
+page 14	Heavy Loss of Life When Planes Raid Granoller.
+page 14	Terrible Loss Of Life At Granoller.
+page 14	Loyalist Reprisals.
+page 14	Armed Turks Lead Uprising In Antioch.
+page 14	Three Killed In Fresh Outbreak.
+page 14	CHINESE GAINS IN SHANSI.
+page 14	Japanese Driven From Tsishan.
+page 14	Pohsien Besieged.
+page 14	CHINESE VICTORY CLAIMED.
+page 14	Furious Aerial Battle Fought Above Hankow.
+page 14	CITY APPREHENSIVE.
+page 14	Japanese Plane Shot Down.
+page 14	Japanese Planes Raid Many Cities.
+page 14	NATIONS ARGUE ABOUT COST OF WITHDRAWAL OF SPAIN VOLUNTEERS.
+page 14	Contact With Kidnappers Established.
+page 14	Federal Authorities Not Interfering With Negotiations.
+page 14	MONEY PAID - CHILD MISSING.
+page 14	266 HOLIDAY DEATHS IN UNITED STATES.
+page 14	CZECHS' PROTEST REJECTED.
+page 14	Germany Denies Violations Of Frontier.
+page 14	Claim Huge Chinese Loss At Hsuchow.
+page 15	CANTON RAIDS TO CONTINUE.
+page 15	Despite Repeated Protests.
+page 15	13 Schools Wrecked.
+page 15	Paris Prepares For Evacuation In War - Time.
+page 15	MASTER OF LOST LINER SUCCUMBS.
+page 15	Capt A. E. Yardley Passes Away.
+page 15	GUARD YOUR HEALTH!
+page 15	WATCHFUL OF JAPAN'S MANOEUVER FOR TRADE.
+page 15	Hull Avoids Answer On Pact Breach In Tariff Tampering.
+page 15	Two-Penny Stamp Sold For 1,350 Pounds.
+page 15	CARDINAL'S CHARGE REFUTED.
+page 15	DOIHARA STILL ISOLATED.
+page 15	Troops Dig In With Backs To River.
+page 15	CRITICAL STAGE REACHED.
+page 15	CHINESE TIGHTEN GRIP.
+page 15	CHINESE GAINS.
+page 15	Won't Reveal War Service Measures Now.
+page 15	STATEMENT PROMISED.
+page 16	GOVERNMENT MOVES TO STOP EVICTIONS.
+page 16	Reference Committees To Be Appointed.
+page 16	Refence Committees.
+page 16	Appeals May Be Made.
+page 16	Objects of Bill.
+page 16	Sir Henry Approves.
+page 16	JAPANESE RELIEF COLUMN NEARING DOIHARA.
+page 16	Aim For Hankow.
+page 16	Severe Fighting.
+page 16	MILLION FEARED STARVING.
+page 17	Refugees Smuggle Contraband.
+page 17	Revenue Officers Alert But Overwhelmed.
+page 17	New Alliances Urged Upon Britain.
+page 17	Sharks' Fins Lead Lessee To Court.
+page 17	Expelled From Hankow, Not Wanted In H.K.
+page 17	Russian Vagrant Sent To Detention House.
+page 17	ENGLAND HOLDS GREAT AIR RAID TESTS.
+page 17	398 QUAKES WERE FELT IN COLONY.
+page 17	Where The Big Ones Have Occurred.
+page 17	LARGEST QUAKE.
+page 17	OVERCROWDED FACTORY.
+page 17	ELECTRIC BULB COMPANY NETS $50 FINE.
+page 17	Anti-Cholera Precautions In Shanghai.
+page 17	Inoculation Certificate Only Pass Authority Will Recognise.
+page 17	CHOLERA INCREASES.
+page 17	OUTBREAK AT HANKOW.
+page 17	LOCAL SHOWERSPROBABLE.
+page 17	JAPANESE HOLD RUSSIAN SHIP.
+page 17	SITUATION IN JAMAICA EASES.
+page 17	Hottest Year Since 1915, Report Shows.
+page 17	ABNORMAL WEATHER IN 1937.
+page 17	Faulty Scales Were New, Plea Succeeds.
+page 17	KING'S SIGNATURE CONFIRMS BRITISH ARMY'S EXISTENCE.
+page 17	BERLIN WON'T BE RESPONSIBLE FOR AUSTRIA'S LOANS.
+page 17	POPE CELEBRATES 81ST. BRITHDAY.
+page 17	Japanese Newspaper Warns France.
+page 17	Railway Concessions May Cause Loss Of Indo-China.
+page 18	IN DEFENCE OF CONSCRIPTION.
+page 19	Government House Investiture Brilliant, Dignified.
+page 19	LOCAL CITIZENS RECEIVE HONOURS BESTOWED BY KING.
+page 19	"ROYAL GRANT OF DIGNITY".
+page 19	VOLUNTEER SERVICES.
+page 19	Quota's Cut Fails To Help Rubber.
+page 19	Failed To Supply Police Report.
+page 19	AMERICAN FINED.
+page 19	Labour Asks Questions On Conscription.
+page 19	Prime Minister not Willing Informan.
+page 19	Schuschnigg Spirited Over Border?
+page 19	SPLIT RECEIPT BRINGS FINE.
+page 19	CANTON GALLANTLY REPAIRS DAMAGE.
+page 19	Foreign Missions Bombed In North.
+page 19	MISSION BOMBED.
+page 19	U.S. FLACS IGNORED.
+page 19	APATHY ON EXCHANGE.
+page 19	VICE MINISTERS STAY IN POSTS.
+page 19	NO NEWS OF TRADE PACT.
+page 21	HENRY ARMSTRONG MAKES BOXING HISTORY BY BEATING ROSS.
+page 21	Negro Inflicts Terrific Beating On Champion.
+page 21	RELENTLESS BEATING.
+page 21	FIGHT DESCRIBED.
+page 21	"FROST" THREATENED.
+page 21	NEW YORK YANKEES OUTPLAY BOSTON AT BASEBALL.
+page 21	MRS. WILLS MOODY IN FINE FORM.
+page 21	FAR EASTERN COUNTRIES MAY BE INVITED TO 1940 OLYMAPICS.
+page 21	Business Boom In Britain.
+page 21	SPORT ADVTS.
+page 21	THE HONG KONG JOCKY CLUB.
+page 21	MEMBERS' ENCLOSURE.
+page 21	PUBLIC ENCLOSURE.
+page 22	A YANK AT OXFORD.
+page 23	CHINESE PREPARE OFFENSIVE ON NANKING.
+page 24	Tin Producers Vote To Create Buffer Stock.
+page 24	BIG OPIUM RING CLEANED UP.
+page 24	STOP PRESS NEWS.
+page 24	RECORD PENSION BILL.
+page 24	WIDOWS FOR 40 YEARS.
+page 24	INSURCENT GAINS REPORTED.
+page 24	Ceneral Aranda's Men Progressing.
+page 24	RAIDERS NEARING CANTON.
+page 24	Expenditure FarAbove Revenues.
+page 25	GOVERNMENT MOVES TO STOP EVICTIONS.
+page 25	PROTECTION OF TENANTS GUARANTEED.
+page 25	Bill Rushed Through Legislative Council.
+page 25	Mav Refuse To Give Eviction Order.
+page 25	Determining Rent.
+page 25	GREAT PROJECT MOOTED.
+page 25	Canada-U.S. To Jointly Develop Water Region.
+page 25	BRITISH PATROL FIRES ON JAPANESE.
+page 25	Australian Ship Involved In Grave Incident.
+page 25	JAPANESE FREIGHT MUST PAY DUTY.
+page 25	Japanese Relief Column.
+page 25	Third Case Of Cholera Occurs Here.
+page 25	MILLION FEARED STARVING.
+page 25	War And Floods Leave Country Unproductive.
+page 25	FEW PEOPLE IN FIELDS.
+page 25	OVERCROWDING IN H.K. PRISONS STILL UNSOLVED PROBLEM.
+page 25	Laichikok Prison.
+page 25	333 Convicts During 1937.
+page 25	SYNDICATE BEHIND THEFTS OF TIMBER.
+page 25	SWIFTLY MARCHING TROOPS YET MAY PREVENT MASSACRE.
+page 25	Chinese Press Close On Beleaguered Division.
+page 25	STEPS TO CHECK INFLUX OF PENNILESS.
+page 25	Refugees Must Have Money Or Go Home.
+page 25	COMPANY RESPONSIBILITY.
+page 25	TEMPORARY ACCOMMODATION.
+page 25	Doihara Troops In Precarious Position.
+page 25	LOAN FOR CHINA DISCUSSED IN LONDON.
+page 26	Insurgents Bomb and Sink British Steamer.
+page 26	BRITISH PROTEST NOTE APPARENTLY WHOLLY IGNORED.
+page 26	Heavy Loss of Life When Planes Raid Granoller.
+page 26	Terrible Loss Of Life At Granoller.
+page 26	Loyalist Reprisals.
+page 26	Armed Turks Lead Uprising In Antioch.
+page 26	Three Killed In Fresh Outbreak.
+page 26	CHINESE CAINS IN SHANSI.
+page 26	Japanese Driven From Tsishan.
+page 26	Pohsien Besieged.
+page 26	CHINESE VICTORY CLAIMED.
+page 26	Furious Aerial Battle Fought Above Hankow.
+page 26	CITY APPREHENSIVE.
+page 26	Japanese Plane Shot.
+page 26	Japanese Planes Raid Many Cities.
+page 26	NATIONS ARGUE ABOUT COST OF WITHDRAWAL OF SPAIN VOLUNTEERS.
+page 26	Contact With Kidnappers Established.
+page 26	Federal Authorities Not Interfering With Negotiations.
+page 26	MONEY PAIDㄜCHILD MISSING.
+page 26	266 HOLIDAY DEATHS IN UNITED STATES.
+page 26	CZECHS' PROTEST REJECTED.
+page 26	Germany Denies Violations Of Frontier.
+page 26	Claim Huge Chinese Loss At Hsuchow.
+page 27	CANTON RAIDS TO OCONTINUE.
+page 27	Despite Repeated Protests.
+page 27	13 Schools Wrecked.
+page 27	Paris Prepares For Evacuation In War-Time.
+page 27	MASTER OF LOST LINER SUCCUMBS.
+page 27	Capt. A. E. Yardley Passes Away.
+page 27	GUARD YOUR HEALTH!
+page 27	WATCHFUL OF JAPAN'S MANOEUVRE FOR TRADE.
+page 27	Hull Avoids Answer On Pact Breach In Tariff Tampering.
+page 27	Two-Penny Stamp Sold For 1,350 pound.
+page 27	CARDINAL'S CHARGE REFUTED.
+page 27	DOIHARA STILL ISOLATED.
+page 27	Troops Dig In With Backs To River.
+page 27	CRITICAL STAGE REACHED.
+page 27	CHINESE TIGHTEN GRIP.
+page 27	CHINESE CAINS.
+page 27	Won't Reveal War Service Measures Now.
+page 27	STATEMENT PROMISED.
+page 29	Refugees Smuggle Contraband.
+page 29	Revenue Officers Alert, But Overwhelmed.
+page 29	New Alliances Urged Upon Britain.
+page 29	Sharks' Fine Lead Lessee To Court.
+page 29	Expelled From Hankow, Not Wanted In H.K.
+page 29	Russian Vagrant Sent To detention House.
+page 29	ENGLAND HOLDS GREAT AIR RAID TESTS.
+page 29	398 QUAKES WERE FELT IN COLONY.
+page 29	Where The Big Ones Have Occurred.
+page 29	LARGEST QUAKE.
+page 29	OVERCROWDED FACTORY.
+page 29	ELECTRIC BULB COMPANY NETS $50 FINE.
+page 29	Anti-Cholera Precautions In shanghai.
+page 29	Inoculation Certificate Only Pass Authority will Recognise.
+page 29	CHOLERA INCREASES.
+page 29	OUTBREAK AT HANKOW.
+page 29	LOCAL SHOWERS PROBABLE.
+page 29	JAPANESE HOLD RUSSIAN SHIP.
+page 29	SITUATION IN JAMAICA EASES.
+page 29	Hottest Year Since 1915, Report Shows.
+page 29	ABNORMAL WEATHER IN 1937.
+page 29	Faulty Scales Were New, Plea Succeeds.
+page 29	KINGS'S SIGNATURE CONFIRMS BRITISH ARMY'S EXISTENCE.
+page 29	BERLIN WON'T BE RESPONSIBLE FOR AUSTRIA'S LOANS.
+page 29	POPE CELEBRATES 81ST. BIRTHDAY.
+page 29	Japanese Newspaper Warns France.
+page 29	Railway Concessions May Cause Loss Of Indo-China.
+page 29	SHIPS IN RADIO COMMUNICATION.
+page 30	STORIES OF FAMOUS RACE.
+page 30	Origin And History Of The Turf's Blue Riband Retold.
+page 31	Government House Investiture Brilliant, Dignified.
+page 31	LOCAL CITIZENS RECEIVE HONDOURS BESTOWED BY KING.
+page 31	"ROYAL CRANT OF DIGNITY".
+page 31	VOLUNTEER SERVICES.
+page 31	Quota's Cut Fails To Help Rubber.
+page 31	FUTURES RESPOND.
+page 31	Failed To Supply Police Report.
+page 31	AMERICAN FINED.
+page 31	Labour Asks Questions On Conscription.
+page 31	Prime Minister Not Willing Informant.
+page 31	Schuschnigg Spirited Over Border?
+page 31	SPLIT RECEIPT BRINGS FINE.
+page 31	CANTON GALLANTLY REPAIRS DAMAGE.
+page 31	Foreign Missions Bombed In North.
+page 31	MISSION BOMBED.
+page 31	U.S. FLAGS IGNORED.
+page 31	APATHY ON EXCHANGE.
+page 31	VICE MINISTERS STAY IN POSTS.
+page 31	NO NEWS OF TRADE PACT.
+page 33	HENRY ARMSTRONG MAKES BOXING HISTORY BY BEATING ROSS.
+page 33	Negro Inflicts Terrific Beating On Champion.
+page 33	RELENTLESS BATING.
+page 33	FIGHT DESCRIBED.
+page 33	"FROST" THREATENED.
+page 33	NEW YORK YANKEES OUTPLAY BOSTON AT BASEBALL.
+page 33	MRS. WILLS MOODY IN FINE FORM.
+page 33	FAR EASTERN COUNTRIES MAY BE INVITED TO 1940 OLYMPICS.
+page 33	Business Boom In Britain.
+page 33	THE HONG KONG JOCKEY CLUB.
+page 33	MEMBERS' ENCLOSURE.
+page 33	PUBLIC ENCLOSURE.
+page 34	A YANK AT OXFORD.
+page 35	CHINESE PREPARE OFFENSIVE ON NANKING.
+page 36	HOPE TO REPEAL MEASURE SHORTLY.
+page 36	HONGKONG REDUCING WIDOW'S PENSIONS.
+page 36	RECORD PENSION BILL.
+page 36	INSURGNET GAINS REPORTED.
+page 36	General Aranda's Men Progressing.
+page 36	WIDOW FOR 40 YEARS.
+page 36	"ALL CLEAR" SOUNDED.
+page 36	Expenditure Far Above Revenues.
+page 36	RAIDERS NEARING CANTON.

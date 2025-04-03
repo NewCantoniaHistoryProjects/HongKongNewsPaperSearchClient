@@ -1,0 +1,210 @@
+page 1	SHANGHAI TERRORISTS OUT OF HAND.
+page 1	DESPERATE ATTACK ON JAPANESE.
+page 1	Bombs Hurled At Sentries; Many Shot In Streets.
+page 1	15 Grenades Thrown.
+page 1	Gendarmerie Bombed.
+page 1	Sikh Wounded.
+page 1	ANGLO-U.S. TRADE PACT NEAR.
+page 1	MOSCOW HAVING INTENSE HEAT.
+page 1	JAPANESE REFUSE REQUEST.
+page 1	"Rulers" Of Shanghai Deaf To British Complaints.
+page 1	Discrimination Alleged.
+page 1	PENANG CROWDS RIOTOUS.
+page 1	Fierce Feeling Against Japan .
+page 1	Volunteers Called Up.
+page 1	AUSTRIAN TITLES ABOLISHED.
+page 1	Discrimination Shown Against "Province".
+page 1	40 EUROPEANS FEARED DEAD IN KOBE FLOOD.
+page 1	Casualties Include 600 Children, Says Wireless Report.
+page 1	Houses Swept Away.
+page 1	EGYPT SPENDING ON ARMAMENTS.
+page 1	Japan Claims Half Million Chinese Slain.
+page 1	Many Dead in Widespread Palestine Outrages.
+page 1	SHOTS FIRED INTO CROWD AS BOMBS BURST AT HAIFA.
+page 1	Jews and Arabs Alike Fall To Unknown Marksmen.
+page 1	Bombs Thrown.
+page 1	Cholera In Swatow Spreading.
+page 1	SPEEDING ARMY'S PROMOTION.
+page 1	No Colonelcies For Men Over Fifty.
+page 1	AIR RAID ALARM IN CANTON.
+page 1	Two Japanese Shot Dead.
+page 3	MASS POLSONING: WIDOW FOR TRIAL.
+page 3	Diplomat And Millionaire Led Drug-Traffickers.
+page 3	GANG TRIED TO FOMENT REVOLT IN PERU.
+page 3	FAMOUS EXPLORER IS BROKE.
+page 4	RADIO BROADCAST.
+page 4	MAJOR-GENERAL SIR GEORGE CHARLES DAGUILAR C.B.
+page 4	Good Administrator.
+page 4	LENGTHY EVIDENCE.
+page 4	HOMELESS ORPHANS SUCCOURED.
+page 4	Old Temple Turned To Sanctuary At Chungking.
+page 4	PARENTS KILLED BY BOMBS.
+page 4	SMALL CLOTHES FACTORY.
+page 4	Insurgents Repulsed.
+page 4	FLEET CRIPPLED.
+page 4	TERRITORIALS AT BUCKINGHAM.
+page 4	OUT TO CONTROL OIL INDUSTRY.
+page 4	SHIP AGROUND WITH BULLION ABOARD.
+page 5	CHINA UNDAUNTED BY REVERSES AT HANDS OF INVADER.
+page 5	PEACE INDIVISIBLE.
+page 5	GREAT PROVOCATION.
+page 5	SAVAGE ATTACKS.
+page 5	CHINA PREPARED.
+page 9	 ANALYSIS OF THE ENGLAND ELEVEN.
+page 9	MY GUESS.
+page 12	JAPAN MAY HALT AT HANKOW.
+page 12	EXPECTED TO CONSOLISATE HER HOLDING.
+page 12	Invaders May Strive To Take Nanchang, To Cut Hongkong Line.
+page 12	OCCUPIED TERRITORY.
+page 12	Big MEXICAN OIL DEAL.
+page 12	BRITAIN WON'T RECALL AGENT.
+page 12	Details For Volunteers' Collection.
+page 12	Men Will Be Taken to Four Centres For Sorting.
+page 12	CHIANG APPEALS TO JAPAN.
+page 13	DELUGE OF DEATH SWEEPS JAPAN CITY.
+page 13	40 EUROPEANS FEARED LOST IN KOBE FLOOD.
+page 13	Casualties Include 600 Children, says wireless Report.
+page 13	Houses Swept Away.
+page 13	Disease Comes With Flood.
+page 13	"Japan Has Only One Course Left".
+page 13	Prince Konoye's Determination Unshaken.
+page 13	FRANCO-JAPANESE TENSION INDICATED.
+page 13	Chinese Newspaper Has Sensational Despatches.
+page 13	Landing Party retires.
+page 13	Bonnet Explains.
+page 13	ARMED YANGTSE CONVOYS POSSIBLE.
+page 13	Britain Alert To Discrimination Against Her.
+page 13	Britain Now Gets Arms From Canada.
+page 13	TERRORISTS OUT OF HAND IN SHANGHAI; TWO JAPANESE DEAD.
+page 13	CHOLERA CONTINUES TO GAIN.
+page 13	Raid Alarms Fail to Halt canton War Work.
+page 13	DRIVE FOR FUNDS CONTINUES AS SIRENSCLAMOUR.
+page 13	High Tributes Paid To Nation's War Dead.
+page 13	RAIDERS AVOID CANTON.
+page 13	One Shot Down By Batteries When Railway Bombed.
+page 13	SEAFORTHS MUSTERED.
+page 13	HONGKONG AGAIN SWELTERS.
+page 14	EPIDEMICS COST H.K. $50,000.
+page 14	As Well. As Over 3,000 Lives.
+page 14	Pension Bill Far Beyond Estimate.
+page 14	Typhoon Cost H.K. $388,507.
+page 14	HONGKONG REDUCES ITS DEBT.
+page 14	European Hit By Taxi.
+page 14	CHARITY GRANTS HIT IUGH MARK.
+page 14	JAPAN MAY HALT AT HANKOW.
+page 14	EXPECTED TO CONSOLIDATE HER HOLDING.
+page 14	Invaders May Strive To Take Nanchang, To Cut Hongkong Line.
+page 14	OCCUPIED TERRITORY.
+page 14	MARKING THE DAY.
+page 14	CASUALTY ESTIMATE.
+page 14	OPTIMISM SHORT-LIVED.
+page 14	HARASSING JAPANESE IN HONAN.
+page 14	UNITY HARDENED.
+page 14	Tenant Claims Heavy Damages From Landlord For T respass.
+page 14	HONGKONG MINE YIELD.
+page 14	SHIP AGROUND WITH BULLION ABOARD.
+page 14	SHIPS IN RADIO COMMUNICATION.
+page 14	AUSTRIAN TITLES ABOLISHED.
+page 14	Discrimination Shown Against "Province".
+page 14	No Tear Gas For Colony Police Yet.
+page 14	Insurgents Repulsed.
+page 14	FLEET CRIPPLED.
+page 14	OLD MAN'S TALE TOUCHED HEART OF POLICEMAN.
+page 14	PEAK HOME ROBBED.
+page 15	JAPANESE REFUSE REQUEST.
+page 15	"Rulers" Of Shanghai Deaf To British Complaints.
+page 15	Discrimination Alleged.
+page 15	TRAFFIC MISHAPS INCREASE.
+page 15	59 Killed In Past Six Months.
+page 15	BIG MEXICAN OIL DEAL.
+page 15	OLD OFFENDER GOES TO GAOL.
+page 15	MANY ARMY REORUITS.
+page 15	COLONY'S REVENUE $4,436,118 ABOVE ESTIMATE IN 1937.
+page 15	DEMAND FOR H.K. MONEY.
+page 15	Issues Of Banks Up By Millions.
+page 15	SUBSIDIARY COINAGE.
+page 15	GAS MASKS FOR PARIS.
+page 15	ART TO AID CHARITIES.
+page 15	BOMB DAMAGES TO COACHES COST $18,000.
+page 15	TYPHOON NOT THREATENING.
+page 15	DUTIES CLIMB BY OVER MILLION.
+page 15	PUPULATION INCREASE.
+page 15	LOAN WORKS.
+page 15	UNNECESSARY CREDIT.
+page 15	TREASURET'S REPORT.
+page 15	SINO JAPANESE WAR.
+page 15	SPEEDING ARMY'S PROMOTION.
+page 15	No Colonelcies For Men Over Fifty.
+page 15	INCREASED POPULATION.
+page 15	LOANS.
+page 15	CURRENCY.
+page 18	"I"LL TAKE ROMANCE".
+page 18	Now Go on With the Story.
+page 18	Chapter Three.
+page 18	Serialisation Story By.
+page 18	ALBERT DUFFY.
+page 18	Now Go on With the Story.
+page 18	Chapter Four.
+page 19	Many Dead in Widespread Palestine Outrages.
+page 19	SHOTS FIRED INTO CROWD AS BOMBS BURST AT HAIFA.
+page 19	Jews and Arabs Alike Fall To Unknown Marksmen.
+page 19	Bombs Thrown.
+page 19	TERRITORIALS AT BUCKINGHAM.
+page 19	ANGLO-U.S. TRADE PACT NEAR.
+page 19	MOSCOW HAVING INTENSR HEAT.
+page 19	BRITAIN WON'T RECALL AGENT.
+page 19	Cabinet Considers Insurgent Reply To Protests.
+page 19	Japan Claims Half Million Chinese Slain.
+page 19	PENANG CROWDS RIOTOUS.
+page 19	Fierce Feeling Against Japan.
+page 19	Volunteers Called Up.
+page 19	Details For Volunteers' Collection.
+page 19	Men Will Be Taken To Four Centres For Sorting.
+page 19	NOT VERY HOPEFUL.
+page 19	PLAN DESPATCHED.
+page 19	HOMELESS ORPHANS SUCCOURED.
+page 19	Old Temple Turned To Sanctuary At Chungking.
+page 19	PARENTS KILLED BY BOMBS.
+page 19	SMALL CLOTHES FACTORY.
+page 19	Cholera In Swatow Spreading.
+page 19	EGYPT SPENDING ON ARMAMENTS.
+page 19	OUT TO CONTROL OIL INDUSTRY.
+page 20	HAIRCUT SLEUTH'S 5-MILE TRAIL.
+page 20	Suspected As Attacker Of Mrs. Lafleur.
+page 20	MAN HAS OLD AGE SECRET.
+page 20	Couple Married 75 Years.
+page 20	MAJOR-GENERAL SIR GEORGE CHARLES D'AGUILAR, G.B.
+page 20	Good Administrator.
+page 20	LENGTHY EVIDENCE.
+page 20	SHARE PRICES.
+page 21	"JAPAN HAS ONLY ON COURSE LERT".
+page 21	FACE-SAVI NG?
+page 21	THIRD POWERS.
+page 21	FIMERAL OF BANK MANAGER'S WIFE.
+page 21	RAID ALARMS FAIL TO HALT CANTON WAR WORK.
+page 21	Chiang's Messnge.
+page 21	Mmc. Sun's Warning.
+page 21	Madame Chiang On New Campaign.
+page 21	EAT WHAT YOU PLEASE.
+page 21	Without Painful After-effects.
+page 21	Speeds Plan For Atlantic Mail Service.
+page 21	EUROPEANS CAUGHT IN POLICE RAID.
+page 22	COOD NEWS FOR CHINA.
+page 22	WHY ALL THIS WAR TALK?
+page 22	Bluff And Blue Funk.
+page 22	By "AN OLD STAGER".
+page 22	Major-General Sir George Charles D'Aguilar, C.B.
+page 24	TRIBUTE PAID BY HONGKONG.
+page 24	Europeans Observe Brief Silence.
+page 24	CHINA UNITED.
+page 24	HONGKONG MARKS DAY OF DISASTER .
+page 24	LOSS OF 210 REPORTED.
+page 24	STOP PRESS.
+page 24	GOVERNOR GIVEN NEW POWER.
+page 24	HUKOW'S CAPTURE DENIED.
+page 24	DATE OF HEARING OF EXTORTION CHARGES FIXED.
+page 24	SWASTIKA EXPRESS DELAYED BY BOMBED TRACKS.
+page 24	HUNTING HOME FOR REFUGEES.
+page 24	Britain Interested In Evian Parley.
+page 24	Japan Claims Huge Booty.
+page 24	UNCLAIMED TELEGRAMS.

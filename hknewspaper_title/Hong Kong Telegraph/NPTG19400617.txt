@@ -1,0 +1,387 @@
+page 1	BRITISH EMPIRE WILL FIGHT UNTIL IN WINS.
+page 1	GERMANS POUR ACROSS FRANCE TO COMPROMISE MAGINOT LINE.
+page 1	2,500,000 MEN THROWN INTO BATTLE IN NEW CRUSHING OFFENSIVE.
+page 1	150 Divisions.
+page 1	Terrific Bombardment.
+page 1	Junction Effected.
+page 1	Line Still Intact.
+page 1	FANWISE NAZI ADVANCE.
+page 1	Capital Calm.
+page 1	Silver Bullets.
+page 1	Donations Pour In.
+page 1	FRENCH CABINET RESIGNS.
+page 1	Marshal Petain Takes Over.
+page 1	LITHUANIA IVADED.
+page 1	"Friendly Red Army" Increases Garrison.
+page 1	800 BOMBS FALL ON CHUNGKKING.
+page 1	2,000 Buildings Said To Be Destroyed.
+page 1	2,000 Buildings Destroyed.
+page 1	Ice Plant Damaged.
+page 1	Fighters Engage Raiders.
+page 1	TWO RAIDS ON MALTA.
+page 1	One Civilian Killed And Eight Injured.
+page 1	Alexandra Raid.
+page 1	Italian Submarine Sunk.
+page 1	Norwegian Tanker Sunk.
+page 2	Weather Reduces Air Activity.
+page 2	Behind The Maginot Line.
+page 2	Violent Bombings.
+page 2	Verdun Forts Go.
+page 2	Grave Situation.
+page 2	Violent Fighting.
+page 2	German Claims.
+page 2	Judgment Delivered.
+page 2	Summons Dismissed In Dentistry Case.
+page 2	The English Statute.
+page 2	RAIN OF BOMBS.
+page 2	Planes Gause Havoc In Chungking.
+page 2	Foreigners Asked To Leave.
+page 2	Concern Of America.
+page 2	CHILDREN LEAVE FOR SAFETY.
+page 2	Lost Son Returns After 20 Years.
+page 2	Ten Years' Search.
+page 7	WAR WITH ITALY.
+page 7	BORDER CONFLICT.
+page 7	Egyptian Force Is Attacked.
+page 7	Italian Communique.
+page 7	"Violent Operations".
+page 7	Diplomats Delayed.
+page 7	Italy Angers The Arabs.
+page 7	Violent Reaction To Entry Into War.
+page 7	Atrocities Denounced.
+page 7	HEAVY R.A.F. CASUALTIES.
+page 7	ANOTHER 290,000 JOIN UP.
+page 7	Australia To Conscript Everything But Men.
+page 7	"All In It" Watchword.
+page 7	Munitions Department.
+page 7	Banning Subversive Elements.
+page 7	What Nazism Signifies.
+page 7	Americans Warned By Economist.
+page 7	Total Destruction.
+page 7	India Wants To Fight.
+page 7	Moslem League Appeals To Viceroy.
+page 7	Co-operation Essential.
+page 7	Britain's Latest Protected Areas.
+page 7	Japanese Occupy Ichang.
+page 7	FRENCH CABINET RESIGNS.
+page 7	Two Meetings Yesterday.
+page 7	Significant Communique.
+page 7	ROOSEVELT RESPONDS.
+page 7	Message Welcomed.
+page 7	Courting Disaster.
+page 7	FANWISE NAZI ADVANCE.
+page 7	Violent Attack In Saar.
+page 7	Nazis Using All They Have.
+page 7	Still Resisting.
+page 7	Normandy Operations.
+page 7	French Airmen Carry On.
+page 7	French Communique.
+page 7	River Crossed.
+page 7	DAY OF PRAYER FOR FRANCE.
+page 9	Killers Had Moorland Hide - Out.
+page 9	No Policeman There.
+page 9	Debtor Says He Got 3 Years' Gaol Sentence But Did Not Go.
+page 9	Down to 3 Pounds a Week.
+page 9	He Is 90 But He Applies For Rise.
+page 9	Four Boys With Big Ambition.
+page 9	They wanted To Be Real U.S. Gangsters.
+page 9	30 Guineas Fee For Witness.
+page 9	No Shelter, Then No School, Says Mother.
+page 9	BRITONS IN CAR WERE BOMBED.
+page 9	Then Mistaken For Parachutists.
+page 9	Waves Of Bombers.
+page 9	Ship Attacked.
+page 9	A Look Through The "Telegraph".
+page 9	50 YEARS AGO.
+page 9	25 YEARS AGO.
+page 9	10 YEARS AGO.
+page 9	5 YEARS AGO.
+page 10	FOUR YOUNG AIRMEN HAVE WAR'S COLDEST JOB.
+page 10	Volunteered For Job.
+page 10	Watch For Agents By Parachute.
+page 10	Parachutist Killed 21 - But Four Got Him.
+page 10	ENVOY IN FRANCE.
+page 10	Status Of American Ambassador.
+page 10	No News Of Envoy.
+page 10	Nazis May Be Using Mew Type Of Parachute.
+page 10	At War With Monaco.
+page 10	Italy Declares State Of Hostilities Exists.
+page 10	COOK-BOY CHARGED.
+page 10	Alleged Theft of Butter From Military.
+page 11	GERMANS POUR ACROSS FRANCE TO COMPROMISE DMAGINOT LINS.
+page 11	2,500,000 MEN THROWN INTO BATTLE IN NEW CRUSHING OFFENSIVE.
+page 11	150 Divisions.
+page 11	Terrific Bombardment.
+page 11	Money Flows In For New War Fund.
+page 11	COLONY GIVES MAGNIFICENTLY.
+page 11	Immediate Remittance.
+page 11	Massing For Attack On Iceland?
+page 11	Ultimatum Sent To Estonia.
+page 11	New Russian Move.
+page 11	Vassal Baltic States.
+page 11	Latvia Accepts.
+page 11	Desperate Plight Of Gallant France.
+page 11	Possible Portends Of Reynaud Action.
+page 11	Laval's Inclusion.
+page 11	Desperate Plight.
+page 11	Berlin Reaction.
+page 11	Laval's Inclusion.
+page 11	Desperate Plight.
+page 11	Berlin Reaction.
+page 11	ITALIANS MEET THE R.A.F.
+page 11	And It's A Painful Experience.
+page 11	Direct Hits On Aerodrome.
+page 11	Japanese Occupy Ichang.
+page 11	REYNAUD NEARLY KILLED.
+page 11	EIRE'S FREEDOM.
+page 11	Differences Sunk In Common Cause.
+page 11	In Imminent Danger.
+page 11	French Admit New Nazi Penetration.
+page 11	Three Towns Captured.
+page 11	At Rear Of Maginot Line.
+page 11	FRONT IS RUPTURED.
+page 11	Effect Of German Break-Throug.
+page 11	Intense Fighting.
+page 11	Nazi Claims.
+page 11	WEYGAND MAY BE REPLACED
+page 11	New York Report Of New Invasion.
+page 12	BRITISH EMPIRE WILL FIGHT UNTIL IT WINS.
+page 12	GERMANS POURING ACROSS FRANCE TO COMPROMISE THE MAGINOT LINE.
+page 12	Junction Effected.
+page 12	Line Still Intact.
+page 12	FANWISE NAZI ADVANCE
+page 12	Capital Calm.
+page 12	Violent Attack In Saar.
+page 12	Nazis Using All They Have.
+page 12	Still Resisting.
+page 12	Normandy Operations.
+page 12	French Airmen Carry On.
+page 12	French Communique.
+page 12	River Crossed.
+page 12	CHILDREN LEAVE FOR SAFETY.
+page 12	ANOTHER 290,000 JOIN UP.
+page 12	India Wants To Fight.
+page 12	Moslem League Appeals To Viceroy.
+page 12	Co-operation Essential.
+page 17	FRENCH CABINET RESIGNS.
+page 17	Marshal Petain Takes Over.
+page 17	The New Government.
+page 17	Two Meetings Yesterday.
+page 17	Significant Communique.
+page 17	Norway & Belgium Vis-a-Vis Italy.
+page 17	Australia To Conscript Everything But Men.
+page 17	"All In It" Watchword.
+page 17	Munitions Department.
+page 17	Banning Subversive Elements.
+page 17	LITHUANIA IVADED.
+page 17	"Friendly Red Army" Increases Garrison.
+page 17	What Nazism Signifies.
+page 17	Americans Warned By Economist.
+page 17	Total Destruction.
+page 17	Not Supernatural.
+page 17	Italy Angers The Arabs.
+page 17	Violent Reaction To Entry Into War.
+page 17	Atrocities Denounced.
+page 17	TWO RAIDS ON MALTA.
+page 17	One Civilian Killed And Eight Injured.
+page 17	Alexandria Raid.
+page 17	Italian Submarine Sunk.
+page 17	Norwegian Tanker Sunk..
+page 17	ITALY DRAGS IN HER PUPPET.
+page 17	The Church Bows Down To Mussolini.
+page 17	Must Obey The Chief.
+page 17	Britain's Latest Protected Areas.
+page 17	800 BOMBS FALL ON CHUNGKING.
+page 17	2,000 Buildings Said To Be Destroyed.
+page 17	2,000 Buildings Destroyed.
+page 17	Ice Plant Damaged.
+page 17	Fighters Engage Raiders.
+page 17	Timely Rescue Of British Pilot.
+page 17	Weather Reduces Air Activity.
+page 17	The Church Bows Down To Mussolini.
+page 17	Must Obey The Chief.
+page 17	Britain's Latest Protected Areas.
+page 19	Killers Had Moorland Hide - Out.
+page 19	No Policeman There.
+page 19	Debtor Says He Got 3 Years' Gaol Sentence But Did Not Go.
+page 19	Down to 3 Pounds a Week.
+page 19	He Is 90 But He Applies For Rise.
+page 19	Four Boys With Big Ambition.
+page 19	They wanted To Be Real U.S. Gangsters.
+page 19	30 Guineas Fee For Witness.
+page 19	No Shelter, Then No School, Says Mother.
+page 19	BRITONS IN CAR WERE BOMBED.
+page 19	Then Mistaken For Parachutists.
+page 19	Waves Of Bombers.
+page 19	Ship Attacked.
+page 19	A Look Through The "Telegraph".
+page 19	50 YEARS AGO.
+page 19	25 YEARS AGO.
+page 19	10 YEARS AGO.
+page 19	5 YEARS AGO.
+page 20	Grave, But By No Means Hopeless.
+page 20	Victory If We Hold Out Until The Autumn.
+page 20	Empire Still Solid.
+page 20	Home Front Criticism.
+page 20	A Moral Warning.
+page 20	HEAVY R.A.F. CASUALTIES.
+page 20	FRONT IS RUPTURED.
+page 20	PLIGHT OF FRANCDE.
+page 20	Roosevelt Told.
+page 20	Nazi Claim To Have Sunk Transport.
+page 20	ULTIMATUM SENT TO ESTONIA.
+page 21	Marshal Petain Confers with Churchill: Flandin, Bonnet Refuse To Accept Office Under Veteran Army Leader: Germany's Peace.
+page 21	NEW FRENCH CABINET TO MAKE PEACE OR WAR DECISION TO-DAY.
+page 21	BRITISH PREMIER WILL DECLARE OUR ATTITUDE TO HOUSE OF COMMONS.
+page 21	"Havas" Denial.
+page 21	"War Goes On" - Berlin.
+page 21	"TELEGRAPH" WAR FUND.
+page 21	COLONY'S GENEROUS RESPONSE.
+page 21	Total Already Nears $50,000 Mark.
+page 21	Immediate Remittance.
+page 21	New York Report Of New Invasion.
+page 21	Big Italian Raid on Cannes.
+page 21	U.S. GIVES WARSHIPS.
+page 21	First Fruits Of Pres-Roosevelt's Policy.
+page 21	Desperate Plight Of Gallant France.
+page 21	Possible Portends Of Reynaud Action.
+page 21	Laval's Inciusion.
+page 21	Desperate plight.
+page 21	H.K. VOLUNTEERS.
+page 21	FULL DAYD'S TRAINING.
+page 21	Intensive Drill For Local Recruits.
+page 21	TURKEY TO STAY OUT.
+page 21	Pact With Britain Not Honoured.
+page 21	Effect Of Champagne Break Through.
+page 21	NAZIS RUPTURE MAGINOT LINE.
+page 21	Intense Fighting.
+page 21	Nazi Claims.
+page 21	NBC CLAIMS FIGHTING ENDED.
+page 22	A Look Through The "Telegraph".
+page 22	50 YEARS AGO.
+page 22	25 YEARS AGO.
+page 22	10 YEARS AGO.
+page 22	5 YEARS AGO.
+page 22	CHILDREN LEAVE FOR SAFETY.
+page 22	BALTIC STATES BECOME PUPPETS AS NEW SOVIET DEMANDS CONCEDED.
+page 22	Latvia Accepts.
+page 22	Ultimatum Accepted.
+page 22	"Friendly Red Army" Increases Garrison.
+page 22	Assurance To Populace.
+page 22	The Church Bows Down To Mussolini.
+page 22	Must Obey The Chief.
+page 22	Timely Rescue Of British Pilot.
+page 22	ANOTHER 290,000 JOIN UP.
+page 22	WEYGAND MAY BE REPLACED.
+page 22	NANSLANGHTER CHARGE.
+page 23	Norway & Belgium Vis-a-Vis Italy.
+page 23	ITALY DRAGS IN HER PUPPET.
+page 23	Weather Reduces Air Activity.
+page 23	TWO RAIDS ON MALTA.
+page 23	One Civilian Killed And Eight Injured.
+page 23	Alexandria Raid.
+page 23	Italian Submarine Sunk.
+page 23	Norwegian Tanker Sunk.
+page 24	BRITISH EMPIRE WILL FIGHT UNTIL IN WINS.
+page 24	GERMANS POUR ACROSS FRANCE TO COMPROMISE MAGINOT LINE.
+page 24	2,500,000 MEN THROWN INTO BATTLE IN NEW CRUSHING OFFENSIVE.
+page 24	150 Divisions.
+page 24	Terrific Bombardment.
+page 24	Junction Effected.
+page 24	Line Still Intact.
+page 24	FANWISE NAZI ADVANCE.
+page 24	Capital Calm.
+page 24	Violent Attack In Saar.
+page 24	Nazis Using All They Have.
+page 24	Still Resitting.
+page 24	Normandy Operations.
+page 24	French Airmen Carry On.
+page 24	French Communique.
+page 24	River Crossed.
+page 24	French Admit New Nazi Penetration.
+page 24	Three Towns Captured.
+page 24	At Rear Of Maginot Line.
+page 24	EIRE'S FREEDOM.
+page 24	Differences Sunk In Common Cause.
+page 24	In Imminent Danger.
+page 24	DAY OF PRAYER FOR FRANCE.
+page 24	REYNAUD NEARLY KILLED.
+page 24	800 BOMBS FALL ON CHUNGKKING.
+page 24	2,000 Buildings Said To Be Destroyed.
+page 24	2,000 Buildings Destroyed.
+page 24	Ice Plant Damaged.
+page 24	Fighters Engage Raiders.
+page 24	Wholesale Evacuation.
+page 24	India Wants To Fight.
+page 24	Moslem League Appeals To Viceroy.
+page 24	Co-operation Essential.
+page 24	FRENCH CABINET RESIGNS.
+page 24	Marshal Petain Takes Over.
+page 24	The New Government.
+page 24	Two Meetings Yesterday.
+page 24	Significant Communique.
+page 24	Italy Angers The Arabs.
+page 24	Violent Reaction To Entry Into War.
+page 24	Atrocities Denounced.
+page 27	JAPAN AND THE POWERS.
+page 27	Demand For Return Of Concessions.
+page 27	MURDER IN SHANGHAI.
+page 27	JAPANESE WILL LEAVE BRITAIN.
+page 27	Stole Lead From Barracks.
+page 27	Massing For Attack On Iceland?
+page 27	NAZIS RUPTURE MAGINOT LINE.
+page 27	Italians Seek To Join Germans.
+page 27	FULL DAY'S TRAINGING.
+page 27	AIR SERVICE TO BANGKOK.
+page 27	PLIGHT OF FRANCE.
+page 27	Berlin Reaction.
+page 27	Roosevelt Told.
+page 29	ITALIANS MEET THE R.A.F.
+page 29	And It's A Painful Experience.
+page 29	Direct Hits On Aerodrome.
+page 29	Britain's Latest Protected Areas.
+page 29	What Nazism Signifies.
+page 29	Americans Warned By Economist.
+page 29	Total Destruction.
+page 29	Not Supernatural.
+page 29	Nazi Claim To have Sunk Transport.
+page 29	WAR WITH ITALY.
+page 29	BORDER CONFLICT.
+page 29	Egyptian Force Is Attacked.
+page 29	Italian Communique.
+page 29	"Violent Operations".
+page 29	Diplomats Delayed.
+page 29	Rome's Precautions.
+page 29	Desolation At Ichang.
+page 29	Newsmen Fly Over War Area.
+page 29	Farm Houses Blazing.
+page 29	No July 4th Celebration.
+page 29	Hongkong Americans Make Decision.
+page 29	Contributions For B.W.O.F.
+page 29	Stole Floats From Roofs.
+page 29	Keen Police Watch Is Rewarded.
+page 29	Japanese Occupy Ichang.
+page 29	Australia To Conscript Everything But Men.
+page 29	"All In It" Watchword.
+page 29	Munitions Department.
+page 29	Banning Subversive Elements.
+page 29	SEQUEL TO A FIRE.
+page 29	Civil Court Action In Hongkong.
+page 29	Claim Admitted.
+page 29	Damaged By Fire.
+page 30	Grave, But By No Means Hopeless.
+page 30	Victory If We Hold Out Until The Autumn.
+page 30	Empire Still Solid.
+page 30	Home Front Criticism.
+page 30	A Moral Warning.
+page 30	HEAVY R.A.F. CASUALTIES.
+page 30	He Is 90 But HE Applies For Rise.
+page 30	BRITONS IN CAR WERE DBOMBED.
+page 30	Then Mistaken For Parachutists.
+page 30	Waves of Bombers.
+page 30	Ship Attacked.
+page 30	Four boys With Big Ambition.
+page 30	They Wanted To Be Real U.S. Gangsters.
+page 30	NO SEPARATE PEACE.
+page 30	We Count On France.
+page 30	Good An Excuse As Any.

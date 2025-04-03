@@ -1,0 +1,279 @@
+page 1	CHIMARA FALLS: -- OFFICIAL.
+page 1	Ex-King Carol A Prisoner.
+page 1	Feared Life Is In Danger.
+page 1	BOMBING IRELAND.
+page 1	Enemy Planes Do No Damage.
+page 1	ITALLAN AIR BASES IN LIBYA SMASHED BY ROYAL AIR FORCE.
+page 1	House Of Commons Hit By Bomb.
+page 1	Empire Air Scheme Is Ahead Of Schedule.
+page 1	Japanese Slain In Shanghai.
+page 1	SHELTER HIT.
+page 1	Artillery Harasses Italians.
+page 1	Waiting Game In Libva.
+page 1	ENEMY RAIDED.
+page 1	Mannheim's Seventh Visit From R.A.F.
+page 1	9 Feared Dead In Tokyo Blaze.
+page 1	MEN SHO BOMB TH ITALIANS.
+page 1	Churchill's Dramatic Appeal To The Italian Nation.
+page 1	Furness Millions Heir Missing, Believed Dead.
+page 1	Mr Eden's Message To The Army.
+page 2	TOOK DEAD MAN'S IDENTITY.
+page 2	German Landed In Britain.
+page 2	UNITED ECONOMIC FRONT.
+page 2	To Protect Investments.
+page 2	DIET FOR FINICKY CHILDREN.
+page 2	HOOVER DAM HURLS FLOOD.
+page 2	More Nazis For Prague.
+page 2	POLICEMAN SAVES PILOT, GIVEN THE O.B.E.
+page 2	TEAMED FOR FIRST TIME.
+page 2	LUCKY PARTNER.
+page 2	Opposed Draft Registration.
+page 2	American Divinity Students Sentenced.
+page 2	Spain Agrees To Take Less Oil.
+page 2	AMERICA PLANS MASS DRILLS.
+page 2	Cure Bulging Waistlines.
+page 2	Argentine's Anti-Nazi Demand.
+page 3	WIFE IS KILLED BY BOMBX.
+page 3	After Alleged Murder Attempt.
+page 3	She Designed Mobile Kitchen.
+page 3	LESS WORKLESS;
+page 3	500,000 Cut in a Year.
+page 3	EMPRESS SURVIVORS.
+page 3	Automobile Industry's Big Role In U.S. Rearmament Programme.
+page 3	WARTIME WEDDINGS ENDED.
+page 3	Wanted To See London.
+page 3	Plumber's Boy's Wish.
+page 3	CANADA'S FOOD FOR BRITAIN.
+page 3	BRITISH CROWD MOBS PILO BY MISTAKE.
+page 4	Planes Over Switzerland.
+page 4	FOR THE PROTECTION OF CHILDREN.
+page 4	What to do to help a child.
+page 4	Hull Welcomes New Envoy.
+page 4	Statement On Halifax.
+page 4	Rebuff For Germany: Vichy Awaits Results.
+page 4	Fisheries Pact Difficulties.
+page 4	Berlin Casualties.
+page 4	INDIAN GUARD INJURED.
+page 4	University "B" Beat Chinese "Y" 7-2 IN "A" Division.
+page 4	Boxing Day Cricket At Craigengower.
+page 4	Large Units Hockey League.
+page 6	CHRISTAMAS, 1940.
+page 6	ANOTHER WEAPON TO DESTROY HITLER.
+page 6	Devil's Isle Abandoned By Troops.
+page 6	I Sailed In A.
+page 6	CHILDREN'S SHIP.
+page 7	ITTALIANS DIG IN AT BARDIA.
+page 7	British Assault Imminent.
+page 7	Christmas Celebrations To Be On Old Scale.
+page 7	AMERICA LIKES LORD HALIFAX.
+page 7	FOR THE 1 MAN IN 7 WHO SHAVES EVERY DAY.
+page 9	Clashes In Thailand.
+page 9	Christmas Donations To War Fund.
+page 9	"R. ABBIT'S" CRICKET NOTES.
+page 10	ARMED RAIDS ON BANKS.
+page 10	Turkey Would Aid Syria.
+page 10	AMERICAN OBSERVERS.
+page 10	STABBED DETECTIVE AFTER STELING BICYCLE.
+page 10	QUICK CHANGE ARTISTS.
+page 10	GUNNER'S POSE AS A MAJOR.
+page 11	French Counsellor In Washington Resigns.
+page 11	LYONS EXPLOSION.
+page 11	URUGUAY TRIAL OF NAZIS.
+page 11	German Bodies Stop Swedes Fishing.
+page 12	Churchill's Dramatic Appeal.
+page 12	Vichy Minister's Appeal.
+page 12	Nazi Fury At Eden's New Appointment.
+page 12	A "Pathological Hatred".
+page 12	Pres. Roosevelt To Speak.
+page 12	Fewer Shipping Losses.
+page 13	CHIMARA FALLS: -- OFFICIAL.
+page 13	Ex-King Carol A Prisoner.
+page 13	Feared Life Is In Danger.
+page 13	BOMBING IRELAND.
+page 13	Enemy Planes Do No Damage.
+page 13	ITALLAN AIR BASES IN LIBYA SMASHED BY ROYAL AIR FORCE.
+page 13	House Of Commons Hit By Bomb.
+page 13	Empire Air Scheme Is Ahead Of Schedule.
+page 13	Japanese Slain In Shanghai.
+page 13	Three Chinese With Knives.
+page 13	SHELTER HIT.
+page 13	Artillery Harasses Italians.
+page 13	Waiting Game In Libva.
+page 13	ENEMY RAIDED.
+page 13	Mannheim's Seventh Visit From R.A.F.
+page 13	MEN WHO BOMB THE ITALIANS.
+page 13	Churchill's Dramatic Appeal To The Italian Nation.
+page 13	Furness Millions Heir Missing, Believed Dead.
+page 13	Mr Eden's Message To The Army.
+page 14	TOOK DEAD MAN'S IDENTITY.
+page 14	German Landed In Britain.
+page 14	UNITED ECONOMIC FRONT.
+page 14	To Protect Investments.
+page 14	DIET FOR FINCIKY CHILDREN.
+page 14	HOOVER DAM HURLS FLOOD.
+page 14	More Nazis For Prague.
+page 14	POLICEMAN SAVES PILOT, GIVEN THE O.B.E.
+page 14	TEAMED FOR FIRST TIME.
+page 14	LUCKY PARTNER.
+page 14	American Divinity Students Sentenced.
+page 14	Spain Agrees To Take Less Oil.
+page 14	AMERICA PLANS MASS DRILLS.
+page 14	Cure Bulging Waistlines.
+page 14	Argentine's Anti-Nazi Demand.
+page 15	WIFE IS KILLED BY BOMBS.
+page 15	After Alleged Murder Attempt.
+page 15	She Designed Mobile Kitchen.
+page 15	LESS WORKLESS; 500,000 Cut in a Year.
+page 15	EMPRESS SURVIVORS.
+page 15	Automobile Industry's Big Role In U.S. Rearmament Programme.
+page 15	WARTIME WEDDINGS ENDED.
+page 15	Wanted To See London.
+page 15	Plumber's Boy's Wish.
+page 15	CANADA'S FOOD FOR BRITAIN.
+page 15	BRITISH CROWD MOBS PILOT BY MISTAKE.
+page 16	Planes Over Switzerland.
+page 16	FOR THE PROTECTION OF CHILDREN.
+page 16	What to do to holp a child.
+page 16	Hull Welcomes New Envoy.
+page 16	Statement On Halifax.
+page 16	Pres. Roosevelt To Speak.
+page 16	Fewer Shipping Losses.
+page 16	University "B" Beat Chinese "Y" 7-2 In "A" Division.
+page 16	Boxing Day Cricket At Craigengower.
+page 16	Large Units Hockey League.
+page 18	CHRISTMAS, 1940.
+page 18	ANOTHER WEAPON TO DESTROY HITLER.
+page 18	Devil's Isle Abandoned By Troops.
+page 18	I Sailed In A.
+page 18	CHILDREN'S SHIP.
+page 19	Manslaughter Charge.
+page 19	Five Traffic Deaths.
+page 19	Names Of Second People's Council.
+page 19	National Government.
+page 19	Invitation to Seafarers.
+page 19	A.R.P. Inspection.
+page 19	Let Us Get On With It.
+page 19	Berlin Casualties.
+page 19	Chinese Gift To Roosevelt.
+page 19	Picture of 100 Birds.
+page 19	Fisheries Pact Difficulties.
+page 19	Rev. J.R. Higgs Going On Leave.
+page 19	FOR THE 1 MAN IN 7 WHO SHAVES EVERY DAY.
+page 21	Nazi fury A Eden's New Appointment.
+page 21	A "Pathological Hatred".
+page 21	SOCCER INTERPORT WITH SHANGHAI CANCELLED.
+page 21	"R. ABBIT'S" CRICKET NOTES.
+page 21	Rebuff For Germany: Vichy Awaits Results.
+page 21	Chinese Supplies Denial.
+page 21	No Vladivostok Route.
+page 22	ARMED RAIDS ON BANKS.
+page 22	Turkey Would Aid Syria.
+page 22	STABBED DETECTIVE AFTER STEALING BICYCLE.
+page 22	QUICK CHANGE APTISTS.
+page 22	GUNNER'S POSE AS A MAJOR.
+page 23	French Counsellor In Washington Resigns.
+page 23	LYONS EXPLOSION.
+page 23	URUGUAY TRIAL OF NAZIS.
+page 23	German Bodies Stop Swedes Fishing.
+page 24	Churchill's Dramatic Appeal.
+page 24	Vichy Minister's Appeal.
+page 24	Clashes In Thailand.
+page 24	Artillery Harasses Italians.
+page 24	9 Feared Dead In Tokyo Blaze.
+page 25	FURTHER GREEK ADVANCE.
+page 25	Kora Mountains Fighting.
+page 25	Ex-King Carol A Prisoner.
+page 25	Feared Life Is In Danger.
+page 25	TO-DAY'S RAIDS ON BRITAIN.
+page 25	Nazi Troops Massing In Rumania.
+page 25	ITALIAN AIR BASES IN LIBYA SMASHED BY ROYAL AIR FORCE.
+page 25	Japanese Slain In Shanghai.
+page 25	Three Chinese With Knives.
+page 25	Road Barricades In Eire.
+page 25	Artillery Harasses Italians.
+page 25	Waiting Game In Libya.
+page 25	NEW AIR ROUTE.
+page 25	Japanese Extension To South Seas.
+page 25	MEN WHO BOMB THE ITALIANS.
+page 25	Big Concentration Of U.S. Fighting Forces In Manila.
+page 25	Half Million People Face Grim Christmas.
+page 25	Hawaii-Singapore Naval "Road".
+page 25	House Of Commons Hit By Bomb.
+page 25	The Pope's Christmas Message.
+page 26	DIET FOR FINICKY CHILDREN.
+page 26	TEAMED FOR FIRST TIME.
+page 26	LUCKY PARTNERS.
+page 26	Furness Millions Heir Missing, Believed Dead.
+page 26	Manslaughter Charge.
+page 26	Five Traffic Deaths.
+page 26	Fisheries Pact Difficulties.
+page 26	Names Of Second People's Council.
+page 26	National Government.
+page 26	Chinese Gift To Roosevelt.
+page 26	Picture Of 100 Birds.
+page 26	Invitation to Seafarers.
+page 26	A.R.P. Inspection.
+page 26	Let Us Get On With It.
+page 26	Berlin Casualties.
+page 27	WIFE IS KILLED BY BIMBS.
+page 27	After Alleged Murder Attempt.
+page 27	She Designed Mobile Kitchen.
+page 27	LESS WORKLESS; 500,000 Cut in a Year.
+page 27	EMPRESS SURVIVORS.
+page 27	Automobile Industry's Big Role In U.S. Rearmament Programme.
+page 27	WARTIME WEDDINGS ENDED.
+page 27	Wanted To See London.
+page 27	Plumber's Boy's Wish.
+page 27	CANADA'S FOOD FOR BRITAIN.
+page 27	BRITISH CROWD MOBS PILOT BY MISTAKE.
+page 28	Planes Over Switzerland.
+page 28	Hull Welcomes New Envoy.
+page 28	Statement On Halifax.
+page 28	Pres. Roosevelt To Speak.
+page 28	Fewer Shipping Losses.
+page 28	Russo-German Trade Pact.
+page 28	Knocked Traffic Sign Down.
+page 28	Vichy Minister's Appeal.
+page 28	London's Chung Hwa.
+page 30	CHRISTMAS, 1940.
+page 30	ANOTHER WEAPON TO DESTROY HITLER.
+page 30	Devil's Isle Abandoned By Troops.
+page 30	I Sailed In A.
+page 30	CHILDREN'S SHIP.
+page 31	CHURCHILL TELLS ITALIANS HOME TRUTHS ABOUT LEADER MUSSOLINI.
+page 31	Empire Air Scheme Is Ahead Of Schedule.
+page 31	Chinese Supplies Denial.
+page 31	No Vladivostok Route.
+page 31	BOMBING IRELAND.
+page 31	Enemy Planes Do No Damage.
+page 31	SHELTER HIT.
+page 31	COURT MARTIAL.
+page 31	ENEMY RAIDED.
+page 31	Mannheim's Seventh Visit From R.A.F.
+page 31	TWO KILLED IN PLANE CRASH.
+page 31	Emperor Receives Latham.
+page 31	FOR THE 1 MAN IN 7 WHO SHAVES EVERY DAY.
+page 33	Nazi Fury At Eden's New Appointment.
+page 33	A "Pathological Hatred".
+page 33	SOCCER INTERPORT WITH SHINGHAI CANCELLED.
+page 33	"R. ABBIT'S" CRICKET NOTES.
+page 33	Rebuff For Germany: Vichy Awaits Results.
+page 33	Hongkong C.C Cricket Teams.
+page 34	ARMED RAIDS ON BANKS.
+page 34	Turkey Would Aid Syria.
+page 34	AMERICAN OBSERVERS.
+page 34	STABBED DETECTIVE AFTER STEALING BICYCLE.
+page 34	QUICK CHANGE ARTISTS.
+page 34	GUNNER'S POSE AS A MAJOR.
+page 35	NAZIS HIT TOWER.
+page 35	French Counsellor In Washington Resigns.
+page 35	LYONS EXPLOSION.
+page 35	URUGUAY TRIAL OF NAZIS.
+page 35	German Bodies Stop Swedes Fishing.
+page 36	Arms Deal Case.
+page 36	Broker Discharged.
+page 36	CHRISTMAS AMNESTY.
+page 36	Artillery Harasses Italians.
+page 36	9 Feared Dead In Tokyo Blaze.
+page 36	Mr Eden's Message To The Army.
+page 36	Rev. J.R. Higgs Going On Leave.

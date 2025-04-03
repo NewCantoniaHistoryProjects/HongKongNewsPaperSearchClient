@@ -1,0 +1,63 @@
+page 1	R.A.F. Destroy 10 Enemy Planes.
+page 1	Mediterranean.
+page 1	Crete.
+page 1	Western Desert.
+page 1	Abyssinia.
+page 1	Dublin Bombing Casualties.
+page 1	Lessons To Be Learned.
+page 1	R.A.F. Difficulties In Crete.
+page 1	Making Runways.
+page 1	Long-Range Fighters.
+page 1	New Air Chief Appointed To Conduct Middle East War.
+page 1	Previous Exparlence.
+page 1	WPRSHIP IN RUINED CATHEDRAL.
+page 1	Harmonium Substitutes.
+page 1	U.S.S. DAKOTA.
+page 1	CONSOLING FEATURES OF NEW SITUATION CREATED IN NEAR EAST.
+page 1	Heroism of Garrison.
+page 1	Navy Still On Top.
+page 1	Other Bases Stronger.
+page 1	Numbers Evacuated.
+page 1	AMERICAN HOSPITAL BOMBED.
+page 1	Hit In Heavy Raid On Chungking.
+page 1	Kian Raided.
+page 1	Iraqis Yield In Full To The British Armistice Terms.
+page 1	Britons Retained As Hostages In Baghdad.
+page 1	Threat Countered.
+page 1	NAZI BOMBS ON DUBLIN.
+page 1	British Armed Cruiser Lost.
+page 1	Civilians Returning To Ningpo Area.
+page 1	Terrific Blasting Power Of New British Bombs.
+page 3	Hongkong News of the Week.
+page 5	To Be Gaoled For Life.
+page 5	Win First Of New Medals.
+page 5	St Thomas's New Hospital In Country.
+page 5	Munition Ship Takes Back Model Dresses.
+page 5	SANG IN RESCUE DESTROYER.
+page 5	Chinese Lose first Match In Australia.
+page 5	South China Beat Selangor.
+page 5	Preston Beat Arsenal In War Cup Final.
+page 5	FRED PERRY IN U. S. PROFESSIONAL TENNIS FINAL.
+page 5	Thai Naval Losses.
+page 5	TIMELY U. S. GESTURE TO CHINA.
+page 5	B.B.C. ASKED TO ACCEPT TALKS FROM CHUNGKING.
+page 5	Caught Burglar In Front Of Altar.
+page 5	HONGKONG MAILS LOST.
+page 5	Mock Battle At Gibraltar.
+page 6	Jai Alai --- World's Most Spectacular Game Popular In Shanghai And Manila.
+page 6	Wah Yan College Past Students' Athletic Meet.
+page 6	Champions Defeated By Kowloon B.G.C. "A."
+page 8	Britain Prepares For Invasion.
+page 8	Tanks Scramble Ashore.
+page 8	British War Aims Leave Tokyo Cold.
+page 8	American Goods Spirited Away.
+page 8	Consoling Features Of New Situation.
+page 8	Captured Nazis.
+page 8	German Trade Treaty With Manchukuo.
+page 8	Britons Retained As Hostages.
+page 8	Plucky American.
+page 8	Month In Legation.
+page 8	Lessons To Be Learned.
+page 8	American Planes.
+page 8	Terrific Power Of British Bombs.
+page 8	Moscow's Parachute Defences Tested.

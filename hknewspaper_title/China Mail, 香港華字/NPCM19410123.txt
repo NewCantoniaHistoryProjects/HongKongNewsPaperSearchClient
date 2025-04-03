@@ -1,0 +1,296 @@
+page 1	"DAIAL WORKER" DISCUSSION.
+page 1	PREMATURE ANNOUNCEMENT OF THE FALL OF TOBRUK.
+page 1	Garrison Still Fights In Section Of Town.
+page 1	Resistance Not Expected To Last.
+page 1	ATTACK ON LEASE & LEND BILL.
+page 1	BURMA RAILWAY PROBLEMS.
+page 1	Hedge Hopping Ships.
+page 1	Kassala Sector.
+page 1	Troops In Streets Of Tobruk.
+page 1	Many Prisoners.
+page 1	TWO ENEMY BOMBERS SHOT DOWN.
+page 1	AN OFFICIAL GUARDIAN APPOINTED.
+page 1	Mr. Paul Spender 'Bombed'.
+page 1	ENTIRE SUPPLY OF ORANGES BOUGHT.
+page 2	Man-Power Debate Speeches.
+page 2	SOME MEMBERS NOT YET SATISFIED.
+page 2	ISLANDS LEASED TO AMERICA.
+page 2	NAVY'S PART IN LIBYA WAR.
+page 2	SUPREME COURT JUDGE RESIGNS.
+page 2	U.S. NAVAL APPROPRIATION.
+page 2	CANADA'S BIG WAR EFFORT.
+page 2	AMERICAN SUPPLIES TO SOVIET.
+page 2	BARBAROUS GERMAN TACTICS.
+page 2	MOBILISATION OF THE GREEKS IN EGYPT.
+page 2	Not A Ship Or Gun Lost.
+page 2	R.A.F. SUPPORT OF ARMY ATTACK ON TOBRUK.
+page 2	Massawa Raided.
+page 2	HAPPY VALIEY MYSTERY.
+page 2	DUTCH TO BUILD FOOD RESERVES.
+page 3	RETREAT IN ERITREA.
+page 3	Italians Take Refuge In The Highlands.
+page 3	British Army Faces Delicate Task.
+page 3	60-Mile Convoy.
+page 3	Retreat Continuing.
+page 3	TANGIER ISSUE PROGRESS.
+page 3	BRITAIN'S AID TO GREECE.
+page 3	TURKEY GIVES RADIO WARNING TO GERMANY.
+page 3	ALL U.S. DESTROYERS SAFE OVER.
+page 4	BRITAIN'S FIRST LINE OF DEFENCE IN THE PACIFIC.
+page 4	Ultimate Fate.
+page 4	A PRAM FOR SALE.
+page 4	WENDELL WILLKIE LEAVES.
+page 4	SCOTTISH ARMS FACTORY EXPLOSION.
+page 4	BLUNT WARNING.
+page 5	CROWDS CHEER AS BOMBER FALLS.
+page 5	No Panic.
+page 6	19 ANGELS OF MERCY WORK ON IN LONDON.
+page 6	In A Dream.
+page 6	Safety Spurned.
+page 6	"BORROWED PETROL".
+page 6	LAUGHS AT FUEHRER.
+page 6	"Ah,No".
+page 6	CITES A WOMAN OF 86!
+page 6	GOERING GARDENS.
+page 6	WHILE THEY PRAYED.
+page 6	Drone Of 'Planes.
+page 6	"A Miracle".
+page 7	ASSURANCES FROM HITLER.
+page 7	These Are The Days For Me.
+page 7	By Edward Shanks.
+page 8	STRAYS IN AN ENGLISH RAID SHELTER.
+page 8	Even Germans.
+page 8	"Bomb Will Fall".
+page 8	"Really Interesting".
+page 8	Mouse Scare.
+page 8	HAD BEER-NOW THEY'VE GOT TIGHT.
+page 8	NAZIS KILL MAN FROM GESTAPO.
+page 8	"Notable" Capture.
+page 8	ASHAMED OF SIREN BUSMEN.
+page 8	Great Strain, But.
+page 9	BIG SHELTER IS HIT BUT FEW ARE HURT.
+page 9	Double Escape.
+page 9	Hospitals Bombed.
+page 9	"Gasworks Hit".
+page 9	MAN, 64, PLAINTIFF IN BREACH CASE.
+page 9	FUGITIVE SWAM TWO RIVERS.
+page 9	1914-18 V.C. REJOINS.
+page 10	WORK THE BEST ANTIDOTE TO BOMB SHOCK.
+page 10	Comparison With 1914.
+page 10	BEAT DEATH BY 20 MINUTES.
+page 12	ONE MAN HELD UP WAVE OF FIRE, SAVED COMRADES.
+page 12	COULDN'T FLY-SAVED 'PLANE.
+page 12	NURSE LOWERED TO MERCY TASK.
+page 13	SPEEDING UP SHIP REPAIRS.
+page 13	FLYING-BOAT PICKS UP 21 SURVIVORS.
+page 13	Those Left Behind.
+page 13	GOOD MEN NO JOB.
+page 13	Heard Nothing More.
+page 13	U.S. TO BUILD 200 NEW SHIPS.
+page 13	GERMANS FAIL IN NORWAY.
+page 16	FREEDOM OF THE PRESS.
+page 16	Debate In Commons On "Daily Worker" Closure.
+page 16	FULL WATER SUPPLY DURING NEW YEAR HOLIDAY.
+page 16	GREEK REPORTED SHOT.
+page 16	Mr. Herbert Morrison Explains.
+page 16	Forbearance.
+page 16	Mr. Churchill Intervenes.
+page 16	CHUNGKING BOMBED.
+page 16	PREMATURE ANNOUNCEMENT OF THE FALL OF ROBRUK.
+page 16	Strategic Importance.
+page 17	"DAILY WORKER" DISCUSSION.
+page 17	PREMATURE ANNOUNCEMENT OF THE FALL OF TOBRUK.
+page 17	Garrison Still Fights In Section Of Town.
+page 17	Mr. Paul Spender 'Bombed'.
+page 17	GREEK REPORTED SHOT.
+page 17	CHUNGKING BOMBED.
+page 17	TWO ENEMY BOMBERS SHOT DOWN.
+page 17	Hedge Hopping Ships.
+page 17	DESTROYER LOST.
+page 17	Resistance Not Expected To Last.
+page 17	Kassala Sector.
+page 17	Troops In Streets Of Tobruk.
+page 17	Many Prisoners.
+page 17	HOUSE BURIED BY COLLAPSE.
+page 18	Man-Power Debate Speeches.
+page 18	SOME MEMBERS NOT YET SATISFIED.
+page 18	ISLANDS LEASED TO AMERICA.
+page 18	NAVY'S PART IN LIBYA WAR.
+page 18	U.S. NAVAL APPROPRIATION.
+page 18	CANADA'S BIG WAR EFFORT.
+page 18	AMERICAN SUPPLIES TO SOVIET.
+page 18	BARBAROUS GERMAN TACTICS.
+page 18	MOBILISATION OF THE GREEKS IN EGYPT.
+page 18	Not A Ship Or Gun Lost.
+page 18	DUTCH TO BUILD FOOD RESERVES.
+page 18	R.A.F. SUPPORT OF ARMY ATTACK ON TOBRUK.
+page 18	Massawa Raided.
+page 18	HAPPY VALLEY MYSTERY.
+page 19	RETREAT IN ERITREA.
+page 19	Italians Take Refuge In The Highlands.
+page 19	British Army Faces Delicate Task.
+page 19	60-Mile Convoy.
+page 19	Retreat Continuing.
+page 19	AUSTRALIANS LEADING NEW ETHIOPIAN ARMY.
+page 19	TANGIER ISSUE PROGRESS.
+page 19	BRITAIN'S AID TO GREECE.
+page 19	TURKEY GIVES RADIO WARNING TO GERMANY.
+page 19	ALL U.S. DESTROYERS SAFE OVER.
+page 20	BRITAIN'S FIRST LINE OF DEFENCE IN THE PACIFIC.
+page 20	Ultimate Fate.
+page 20	BURMA RAILWAY PROBLEMS.
+page 20	AN OFFICIAL GUARDIAN APPOINTED.
+page 20	ENTIRE SUPPLY OF ORANGES BOUGHT.
+page 20	WENDELL WILLKIE LEAVES.
+page 20	SCOTTISH ARMS FACTORY EXPLOSION.
+page 20	BLUNT WARNING.
+page 21	ATTACK ON LEASE & LEND BILL.
+page 21	GERMANS FAIL IN NORWAY.
+page 22	ASSURANCES FROM HITLER.
+page 22	These Are The Days For Me.
+page 22	By Edward Shanks.
+page 23	STRAYS IN AN ENGLISH RAID SHELTER.
+page 23	Even Germans.
+page 23	"Bomb Will Fall".
+page 23	"Really Interesting".
+page 23	Mouse Scare.
+page 23	HAD BEER NOW THEY'VE GOT TIGHT.
+page 23	NAZIS KILL MAN FROM GESTAPO.
+page 23	"Notable" Capture.
+page 23	ASHAMED OF SIREN BUSMEN.
+page 23	Great Strain, But.
+page 24	BIG SHELTER IS HIT BUT FEW ARE HURT.
+page 24	Double Escape.
+page 24	Hospitals Bombed.
+page 24	"Gasworks Hit".
+page 24	MAN, 64, PLAINTIFF IN BREACH CASE.
+page 24	FUGITIVE SWAM TWO RIVERS.
+page 24	1914-18 V.C. REJOINS.
+page 25	HUMPHREYS ESTATE ( FINANCE COMPANY, LIMITED.
+page 25	WORK THE BEST ANTIDOTE TO BOMB SHOCK.
+page 25	Comparison With 1914.
+page 25	BEAT DEATH BY 20 MINUTES.
+page 27	ONE MAN HELD UP WAVE OF FIRE, SAVED COMRADES.
+page 27	COULD'T FLY-SAVED 'PLANE.
+page 27	NURSE LOWERED TO MERCY TASK.
+page 28	FLYING-BOAT PICKS UP 21 SURVIVORS.
+page 28	GOOD MEN NO JOB.
+page 28	Heard Nothing More.
+page 28	U.S. TO BUILD 200 NEW SHIPS.
+page 28	SPEEDING UP SHIP REPAIRS.
+page 30	K.C.C. BEAT ST. JOHN'S.
+page 30	BET WINNINGS WAITING FOR UNTRACED SOLDIER-BACKERS.
+page 31	FREEDOM OF THE PRESS.
+page 31	Debate In Commons On "Daily Worker" Closure.
+page 31	FULL WATER SUPPLY DURING NEW YEAR HOLIDAY.
+page 31	CHINA-BURMA NEGOTIATIONS.
+page 31	Mr. Herbert Morrison Explains.
+page 31	Forbearance.
+page 31	Mr. Churchill Intervenes.
+page 31	PREMATURE ANNOUNCEMENT OF THE FALL OF TOBRUK.
+page 31	Strategic Importance.
+page 32	"DAILY WORKER"DISCUSSION.
+page 32	TOBRUK CAPTURED- -OFFICIAL.
+page 32	THOUSANDS OF PRISONERS.
+page 32	Last Resistance Broken During Yesterday Afternoon.
+page 32	TIME LIMIT FOR BILL.
+page 32	Hedge Hopping Ships.
+page 32	Toughest Italian Opposition Of Libyan Campaign.
+page 32	Anarchy Reigns In Rumania.
+page 32	HOUSE BURIED IN VENTRIS ROAD LANDSLIDE.
+page 32	TWO ENEMY BONBERS SHOT DOWN.
+page 32	DESTROYER LOST.
+page 33	Man-Power Debate Speeches.
+page 33	SOME MEMBERS NOT YET SATISFIED.
+page 33	ISLANDS LEASED TO AMERICA.
+page 33	NAVY'S PART IN LIBYA WAR.
+page 33	U.S. NAVAL APPROPRIATION.
+page 33	CANADA'S BIG WAR EFFORT.
+page 33	AMERICAN SUPPLIES TO SOVIET.
+page 33	BARBAROUS GERMAN TACTICS.
+page 33	MOBILISATION OF THE GREEKS IN EGYPT.
+page 33	Not A Ship Or Gun Lost.
+page 33	DUTCH TO BUILD FOOD RESERVES.
+page 33	R.A.F. SUPPORT OF ARMY ATTACK ON TOBRUK.
+page 33	Massawa Raided.
+page 33	Rhodesian Raiders.
+page 33	HAPPY VALLEY MYSTERY.
+page 34	RETREAT IN ERITREA.
+page 34	Italians Take Refuge In The Highlands.
+page 34	British Army Faces Delicate Task.
+page 34	60-Mile Convoy.
+page 34	Retreat Continuing.
+page 34	AUSTRALIANS LEADING NEW ETHIOPIAN ARMY.
+page 34	TANGIER ISSUE PROGRESS.
+page 34	BRITAIN'S AID TO GREECE.
+page 34	TURKEY GIVES RADIO WARNING TO GERMANY.
+page 34	ALL U.S. DESTROYERS SAFE OVER.
+page 35	BRITAIN'S FIRST LINE OF DEFENCE IN THE PACIFIC.
+page 35	Ultimate Fate.
+page 35	BURMA RAILWAY PROBLEMS.
+page 35	AN OFFICIAL GUARDIAN APPOINTED.
+page 35	ENTIRE SUPPLY OF ORANGES BOUGHT.
+page 35	WENDELL WILLKIE LEAVES.
+page 35	SCOTTISH ARMS FACTORY EXPLOSION.
+page 35	BLUNT WARNING.
+page 36	ATTACK ON LEASE & LEND BILL.
+page 36	GERMANS FAIL IN NORWAY.
+page 37	THE FALL OF TOBRUK WAS ANNOUNCED PREMATURELY.
+page 37	Kassala Sector.
+page 37	Troops In Street Of Tobruk.
+page 37	Many Prisoners.
+page 37	Strategic Importance.
+page 37	MIDDLESEX MEN CONVICTED: HOTEL INCIDENT.
+page 37	Four Rums.
+page 37	JUNK MISTRESSES FINED.
+page 37	UNUSUAL FOR JANUARY.
+page 37	CHINESE DOCTOR FINED.
+page 37	MEAN THIEF SENT TO PRISON.
+page 38	ASSURANCES FROM HITLER.
+page 38	These Are The Days For Me.
+page 38	By Edward Shanks.
+page 39	STRAYS IN AN ENGLISH RAID SHELTER.
+page 39	Even Germans.
+page 39	"Bomb Will Fall".
+page 39	"Really Interesting".
+page 39	Mouse Scare.
+page 39	HAD BEER NOW THEY'VE GOT TIGHT.
+page 39	NAZIS KILL MAN FROM GESTAPO.
+page 39	"Notable" Capture.
+page 39	U.S. TO BUILD 200 NEW SHIPS.
+page 40	Suffocation By False Teeth: Murder Yrial Opens.
+page 40	Amah Found Dead.
+page 40	Prepared For Violence.
+page 40	Doctor's Evidence.
+page 40	ASSASSINATION IN SOOCHOW.
+page 40	CHUNGKING BOMBED.
+page 41	WORK THE BEST ANTIDOTE TO BOMB SHOCK.
+page 41	Comparison With 1914.
+page 41	BEAT DEATH BY 20 MINUTES.
+page 43	ONE MAN HELD UP WAVE OF FIRE, SAVED COMRADES.
+page 43	COULDN'T FLY-SAVED 'PLANE.
+page 43	NURSE LOWERED TO MERCY TASK.
+page 44	WHILE THEY PRAYED.
+page 44	Drone Of 'Planes.
+page 44	"A Miracle".
+page 44	WOUND-UP.
+page 44	FLYING-BOAT PICKS UP 21 SURVIVORS.
+page 44	Those Left Behind.
+page 44	1914-18 V.C. REJOINS.
+page 44	GOERING GARDENS.
+page 44	FUGITIVE SWAM TWO RIVERS.
+page 44	CITES A WOMAN OF 86!
+page 47	FREEDOM OF THE PRESS.
+page 47	Debate In Commons On "Daily Worker" Closure.
+page 47	FULL WATER SUPPLY DURING NEW YEAR HOLIDAY.
+page 47	CHINA-BURMA NEGOTIATIONS.
+page 47	Mr. Herbert Morrison Explains.
+page 47	Forbearance.
+page 47	Mr. Churchill Intervenes.
+page 47	TOBRUK CAPTURED-OFFICIAL THOUSANDS OF PRISONERS.
+page 47	Final Blow.
+page 47	Taken By Storm.
+page 47	GREEK REPORTED SHOT.
+page 47	ASSETS IN FRENCH CONCESSION.
+page 47	Mr. Paul Spender 'Bombed'.
+page 47	DERELICT JUNK.

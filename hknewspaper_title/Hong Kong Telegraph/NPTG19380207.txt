@@ -1,0 +1,247 @@
+page 1	TOWN NEAR MACAO BLOWN TO PIECES.
+page 1	WAR SPREADING TERROR, DEATH THROUGH SOUTH.
+page 1	Refugees in Portuguese Colony Tell Of Havoc Of Bombs And Shells.
+page 1	Still Occupy Island.
+page 1	Chinese Guerillas Continue Grim Warfare.
+page 1	SET RING OF FIRE TO DRIVE JAPANESE FROM HILL-TOP POSITIONS.
+page 1	Kwangsi Troops Praised For Gallant Defence Of Lines.
+page 1	Dizzy War Circle.
+page 1	ROYAL WELCH FUSILIERS LEAVE S'HAI.
+page 1	STRONG BRITISH NOTE TO FRANCO.
+page 1	"Patience Thoroughly Exhausted".
+page 1	PARIS HEARS OF PLOT TO RESTORE GERMAN PRINCE TO THRONE.
+page 1	AMERICA WILLING TO DISARM.
+page 1	Cordell Hull Appeals To "Hermit" Nations.
+page 1	China Keeps Wary Eye On Nazi Policy.
+page 1	Fears Changes With Von Blomberg's Retirement.
+page 1	PICKABACK PLANE HAS SUCCESSFUL TRIALS.
+page 1	For Atlantic Route.
+page 1	Christians Pray For Salvation.
+page 1	Chinese Ask British Archbishop's Support For Peace Parley.
+page 1	Fears Felt For American Missionaries.
+page 1	Hankow Not Informed Of Report Of Woman's Kidnapping.
+page 1	INDIAN KILLED.
+page 1	Struck By Kowloon Locomotive.
+page 1	Clouston Out For Another Air Record.
+page 1	IMPORTANT POINT RECAPTURED.
+page 1	TOWN AGAIN IN CHINESE HANDS.
+page 1	JAPAN PLANS AMNESTY.  
+page 3	NATIVE CITY IS "SHAI'S SORROW".
+page 3	CHAPEI RUINED BEYOND REPAIR; FATE IN DOUBT.
+page 3	11 MILES OF TRENCHES.
+page 3	EMPIRE NEWS.
+page 3	100 MAROONED IN FLOODED MINE.
+page 3	NEW SHERIFF OF CALCUTTA.
+page 3	OVER-SUBSCRIBED LOAN.
+page 3	IS LORETTA A BRIDE?
+page 3	ROMANCE RUMOUR.
+page 3	Life Sentence On "Magnetic" Parson.
+page 3	Unseen Women's Secret.
+page 4	JAPANESE POUND COASTS.
+page 4	Weekend Offensives In South China.
+page 4	Shelling Near Macao.
+page 4	Island Occupled.
+page 4	Fears Increasing.
+page 4	Land on Island.
+page 4	Forts Attacked.
+page 4	Three Warships Hit.
+page 4	Warship Damaged.
+page 4	U.S. Prepares To Build Huge Battle Craft.
+page 4	Expects Ultimatum To Be Spurned.
+page 4	CONGRESS PROTESTS.
+page 4	OPPOSITION ORGANISED.
+page 4	FACTORY BOILER EXPLODES.
+page 4	Eleven Injured In Mongkok Blast.
+page 4	Insurgents Advance In Teruel Area.
+page 4	Smashing Attack On 25-Mile Front.
+page 4	PANCRUDO CAPTURED.
+page 4	SZECHUEN CRISIS.
+page 4	New Worry For Marshal Chiang.
+page 4	SINKING NOW CONFIRMED.
+page 4	ECONOMIST, GENERAL TO CONFER.
+page 4	Men May Seek To Guide N. China.
+page 4	S'HAI VISITOR DIES IN H.K.
+page 5	THREE POWERS SEND WARNING TO JAPAN.
+page 5	Britain, France and America Move Simultaneously.
+page 5	CONTENTS OF NOTE.
+page 5	PERSISTENT REPORTS.
+page 5	THE NAVAL ESTIMATES.
+page 5	ESCALATOR CLAUSE.
+page 5	LONDON CONFERENCE.
+page 5	MEDIATION OFFERS.
+page 5	Overtures By Three Western Powers.
+page 5	AMERICAN NOTE IDENTICAL.
+page 5	FRENCH NOTE SENT.
+page 5	JAPANESE STATEMENT.
+page 5	TOKYO IGNORANT.
+page 7	Prince, 67, Determined To Wed His Mannequin.
+page 7	SCORNS COURT BAN.
+page 7	GUARDIAN REJECTED.
+page 7	English As She Is Spoke.
+page 7	New York To London In Twelve Hours Is Forecast By Airline Officials.
+page 7	Scotland Makes Best Cocktails.
+page 7	DOG SAVED HIS LIFE: THANKLESS.
+page 7	DINNER PRORLEM SOLVED.
+page 7	WARMLY ACCLAIMED.
+page 7	Gracie Fields Is Forty.
+page 7	YOUNG GRANDMOTHER IN RACE.
+page 9	BADMINTON ENTRIES ARE SATISFACTORY.
+page 9	Though Fewer Men Have Joined The Championships.
+page 9	MANILA BOXING.
+page 9	Boy Wonder Champion Of The Orient.
+page 9	Early Interest Shown.
+page 9	CHINESE PLAYERS SHINE.
+page 9	THE SCORING.
+page 9	Hockey Visit To Macao By C.B.A.
+page 9	EXHIBITION HOCKEY.
+page 9	Civilians Beaten By Air Force And Army.
+page 9	TENNIS SERIES.
+page 11	RACING ROUND THE MOUNTAINS.
+page 12	SHIRLEY IS STAR.
+page 12	No. 1 Gable Second.
+page 12	ADVICE TO WIVES BY SURGEON.
+page 12	WATER DRINKS PROBLEM.
+page 12	CHINESE GUERILLAS CONTINUE GRIM WARFARE.
+page 12	Defenders' Bravery Praised.
+page 12	Attack On Wuhu Imminent.
+page 12	JAPAN TO HONOUR LEADERS.
+page 12	Snow Helps Drive Japanese From Yuhang.
+page 12	River Crossing Frustrated.
+page 12	STOCK MARKET REPORT.
+page 13	MORE BATTLESHIPS FOR BRITAIN.
+page 13	40,000- TONNERS IN ANSWER TO JAPANESE CRAFT.
+page 13	Navy Suspects Tokyo Already Building Over Treaty Limits.
+page 13	1938 PROGRAMME DEPENDS UPON JAPAN'S ANSWER.
+page 13	Predict Japan's Silence.
+page 13	Modern Town Near Macao Blown To Pieces.
+page 13	WAR SPREADING TERROR, DEATH THROUGH SOUTH.
+page 13	Refugees in Portuguese Colony Tell Of Havoc Of Bombs And Shells.
+page 13	Still Occupy Island.
+page 13	ROYAL WELCH FUSILIERS LEAVE S'HAI.
+page 13	Prominent Residents In Lawsuit.
+page 13	Former Employee Seeks Damages.
+page 13	Chiang Leads Army Defending Lunghai Front.
+page 13	Strengthens Italo-German Collaboration.
+page 13	Shifting Of Diplomats Causing Uneasiness.
+page 13	LOYALISTS SUFFER DEFEAT.
+page 13	Insurgents gain Much Ground In Drive To Alfambra.
+page 13	U.S. FLEET STAYING IN PACIFIC.
+page 13	But May Test Speed Around Cape Horn.
+page 13	347 Cases Of Smallpox Since Jan.1.
+page 13	CANTON DISCOUNTS RUMOURS.
+page 13	Wu The-chen Says Situation Improved.
+page 13	CHINESE BOMB NANKING.
+page 13	Six Die In Arkansas Train Wreck.
+page 13	Engine Plunges Into Abandoned Car.
+page 13	"Shoot On Sight " Order To Coastguard.
+page 13	Scientists May Leave Polar Camp.
+page 13	TERRIFIC PRESSURE THREAT TO SOVIET PARTY.
+page 15	NATIVE CITY IS "SHAI'S SORROW".
+page 15	CHAPEI RUINED BEYOND REPAIR; FATE IN DOUBT.
+page 15	11 MILES OF TRENCHES.
+page 15	IS LORETTA A BRIDE?
+page 15	ROMANCE RUMOUR.
+page 15	Life Sentence On "Magnetic" Parson.
+page 15	Unseen Women's Secret.
+page 15	EMPIRE NEWS.
+page 15	100 MAROONED IN FLOODED MINE.
+page 15	NEW SHERIFF OF CALCUTTA.
+page 15	AUSTRALIA.
+page 15	OVER-SUBSCRIBED LOAN.
+page 15	Children Who Outgrow Their Strength.
+page 15	Need The Tonlo Help Of Dr. Williams' Pills.  
+page 16	MORE BATTLESHIPS FOR BRITAIN.
+page 16	America Ready To Meet Challenge.
+page 16	AWAITING HEARING.
+page 16	BOILER QUESTION.
+page 16	PEIPING'S PRESS CRITICAL.
+page 16	CANTON DECLARES LOYALTY.
+page 16	Japanese Agents Spreading Rumours Of Disaffection.
+page 16	Californians Prepare For Great Storms.
+page 16	Snowfalls May Break 20-year Record:
+page 16	BOY KILLED BY BUS.
+page 16	Wheel Passed Over Youngster's Head.
+page 16	FIRECRACKER FINE.
+page 16	PEIPING APPOINTMENT.
+page 16	PROMINENT RESIDENTS IN LAWSUIT.
+page 16	COCKLOFT AS OFFICE.
+page 16	WARNS PLAINTIFF.
+page 16	NOT WORKING FOR NOTHING.
+page 16	QUESTIONED BY MR. SIN.
+page 16	DROPPED OTHER WORK.
+page 16	GOVERNOR GUEST OF Y. M. C. A.
+page 16	Then Inspects Police Force.
+page 16	PLAINTIFF'S VERSION.
+page 16	MODERN TOWN NEAR MACAO BLOWN TO PIECES.
+page 16	Important Point Recaptured.
+page 16	Town Again In Chinese Hands.
+page 16	Chinese Approach Fuyang.
+page 16	Lull On Northern Front.
+page 16	All Day pounding.
+page 16	Selecting Best Film Performances.
+page 16	ACADEMY PREPARES FOR AWARDS.
+page 17	Insurgents Advance In Teruel Area.
+page 17	Smashing Attack On 25-Milo Front.
+page 17	PANCRUDO CAPTURED.
+page 17	POLICE RESERVE ORDERS.
+page 17	CHINESE COMPANY.
+page 17	INDIAN COMPANY.
+page 17	EERGENCY UNIT RESERVE.
+page 17	PARIS HEARS OF PLOT TO RESTORE GERMAN PRINCE TO THRONE.
+page 17	JAPAN TO HONOUR LEADERS.
+page 17	S'HAI VISITOR DIES IN H.K.
+page 18	THIS is what happens..
+page 18	WHEN a DICTATOR DIES.
+page 18	WHEN DEFICITS COME IN,INCOMES GO OUT,SAYS KELLY,GETTING DOWN TO BRASS TAX.
+page 19	Chinese Guerillas Continue Grim Warfare.
+page 19	SET RING OF FIRE TO DRIVE JAPANESE FROM HILL-TOP POSITIONS.
+page 19	Kwangsi Troops Praised For Gallant Defence Of Lines.
+page 19	Dizzy war Circle.
+page 19	Defenders' Bravery Praised.
+page 19	Attack On Wuhu Imminent.
+page 19	Snow Helps Drive Japanese From Yuhang.
+page 19	River Crossing Frustrated.
+page 19	Christians Pray For Salvation.
+page 19	Chinese Ask British Archbishop's Support For Peace Parley.
+page 19	KILLED INDIAN.
+page 19	Struck By Kowloon Locomotive.
+page 19	STRONG BRITISH NOTE TO FRANCO.
+page 19	"Patience Thoroughly Exhausted".
+page 19	JAPAN PLANS AMNESTY.
+page 19	CAUTION FOR JUROR ABSENTEE.
+page 19	PICKABACK PLANE HAS SUCCESSFUL TRIALS.
+page 19	For Atlantic Route.
+page 19	ENLISTING PEIPING BODYGUARD.
+page 19	PAN-ASIANISM LOOMS HEAD, WARNS FORMER GOVERNOR OF HONGKONG.
+page 19	BOXER RISING.
+page 19	LACK OF VISION.
+page 19	SNATCH THIEF TO BE CANED.
+page 19	POLICE INFORMED OF ARMED ROBBERY PLAN.
+page 21	BADMINTON ENTRIES ARE SATISFACTORY.
+page 21	Though Fewer Men Have Joined The Championships.
+page 21	MACAO HELD TO A DRAW.
+page 21	C.B.A. Pays Visit During Week-end.
+page 21	CHINESE PLAYERS SHINE.
+page 21	THE SCORING.
+page 21	REVOLTA WINS GOLF TOURNEY.
+page 21	CAPTAIN'S CUP QUALIFIERS.
+page 21	SKATING RECORD CLAIMED.
+page 21	TENNIS SERIES.
+page 21	FRACTURES RIBS IN FALL.  
+page 23	RACING ROUND THE MOUNTAINS.
+page 24	China Keeps Wary Eye On Nazi Policy.
+page 24	Fears Changes With Von Blomberg's Retirement.
+page 24	AMERICA WILLING TO DISARM.
+page 24	Cordell Hull Appeals To "Hermit" Nations.
+page 24	HOATMAN CAUGHT WITH DYNAMITE ABOARD.
+page 24	HUMIDITY HIGHEST FOR YEAR.
+page 24	IMPROVEMENT SOON.
+page 24	Fears Felt For American Missionaries.
+page 24	Hankow Not Informed Of Report Of Woman's Kidnapping.
+page 24	ECONOMIST, GENERAL TO CONFER.
+page 24	Men May Seek To Guide N China.
+page 24	Saleswoman With 10,000Pounds Expenses Is Coming To H.K.
+page 24	Clouston Out For Another Air Record.
+page 24	COOLIES HELD FOR MANACING AGENT.
+page 24	FOUR MONTHS FOR RESISTING ARREST.
+page 24	LACKED FINESSE AS ROGUES.

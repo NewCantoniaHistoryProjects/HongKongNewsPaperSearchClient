@@ -1,0 +1,166 @@
+page 1	WHAT GOVERNOR THINKS OF COLONY.
+page 1	NO EXCUSE FOR INSULARITY.
+page 1	RETURN AFTER 8 HOURS.
+page 1	AIR LINER FIRED ON BY A.A. GUNS.
+page 1	Valencia Apologises To France.
+page 1	KOWLOON CITY MURDER.
+page 1	Woman Found With Rope Round Neck.
+page 1	Local Weather Forecast.
+page 2	TRANSFORMATION BY MIND RENEWAL.
+page 2	THE OVERCOMING OF HUMAN ILLS: CHRISTIAN SCIENCE LECTURE.
+page 3	Malayan Strike Almost Over.
+page 3	ITALY'S NEW AIR RECORD.
+page 3	LOCAL TRAFFIC ACCIDENTS.
+page 3	Weekly Return.
+page 4	DAMAGING EFFECT OF NEW TAXATION.
+page 4	MACAO ELECTRIC COMPLAINT.
+page 4	Brighter Outlook For Future.
+page 4	PLAN WANTED FOR EMPIRE POLICY.
+page 4	PROBLEM OF NEWS DISTRIBUTION.
+page 6	NATIONAL DIET SURVEYED.
+page 6	Interim Report Of History-Making Committee.
+page 6	CAPITULATIONS CONFERENCE.
+page 6	Egyptian Premier's Appeal.
+page 6	DR. KUNG AND PARTY SAIL.
+page 6	Large Party Going To Coronation.
+page 6	YU HSUEH-CHUNG.
+page 6	In Command Of Young Marshal's Troops.
+page 6	THE SECRETARY FOR BURMA.
+page 6	Britain Better Nourished Than Before The War.
+page 6	MINISTER TAKES ACTION.
+page 6	CLERGYMEN TO VISIT SPAIN.
+page 6	To Study Government's Views On Religion.
+page 6	"DAILY HERALD" COMMENT.
+page 6	POPE GRANTS AN AUDIENCE.
+page 6	Gradually Resuming Normal Habits.
+page 6	WAR RISKS OFF SPAIN.
+page 6	Tremendous Increase In Freight Rates.
+page 6	NETHERLANDS' FILM INDUSTRY.
+page 6	Efforts To Increase Productions.
+page 7	LITTLE ENTENTE CONFERENCE.
+page 7	BELGRADE EXPLAINS POLICY.
+page 7	TO MAKE PUBLIC STATEMENT.
+page 7	MILITARY LAW DRAFTED.
+page 7	For Protection Of Unity Of Czecho-Slovakia.
+page 7	FAMOUS TURKISH GENERAL DEAD.
+page 7	Marshal Ahmed Izzet Pasha.
+page 7	R.A.F. BEGINS NEW RECRUITING.
+page 7	Wants 1,500 Pilots In 1937.
+page 7	HONG KONG SOCIETY OF ST. GEORGE.
+page 7	Mr. G. S. Archbutt The New President.
+page 7	London's Bread.
+page 7	EX-AMBASSADOR IN LONDON.
+page 7	M. Rakowski Arrested In Moscow.
+page 7	Railway Conference.
+page 7	France Orders Force, If Necessary.
+page 7	SPANISH SHIPPING INTERFERENCE.
+page 7	REFUGEES IN "MAINE."
+page 9	RUTHLESS SLAUGHTER IN AIR RAIDS.
+page 9	CHURCH BOMBED BY REBELS.
+page 9	SCORES OF NUNS AND PRIESTS AMONG MANY VICTIMS.
+page 9	CONTROL OF ROADS.
+page 9	Centralisation Plan Carried Out.
+page 9	DR. H. H. KUNG.
+page 9	Leaving Shanghai In Victoria.
+page 9	SIR CYRIL NEW ALL PROMOTED.
+page 9	Appointed Air Chief Marshal.
+page 9	STRIKES ARE QUICKLY OVER.
+page 9	BEARDMORE STRIKE.
+page 9	Spreading Further Afield.
+page 9	AMBASSADOR IN AMOY.
+page 9	Attending Mayoral Banquet To-day.
+page 9	TO VISIT GERMANY.
+page 9	Prince Chichibu's Plans After Coronation.
+page 9	DUKE OF WINDSOR VISITS EMIL JANNINGS.
+page 9	PAULETTA DAMIES PASSES AWAY.
+page 9	Famous Spanish Ballet Expert Dies At 87.
+page 9	PUBLIC AUCTIONS.
+page 10	THALLIUM FOR SHEEP.
+page 10	Shirts And Salutes.
+page 11	WHAT GOVERNOR THINKS OF COLONY.
+page 11	NO EXCUSE FOR INSULARITY.
+page 11	RETURN AFTER 8 HOURS.
+page 11	AIR LINER FIRED ON BY A.A. GUNS.
+page 11	Valencia Apologises To France.
+page 11	KOWLOON CITY MURDER.
+page 11	Woman Found With Rope Round Neck.
+page 11	Local Weather Forecast.
+page 12	INDIA HARTAL:
+page 12	GANDHI BEING WATCHED EXPECTANTLY.
+page 16	LOCAL SHARE MARKET.
+page 16	LOCAL DOLLAR.
+page 16	London Silver Priees.
+page 16	FIVE-DAY WEEK IN BANKS.
+page 16	Complying With 40-Hr. Week Law.
+page 16	SHIPPING RATES INCREASED.
+page 16	FRANCO-SWISS TRADE PACT.
+page 16	Removal Of Trade Restrictions.
+page 16	Tobacco Tax.
+page 16	Singapore Raw Rubber.
+page 16	Ranchi Sailing Time Put Back.
+page 17	EMPIRE TRADE BULWARK FOR PEACE.
+page 17	SCREN MEMORY TEST.
+page 17	TOO MUCH CROONING.
+page 17	THE WING ON BANK, LTD.
+page 17	SHANGHAI COMMERCIAL & SAVINCS BANK LIMITED.
+page 18	UPSETS FEATURE EASTER MEETING.
+page 18	Pagan Love And Wild Cat Disappoint.
+page 18	BEAR CLAW WAS WELL HNDLED BY MR. BLACK.
+page 18	TABBY CAT LEFT BADLY AT START.
+page 19	KUMAON RIFLES DEFEAT H.K.S.R.A.
+page 19	UPSETS FEATURE EASTER MEETING.
+page 19	THRILLING HOCKEY STRUGGLE.
+page 19	ARMY TITLE CHANGES HANDS AT LAST.
+page 19	GUNNERS' BACKS SHINE.
+page 19	SINGAPORE ARMY RUGBY XV COMING.
+page 19	INTERNATIONAL STAR INCLUDED.
+page 19	TWO GAMES WHILE IN COLONY.
+page 20	SIR LIONEL HALSEY NEW N.S.C. CHAIRMAN.
+page 20	40,000POUMDS COMPANY FORMED.
+page 20	RIVIERA SUCCESS FOR SEN. LIZANA.
+page 20	MLLE JEDZREJOWSKA RETIRES IN FINAL.
+page 20	REFEREE COLLAPSES.
+page 20	TWO DOURLES FOR TO-DAY.
+page 20	Tsui And Paul Kong Should Win.
+page 20	SHUTE BROTHERS ON VIEW.
+page 20	TSUI WAI PUIS EASY WIN YESTERDAY.
+page 20	HOLDER LEAVING HONG KONG.
+page 20	CRAWFORD BEATS G. E. CLARKE.
+page 21	TO-NIGHT'S BADMINTON CLASHES.
+page 21	WONG FAVOURED IN SINGLES EVENT.
+page 21	MIXED DOUBLES AN OPEN AFFAIR.
+page 21	I.R.C. CRICKET PRACTICE ENCOUNTER.
+page 21	THIRD EXTRA RACE MEETING AT THE VALLEY.
+page 21	ENTRIES GOOD.
+page 21	ARTILLERY AND SEAFORTHS AT CRICKET.
+page 21	CAPT. MACKINTOSH WALKER'S FINE CENTURY.
+page 21	GUNNER'S STRONG REPLY.
+page 21	ENGLAND HOCKEY TEAM TO MEET PORTUGAL.
+page 22	F.A. SAYS NO NUMBERING OF PLAYERS.
+page 22	Scottish F.A. Do Not Approve.
+page 22	CONSIGNEES.
+page 22	LIOYD TRIESTINO.
+page 22	NOTICE TO CONSIGNEES.
+page 22	LLOYD TRIESTINO.
+page 22	NOTICE TO CONSIGNEES.
+page 23	LIOYD TRIESTINO.
+page 23	NOTICE TO CONSIGNEES.
+page 24	Special Stamps For Coronation.
+page 24	NAVAL REVIEW AT CORONATION.
+page 24	Italy Decides Not To Participate.
+page 24	THE CORONATION BROADCAST.
+page 24	PEAK AMAH BOUND OVER.
+page 24	Theft From Drawer.
+page 24	Belgium And The Coronation.
+page 24	VALENCIA ACCUSES.
+page 24	ITALY'S PART IN FRANCO WAR.
+page 24	PHOTOSTAT COPY OF DOCUMENTS.
+page 24	Three Weddings Announced.
+page 24	ANTI-BRITISH WARSAW SCENE.
+page 24	Jews Demonstrate On Palestine Policy.
+page 24	JACK PETERSEN RETIRING.
+page 24	WHAT GOVERNOR THINKS OF COLONY.
+page 24	U.S. To Call On Nations To Disarm.
+page 24	M. Daladier's Travels.
+page 24	NEW ADVERTISEMENTS.
+page 24	HONG KONG/SHANGHAI CONFERENCE.

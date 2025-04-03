@@ -1,0 +1,170 @@
+page 1	BRITISH TROOPS ENCOUNTER SOME RESISTANCE IN SOUTHERN IRAN.
+page 1	Advance Towards Persian Oil Centre is Objective.
+page 1	TOWNS BOMBED ALLEGATION.
+page 1	Iran Premier's Statement.
+page 1	PROVIDING SUPPLY LINES.
+page 1	Throuth Iran To Russia.
+page 1	Thrust Toward Dniepertrovsk And Leningrad Continues.
+page 1	Further Sabotage Of Paris Railways.
+page 1	HITLERIAN STRATEGY IN EAST.
+page 1	From Caucasus To Iran.
+page 1	War Scene Is Shifted.
+page 1	TONS OF BOMBS ON TRIPOLI.
+page 1	Big Operations By The R.A.F.
+page 1	DUCHESS OF GLOUCESTER.
+page 1	Japanese Blockade Is Feared in Shanghai.
+page 2	Burma Road Survey.
+page 2	American Trucking Experts And Taxation.
+page 2	STEAMSHIP SAILINGS.
+page 2	More American Ships To Call at Hongkong.
+page 4	OUR GREAT WAR SECRET IS OUT!
+page 4	CHIANG'S NEPHEW FERRIES FOR R.A.F.
+page 5	Large Convoy Under Fire Off Cadiz.
+page 5	Seven Ships Lost.
+page 5	Big Robbery In Shanghai.
+page 5	Biddle Is A.G.
+page 5	Champions Routed By U.S.A.
+page 5	Newspaper Supplies Shortage Foreseen.
+page 5	Nazi Consulate Closed.
+page 5	High Cost Of Living.
+page 5	LARGEST AERIAL BOMB FACTORY IN PRODUCTION.
+page 5	H.K. POLICE RESERVE.
+page 5	Orders Issued for The Current Week.
+page 5	BAK WEATHER RESTRICTS R.A.F.
+page 7	Engineers Develop New "Atom-Sorter".
+page 7	BRAVERY O FFIRE PARTY.
+page 7	Pumping Sunshine Into Blood.
+page 8	Thrust Toward Dniepertrovsk.
+page 8	Hitlerian Strategy In East.
+page 8	Hughes Approves Churchill Speech.
+page 8	Turkey Said Displeased.
+page 8	Malaya Strength Increase.
+page 8	House-Breaker, Gaol-Breaker Captured.
+page 9	BRITISH TROOPS ENCOUNTER SOME RESISTANCE IN SOUTHERN IRAN.
+page 9	Advance Towards Persian Oil Centre is Objective.
+page 9	TOWNS BOMBED, ALLEGATION.
+page 9	Iran Premier's Statement.
+page 9	AMERICA TO PLAY BIG ROLE.
+page 9	Supplies To Russia Through Iran.
+page 9	Hughes Approves Churchill Speech.
+page 9	Nearly 8 Ins. Of Rain In 33 Hours.
+page 9	Turkey Said Displeased With Allied Action.
+page 9	Russians Evacuate Novgorod: Ukraine Offensive Continues.
+page 9	Further Sabotage Of Paris Railways.
+page 9	New Lease, Lend Proposals.
+page 9	FINE BOMBER FUND EFFORT.
+page 9	THAI CABINET CHANGES.
+page 9	Premier Gives Up Two Portfolios.
+page 9	War Scene Is Shifted.
+page 9	TONS OF BO MBS ON TRIPOLI.
+page 9	Big Operations By The R.A.F.
+page 9	DUCHESS OF GLOUCESTER.
+page 10	Bill Vetoed By Roosevelt.
+page 10	Makes Wheat Available.
+page 10	Shah Is A Recluse.
+page 10	Depends On Advisers.
+page 10	Nazi Consuls To Leave Haiti.
+page 10	Continuous Running Of Home Factories.
+page 12	OUR GREAT WAR SECRET IS OUT!
+page 12	CHIANG'S NEPHEW FERRIES FOR R.A.F.
+page 13	RUSSIA MAKES CLEAR TO IRAN WHY INVASION BECAME A NECESSITY.
+page 13	JAPANESE SUCCESS CLAIMED.
+page 13	High Cost Of Living.
+page 13	More Evidence Given.
+page 13	PROVIDING SUPPLY LINES.
+page 13	Through Iran To Russia.
+page 13	House-Breaker, Gaol-Breaker Captured.
+page 13	JAPANESE REACTIONS TO SPEECH.
+page 13	Churchill's Accusations Rejected.
+page 13	HITLERIAN STRATEGY IN EAST.
+page 13	From Caucasus To Iran.
+page 15	Large Convoy Under Fire off Cadiz.
+page 15	Seven Ships Lost.
+page 15	Big Robbery In Shanghai.
+page 15	TOBRUK UNDER FIRE & BOMBING.
+page 15	Champions Routed By U.S.A.
+page 15	BAD WEATHER RESTRICTS R.A.F.
+page 16	Russians Evacuate Novgorod.
+page 16	Indian Premiers Desert Viceroy's Call To Defence.
+page 16	Belligerent Commentary.
+page 16	Japanese Writer Wants sea Closed.
+page 16	British Encounter Resistance In Iran.
+page 16	Trade Delegates From Iceland.
+page 16	Nazi Consulate Closed.
+page 16	TONS BOMBED, ALLEGATION.
+page 16	Turkey Said Displeased.
+page 16	Biddle Is A. G.
+page 17	BRITISH TROOPS ENCOUNTER SOM RESISTANCE IN SOUTHERN IRAN.
+page 17	Advance Towards Persian Oil Centre is Objective.
+page 17	No Dynasty Upset Planned By Allies.
+page 17	AMERICA TO PLAY BIG ROLE.
+page 17	Supplies To Russia Through Iran.
+page 17	Navy Takes Over Strike-Idle Plant.
+page 17	Philippines to Send Supplies to Russia.
+page 17	Russians Evacuate Novgorod: Ukraine Offensive Continues.
+page 17	H.K.-NAMED BOMBER SQUADRON FOR AN ADDITIONAL $284,000.
+page 17	New Lease, Lend Proposals.
+page 17	FINE BOMBER FUND EFFORT.
+page 17	Aircraft Contract.
+page 17	Spitfires At Cherbourg.
+page 17	Bombers' Grim Message.
+page 17	War Scene Is Shifted.
+page 17	Defenders Will Destroy Leningrad.
+page 17	If German Enter.
+page 17	Duff Cooper Tells Japan.
+page 17	Four To One.
+page 17	Americans Must Pay More Income Tax.
+page 18	GONS OF BOMBS ON TRIPOLI.
+page 18	Big Operations By The R.A.F.
+page 18	Nearly 8 Ins. Of Rain In 33 Hours.
+page 18	TITLEBAUM CASE.
+page 18	Hughes Approves Churchill Speech.
+page 18	THAI CABINET CHANGES.
+page 18	Premier Gives Up Two Portfolios.
+page 18	Japanese Blockade Is Feared in Shanghai.
+page 18	Indian Premiers Desert Viceroy's Call To Defence.
+page 18	Big Robbery In Shanghai.
+page 18	Turkey Said Displeased With Allied Action.
+page 18	Bill Vetoed By Roosevelt.
+page 18	Makes Wheat Available.
+page 18	Shah Is A Recluse.
+page 18	Depends On Advisers.
+page 18	Belligerent Commentary.
+page 18	Japanese Writer Wants Sea Closed.
+page 18	Staff Officer On Invasion.
+page 18	HAD CAR TWO YEARS WITHOUT A LICENSE.
+page 18	Egypt And Indo-China.
+page 18	Further Sabotage Of Paris Railways.
+page 18	Large Convoy Under Fire Off Cadiz.
+page 18	Seven Ships Lost.
+page 20	OUR GREAT WAR SECRET IS OUT!
+page 20	CHIANG'S VEPHEW FERRTES FOR R.A.F.
+page 21	RUSSIA MAKES CLEAR TO IRAN WHY INVASION BECAME A NECESSITY.
+page 21	JAPANESE SUCCESS CLAIMED.
+page 21	High Cost Of Living.
+page 21	More Evidence Given.
+page 21	PROVIDING SUPPLY LINES.
+page 21	Through Iran To Russia.
+page 21	House-Breaker, Gaol-Breaker Captured.
+page 21	JAPANESE REACTIONS TO SPEECH.
+page 21	Churchill's Accusations Rejected.
+page 21	HITLERIAN STRATEGY IN EAST.
+page 21	From Caucasus To Iran.
+page 23	Filipino Featherweight Beaten In Japan.
+page 23	W.C. CHOY "SEEDED" IN AMERICA.
+page 23	Nazi Consuls To Leave Haiti.
+page 23	Continuous Running Of Home Factories.
+page 23	Champions Routed By U.S.A.
+page 23	BAD WEATHER RESTRICTS R.A.F.
+page 24	Russians Evacuate Novgorod.
+page 24	DUCHESS OF GLOUCESTER.
+page 24	]TOWNS BOMBED, ALLEGATION.
+page 24	Iran Premier's Statement.
+page 24	AMERICA TO PLAY BIG ROLE.
+page 24	HEROISM ON A SUBMARINE.
+page 24	Trade Delegates From Iceland.
+page 24	On Visit To Washington.
+page 24	British Encounter Resistance In Iran.
+page 24	No Dynasty Upset Planned By Allies.
+page 24	H.K-Named Bomber Squadron In View.
+page 24	LARGEST AERIAL BOMB FACTORY IN PRODUCTION.

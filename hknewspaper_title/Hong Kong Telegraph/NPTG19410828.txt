@@ -1,0 +1,138 @@
+page 1	LAVAL SHOT, WOUNDED BY COMMUNIST DURING ANTI-RED CEREMONIES.
+page 1	SUPPLIES MUST GO TO RUSSIA.
+page 1	U.S. Attitude To Japanese Protest.
+page 1	W. African Bases For U.S. Fleet?
+page 1	Dominions Approve Atlantic Charter.
+page 1	H.K. People Were Aboard The Zamzam; Are Now Prisoners.
+page 1	Allied Coup In Iran.
+page 1	Germans And Italians Taken Prisoner In Iran Action.
+page 1	SHAH SOLD ALL GRAIN TO NAZIS.
+page 1	Food Riots Break Out.
+page 1	DUKE OF KENT AT HAMILTON.
+page 1	Spirit Of Norway Unquelled.
+page 1	Strong Russian Counter-Attacks Launched on the Dnieper Front.
+page 1	GERMAN PRESSURE ON TURKEY.
+page 1	New Developments Anticipated.
+page 2	Naval Court Martial Procedure.
+page 2	A.R.P. ORDERS.
+page 2	Director's Instructions For Coming Week.
+page 2	HK Metals Control Officer.
+page 3	"Telegraph" Film Serial.
+page 3	RAGE IN HEAVEN.
+page 4	Germany's Major Blunder.
+page 4	Japan's Dilemma.
+page 5	Enemy Strongholds In Mid. East Battered.
+page 5	STALIN STALLS U.S. REQUEST TO OBSERVE WAR.
+page 5	POPULATON OF INDIA.
+page 5	New Zealand Mechanisation.
+page 5	American Tankers Pooled.
+page 5	N.E.I. Native Conscripts In Arms In Sept.
+page 5	Dutch Conscription In Britain Valid.
+page 5	Bible In Style Of Newspapaer.
+page 5	Pictures Of Aeroplanes.
+page 5	Greatest Fisherman In R.A.F.
+page 7	Way To High Scholarship Found in Half Blindness.
+page 7	Chain of Aerodromes Ready in Burma.
+page 8	Laval Shot, Wounded By Communist.
+page 8	Strong Russian Counter-Attacks.
+page 8	Supplies Must Go To Russia.
+page 8	MIDDLE EAST COMMUNIQUE.
+page 8	Germans & Italians Taken Prisoner.
+page 8	Attorney Stumped By Judge.
+page 8	U.S. Army Units At Exercise.
+page 9	COMMUNISTS ATTEMPT TO ASSASSINATE LAVAL AT ANTI-RED FUNCTION.
+page 9	ENEMY CONVOYS SMASHED.
+page 9	Stirring Actions By British Bombers.
+page 9	W. African Bases For U.S. Fleet?
+page 9	Dominions Approve Atlantic Charter.
+page 9	Allied Coup In Iran.
+page 9	Soviets Penetrate Deep Into Iran: German Plot Exposed.
+page 9	OUR AIR OFFENSIVE CONTINUES.
+page 9	More Attacks On Northern France.
+page 9	Huntziger Appointed To Lead Troops.
+page 9	Gen. Norton's District Near Hostilities.
+page 9	LENINGRAD RAIDED.
+page 9	More Than 100 Nazi Planes Downed.
+page 9	Strong Russian Counter-Attacks Launched on the Dnieper Front.
+page 9	GERMAN PRESSURE ON TURKEY.
+page 9	New Developments Anticipated.
+page 10	Spirit Of Norway Unquelled.
+page 10	ADVENTURES OF SOLDIERS WITH ROYAL NAVY.
+page 10	Week-end Lawn Bowls Teams.
+page 10	Anti-Nazism In France Hardening.
+page 10	U.S. Army Units At Exercise.
+page 11	"Telegraph" Film Serial.
+page 11	RAGE IN HEAVEN.
+page 12	Germany's Major Blunder.
+page 12	Japan's Dilemma.
+page 13	Enemy Strongholds In Mid. East Battered.
+page 13	STALIN STALLS U.S. REQUEST TO OBSERVE WAR.
+page 13	POPULATION OF INDIA.
+page 13	New Zealand Mechanisation.
+page 13	American Tankers Pooled.
+page 13	Leningrad Proudly Conscious Of What The World Expects.
+page 13	N.E.I. Native Conscripts In Arms In Sept.
+page 13	Raffle Prizes Unclaimed.
+page 13	SUPPLIES MUST GO TO RUSSLA.
+page 13	TURKO-GERMAN TRADE BESTED.
+page 15	NO IMPERIAL WAR CABINET.
+page 15	MIDDLE EAST COMMUNIQUE.
+page 15	Germans And Italians Taken prisoner In Iran Action.
+page 16	Communists Attempt Assassinate Laval.
+page 16	ENEMY CONVOYS SMASHED.
+page 16	Greatest Fisherman In R.A.F.
+page 16	Attorney Stumped By Judge.
+page 16	Strong Russian Counter-Attacks.
+page 16	Soviets Penetrate Deep Into Iran.
+page 17	STABILITY OF TOKYO CABINET THREATENED BY FAILURE TO ACT.
+page 17	ENEMY CONVOYS SMASHED.
+page 17	Stirring Actions By British Bombers.
+page 17	OUR AIR OFFENSIVE CONTINUES.
+page 17	More Attacks On Northern France.
+page 17	PUBLIC CEREMONY TO FAREWELL GOVERNOR.
+page 17	W. African Bases For U.S. Fleet?
+page 17	OPPOSITION TO VICHY GOVT.
+page 17	Allied Coup In Iran.
+page 17	Roosevelt's New Ban.
+page 17	No Military Tools For Axis From Philippines.
+page 17	ATTEMPT ON LIFE OF PRO-GERMAN LAVAL.
+page 17	LENINGRAD RAIDED.
+page 17	More Than 100 Nazi Planes Downed.
+page 17	Americans Leaving Japan.
+page 17	Strong Russian Counter-Attacks Launched on the Dnieper Front.
+page 17	GERMAN PRESSURE ON TURKEY.
+page 17	New Developments Anticipated.
+page 18	Soviets Penetrate Deep Into Iran: German Plot Exposed.
+page 18	Spirit Of Norway Unquelled.
+page 18	Gen. Norton's District Near Hostilities.
+page 18	NAZIS IMPRISON CUBANS.
+page 18	Old Coin Collection Court Claim Succeeds.
+page 18	Stiffening Production Of Priorities In U.S.A.
+page 18	ACTIVITY ON THREE CHINA FRNTS.
+page 19	"Telegraph" Film Serial.
+page 19	RAGE IN HEAVEN.
+page 20	Germany's Major Blunder.
+page 20	Japan's Dilemma.
+page 21	Enemy Strongholds In Mid. East Battered.
+page 21	POPULATION OF INDIA.
+page 21	U.S. Army Units At Exercise.
+page 21	Nazi PLANE Crashes In Eire.
+page 21	SUPPLIES MUST GO TO RUSSIA.
+page 21	American Tankers Pooled.
+page 21	Leningrad Proudly Conscious Of What The World Expects.
+page 21	Anti-Nazism In France Hardening.
+page 21	ADVENTURES OF SOLDIERS WITH ROYAL NAVY.
+page 21	N.E.I. Native Conscripts In Arms In Sept.
+page 21	Raffle Prizes Unclaimed.
+page 21	New Zealand Mechanisation.
+page 21	DURKO-GERMAN TRADE BESTED.
+page 23	NO IMPERIAL WAR CABINET.
+page 23	MIDDLE EAST COMMUNIQUE.
+page 23	Germans And Italians Taken Prisoner In Iran Action.
+page 23	STALIN STALLS U.S. REQUEST TO OBSERVE WAR.
+page 23	Gallant Airman's Many Flights.
+page 23	SHAH SOLD ALL GRAIN TO NAZIS.
+page 24	Attempt On Life Of Pro-German Laval.
+page 24	Strong Russian Counter-Attacks.
+page 24	ENEMY CONVOYS SMASHED.
+page 24	Stability Of Tokyo Cabinet Threatened.

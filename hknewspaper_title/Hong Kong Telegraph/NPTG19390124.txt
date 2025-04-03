@@ -1,0 +1,287 @@
+page 1	BARCELONA'S EPIC STAND: SIEGE OF CITY BEGINS.
+page 1	AMAZONS MARCH TO THE DEFENCE OF THEIR HOMES.
+page 1	Britons Evacuating In Warship Tomorrow.
+page 1	Japanese Offensive In Shansi Standstilled.
+page 1	MASSING MORE TROOPS.
+page 1	CARRISONS INCREASED.
+page 1	Congress Demand For Deportation.
+page 1	ENGLAND MUST PREPARE FOR LONG HOSTILITIES.
+page 1	Arab Delegation Leaves For London.
+page 1	Australian Minister Warns Of War.
+page 1	China Arms Case Opens Against Corrigan.
+page 1	Chamberlain Appeals For Volunteers.
+page 1	"I'd Still Like To Know Who Won," Says Reporter.
+page 1	British Ship In Distress.
+page 2	Dead Girl Played With Son Of Accused Salesman.
+page 2	Mother Faints When Shown Daughter's Beret.
+page 2	Prison Turkey Crop Big.
+page 2	Wife Refuses To Save Husband.
+page 2	Man Arrested In Women's Police Hostel.
+page 2	Lord Rector Marries At 72.
+page 2	CAPTURE TRENCHES.
+page 2	Diner's Dreams About Beetle.
+page 2	Crowd Hit By Open Door Of Train.
+page 3	"MY HAIR TURNED GREY WHILE WAITING FOR WIFE'S TRIAL".
+page 3	3 Children Will Have Christmas Gifts After All.
+page 3	"THEY EAT SUCH A LOT".
+page 3	JUDGE SEES PHOTOGRAPHS.
+page 3	OFFERS OF HELP.
+page 3	Appeared In Fancy Dress As Hitler.
+page 3	German's Protest On Board Ship.
+page 3	Coffin For.
+page 3	Chamberlain.
+page 3	Shoe Bit Too Sturdy.
+page 3	One Lesson On Make-Up.
+page 4	WIVESHAVE THEIR TROUBLES, TOO.
+page 4	NO PERSONAL ATTACK.
+page 4	"I'D STILL LIKE TO KNOW WHO WON," SAYS REPORTER.
+page 4	THE GONG WAS BUSY.
+page 4	MOMENT OF ABERRATION.
+page 4	THERE'S NO JUSTICE.
+page 4	CHINA ARMS CASE OPENS AGAINST CORRIGAN.
+page 4	SUSPICIONS AROUSED.
+page 4	CHEQUES STOPPED.
+page 4	PROTEST RESIGNATION BY R.A.F. OFFICER.
+page 4	BRITONS EVACUATING IN WARSHIP TOMORROW.
+page 4	MARTIAL LAW DECLARED.
+page 4	SHELTER FOR REFUGEES.
+page 4	ARRESTS IN PAGODA.
+page 4	Another "Pravda" Editor Arrested.
+page 5	COURT MARTIAL.
+page 5	Bombadier Alleged To Have Struck Captain.
+page 6	THE LIGHTS DID NOT GO OUT.
+page 6	Do You Know This About.
+page 7	JAPANESE DIET.
+page 7	House Discusses China Government.
+page 7	LATE MR. H. SETH.
+page 7	Large Gathering At Funeral.
+page 8	AUSPICIOUS YEAR FOR INTERNATIONAL LAWN TENNIS IN 1939.
+page 8	Davis Cup Said Likely To Remain In America Despite Loss Of Budge.
+page 8	Goodwin Quite Pleased With Side's Total.
+page 8	Here And There With "Abe".
+page 8	Shanghai Mistaken About Hockey Interport Series.
+page 8	Third Cricket Test Won By M.C.C. By Innings And 13 Runs.
+page 8	SOUTH AFRICAN "TAIL" UNABLE TO KEEP GOING.
+page 9	NO PART OF REFEREE'S DUTY TO TELL.
+page 9	Footballers Sometimes Forget About The Laws.
+page 9	AMERICAN BASKETBALL TEAM TO PLAY HERE.
+page 9	Players For Rugby Trial Game.
+page 9	Ex-Boxer's Miraculous Eseape.
+page 9	CAR STRUCK BY MOVING TRAIN.
+page 9	British American Film Merger.
+page 9	To Broaden Market For English Pictures.
+page 11	NEWS OF THE DAY IN PICTURES FROM FAR AND NEAR.
+page 11	PHOTONEWS.
+page 11	HAPPENINGS AS SEEN BY THE CAMERA'S EYE.
+page 12	INSOMNIA SUICIDE.
+page 12	ROYAL WEDDING.
+page 12	SYNTHETIC RESIN FOR AIRCRAFT.
+page 12	EMPIRE NEWS.
+page 12	CONGRESS POLICY IN INDIAN STATES.
+page 12	N.W. FRONTIER CLASH.
+page 12	AUSTRALIA HOUSE CRITICISM.
+page 12	CABINET RESHUFFLE NEW PORTFOLIO.
+page 12	VOTE FOR UNIVERSAL SUFFRAGE.
+page 13	CIVIL WAR ENTERS DECISIVE STAGE.
+page 13	Franco Bombs Sink Two British Ships In Port.
+page 13	AMAZONS MARCH TO THE DEFENCE OF THEIR HOMES.
+page 13	Britons Evacuating In Warship Tomorrow.
+page 13	JAPAN'S THREAT TO DEMOCRACIES.
+page 13	Veiled Hints Of Action If Powers Apply Sanctions.
+page 13	NAVAL PROGRAMME.
+page 13	NO REPLY TO NOTES.
+page 13	China Arms Case Opens Against Corrigan.
+page 13	More Births, Fewer Deaths In England.
+page 13	Italy Calling Up Reserves-Report.
+page 13	SEARCH FOR SABOTEURS CONTINUES.
+page 13	Royal Visit May Be Postponed.
+page 13	INFANTILE PARALYSIS IN COLONY.
+page 13	PARALYSIS: LATEST.
+page 13	DOOR SLAMMED SHUT.
+page 14	Dead Girl Played With Son Of Accused Salesman.
+page 14	Mother Faints When Shown Daughter's Beret.
+page 14	Prison Turkey Crop Big.
+page 14	Man Arrested In Women's Police Hostel.
+page 14	Wife Refuses To Save Husband.
+page 14	Lord Rector Marries At 72.
+page 14	CAPTURE TRENCHES.
+page 14	Diner's Dreams About Beetle.
+page 14	Crowd Hit By Open Door Of Train.
+page 15	"MY HAIR TURNED GREY WHILE WAITING FOR WIFE'S TRIAL".
+page 15	3 Children Will Have Christmas Gifts After All.
+page 15	"THEY EAT SUCH A LOT".
+page 15	JUDGE SEES PHOTOGRAPHS.
+page 15	OFFERS OF HELP.
+page 15	Appeared In Fancy Dress As Hitler.
+page 15	German's Protest On Board Ship.
+page 15	Coffin For Chamberlain.
+page 15	Shoe Bit Too Sturdy.
+page 15	One Lesson On Make-Up.
+page 16	"I'd Still Like To Know Who Won," Says Reporter.
+page 16	MARTIAL LAW DECLARED.
+page 16	Congress Demand For Deportation.
+page 16	Arab delegation Leaves For London.
+page 16	Shooting Outrage In Shanghai.
+page 17	COURT MARTIAL.
+page 17	Bombadier Alleged To Have Struck Captain.
+page 17	THE LIGHTS DID NOT GO OUT.
+page 18	THE LIGHTS DID NOT GO OUT.
+page 18	Do You know This About.
+page 19	JAPANESE LET.
+page 19	LATE MR. H. SETH.
+page 19	Large Gathering At Funeral.
+page 20	AUSPICIOUS YEAR FOR INTERNATIONAL LAWN TENNIS IN 1939.
+page 20	Davis cup Said Likely To Remain In America Despite Loss Of Budge.
+page 20	Goodwin Quite Pleased With Side's Total.
+page 20	Here And There With "Abe".
+page 20	Shanghai Mistaken About Hockey Interport Series.
+page 20	Third Cricket Test Won By M.C.C. By Inning And 13 Runs.
+page 20	SOUTH AFRICAN "TAIL" UNABLE TO KEEP COING.
+page 20	RUGGER MATCHES AT HOME.
+page 21	NO PART OF REFEREE'S DUTY TO TELL.
+page 21	Footballers Sometimes Forget About The Laws.
+page 21	Auspicious year For Tennis.
+page 21	AMERICAN BASKETBALL TEAM TO PLAY HERE.
+page 21	Here, There With "Abe".
+page 21	British American Film Merger.
+page 21	To Broaden Market For English Pictures.
+page 21	Petra Wins Far East Tennis Title.
+page 21	Sanchez Ill In Saigon.
+page 21	Ex-Boxer's Miraculous Escape.
+page 21	CAR STRUCK BY MOVING TRAIN.
+page 23	NEWS OF THE DAY IN PICTURES FROM FAR AND NEAR.
+page 23	PHOTONEWS.
+page 23	HAPPENINGS AS SEEN BY THE CAMERA'S EYE.
+page 24	Australian Minister Warns Of War.
+page 24	PROTEST RESIGNATION BY R.A.F. OFFICER.
+page 24	MCCORMICK DEAD.
+page 24	Chamberlain Appeals For Volunteers.
+page 24	ENGLAND MUST PREPARE FOR LONG HOSTILITIES.
+page 24	ANGLO FRENCH ACCORD IS URGED.
+page 24	Another "Pravda" Editor Arrested.
+page 24	SEAMEN'S COLLECTION FOR REFUGEES.
+page 24	British Ship In Distress.
+page 25	CIVIL WAR ENTERS DECISIVE STAGE.
+page 25	AMAZONS MARCH TO THE DEFENCE OF THEIR HOMES.
+page 25	Britons Evacuating In Warship Tomorrow.
+page 25	SUBMARINE CREW IN QUARANTINE.
+page 25	Thief Nabbed On Warship.
+page 25	Italy Calling Up Reserves-Report.
+page 25	JAPANESE MAY LAUNCH NEW DRIVE.
+page 25	$15,000 BAIL In Silk Case.
+page 25	Franco Bombs Sink Two British Ships In Port.
+page 25	UNHAPPY STOCK MARKET.
+page 25	Anglo-American Envoys Charged.
+page 25	Another "Pravda" Editor Arrested.
+page 25	POLAND TO SEND JEWS OVERSEAS.
+page 25	Rescue Of Survivors Of Air-Liner Disaster.
+page 25	SWATOW AIR RAIDS.
+page 26	PREPARE FOR WAR, CHAMBERLAIN WARNS BRITISH PEOPLE IN RADIO APPEAL.
+page 26	Next War Will Not Be Like Last One.
+page 26	British Ship In Distress.
+page 26	Congress Demand For Deportation.
+page 26	Australian Minister Warns Of War.
+page 26	PROTEST RESIGNATION BY R.A.F. OFFICER.
+page 26	"I'd Still Like To Know Who Won," Says Reporter.
+page 27	CHINESE PLANES TAKE TO THE AIR INCE AGAIN.
+page 27	Japanese-Occupied Arcas Strafed.
+page 27	SEVERE JAPANESE RAID.
+page 27	Saigon Arrest Of Japanese.
+page 27	Anglo-German Trade Relations.
+page 27	Mr. Hudson's Speech.
+page 27	Gas Explosion In Formosan Mine.
+page 27	NEW YORK FREEZES.
+page 27	Numbers Die From Exposure.NEW YORK FREEZES.
+page 27	Numbers Die From Exposure.
+page 27	Mishap To The Felix Roussel.
+page 27	Mishap To The Felix Roussel.
+page 27	RUSSIA IS ANSXIOUS.
+page 27	Spanish Situation Threatens Split In Comintern.
+page 27	R.A.F. Extensions At Camberley.R.A.F. Extensions At Camberley.
+page 28	RESCUE OF SURVIVORS OF AIR-LINER DISASTER.
+page 28	TRIED TO BE CHEERFUL.
+page 28	OVERCOME BY GRIEF.
+page 28	JAPAN'S THREATS TO U.S., BRITAIN.
+page 28	Veiled Hints Of Action If Economic Measure Applied.
+page 28	"We Must Build A Fleet To Command The Seas".
+page 28	Adequate Measures.
+page 28	NO REPLY TO NOTES.
+page 28	NO REPLY TO NOTES.
+page 28	BITTER ATTACK IN DIET.
+page 28	China Arms Case Against Corrigan Opensin London.
+page 28	INTRODUCED IN EMBASSY.
+page 28	SUSPICIONS AROUSED.SUSPICIONS AROUSED.
+page 28	CHEQUES STOPPED.STOPPED.
+page 28	Arab Delegation Leaves For London.
+page 28	ITALY BUILDS LING RANGE SUBMARINES.
+page 29	A.R.P. Regulations To Be Circulated In England Shortly.
+page 29	CONSULTATIVE COMMITTEE.CONSULTATIVE COMMITTEE.
+page 29	Roosevelt's Big Health Plan.
+page 29	Needs $850,000,000.
+page 29	British Inventors Score Again.
+page 29	Overseas Chinese Confer In HongKong.
+page 29	Developing Industrial S. Kiangsi.
+page 29	Big Plans Mooted.
+page 29	THE LIGHTS DID NOT GO OUT.THE LIGHTS DID NOT GO OUT.
+page 29	Brought Trade South.
+page 29	From the Highlands.
+page 29	PRESIDENT ROOSEVELT IS SHARPLY REPRIMANDED.
+page 29	Provocative Speech Cause of Strained Relations with Japan.
+page 31	HOW TO PREPARE FOR AIR RAIDERS.
+page 31	Local Organisation Gives Hints on Preparin gShelters.
+page 31	Trench Sinking In Gardens.
+page 31	COVERED WITH EARTH.COVERED WITH EARTH.
+page 31	IMPROVE WITH OPPORTUNITY.
+page 31	IMPROVE WITH OPPORTUNITY.
+page 31	MINMUM REQUIREMENT.
+page 31	SIMPLE DESIGN.
+page 31	SEARCH FOR SABOTEURS CONTINUES.
+page 31	Royal Visit May Be Postponed.
+page 31	H. Q. IN ULSTER?
+page 31	More Births, Fewer Deaths In England.
+page 31	'Not Guilty' Verdict In Murder Trial.
+page 31	CONFUSED AS MAD MAN.
+page 31	SHOULD HAVE SAID SO.
+page 31	OTHER PEOPLE THERE.
+page 31	K.C.C. Committee Appointment.
+page 33	NO PART OF REFEREE'S DUTY TO TELL.
+page 33	Footballers  Sometimes Forget About The Laws.
+page 33	REFEREE RIGHT.
+page 33	OH, SCOTLAND.
+page 33	EX REFEREE'S VIEW.
+page 33	OFFICAL VIEW.
+page 33	Auspicious Year For Tennis.
+page 33	Here, There With "Abe".
+page 33	Two Able Substitutes.
+page 33	FRENCH SUCCESS AT MONTE CARLO MOTOR RALLY.
+page 33	Ex-Boxer's Miraculous Escape.
+page 33	CAR STRUCK BY MOVING TRAIN.
+page 33	ONLY TEN MILES FROM BARCELONA.ONLY TEN MILES FROM BARCELONA.
+page 35	NEWS OF THE DAY IN PICTURES FROM FAR AND NEAR.
+page 35	PHOTONEWS.HAPPENINGS AS WEEN BY THE CAMERA'S EYE.
+page 36	GUERILLA THREAT TO NANKING.
+page 36	New Irregular Army Takes The Field.GUERILLA THREAT TO NANKING.
+page 36	New Irregular Army Takes The Field.
+page 36	PUPPETS DESERT.
+page 36	FAHSIEN FALLS.
+page 36	PUPPETS DESERT.
+page 36	FAHSIEN FALLS.
+page 36	JAPANESE OFFENSIVE IN SHANSI STANDSTILLED.
+page 36	MASSING MORE TROOPS.MASSING MORE TROOPS.
+page 36	GARRISONS INCREASED.
+page 36	MANY LIVES LOST.
+page 36	Gales Sweeping Southern Counties in England.
+page 36	DILWARA LEAVES.
+page 36	Crowds Throng Wharf To Farewell Troops.
+page 36	AIR RAID LECTURS.
+page 36	KONOYR MAY QUIT NEW CABINET.
+page 36	TRAMWAY CO. DIVIDEND.
+page 36	ENGLAND MUST PREPARE FOR LONG HOSTILITIES.
+page 36	ENGLAND MUST PREPARE FOR LONG HOSTILITIES.
+page 36	ANGLO FRENCH ACCORD IS URGED.
+page 36	ANGLO FRENCH ACCORD IS URGED.
+page 36	BRITONS EVACUATING IN WARSHIP TO-MORROW.
+page 36	MARTIAL LAW DECLARED.
+page 36	BRITONS EVACUATING IN WARSHIP TO-MORROW.
+page 36	MARTIAL LAW DECLARED.
+page 36	SHELTER FOR REFUGEES.

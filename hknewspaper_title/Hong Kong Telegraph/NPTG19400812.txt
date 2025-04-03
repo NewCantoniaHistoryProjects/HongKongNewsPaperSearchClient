@@ -1,0 +1,335 @@
+page 1	ANTI-AIRCRAFT DEFENCES AT THE ALERT.
+page 1	U-Boat Torpedoes Ship In Atlantic.
+page 1	120 LOST ABOARD SUNK TRANSPORT.
+page 1	Setting Stage For Blitzkrieg.
+page 1	R.A.F. BUSY IN LIBYA.
+page 1	Troops And Transports Are Attacked.
+page 1	Aircraft Bombed.
+page 1	Cairo Communique.
+page 1	Troops Reconnoiter.
+page 1	Turkish Newspaper.
+page 1	Nazis Shoot Down Own Machine.
+page 1	Command Of The Air.
+page 1	Britain Daily Nearer Ascendancy.
+page 1	Nazi Inferiority.
+page 1	DEBATE BEFORE ADJOURNMENT.
+page 1	Intensified Nazi Attacks Concentrated on South.
+page 1	50 NAZI PLANES DOWN IN RAID ON PORTLAND.
+page 1	Greatest air duel in history still being fought over coast.
+page 1	OIL TANK FIRED.
+page 1	HOSPITAL BOMBED.
+page 1	BATTLE STILL RAGING.
+page 1	JOINT COMMUNIQUE.
+page 1	Seven Others Down.
+page 1	INTENSIVE AIR RAIDS.
+page 1	R.A.F. Bomb German Aerodromes.
+page 1	Night Attacks.
+page 1	NAZI RAIDERS OVER ENGLAND.
+page 1	Anti-British Feeling Flares Up In Japan.
+page 2	URBAN COUNCIL.
+page 2	Improvement In Refuse Disposal Urged.
+page 2	BANDAGE PRACTICES.
+page 2	FAMINE THREAT.
+page 2	Mr. Hoover Attempting To Arrange Relief.
+page 2	Air Raids On England.
+page 2	Six More Pay Penalty.
+page 2	War Cabinet's Praise.
+page 2	OBITUARY.
+page 2	South African Magnate Dies At Capetown.
+page 2	In South African War.
+page 2	Introduced Cricket.
+page 2	TENSION EASES.
+page 2	Decoux Interviewed.
+page 2	Tension Decreases.
+page 2	Franc To Yield.
+page 2	Vichy Conference.
+page 2	Shanghai Opinion.
+page 2	Konoye's Daughter.
+page 5	PERFECTED AERIAL DEFENCES.
+page 5	Skillful Staff Work Aids Fighters.
+page 5	Big Tally.
+page 5	Not Much Chance Of Surprise.
+page 5	300 Evacuated Children At Melbourne.
+page 5	90 PLANES RAID CHUNGKING.
+page 5	Bombs Dropped In Many Areas.
+page 5	Chinese Opposition.
+page 5	Congress And The viceroy.
+page 5	Interview Offer Is Turned Down.
+page 5	Wide Gulf.
+page 5	Assassination In Albania.
+page 5	Italians Accuse Greek Agents Of Crime.
+page 5	Guernsey Raid Produces Guy Fawkes Show.
+page 5	Italy May Also Withdraw Troops.
+page 5	CHALLENGE TO HITLER.
+page 5	Amery Dares Him To Send Air Legions.
+page 5	Facing Storm Alone.
+page 5	Unshakeable Confidence.
+page 5	50 NAZI PLANES DOWN IN RAID.
+page 5	Sing Hymns During Raid.
+page 5	INTENSIVE AIR RAIDS.
+page 5	BRITISH STRATEGY.
+page 5	Luring Italians Into Untenable Position.
+page 5	Success Offset.
+page 5	U.S. Warships For Britain Urged.
+page 5	CHUNG SING AND EASTERN TIE 18-18.
+page 7	FARMER'S BOY RUNS FOR THE PARASHOTS, WHILE.
+page 7	Woman Gives Nazi Flyer His Morning Cup of Tea.
+page 7	Nazi Sergeant Was Hungry.
+page 7	Knew What To Do In Raid.
+page 7	WOMEN CROW FOOD.
+page 7	Cinema Seats Will Cost More Now.
+page 7	White Families lost 22 years in Andes forest.
+page 7	GRAVES ROBBED FOR METAL.
+page 7	PLAYED VIOLIN IN COURT.
+page 7	Palestine Excavation Will Continue.
+page 7	Shelters Are Locked To Stop Thefts.
+page 7	Hitler's Policy - And A Footnote.
+page 7	SNEER AT U.S. HELP.
+page 7	THE EXPLANATION.
+page 7	Police, But Threatening.
+page 7	French Soldier Buried In Kent.
+page 8	LOST BRITISH BATTALION.
+page 8	Italy Gives British Firms a Boom in Buttons.
+page 8	MANILA BROADCASTS.
+page 8	Quezon To Inaugurate First Programme To U.S.
+page 8	Quezon's Birthday.
+page 8	CHINA BLOCKADE.
+page 8	Japanese Sphere Of Control Enlarged.
+page 8	SHE.
+page 8	Did Not Know She Was Married.
+page 8	HE.
+page 8	Did Not Know He Was Divorced.
+page 8	Refusal To Billet Boy Costs 25 Pounds Fine.
+page 8	Decoux Receives Nishihara.
+page 9	ANTI-AIRCRAFT DEFENCES AT THE ALERT.
+page 9	U-Boat Torpedoes Ship In Atlantic.
+page 9	120 LOST ABOARD SUNK TRANSPORT.
+page 9	EVACUEES REACH SYDNEY.
+page 9	And Are Awed By "Our 'Arbour Bridge".
+page 9	Jolly Last Meal.
+page 9	Unanimous praise.
+page 9	Repatriating Chinese Refugees from H.K.
+page 9	Nazis Shoot Down Own Machine.
+page 9	BOMB FOR BOMB.
+page 9	R.A.F. Reply With Raids On Reich.
+page 9	Biggest Raids Yet Made. 
+page 9	Intensified Nazi Attacks Concentrated on South.
+page 9	50 NAZI PLANES DOWN IN RAID ON PORTLAND.
+page 9	Greatest air duel in history still being fought over coast.
+page 9	OIL TANK FIRED.
+page 9	HOSPITAL BOMBED.
+page 9	BATTLE STILL RAGING.
+page 9	JOINT COMMUNIQUE.
+page 9	Seven Others Down.
+page 9	NAZI RAIDERS OVER ENGLAND.
+page 9	War taxation Must Be Paid in Lump Sum.
+page 9	Instalment Plan Difficulties.
+page 9	NAZIS SAY RAID IS A "BLITZ".
+page 9	Hess Gives Hint.
+page 10	Gifts For Comfort Of Our Troops.
+page 10	DEBATE BEFORE ADJOURNMENT.
+page 10	50 NAZI PANES DOWN IN RAID.
+page 10	Sing Hymns During Raid.
+page 10	WAR TAXATION TO BE LUMP SUM.
+page 10	Penalty For Non-Payment.
+page 10	BOMB FOR BOMB.
+page 10	NAZIS SAY RAID IS A "BLITZ".
+page 10	Fantastic Claims.
+page 10	EVACUEES REACH SYDNEY.
+page 13	90 PLANES RAID CHUNGKING.
+page 13	Bombs Dropped In Many Areas.
+page 13	Chinese Opposition.
+page 13	27th Air Attack.
+page 13	Congress And The Viceroy.
+page 13	Interview Offer Is Turned Down.
+page 13	CHALLENGE OT HITLER.
+page 13	Amery Dares Him To Send Air Legions.
+page 13	Facing Storm Alone.
+page 13	Unshakeable Confidence.
+page 13	INTENSIVE AIR RAIDS.
+page 13	R.A.F. Bomb German Aerodromes.
+page 13	Night Attacks.
+page 13	300 Evacuated Children At Melbourne.
+page 13	Guernsey Raid Produces Guy Fawkes Show.
+page 13	Command Of The Air.
+page 13	Britain Daily Nearer Ascendancy.
+page 13	Nazi Inferiority.
+page 13	Assassination In Albania.
+page 13	Italians Accuse Greek Agents Of Crime.
+page 13	Decapitated.
+page 13	Italy May Also Withdraw Troops.
+page 13	No French Decision.
+page 13	Turkish Newspaper Suspended.
+page 13	Anti-British Feeling Flares UP In Japan.
+page 13	Police Guard Refused.
+page 13	R.A.F. BUSY IN LIBYA.
+page 13	Troops And Transports Are Attacked.
+page 13	Aircraft Bombed.
+page 13	Cairo Communique.
+page 13	Troops Reconnoitre.
+page 13	BRITISH STRATEGY.
+page 13	Luring Italians Into Untenable Position.
+page 13	Success Offset.
+page 13	Setting Stage For Blitzkrieg.
+page 13	PERFECTED AERIAL DEFENCES.
+page 13	Skillful Staff Work Aids Fighters.
+page 13	Big Tally.
+page 13	Not Much Chance Of Surprise.
+page 13	U.S. Warships For Britain Urged.
+page 13	Sale Of Warshisp.
+page 15	FARMER'S BOY RUNS FOR THE PARASHOTS, WHILE.
+page 15	Woman Gives Nazi Flyer His Morning Cup of Tea.
+page 15	Nazi Sergeant Was Hungry.
+page 15	Knew What To Do In Raid.
+page 15	Cinema Seats Will Cost More Now.
+page 15	White families lost 22 years in Andes forest.
+page 15	GRAVES ROBBED FOR METAL.
+page 15	PLAYED VIOLIN IN COURT.
+page 15	Palestine Excavation Will Continue.
+page 15	Shelters Are Locked To Stop Thefts.
+page 15	Hitler's Policy-And a Footnote.
+page 15	SNEER AT U.S. HELP.
+page 15	THE EXPLANATION.
+page 15	Police, But Threatening.
+page 15	French Soldier Buried In Kent.
+page 16	LOST BRITISH BATTALION.
+page 16	Petition For Divorce.
+page 16	Local Case Adjourned By Chief Justice.
+page 16	Judge's Suggestion.
+page 16	Disorders In Albania.
+page 16	Rebellion Against Italians Breaks Out.
+page 16	JAPANESE BOMB U.S. HOSPITAL.
+page 16	Decoux Receives Nishihara.
+page 16	Propaganda Lies Are Refuted.
+page 16	London In War Time.
+page 16	Can't Expect Too Much.
+page 16	Timely Warning By King Hall.
+page 16	Italy Recognises Soviet Absorption.
+page 16	Higher Wages In New Zealand.
+page 16	SHE.
+page 16	Did Not Know She Was Married.
+page 16	HE.
+page 16	Did Not Know He Was Divorced.
+page 16	Refusal To Billet Boy Costs 25 Pounds Fine.
+page 16	Nazis Lay Mines, Berlin Claims.
+page 16	6 Nazi Bombers Brought Down.
+page 17	Germany Launches Blitzkrieg Air Attacks: Britain Responds With Bomb For Bomb In Continuous Raids On Bases.
+page 17	GREAT BATTLE FOR SUPREMACY OF AIR BEGINS OVER ENGLAND.
+page 17	GERMAN BID FOR QUICK VICTORY AGAINST EMPIRE.
+page 17	BATTLE CONTINUES.
+page 17	NAZIS SAY RAID IS A "BLITZ".
+page 17	Hess gives Hint.
+page 17	Full Proportions.
+page 17	Effect On Morale.
+page 17	BOMB FOR BOMB.
+page 17	R.A.F. Reply With Raids On Reich.
+page 17	NAZIS CLAIM BLITZKRIEG LAUNCHED: GOERING SENDS HEAVY REINFORCEMENTS.
+page 17	MOST SEVERE OF WAR.
+page 17	MANY CENTRES ATTACKED.
+page 17	BATTLES CONTINUING.
+page 17	GREATEST AIR DUELS IN HISTORY OF THE WORLD.
+page 17	TWO DAYS OF AIR WAR.
+page 17	BRITAIN HAS RAIDED.
+page 17	BRITAIN CLAIMS.
+page 17	GERMANY HAS RAIDED.
+page 17	GERMANY CLAIMS.
+page 17	HEAVY EXPLOSIONS ON IRISH COAST.
+page 17	French Indo China.
+page 17	JAPANESE RETIRE AS FLOODS MOUNT.
+page 17	CYCLONE HITS S. CAROLINA.
+page 17	EVACUEES IN SYDNEY.
+page 17	And Are Awed By "Our Arbour Bridge".
+page 17	Jolly Last Meal.
+page 18	CHUNGKING AND INDO-CHINA.
+page 18	Turkish Newspaper Suspended.
+page 18	EVACUEES REACH SYDNEY.
+page 18	Unanimous Praise.
+page 18	NAZIS SAY RAID IS A "BLITZ".
+page 18	Fantastic Claims.
+page 18	GERMAN BIG FOR QUICK VICTORY.
+page 18	Nazis Lay Mines, Berlin Claims.
+page 18	BOMB FOR BOMB.
+page 18	WOMEN CROW FOOD.
+page 18	No Government Aid for Unofficial Evacuees.
+page 18	"Have Mercy Sir," Plea.
+page 18	Aged Wood-Stealer Is Cautioned.
+page 18	Escort Girls In Court.
+page 18	One Is Robbed By Her Colleague.
+page 18	Japanese Hint To Third Powers.
+page 18	Pretender to Throne to Become A Puppet King?
+page 18	CONTINUED FROM PAGE ONE.
+page 18	GREATEST AIR DUELS IN HISTORY OF THE WORLD.
+page 18	OIL TANK FIRED.
+page 18	HOSPITAL BOMBED.
+page 18	BATTLE STILL RAGING.
+page 18	JOINT COMMUNIQUE.
+page 18	Seven Others Down.
+page 18	Sing Hymns During Raid.
+page 18	Biggest Raids Yet Made.
+page 18	6 Nazi Bombers Brought Down.
+page 18	INTENSIVE AIR RAIDS.
+page 18	R.A.F. Bomb German Aerodromes.
+page 18	Night Attacks.
+page 18	Financing The Evacuation.
+page 18	Unofficials Attend Executive Council.
+page 18	EMBEZZLED $20,000.
+page 18	Then Lost It All At Gambling.
+page 18	800 WOMEN EXEMPTED.
+page 18	Large Number Do Not Have To Leave Colony.
+page 19	U-Boat Torpedoes Ship In Atlantic.
+page 19	120 LOST ABOARD SUNK TRANSPORT.
+page 19	Assassination In Albania.
+page 19	Italians Accuse Greek Agents Of Crime.
+page 19	Guernsey Raid Produces Guy Fawkes Show.
+page 21	90 PLANES RAID CHUNGKING.
+page 21	Bombs Dropped In Many Areas.
+page 21	Chinese Opposition.
+page 21	27th Air Attack.
+page 21	Congress And The Viceroy.
+page 21	Wide Gulf.
+page 21	ANTI-AIRCRAFT DEFENCES AT THE ALERT.
+page 21	War Taxation Must Be Paid in Lump Sum.
+page 21	Instalment Plan Difficulties.
+page 21	Penalty For Non-Payment.
+page 21	Disorders In Albania.
+page 21	Rebellion Against Italians Break Out.
+page 21	JAPANESE BOMB U.S. HOSPITAL.
+page 21	Decoux Receives Nishihara.
+page 21	Nazis Shoot Down Own Machine.
+page 21	Command Of The Air.
+page 21	Britain Daily Nearer Ascendancy.
+page 21	Nazi Inferiority.
+page 21	Italy Recognises Soviet Absorption.
+page 21	CHALLENGE TO HITLER.
+page 21	 Amery Dares Him to Send Air Legions.
+page 21	Facing Storm Alone.
+page 21	Unshakeable Confidence.
+page 21	Can't Expect Too Much.
+page 21	Timely Warning By King-Hall.
+page 21	Higher Wages In new Zealand.
+page 21	PERFECTED AERIAL DEFENCES.
+page 21	Skillful Staff Work Aids Fighters.
+page 21	Big Tally.
+page 21	Not Much Chance Of Surprise.
+page 21	U.S. Warships For Britain Urged.
+page 21	Sale Of Warships.
+page 23	NAZI RAIDERS OVER ENGLAND.
+page 23	Anti-British Feeling Flares Up In Japan.
+page 23	Police Guard Refused.
+page 23	Setting Stage For Blitzkrieg.
+page 23	Italy May Also Withdraw Troops.
+page 23	DEBATE BEFORE ADJOURNMENT.
+page 24	LOST BRITISH BATTALION.
+page 24	Repatriating Chinese Refugees from H.K.
+page 24	Petition For Divorce.
+page 24	Local Case Adjourned By Chief Justice.
+page 24	Judge's Suggestion.
+page 24	ALBANIAN REBEL BEHEADED.
+page 24	NAZI PLAN TO SEIZE DAKAR.
+page 24	R.A.F. BUSY IN LIBYA.
+page 24	Troops And Transports Are Attacked.
+page 24	Aircraft Bombed.
+page 24	Cairo Communique.
+page 24	Troops Reconnoiter.
+page 24	Propaganda Lies Are Refuted.
+page 24	London In War Time.

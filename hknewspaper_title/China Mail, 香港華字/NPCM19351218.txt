@@ -1,0 +1,138 @@
+page 1	NEGUS CAPTURES ITALIAN OUTPOSTS FOLLOWING DAWN ATTACK.
+page 1	Flanking Movement Brings Success.
+page 1	INVADING ARMY IN RETREAT.
+page 1	PLANES AND TANKS FALL TO HOLD UP ADVANCE.
+page 1	SHIRE AIMABO AREA PENETRATED.
+page 1	HOPEI-CHAHAR COUNCIL.
+page 1	INAUGURATED IN SECRECY.
+page 1	DEMONSTRATIONS FEARED.
+page 1	THREE PRINCIPLES.
+page 1	SUPPORT ASSURED.
+page 1	OUR CHRISTMAS SUPPLEMENT.
+page 1	32-PAGE EXTRA FOR FESTIVE SEASON.
+page 1	LITERARY ZMAS PUDDING.
+page 1	RAILWAY FARES BY INSTALMENTS.
+page 1	Ingenious Scheme In England.
+page 1	PEACE PROPOSALS CONDEMNED.
+page 1	VOTE OF CENSURE BY LABOUR PARTY.
+page 1	FIGHTING SPEECH EXPECTED FROM SIR S. HOARE.
+page 1	LAVAL'S DEMAND.
+page 1	NAVAL PARLEY I LONDON.
+page 1	SOME NEW GROUND BROKEN.
+page 1	BRITISH JPROPOSALS.
+page 1	LADY KINGSFORD SMITH.
+page 1	AS DIRECTOR OF AIR COMPANY.
+page 1	NEW CHAIRMAN OF HUPEH APPOINTED.
+page 1	GERMAN AMBASSADRO AT JPARIS ILL.
+page 1	]DUBLIN RUGBY WIN.
+page 1	ANOTHER SUCCESS FOR FRENCH PREMIER.
+page 1	VOTE OF CONFIDENCE IN CHAMBER.
+page 1	SUPER LINER FOR U. S. A. 
+page 1	Vessel To Replace "Leviathan".
+page 1	MASTERSTROKE.
+page 1	POURPARLERS CONTINUED.
+page 1	Dramatic Meetings In Rome.
+page 1	MABASSADORS RECEIVED.
+page 1	EYES OF WOWRLD ON ROME.
+page 1	GRAND COUNCIL' S MEETING.
+page 1	ITALY'S AMENDMENTS TO PARIS PROPOSALS.
+page 3	SANITARY BOARD.
+page 3	Restricted Area For Offensive Trades.
+page 3	LICENCES REFUSED.
+page 3	CHINESE GUNBOAT LAUNCHED.
+page 3	To-Kwa-Wan Ceremony This Morning.
+page 3	NEW P. & O. LINER'S RECORD.
+page 3	GOVERNOR SHOWS GRATITUDE.
+page 3	Letter Of Thanks To Sir H. Pollock.
+page 3	HIS EXZCELLENCY ADMIRES SKILLED CRAFTSMNSHIP.
+page 3	FRENCH ADMIRAL'S TIFFIN PARTY.
+page 3	Entertainment Prior To Sailing.
+page 3	GOVERNOR VISITS FLAGSHIP.
+page 3	"MUSICAL CHAIRS".
+page 3	Successful Dress Rehearsal.
+page 3	SCHOOL PRIZEDAY ENTRETAINMET.
+page 3	ANNUAL MEETING.
+page 3	Local Horticultural Society.
+page 6	EXPLANATIN OF YESTERDAYS CARTOON.
+page 6	The Narrowest Building.
+page 6	WOMEN SUFFER MOST.
+page 6	Harder Times IN Prison.
+page 6	IS THE AEROPLANE SUPREME/
+page 6	SECOND CORONEL MAY VISIT ENGLAND.
+page 6	POPULATION ENTIRELY OPEN TO HORRIBLE AIR ATTACKS.
+page 6	Will Be Worse.
+page 6	Enemy Supreme.
+page 6	Worse Plight.
+page 8	LOCAL DOLLR ADVANCES.
+page 8	"Spot" Silver Down.
+page 8	BRITISH SHIPPING CONDITIONS.
+page 8	Threat From Subsidized Froeign Services.
+page 8	REICHSMARK QUOTATIONS.
+page 8	NEW YORK STOCK MARKET.
+page 8	Steadier Appearance Presented.
+page 8	PRICES GENERALLY UPWARD.
+page 8	BERLIN SHARE MARKET.
+page 8	Business Brisker Yesterday.
+page 8	COAL DISPUTE IN BRITAIN.
+page 8	NO AGREEMENT REACHED.
+page 8	PROPOSED INCREASE OF WAGES NEXT MONTH.
+page 8	STEEL INGOT PRODUCTION.
+page 8	REICHSBANK RETURN.
+page 8	Decrease Registered IN Gold Stock.
+page 8	NO REDUCTION OF CUSTOMS OR EXCLSE DUTIES.
+page 9	"DICK WHITTINGTON AND HIS CAT".
+page 9	Christmas Pantomime AT Y. M. C. A. 
+page 9	OPENING PREFORMANCE LAST NIGHT.
+page 9	REVOLVER SHOOTING MATCH.
+page 9	Emergency Unit Beat Naval Picket.
+page 9	TANSLEY AND RANSLEY BEST RESPECTIVE SHOTS.
+page 9	"INDIFFERENCE TO HUMAN VALUES".
+page 9	Death Reates In U. S. A. 
+page 9	HIGHEST IN WORLD.
+page 9	THIEVES BETRAYED BY PAINT.
+page 9	Chicken Stealers Sentenced.
+page 9	"PHANTOM AVENGER" FIRES.
+page 9	MUNICIPALITY NEWS REPORTS FROM CANTON.
+page 9	Inner Harbour Near Completion.
+page 9	REVENUE DECREASE OF 20 PER CENT.
+page 9	"UNDER GRADUETTE" ARESTED.
+page 9	World Not Talk To Strange Men.
+page 9	JIMMY WALKER'S DOG.
+page 9	Suffering From Home Sickness.
+page 9	AMERICAN ACTS ENGLISHMAN.
+page 9	Otto Kruger In British Film.
+page 9	WESTERN IDEAS IN MONGOLIA.
+page 9	FIRE-FREE CRASHES A POSSIBILITY.
+page 9	Belgian Engineer's Invention.
+page 9	SUITED TO BIG MACHINES.
+page 9	BRITISH ARI LINER WRECKED.
+page 9	Atlanta Crash I Kenya Colony.
+page 9	CARRY A GAS GUN.
+page 9	Ample Protection Afforded.
+page 9	JACKAL SENDS 50 PEOPLE TO HOSPITAL.
+page 9	Savage Attack On Village.
+page 9	EVENTUALLY KILLED.
+page 9	COAL MINING RECORD.
+page 9	HOW COLDS ARE CAUGHT.
+page 9	Surgeon ON Risks Of Hot Baths.
+page 9	OVER-EXCITEMENT IN VEOWDED CINEMAS.
+page 9	Starain On Resistance.
+page 12	GERMAN TRADE FIGURES.
+page 12	Satisfactory Position Disclosed.
+page 12	INVADING ARMY IN RETREAT.
+page 12	U. S. DEMONSTRATINS.
+page 12	EARLIER MEWSAGES.
+page 12	Abyssinian Positions.
+page 12	ITALIANREIFORCEMENTS ARRIVE.
+page 12	SPANISH CORTES ADJOURNED.
+page 12	Expected Dissolution At New Year.
+page 12	TREASURY RETURNS.
+page 12	Revenue Increase Reported.
+page 12	GREEK PARLIAMENT TO BE SISSOLVED.
+page 12	MARGATE'S INCOME.
+page 12	Defence Measures On Ogden Front.
+page 12	BRITISH TRADE AGREEMENTS.
+page 12	Informal Exchanges With America.
+page 12	SCIENCE HELPS TAX COLLECTOR.
+page 12	"Bloodhound" Detects Mountain Stills.
+page 12	HOPEI-CHAHAR COUNCIL.

@@ -1,0 +1,191 @@
+page 1	CHINESE NOW DRIVING ON YIHSIEN.
+page 1	EXPECT HEAVY COUNTER BLOW FROM JAPANESE.
+page 1	Air Force Communique Tells of Victory In Battle Near Victory In Battle Near Hsuchow.
+page 1	Chinese Advance To Wuhu Aerodrome.
+page 1	Yihsien's Fall Imminent.
+page 1	Facing Annibilation.
+page 1	Trans-Atlantic Air Service Starts In July.
+page 1	Japanese Seek Control Of Shanghai Broadcasting.
+page 1	Questionnaire To Station Owners.
+page 1	Old Victoria Hospital To Be Converted.
+page 1	ENORMOUS MAJORITY SUPPORTS ANSCHLUSS.
+page 1	Smooth Working Of Plebiscite.
+page 1	JAPANESE RAIDERS TAKE HEAVY TOLL OF CIVILIAN LIFE.
+page 1	University Buildings Are Targets Near Changsha.
+page 1	No Incidents.
+page 1	Portuguese Honour War Dead.
+page 1	THREAT OF STRIKES CAUSES GOVERNMENT EMBARRASSMENT.
+page 1	Every Effort Being Made To Avoid Use of Force.
+page 1	17 Cases Of Smallpox Saturday.
+page 1	Government Still Paying For Typhoon.
+page 1	Big Vote To Come Up Wednesday.
+page 1	WILD MONDEY ATTACKS LITTLE BOY.
+page 3	Czecho-Slovakia Next Hitler Objective In Breaking Entente.
+page 3	EMPIRE NEWS.
+page 3	RACE PROBLEMS OF SOUTH AFRICA.
+page 3	'BABY RACE' WINNERS' PLANS.
+page 3	STOWAWAY IN SHIP FUNNEL.
+page 3	ANTHONY EDEN RELAXES.
+page 3	Orange-Haired Girl Tells Spy Secret In Cell.
+page 3	AMERICAN RADIO OFFER FOR DUKE O WINDSOR.
+page 3	Checking Tides With Bottles.
+page 3	RELCH DIPLOMACY SEEKS END OF FRENCH INFLUENCE.
+page 3	North Pole Dog Left In Arctic.
+page 3	RADIO HOUR PLANNED
+page 3	Checking Tides With Bottles.
+page 3	MAY HAVE SUPPORT.
+page 3	20-POINT RPOGRAMME.
+page 3	DEFINITE SCHEDULE.
+page 5	GERMANY'S LEADERS PROCLAIM NEW "GREATER REICH".
+page 5	VIENNA A PEARL.
+page 5	HITLER SEES INNITZER.
+page 5	SUSPECTS ARRRESTED.
+page 5	JEWS REMAIN NDOORS.
+page 5	POLLING OPENS IN VIENNA.
+page 5	WILD ENTHUSIASM.
+page 5	MORE PRUNES FOR ARMY URGED.
+page 5	HUNDREDS DEAD IN CANTON RAIDS.
+page 5	Young Women Perish In Burning Building.
+page 5	HEAVY CASUALTIES.
+page 5	JAPANESE AIRMEN ESCAPE.
+page 5	BOMBING OF CHUNGHUA.
+page 5	CITY CELEBRATING.
+page 5	COFFINS IN ROADWAY.
+page 5	NARROW ESCAPE.
+page 5	DEATH STRIKES WITH SUCCESS.
+page 7	TANKS PROVE WORTH IN TWO WARS.
+page 7	CALIFORNIA'S NEW CHAMBER OF DEATH FOR EXECUTIONS.
+page 7	TRINIDAD GOVERNER WAS NOT SACKED.
+page 7	Bergner Film Dispute.
+page 7	PICTURE THAT WAS NOT MADE.
+page 7	BOY FINDS HE'S IN RBVERSE.
+page 7	"HOBOETTES" LATEST IDEA IN TRAVEL.
+page 7	Irish Hospital Sweep Riddle.
+page 7	HIT BY BAME TRAIN TWICE.
+page 7	LETTER DELAYED IS YEARS.
+page 7	CLAUDETTE IN SWISS SNOWS.
+page 7	HUMOUR IN THE ARMY,
+page 7	RIGHT AND WRONG WAY FOR TROOPS.
+page 7	CARE OF EQUIPMENT.
+page 7	Arab Gangster Is Arrested.
+page 9	England Beaten By Scotland.
+page 9	One Goal Scored In Match.
+page 9	LOCAL CRICKET.
+page 9	Middlesex Regiment Defeats Press.
+page 9	RIFLE SHOOTING CONTINUES.
+page 9	Governor Attends Bisley Meeting.
+page 11	PHOTONEWS
+page 12	TSINAN RETAKEN.
+page 12	Former Capital Of Shantung.
+page 12	SWEEPING VICTORY BY CHINESE.
+page 12	STRATEGIC POINTS OCCUPIED.
+page 12	CHINESE CLAIM CAPTURE.
+page 12	INFLUX OF CAPITAL.
+page 12	COLLECT FUNDS FOR WAR RELIEF WORK.
+page 12	SNOOKER CHAMPIONSHIP.
+page 12	PRECAUTIONS TAKEN ON FRONTIER.
+page 12	NR. C. DE S. ROBERTSON MAKING GOOD RECOVERY.
+page 12	JAPANESE UNITS SURROUNDED.
+page 12	FLOODS NEAR NANKING.
+page 12	HONAN TOWNS RECAPTURED.
+page 13	CHINESE NOW DRIVING ON YIHSIEN.
+page 13	EXPECT HEAVY COUNTER BLOW FROM JAPANESE.
+page 13	Air Force Communique Tells of Victory In Battle Near Victory In Battle Near Hsuchow.
+page 13	Chinese Advance To Wuhu Aerodrome.
+page 13	Yihsien's Fall Imminent.
+page 13	Facing Annibilation.
+page 13	Japanese Lay Claim To Great Air Victory.
+page 13	Say Only One Plane Lost In Fight Near Kweiteh.
+page 13	WAR PRISONERS IN HANKOW.
+page 13	CANTON'S BOME TOLL OVER 200.
+page 13	Bodies Still Being Extricated From Factory Ruins.
+page 13	China Gives Gratitude To Britain.
+page 13	"Untiring Efforts" Of Lord Mayor Of London Praised.
+page 13	BOAT PEOPLE CONVICTED.
+page 13	Insurgents Partially Checked by Human Wall.
+page 13	ENORMOUS MAJORITY SUPPORTS ANSCHLUSS.
+page 13	Smooth Working Of Plebiscite.
+page 13	British Officer Believed Shot By Japanese.
+page 13	AUTHORITIES HAVE TWO THEORIES.
+page 13	FRANCO SUDDENLY SHIFTS PRESSURE TO COASTAL TOWNS.
+page 13	Communists Executing Suspects in Tortosa Without Discrimination.
+page 13	Governor Present At Rifle Shoot.
+page 13	A Gusty Wind Makes Competitors Cautious.
+page 13	ASSOCIATED CUP.
+page 13	BROOKWOOD COMETITION.
+page 13	New Tariffs For Tsingtao Next Month.
+page 13	Insurgent Progress.
+page 15	Czecho-Slovakia Next Hitler Objective In Breaking Entente.
+page 15	EMPIRE NEWS.
+page 15	RACE PROBLEMS OF SOUTH AFRICA.
+page 15	'BABY RACE' WINNERS' PLANS.
+page 15	STOWAWAY IN SHIP FUNNEL.
+page 15	ANTHONY EDEN RELAXES.
+page 15	Orange-Haired Girl Tells Spy Secret In Cell.
+page 15	AMERICAN RADIO OFFER FOR DUKE O WINDSOR.
+page 15	Checking Tides With Bottles.
+page 15	RELCH DIPLOMACY SEEKS END OF FRENCH INFLUENCE.
+page 15	North Pole Dog Left In Arctic.
+page 15	RADIO HOUR PLANNED
+page 15	Checking Tides With Bottles.
+page 15	MAY HAVE SUPPORT.
+page 15	20-POINT RPOGRAMME.
+page 15	DEFINITE SCHEDULE.
+page 16	ENORMOUS MAJORITY VOTES "YES" IN AUSTRIA PLEBISCITE.
+page 16	Jews Remain Indoors.
+page 16	Hitler Now Described As Messenger Of Almighty.
+page 16	Propaganda Triumphs.
+page 16	OFFERED BRIBE TO CONSTABLE.
+page 16	CHINESE NOW DRIVING ON LIHSIEN.
+page 16	Japanese Units Surrounded.
+page 16	Honan Towns Recaptured.
+page 16	COOK DISCOVERED CARRYING OFF ARMY STORES.
+page 17	Daladier May Conscript French Labour.
+page 17	THREAT OF STRIKES CAUSES GOVERNMENT EMBARRASSMENT.
+page 17	Every Effort Being Made To Avoid Use of Force.
+page 17	Leftists Angered.
+page 17	Defence Industries Paralysed.
+page 17	Japanese Seek Control Of Shanghai Broadcasting.
+page 17	Questionnaire To Station Owners.
+page 17	INFLUX OF CAPITAL.
+page 17	JAPANESE RAIDERS TAKE HEAVY TOLL OF CIVILIAN LIFE.
+page 17	University Buildings Are Targets Near Changsha.
+page 17	Old Victoria Hospital To Be Converted.
+page 17	Government Still Paying For Typhoon.
+page 17	Big Vote To Come Up Wednesday.
+page 19	TANKS PROVE WORTH IN TWO WARS.
+page 19	CALIFORNIA'S NEW CHAMBER OF DEATH FOR EXECUTIONS.
+page 19	TRINIDAD GOVERNER WAS NOT SACKED.
+page 19	Bergner Film Dispute.
+page 19	PICTURE THAT WAS NOT MADE.
+page 19	BOY FINDS HE'S IN RBVERSE.
+page 19	"HOBOETTES" LATEST IDEA IN TRAVEL.
+page 19	Irish Hospital Sweep Riddle.
+page 19	HIT BY BAME TRAIN TWICE.
+page 19	LETTER DELAYED IS YEARS.
+page 19	CLAUDETTE IN SWISS SNOWS.
+page 19	HUMOUR IN THE ARMY,
+page 19	RIGHT AND WRONG WAY FOR TROOPS.
+page 19	CARE OF EQUIPMENT.
+page 19	Arab Gangster Is Arrested.
+page 21	England Beaten By Scotland.
+page 21	One Goal Scored In Match.
+page 21	LOCAL CRICKET.
+page 21	Middlesex Regiment Defeats Press.
+page 21	RIFLE SHOOTING CONTINUES.
+page 21	Governor Attends Bisley Meeting.
+page 23	PHOTONEWS
+page 24	W. Powell Ltd. Shows Profit.
+page 24	Assistant Appointed By Board.
+page 24	INCREASED PROFIT.
+page 24	FAVOURABLE TURNOVER.
+page 24	WILD MONKEY ATTACKS LITTLE BOY.
+page 24	CREMATORIUM FOR CATTLE PLANNED.
+page 24	FLOODS NEAR NANKING.
+page 24	MURDER SUSPECTS SUSPECTS SENT UP FOR TRIAL.
+page 24	Tell Strange Tale Of Killing In Hillside Cave.
+page 24	THREATENED DEFENDOANT.
+page 24	WENT HOME TO BED.
+page 24	Pickpocket Captured.
+page 24	Discovered To Be Banishec.
+page 24	BACK TO SHANGHAI.

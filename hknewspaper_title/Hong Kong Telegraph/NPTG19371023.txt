@@ -1,0 +1,239 @@
+page 1	CHINESE HOLD TAZAND GROUND GAINED.
+page 1	Subjected to Heavy Bombardment Troops Cling to Positions.
+page 1	AIR RAIDERS BUSY ON BOTH SIDES OF FIGHTING LINES.
+page 1	Kilometre Gained.
+page 1	Chinese Score Hit At Yangtzepoo.
+page 1	HUGE JAPANESE CASUALTIES IN SHANGHAI.
+page 1	Foreign Aviators Offer Help.
+page 1	Five Japanese Raids.
+page 1	Japanese Build Air Base Near Woosung.
+page 1	Isolationist Would Leave China To Fate.
+page 1	U.S. Congressman Attacks Policy Of President.
+page 1	20,000 Men, 9,000 Officers Wanted By British Army.
+page 1	RUSSIANS IMPEDS PROGRESS.
+page 1	Not Satisfied With Volunteer Withdrawal Plan.
+page 1	Ratio Should Be Five to One.
+page 1	DISTRUSTS ITALIANS.
+page 1	RETAIL PRICES RISING.
+page 1	Cost Of Wood Up By Nearly 100 Per Cent.
+page 1	Price Of Wood.
+page 1	WARNS POWERS NOT TO INTERFERE IN FAR EAST QUARREL.
+page 1	FIGHTING DISEASE IN CHINA.
+page 1	WONT WORK N.Y.K. LINER.
+page 1	Broadbent Is After Girl Rival's Record.
+page 1	England Australia Flight Starts.
+page 1	Jean Batten Still Ahead.
+page 1	NEAR DANASCUS.
+page 1	HEADING INTO DANGER.
+page 1	APPOINTED TO CHINA.
+page 1	Bomb Lands Near U.S. Marine Post.
+page 1	PROTEST SENT TO JAPANESE.
+page 1	Sergeant Injured Rescuing Chinese Woman From Fire.
+page 1	Four Sikhs Wounded.
+page 1	Mysterious Submarine No. 7 Still In Yokohama.
+page 1	Japanese Counter To Evidence Of Hongkong Inquiry.
+page 1	Duke of Windsor Hitler's Guest.
+page 3	"No Man Is Too Old At 50 Now."
+page 3	MORE JOBS FOR THE ELDERLY SOON.
+page 3	HUSBAND TOLD 'YOU ARE ONLY FIT FOR GAOL.'
+page 3	Said To Have Suggested Suicide To Wife.
+page 3	FAMOUS DOCTOR'S IDEAL REMEDY FOR STOMACH PAINS.
+page 4	UNION CHURCH.
+page 4	Rev. K. Mackenzie Dow To Preach To-morrow.
+page 4	S.A.C.A. MEETING.
+page 4	CHRISTIAN SCIENCE LESSON SERMON.
+page 4	First Church of Christ, Scientist, Hongkong.
+page 4	RUSSIANS IMPEDE PROGRESS.
+page 4	CHINA'S DELEGATES.
+page 4	CHINESE HOLD GROUND GAINED AT TAZANG.
+page 4	Linghuen Reported Taken.
+page 4	Claim Supplies Captured.
+page 4	Threat To Rear.
+page 4	Kwangfu Captured?
+page 4	Lotien Sector.
+page 4	EXPECTED LANDING.
+page 4	CAUTIOUS POLITICS.
+page 4	PROVISIONAL ESCORTS.
+page 4	RETAIL PRICES RISING.
+page 5	DEMOCRACY OF CHINA DEFENDED.
+page 5	Similarity Of Ideals With America.
+page 5	CHINA'S DELEGATES.
+page 5	JAPANESE EXCUSES.
+page 5	Tokyo Declares Junks Were Pirates.
+page 5	O.A.G. Visits Portuguese Colony.
+page 5	Cordial Relations Stressed.
+page 5	CITIZENS PRESENTED.
+page 5	COLONY RELATIONS.
+page 5	TOAST AND REPLY.
+page 5	King Reviews Conditions In Empire.
+page 5	Gratified By Signs Of Empire Loyalty.
+page 5	IN HITLER'S GERMANY.
+page 9	IF IT'S IN THE "TELEGRAPH" IT'S IN THE HOME.
+page 9	There's no doubt about the circulation.
+page 9	Advertisers are requested to book additional Christmas space early.
+page 9	Remember last year!
+page 13	Husband Kills 'Other Man': Jury Say It Is Not Murder.
+page 13	'JUSTICE IS DONE.'
+page 13	Man Swims To Save R.A.F. Pilot.
+page 13	QUEEN OF 16 WILL LEAD HAREM LIFE.
+page 13	"ARC OF FLAME" AS LIGHTNING HIT B.B.C. AERIAL.
+page 13	West End Band Leader Drawn Into Fraud.
+page 13	BOWS TO JUDGE.
+page 13	WILLIAM, 88, IS STILL COURTING HANNAH, 89.
+page 13	WHEEZES about SNEEZES.
+page 14	Woman Dies After Operation in Dark.
+page 15	Wife, Son Shot Dead by Croupier.
+page 15	FORTUNE TELLER WANED HER.
+page 15	SOVIET SCIENTISTS HOPE TO SPLIT ATOM.
+page 15	15,000,000 GAS MASKS READY IN BRITAIN.
+page 15	PLANS FOR RAPID DISTRIBUTION.
+page 15	AIR WARENS' JOB.
+page 15	LOCAL COST.
+page 16	Lady Champion Of K.C.C.
+page 16	SPANIARD DEFEATS J. H. LEWIS.
+page 16	NEGRO CONCEDES 23 POUNDS.
+page 16	LOCAL LEAGUE CRICKET.
+page 16	A STRONG TEAM FOR INDIA.
+page 16	MIZLER PUNCHES WAY TO VICTORY.
+page 16	INVITATION TO MEXICO.
+page 16	Ceferino Garcia Or Barney Ross.
+page 17	MANAGER OF AUSTRALIAN TEST TEAM.
+page 17	Fine Record Of W. H. Jranes.
+page 17	OUR GUIDE TO THE CINEMAS.
+page 17	THE IRISH SWEEP.
+page 17	Cesarewitch Draw Has Big Support.
+page 17	SPRINGBOKS NO. 1 RUGBY NATION.
+page 17	Great N.Z. Record.
+page 19	NEWS IN PHOTOGRAPHS.
+page 20	Ambassador Off To Rome.
+page 20	Holde Conversation With Mussolini.
+page 20	GOOD IMPRESSION.
+page 20	Navy Starts Grim Games Next Week.
+page 20	All Branches Will Get Exercise.
+page 20	AUTHORITIES DOING THEIR BEST IN PALESTINE.
+page 20	Ships Still Unable To Reach Canton.
+page 20	Shallow-Draught Craft Only Can Pass Barrier.
+page 20	CAMPAIGN FOR PEACE.
+page 20	FEAR OF WAR ON SIBERIA BORDER.
+page 20	Tin Quota May Be Reduced.
+page 20	Industry's Plans Indefinite.
+page 20	Crew Sinks Destroyer.
+page 20	To Avoid Capture By Insurgents.
+page 20	URGE LENIENCY.
+page 20	CALLED TO COLOURS.
+page 20	K.C.R. Keeps Schedule.
+page 20	Bombers Fail To Stop Service.
+page 20	AMBASSADOR'S AUDIENCE.
+page 20	SIR MILES LAMPSON LUNCHES WITH KING.
+page 21	CHINESE HOLD TAZANG GROUND GAINED.
+page 21	Subjected to Heavy Bombardment, Troops Cling to Positions.
+page 21	AIR RAIDERS BUSY ON BOTH SIDES OF FIGHTING LINES.
+page 21	Kilometre Gained.
+page 21	Chinese Seore Hit At Yangtzepoo.
+page 21	Five Japanese Raids.
+page 21	Japanese Build Air Base Near Woosung.
+page 21	HUGE JAPANESE CASUALTIES IN SHANGHAI.
+page 21	Foreign Aviators Offer Help.
+page 21	Isolationist Would Leave China To Fate.
+page 21	U.S. Congressman Attacks Policy Of President.
+page 21	20,000 Men, 9,000 Officers Wanted By British Army.
+page 21	RUSSIANS IMPEDE PROGRESS.
+page 21	Not Satisfied With Volunteer Withdrawal Plan.
+page 21	Ratio Should Be Five to One.
+page 21	DISTRUSTS ITALIANS.
+page 21	RETAIL PRICES RISING.
+page 21	Cost Of Wood Up By Nearly 100 Per Cent.
+page 21	WARNS POWERS NOT TO INTERFERE IN FAR EAST QUARREL.
+page 21	FIGHTING DISEASE IN CHINA.
+page 21	Three Mobile Units To Bring Succour To Suffering.
+page 21	WONT WORK N.Y.K. LINER.
+page 21	Broadbent Is After Girl Rival's Record.
+page 21	England-Australia Flight Starts.
+page 21	Jean Batten Still Ahead.
+page 21	NEAR DAMASCUS.
+page 21	HEADING INTO DANGER.
+page 21	APPOINTED TO CHINA.
+page 21	Bomb Lands Near U.S. Marine Post.
+page 21	PROTEST SENT TO JAPANESE.
+page 21	Sergeant Injured Rescuing Chinese Woman From Fire.
+page 21	Four Sikhs Wounded.
+page 21	Mysterious Submarine No. 7 Still In Yokohama.
+page 21	Japanese Counter To Evidence Of Hongkong Inquiry.
+page 21	Duke of Windsor Hitler's Guest.
+page 23	"No Man Is Too Old At 50 Now."
+page 23	MORE JOBS FOR THE ELDERLY SOON.
+page 23	HUSBAND TOLD 'YOU ARE ONLY FIT FOR GAOL.'
+page 23	Said To Have Suggested Suicide To Wife.
+page 23	FAMOUS DOCTOR'S IDEAL REMEDY FOR STOMACH PAINS.
+page 24	CHRISTIAN SCIENED LESSON SERMON.
+page 24	First Church of Christ Scientist, Hongkong.
+page 24	RUSSIANS IMPEDE PROGRESS.
+page 24	CHINA'S DELEGATES.
+page 24	CHINESE HOLD GROUND GAINED AT TAZANG.
+page 24	Linghuen Reported Taken.
+page 24	Claim Supplies Captured.
+page 24	Threat To Rear.
+page 24	Kwangfu Captured?
+page 24	Lotien Sector.
+page 24	EXPECTED LANDING.
+page 24	CAUTIOUS POLITICS.
+page 24	PROVISIONAL ESCORTS.
+page 24	RETAIL PRICES RISING.
+page 25	DEMOCRACY OF CHINA DEFENDED.
+page 25	Similarity Of Ideals With America.
+page 25	CHINA'S DELEGATES.
+page 25	JAPANESE EXCUSES.
+page 25	Tokyo Declares Junks Were Pirates.
+page 25	O.A.G. Visits Portuguese Colony.
+page 25	Cordial Relations Stressed.
+page 25	CITIZENS PRESENTED.
+page 25	OLDEST ALLY.
+page 25	King Reviews Conditions In Empire.
+page 25	Gratified By Sigas Of Empire Loyalty.
+page 25	IN HITLER'S GERMANY.
+page 27	Husband Kills 'Other Man': Jury Say It Is Not Murder.
+page 27	'JUSTICE IS DONE.'
+page 27	Man Swims To Save R.A.F. Pilot.
+page 27	QUEEN OF 16 WILL LEAD HAREM LIFE.
+page 27	SEPARATE LIVES
+page 27	STRICT MOSLEM.
+page 27	"ARC OF FLAME" AS LIGHTNING HIT B.B.C. AERIAL.
+page 27	West End Band Leader Drawn Into Fraud.
+page 27	BOWS TO JUDGE.
+page 27	WILLIAM, 88, IS STILL COURTING HANNAH, 89.
+page 28	SPANIARD DEFEATS J. H. LEWIS.
+page 28	NEGRO CONCEDES 23 POUNDS.
+page 28	LOCAL LEAGUE CRICKET.
+page 28	A STRONG TEAM FOR INDIA.
+page 28	MIZLER PUNCHES WAY TO VICTORY.
+page 28	INVITATION TO MEXICO.
+page 28	Ceferino Garcia Or Barney Ross.
+page 29	MANAGER OF AUSTRALIAN TEST TEAM.
+page 29	Fine Record Of W. H. Jeanes.
+page 29	OUR GUIDE TO THE CINEMAS.
+page 29	THE IRISH SWEEP.
+page 29	Cesarewitch Draw Has Big Support.
+page 29	SPRINGBOKS NO. 1 RUGBY NATION.
+page 29	Great N.Z. Record.
+page 31	NEWS IN PHOTOGRAPHS.
+page 32	Ambassador Off To Rome.
+page 32	Holds Conversation With Mussolini.
+page 32	GOOD IMPRESSION.
+page 32	Navy Starts Grim Games Next Week.
+page 32	All Branches Will Get Exercise.
+page 32	AUTHORITIES DOING THEIR BEST IN PALESTINE.
+page 32	Ships Still Unable To Reach Canton.
+page 32	Shallow-Draught Craft Only Can Pass Barrier.
+page 32	CAMPAIGN FOR PEACE.
+page 32	FEAR OF WAR ON SIBERIA BORDER.
+page 32	PICTORIAL SUPPLEMENT.
+page 32	Tin Quota May Be Reduced.
+page 32	Industry's Plans Indefinite.
+page 32	Crew Sinks Destroyer.
+page 32	To Avoid Capture By Insurgents.
+page 32	URGE LENIENCY.
+page 32	CALLED TO COLOURS.
+page 32	K.C.R. Keeps Schedule.
+page 32	Bombers Fail To Stop Service.
+page 32	AMBASSADOR'S AUDIENCE.
+page 32	SIR MILES LAMPSON LUNCHES WITHKING.

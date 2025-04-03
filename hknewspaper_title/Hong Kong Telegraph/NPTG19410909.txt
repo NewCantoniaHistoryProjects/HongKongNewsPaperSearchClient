@@ -1,0 +1,286 @@
+page 1	ALLIED FORCES LAND AND TAKE SPITSBERGEN IN THE ARCTIC ZONE.
+page 1	ENEMY CONVOY ATTACKED.
+page 1	Two Ships Badly Damaged.
+page 1	APTTFIRE SLNKS A FLAK SHIP.
+page 1	Chungking Has No Apprehensions.
+page 1	Authors To Aid China.
+page 1	Chinese Dollar Now Blocked Currency.
+page 1	Japan Faces Isolation In Far East.
+page 1	Develop Hostile Feeling.
+page 1	Norden Bomber Sight Betrayed To Nazis In 1938.
+page 1	Hopkins Meets Stalin.
+page 1	Berlin Can't Take It: Call RAF Raid A "Lousy Trick".
+page 1	Iran Still Withholds Reply To Allies' Note.
+page 1	Man-Power In Armed Forces And Industry.
+page 1	Aircraft Experts.
+page 1	Skilled Labour.
+page 1	Parliament In Session.
+page 1	Wants Legations Closed.
+page 1	Soviet Communique.
+page 1	R.A.F. Lose 20 Planes.
+page 1	Finns Threaten Important Soviet Supply Routes: War News Scarce.
+page 1	Exchange Of Nationals.
+page 1	Moscow Remains Silent.
+page 1	Paris Jews Arrested.
+page 1	Latest Nazi Action.
+page 1	Duff Cooper Explains Diplomatic Set-Up.
+page 2	SIR MARK YOUNG.
+page 2	New Governor Arriving Within Two Days.
+page 2	Alternative Programmes.
+page 2	U.S. Device To Help Sea Rescue.
+page 2	Present Drawback.
+page 4	RUSSIANS KNOW HOW TO USE RIFLES.
+page 4	Paratroop Units.
+page 5	How Nazis Are Taking The War.
+page 5	Brutality Of S. S. Men.
+page 5	Himmler's Victory.
+page 5	Financial Instability.
+page 5	Britain's Larder Well Stocked.
+page 5	Record For Century.
+page 5	AERODROMES OF MALAYA.
+page 5	Indians' New Duties.
+page 5	China Receives Promise of 35 Air Transport.
+page 5	MR CAMPBELL IS SLIGHTLY BETTER.
+page 5	FRENCH PATRIOT SHOT BY NAZIS.
+page 5	China's Place In The Sun.
+page 5	Australian Support.
+page 5	N.Z. Premier In Honolulu.
+page 5	Handling Of Greer Story By Nazis.
+page 5	Hew To The Line.
+page 5	German Abuse.
+page 5	Tokyo Sums Up.
+page 5	Russians Under Vichy.
+page 7	Vindication Fight Wearies 'American Dreyfuss.' 85.
+page 7	Evidence Declared Secret.
+page 7	Accuses "Political Forces".
+page 7	Wearying Fight.
+page 7	Captured British Generals Tend Vegetable Garden.
+page 7	Air Marshal As Carpenter.
+page 8	Heroic British Woman Honoured by U.S.Group.
+page 8	Official Account.
+page 8	At Dunkirk.
+page 8	Japanese Leave India.
+page 8	BERLIN CAN'T TAKE IT.
+page 8	Crash Over Sweden.
+page 8	BERLIN PREDICTS U.S.-REICH WAR.
+page 8	Japanese Evacuees From Philippines.
+page 8	Fewer Cars To Be Made In Canada.
+page 8	ENEMY CONVOY ATTACKED.
+page 8	Vessel Left Sinking.
+page 8	Back For More.
+page 8	Finns Threaten Soviet Routes.
+page 8	Ring Round Leningrad.
+page 8	No Motorcycles In Bermuda.
+page 9	ALLIED FORCES LAND AND TAKE SPITSBERGEN IN THE ARCTIC ZONE.
+page 9	ENEMY CONVOY ATTACKED.
+page 9	Two Ships Badly Damaged.
+page 9	SPITFIRE SINKS A FLAK SHIP.
+page 9	Chungking Has No Apprehensions.
+page 9	Authors To Aid China.
+page 9	Chinese Dollar Now blocked Currency.
+page 9	Japan Faces Isolation In Far East.
+page 9	Develop Hostile Feeling.
+page 9	Norden Bomber Sight Betrayed To Nazis In 1938.
+page 9	Hopkins Meets Stalin.
+page 9	Berlin Can't Take It: Call RAF Raid A "Lousy Trick".
+page 9	Eye-witness Stories Of The Berlin Raid.
+page 9	Man-Power In Armed Forces And Industry.
+page 9	Aircraft Experts.
+page 9	Skilled Labour.
+page 9	Battle With Fighter.
+page 9	R.A.F. Lose 20 Planes.
+page 9	Bomber Fund Car Badges Sale.
+page 9	This Morning's Evidence At The A.R.P. Inquiry.
+page 9	Exchange Of Nationals.
+page 9	Direct Order.
+page 9	Latest Soviet Communique.
+page 9	Counter-Attacks Admitted.
+page 9	Duff Cooper Explains Diplomatic Set-Up.
+page 10	AUSTRALIAN'S CALL ON QUO.
+page 10	GALLUP OLL IN U. S. A. ON JAPAN.
+page 10	Windsor Travels.
+page 10	Japanese Imprisoned As A Spy.
+page 10	Thai Teachers Exhorted.
+page 10	Defence of Fatherland.
+page 10	Reds Remove Their Germans.
+page 10	INCOME OF JAPAN.
+page 10	Britain's Larder Well Stocked.
+page 10	Record For Century.
+page 10	Getting Britons Out Of Japan.
+page 12	RUSSIANS KNOW HOW TO USE RIFLES.
+page 12	Paratroop Units.
+page 13	Finns Threaten Important Soviet Supply Routes.
+page 13	Moscow Remains Silent.
+page 13	Ring Round Leningrad.
+page 13	Paris Jews Arrested.
+page 13	Latest Nazi Action.
+page 13	AERODROMES OF MALAYA.
+page 13	Indians' New Duties.
+page 13	Iran Still Withholds Reply To Allies' Note.
+page 13	Parliament In Session.
+page 13	Wants Legations Closed.
+page 13	Handling Of Greer Story By Nazis.
+page 13	Hew To The Line.
+page 13	German Abuse.
+page 13	Tokyo Sums Up.
+page 13	BERLIN PREDICTS U.S-REICH WAR.
+page 13	Japanese Evacuees From Philippines.
+page 13	China's Place In The Sun.
+page 13	Australian Support.
+page 13	MR CAMPBELL IS SLIGHTLY BETTER.
+page 13	FRENCH PATRIOT SHOT BY NAZIS.
+page 13	How Nazis Are Taking The War.
+page 13	Brutality Of S. S. Men.
+page 13	Himmler's Victory.
+page 13	Financial Instability.
+page 13	N. Z. Premier In Honolulu.
+page 13	Russians Under Vichy.
+page 13	Parachuting Gunners' Tense Moments.
+page 13	RECAPTURE OF FOOCHOW.
+page 15	Vindication Fight Wearies 'American Dreyfuss.' 85.
+page 15	Evidence Declared Secret.
+page 15	Accuses "Political Forces".
+page 15	Wearying Fight.
+page 15	Captured British Generals Tend Vegetable Garden.
+page 15	DUKE AIDS POOR OF BAHAMAS.
+page 15	Legislature Opposes.
+page 15	Not Satisfied.
+page 16	This Morning's Inquiry Evidence.
+page 16	Only Specialists.
+page 16	Kowloon Work.
+page 16	Sleepers Purchased.
+page 16	Estimates Made.
+page 16	BERLIN CA'T TAKE IT.
+page 16	Crash Over Sweden.
+page 16	Fewer Cars To Be Made In Canada.
+page 16	Japanese Leave India.
+page 16	ENEMY CONVY ATTACKED.
+page 16	Vessel Left Sinking.
+page 16	Back For More.
+page 16	Eye-Witness Stories Of Berlin Raid.
+page 16	Intense Barrage.
+page 16	Alexander Platz.
+page 16	Received A Hit.
+page 16	Wellington Bomber.
+page 16	U.S. To Produce Synthetic Rubber.
+page 17	MR CARMAN TELLS OF "ARRANGEMENT" FOR OVERLOADING TRUCKS.
+page 17	ENEMY CONVOY ATTACKED.
+page 17	Two Ships Badly Damaged.
+page 17	SPITFIRE SINKS A FLAK SHIP.
+page 17	Bomber Fund Car Badges Sale.
+page 17	Authors To Aid China.
+page 17	Chinese Dollar Now Blocked Currency.
+page 17	Direct Order.
+page 17	Only Specialists.
+page 17	Kowloon Work.
+page 17	Hopkins Meets Stalin.
+page 17	Allied Forces Land And Take Spitsbergen In The Arctic.
+page 17	Nazis Recruit Chinese Seamen for Raiders.
+page 17	Japan Faces Isolation In Far East.
+page 17	Develop Hostile Feeling.
+page 17	Mr Campbell Doing "Very Nicely".
+page 17	More Divisions Against Russia: Threat to Turkey.
+page 17	Exchange Of Nationals.
+page 17	Pressure On Turkey.
+page 17	Raeder's Visit.
+page 17	Officers For Burma Army.
+page 17	H.K. Manning Exercises: Landings Repulsed.
+page 17	Footing On Island.
+page 18	Getting Britons Out Of Japan.
+page 18	Eye-witness Stories Of The Berlin Raid.
+page 18	Battle With Fighter.
+page 18	Intense Barrage.
+page 18	Alexander Platz.
+page 18	Received A Hit.
+page 18	Wellington Bomber.
+page 18	Man-Power In Armed Forces And Industry.
+page 18	Aircraft Experts.
+page 18	Skilled Labour.
+page 18	INCOME OF JAPAN.
+page 18	Reds Remove Their Germans.
+page 18	AERODROMES OF MALAYA.
+page 18	Indians' New Duties.
+page 18	CHINESE SEAMEN UNEMPLOYED HERE.
+page 18	How Nazis Are Taking The War.
+page 18	Brutality Of S. S. Men.
+page 18	Himmler's Victory.
+page 18	Financial Instability.
+page 18	AUSTRALIAN'S CALL ON QUO.
+page 18	Norden Bomber Sight Betrayed To Nazis In 1938.
+page 18	Trial of Spies in U.S.
+page 18	Fewer Cars To Be Made In Canada.
+page 18	U.S. To Produce Synthetic Rubber.
+page 18	Britain's Larder Well Stocked.
+page 18	Record For Century.
+page 19	Finns Threaten Important Soviet Supply Routes.
+page 19	Moscow Remains Silent.
+page 19	Ring Round Leningrad.
+page 19	Japanese Imprisoned As A Spy.
+page 19	Thai Teachers Exhorted.
+page 19	Defence of Fatherland.
+page 19	FRENCH PATRIOT SHOT BY NAZIS.
+page 20	RUSSIANS KNOW HOW TO USR RIFLES.
+page 20	Paratroop Units.
+page 21	INQUIRY IS NO REFLECTION ON MR CARMAN'S WORK, SAYS CHAIRMAN.
+page 21	Sleepers Purchased.
+page 21	Estimates Made.
+page 21	Nothing Done.
+page 21	Payments For Dynamite.
+page 21	For Office Record.
+page 21	Transportation.
+page 21	Very Efficient.
+page 21	Onus On P.W.D.
+page 21	Blasting Causes Damage.
+page 21	Cost Of Coolie Hire.
+page 21	Five Dozen Lead Pencils.
+page 21	Ambulance Fee.
+page 21	Payment To Auditors.
+page 21	Understanding With Govt.
+page 21	Winking At The Law.
+page 21	Bills For Watchmen.
+page 21	Twice Charged For.
+page 21	Widow's Compensation.
+page 21	Examination Ends.
+page 21	Work Done Well.
+page 21	Demand With Menaces Charge.
+page 23	Cunningham Gives Facts Of Campaign.
+page 23	Claim Ridiculed.
+page 23	N. Z. Premier In Honolulu.
+page 23	BERLIN PREDICTS U.S-REICH WAR.
+page 23	Berlin Can't Take It: Call RAF Raid A "Lousy Trick".
+page 23	R.A.F. Lose 20 Planes.
+page 23	Crash Over Sweden.
+page 23	Parachuting Gunners' Tense Moments.
+page 23	RECAPTURE OF FOOCHOW.
+page 23	China's Place In The Sun.
+page 23	Australian Support.
+page 23	Japanese Evacuees From Philippines.
+page 23	Handling Of Greer Story By Nazis.
+page 23	Hew To The Line.
+page 23	German Abuse.
+page 23	Tokyo Sums Up.
+page 23	GALUP POLL IN U. S. A. ON JAPAN.
+page 23	Windsor Travels.
+page 23	Duff Cooper Explains Diplomatic Set-Up.
+page 23	Russians Under Vichy.
+page 23	Japanese Leave India.
+page 23	.
+page 24	Nazis Use More Div. Against Russia.
+page 24	Heavy Fighting.
+page 24	Germans Lost A Town.
+page 24	Counter-Attacks Admitted.
+page 24	European-Policeman Again Remanded.
+page 24	Chungking Has No Apprehensions.
+page 24	Laval Questioned.
+page 24	ENEMY CONVOY ATTACKED.
+page 24	Vessel Left Sinking.
+page 24	Back For More.
+page 24	No Motorcycles In Bermuda.
+page 24	U.S. Device To Help Sea Rescue.
+page 24	Present Drawback.
+page 24	SHANGHAI SHOOTING.
+page 24	Iran Still Withholds Reply To Allies' Note.
+page 24	Parliament In Session.
+page 24	Wants Legations Closed.
+page 24	Paris Jews Arrested.
+page 24	Latest Nazi Action.

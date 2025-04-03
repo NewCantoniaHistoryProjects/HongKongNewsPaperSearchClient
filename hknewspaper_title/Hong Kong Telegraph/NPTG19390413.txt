@@ -1,0 +1,278 @@
+page 1	MUSSOLINI TAKES STEPS TO HALT WAR MACHINE.
+page 1	8,000,000 MEN ARE UNDER ARMS AS EUROPE MOBILISES.
+page 1	Hitler's Polish Demands.
+page 1	Cession Of Danzig, Other Territory.
+page 1	New C. In C. For East Indies.
+page 1	BRITISH CREDIT TO CHINA.
+page 1	Another 3,000,000 Pounds Earmarked.
+page 1	Gold Flows To United States Record Movements Since Czech Crisis.
+page 1	Joint Anglo French Policy.
+page 1	CHAMBERLAIN'S DECLARATION.
+page 1	St. John
+page 1	Lt. John
+page 1	King Victor "Offered" Crown of Albania.
+page 1	Settlement Reports Said Premature.
+page 1	Chinese Launch Attacks.
+page 1	Shansi And Honan Offensives.
+page 1	HUNGARY WANTS CROATIA.
+page 1	Hudson's Visit Delayed.
+page 2	Crown Prlnce Frederlk
+page 2	Crown Prlncess Ingrid
+page 2	Doesn't Know What To Do With Fortune.
+page 2	URSULA JEANS ARRESTED.
+page 2	EMPIRE NEWS.
+page 2	ANTI-NAZI PARTY IN S.W AFRICA.
+page 2	AUSTRALIA.
+page 2	LOUD SPEAKERS AID SURF RESCUES.
+page 2	NEW ZEALAND.
+page 2	SCOTTISH REGIMENT TO BE FORMED.
+page 2	S. Johnson
+page 2	'Phone Threat To Relative Of Dr. Benes.
+page 2	Two Recoveries.
+page 2	'Tiger Girl' Is Left Fortune.
+page 2	No Drinks If Clad Only In Swimsuit.
+page 3	Hare
+page 3	Duchess
+page 3	Puzzle Of Held-Up Air Films.
+page 3	1,000,000 Pounds TO CHARITY.
+page 3	Gifts Of "Sleeping Car King's" Widow.
+page 3	A.R.P. MOTHERS.
+page 3	Port Boycotts German Warships.
+page 3	London's First Air-raid Shelters.
+page 3	Max Miller In Stage Gag Dispute.
+page 3	THE TOO-TALL GUARDSMAN.
+page 4	EMPIRE NEWS.
+page 4	TIMBER LOSSES IN AUSTRALIA.
+page 4	SOUTHERN RHODESIA.
+page 4	RAIN DAMAGE TO TOBACCO CROP.
+page 4	INDIA.
+page 4	CONTROL OF RENTS EXPECTED.
+page 4	Round The World By Aeroplane.
+page 4	"Petting-Park" Operator.
+page 4	UGANDA.
+page 4	EARTHQUAKE-PROOF CHURCH.
+page 5	GREAT BRITAIN CHANGES FRONT.
+page 5	Comment By Visiting Economist.
+page 5	FACING REALITIES.
+page 5	City Guilty, Is Fined.
+page 5	BRIDE IN BROCADE.
+page 5	HONGKONG REFUGEES
+page 5	Latest Position in The Government Camps.
+page 5	A Look Through The "Telegraph."
+page 5	NEWS IS KNOWLEDGE.
+page 5	"Tough Boy" Fights P.C.s
+page 5	TALENT DISPLAYED.
+page 5	Maryknoll Students In Pianoforte Recital.
+page 6	Liberty or Life?
+page 6	THIS IS SPAIN'S LESSON FOR HONGKONG.
+page 6	"Gentlemen, Your Directors Have Decided"...
+page 7	OPEN HOSTILITY.
+page 7	Australian Tells Of Japanese Tour.
+page 7	The European Situation.
+page 7	MOMENTARY LULL IN CRISIS.
+page 7	Shanghai.
+page 7	SUSPECTED ASSASSIN ARRESTED.
+page 7	SESSIONS CASES.
+page 7	Three Men to be Arraigned On Murder Charges.
+page 7	British Statesmen Confer.
+page 7	PLOT TO SIIOOT HITLER.
+page 7	Shanghai Footballer Drinks Lysol.
+page 7	GALA PERFORMANCE.
+page 7	"Kidnapped" to be Shown In Aid Of Children.
+page 7	Spelling Bee.
+page 7	Italy Assures Greece.
+page 7	Jordan Baptismal Held.
+page 9	ENGLAND DEFEATS SCOTLAND AT HOCKEY.
+page 9	ODD GOAL VICTORY IN AN INTERNATIONAL TOURNAMENT MATCH.
+page 9	PORTUGAL ENTERS FINAL.
+page 9	Chinese Lost To Powerful Indian Team.
+page 9	LOCAL YACHTING.
+page 9	True-Blue Wins Sweepstake Race.
+page 9	LEAGUE FOOTBALL Runners Up Match Not Played yesterday.
+page 9	Just One Egg To Another.
+page 9	Advice To Left Back And The Left Half.
+page 9	RANDOM JOTTINGS BY "THE PILGRIM".
+page 9	Science Defends Spinach.
+page 11	Mr. Do La Rama
+page 11	Master Jose.
+page 12	CHINESE RTAKE FAHSIEN.
+page 12	French Fleet Mobilised.
+page 12	British Troops Pour Into Egypt.
+page 12	Visitor Robbed At Hotel.
+page 12	HITLER GOES GAY, GETS A WAISTLINE.
+page 12	A Policeman's Lot.
+page 13	MUSSOLINI TAKES STEPS TO HALT WAR MACHINE.
+page 13	8,000,000 MEN ARE UNDER ARMS AS EUROPE MOBILISES.
+page 13	Dictators' Demands In Europe.
+page 13	Cession Of Danzig, Other Territory.
+page 13	OPTIMISM CHASING JITTERS.
+page 13	Calmer Tone In European Capitals.
+page 13	Joint Anglo French Policy.
+page 13	CHAMBERLAIN'S DECLARATION.
+page 13	St. John
+page 13	Lt. John
+page 13	Royal Artillery
+page 13	Miss Margaret Tod
+page 13	King Victor "Offered"
+page 13	Crown of Albania.
+page 13	PALESTINE PROBLEM.
+page 13	Settlement Reports Said Premature.
+page 13	Chinese Launch Attacks.
+page 13	Shansi And Honan Offensives.
+page 13	Hudson's Visit Delayed.
+page 14	Crown Prince Frederlk
+page 14	Crown Princess ingrid.
+page 14	Doesn't Know What To Do With Fortune.
+page 14	URSULA JEANS ARRESTED.
+page 14	ANTI-NAZI PARTY IN S.W. AFRICA
+page 14	LOUD SPEAKERS AID SURF RESCUES.
+page 14	SCOTTISH REGIMENT TO BE FORMED.
+page 14	S. Johnson.
+page 14	'Phone Threat To Relative Of Dr. Benes.
+page 14	'Tiger Girl' Is Left Fortune.
+page 14	Two Recoveries.
+page 14	No Drinks If Clad Only In Swimsuit.
+page 15	Puzzle Of Held-Up Air Films.
+page 15	1,000,000 Pounds TO CHARITY.
+page 15	Gifts Of "Sleeping Car King's" Widow.
+page 15	A.R.P. MOTHERS.
+page 15	Port Boycotts German Warships.
+page 15	London's First Air-raid Shelters.
+page 15	THE TOO-TALL GUARDSMAN.
+page 15	Max Miller In Stage Gag Dispute.
+page 16	8,000,000 MEN ARE UNDER ARMS AS EUROPE MOBILISES.
+page 16	New C. In C. For East Indies.
+page 16	CHINESE LAUNCH ATTACKS.
+page 16	DICTATORS' DEMANDS IN EUROPE.
+page 17	GREAT BRITAIN CHANGES FRONT.
+page 17	Comment By Visiting Economist.
+page 17	FACING REALITIES
+page 17	City Guilty, Is Fined.
+page 17	BRIDE IN BROCADE.
+page 17	Licut.J.W.D.Symons Weds Miss M.E.Tod.
+page 17	HONGKONG REFUGEES.
+page 17	Latest Position in The Government Camps.
+page 17	A Look Through The "Telegraph."
+page 17	NEWS IS KNOWLEDGE.
+page 17	"Tough Boy" Fights P.C.s,
+page 17	TALENT DISPLAYED.
+page 17	Maryknoll Students In Pianoforte Recital.
+page 18	Liberty or Life?
+page 18	THIS IS SPAIN'S LESSON FOR HONGKONG.
+page 18	"Gentlemen, Your Directors Have Decided"...
+page 19	OPEN HOSTILITY.
+page 19	Australian Tells Of Japanese Tour.
+page 19	The European Situation
+page 19	MOMENTARY LULL IN CRISIS.
+page 19	Shanghai
+page 19	SUSPECTED ASSASSIN ARRESTED.
+page 19	SESSIONS CASES.
+page 19	Three Men to be Arraigned On Murder Charges.
+page 19	British Statesmen Confer.
+page 19	PLOT TO SHOOT HITLER.
+page 19	Shanghai Footballer Drinks Lysol.
+page 19	GALA PERFORMANCE.
+page 19	"Kidnapped" to be Shown In Aid of Children.
+page 19	Spelling Bee.
+page 19	Italy Assures Greece.
+page 19	Jordan Baptismal Held.
+page 23	Mr. Do la Rama
+page 23	Master Jose
+page 23	Misses Vivienne
+page 23	Julia lngram
+page 23	DORADO ARRIVALS.
+page 23	Famous Tree Surgeon's Family in Colony.
+page 24	Gold Flows To United States.
+page 24	Record Movements Since Czech Crisis.
+page 24	KING VICTOR "OFFERED" CROWN OF ALBANIA.
+page 24	Round The World By Aeroplane.
+page 24	BRITISH CREDIT TO CHINA.
+page 24	Another 3,000,000 Pounds Earmarked.
+page 24	Queen Geraldine Out Of Danger.
+page 24	New Belgian Cabinet To Be Formed.
+page 24	U.S. Makes Big Arms Sales.
+page 24	Visitor Robbed At Hotel.
+page 25	MUSSOLINI TAKES STEPS TO HALT WAR MACHINE.
+page 25	8,000,000 MEN ARE UNDER ARMS AS EUROPE MOBILISES.
+page 25	Dictators' Demands In Europe.
+page 25	Cession Of Danzig, Other Territory.
+page 25	OPTIMISM CHASING JITTERS.
+page 25	Calmer Tone In European Capitals.
+page 25	KING AND QUEEN TAKE REFUGE IN DUG-OUT.
+page 25	Joint Anglo French Policy.
+page 25	CHAMBERLAIN'S DECLARATION.
+page 25	St. John
+page 25	Lt. John
+page 25	Royal Artillery
+page 25	Miss Margaret Tod
+page 25	King Victor "Offered" Crown of Albania.
+page 25	PALESTINE PROBLM.
+page 25	Settlement Reports Said Premature.
+page 25	Chinese Launch Attacks.
+page 25	Shansi And Honan Offensives.
+page 25	RIFLE CLUB RESULTS.
+page 25	GNEVA PRECAUTIONS.
+page 26	Crown Prince Erederlk 
+page 26	Crown Princess Ingrid
+page 26	Doesn't Know What to Do With Fortune.
+page 26	URSULA JEANS ARRESTED.
+page 26	ANTI-NAZI PARTY IN S.W. AFRICA.
+page 26	LOUD SPEAKERS AID SURF RESCUES.
+page 26	SCOTTISH REGIMENT TO BE FORMED.
+page 26	Hugh S. Johnson
+page 26	'Phone Threat To Relative Of Dr. Benes.
+page 26	Two Recoveries.
+page 26	'Tiger Girl' Is Left Fortune.
+page 26	No Drinks If Clad Only In Swimsuit.
+page 27	Puzzle Of Held-Up Air Films.
+page 27	1,000,000 Pounds TO CHARITY
+page 27	Gifts Of "Sleeping Car King's" Widow.
+page 27	U.S. Makes Big Arms Sales.
+page 27	New C. In C. For East Indies.
+page 28	JOINT ANGLO-FRENCH POLICY.
+page 28	CHINESE LAUNCH ATTACKS.
+page 28	DICTATORS' DEMANDS IN EUROPE.
+page 28	8,000,000 MEN ARE UNDER ARMS AS EUROPE MOBILISES.
+page 29	THE SUFFICIENCY OF LOCAL WATERBOATS.
+page 29	Emphasised At Company's Meeting.
+page 29	SUBMARINE BASES ON HONGKONG ROUTES.
+page 29	Real Summer Weather For Hongkong.
+page 29	Royal Visit to Canada.
+page 29	SOLDIER SET ON BY FOUR MEN.
+page 29	Terrific Fight On A Stairway in Wanchai.
+page 29	"A Very Mean Theft."
+page 29	A Look Through The "Telegraph."
+page 29	NEWS IS KNOWLEDGE.
+page 29	Many Thefts Reported.
+page 29	BRITISH CREDIT TO CHINA.
+page 29	Another 3,000,000 Pounds Earmarked.
+page 29	Yankee Clipper To Return.
+page 29	The Benefits Of Modern Speed.
+page 29	Queen Mary In East End.
+page 30	Liberty or Life?
+page 30	THIS IS SPAIN'S LESSON FOR HONGKONG.
+page 30	"Gentlemen, Your Directors Have Decided"...
+page 31	RUSSIA READY TO DEFEND TWO FRONTS.
+page 31	Stiffening In Far Eastern Policy Likely BIGGER AID FOR CHIANG KAI-SHEK.
+page 31	German Soldiers Swear Blind Obedience.
+page 31	U.S. POLITICIALNS SPLIT OVER NEUTRALITY ISSUE.
+page 31	Hudson's Visit Delayed.
+page 31	Hongkong's Part In Study Of Nutrition.
+page 31	Spelling Bee.
+page 31	New Belgian Cabinet To Be Formed.
+page 31	Brighter Sentiment On Stock Market.
+page 31	Dr. Goebbels In Turkey.
+page 31	World Is Building 716 New Vessels.
+page 31	GERMAN CLAIMS IN ANTARCTIC.
+page 31	Five Cargo Liners.
+page 31	Swedish Company's New Programme.
+page 31	Woman Loses Handbag.
+page 35	Mr. Do Lo Rama
+page 35	Don Estoban
+page 35	Master Jose Melgarjo
+page 35	Misses Vivionne
+page 35	Julia ingram
+page 36	Shanghai.
+page 36	SUSPECTED ASSASSIN ARRESTED.
+page 36	Police Clean Up Two Year Old Mysteries.
+page 36	A Policeman's Lot.

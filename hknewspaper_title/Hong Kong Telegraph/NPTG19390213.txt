@@ -1,0 +1,284 @@
+page 1	MADRID HEAVILY BOMBARDED BY INSURGENT ARTILLERY.
+page 1	200,000 Mourners File Past Bier.
+page 1	CARDINALS PREPARE TO TAKE VOTE.
+page 1	Task Of Choosing The New Pontiff.
+page 1	CENTURIES OLD USAGE.
+page 1	British Ambassador Leaves Peiping.
+page 1	Cordell Hull's Warning Talk.
+page 1	MINORCA INCIDENT HAS REPERCUSSIONS.
+page 1	CATHOLIC LEADER FORMS MINISTRY.
+page 1	Jaspar Given Task By King Leopold.
+page 1	Quiet Prevails On Hainan.
+page 1	Japanese Claim Full Success For Troops.
+page 1	French Pilots.
+page 1	Fifty Coming Out To Fight For China.
+page 1	Lord Gort Returns To Egypt.
+page 1	Four Dead In New Palestine Outrages.
+page 1	Island Without A Traffic Cop.
+page 1	U.S. NAVY MASSES FOR WAR GAMES.
+page 1	FIRST IN ATLANTIC.
+page 1	"WHITE" INVADERS.
+page 1	SINGAPORE LOSS WOULD ENDANGER WHOLE EMPIRE.
+page 1	MERCHANT SHIPS AND NAVY.
+page 1	VITAL TRADE ROUTES.
+page 1	SUPREMACY VITAL.
+page 1	JAPANESE OFFENSIVE AGAINST GUERILLAS.
+page 1	KULING FOREIGNERS.
+page 1	Japanese Take Over Maritime Customs.
+page 1	AUSTRALIAN AIR FORCE.
+page 3	Washer Admits Luck.
+page 3	Shirley's Bodyguard.
+page 3	MOSLEMS OPPOSED TO FEDERATION.
+page 3	SUCCESS OF OIL DEVELOPMENT.
+page 3	PROBLEM OF INDIAN "ENCROACHMENT".
+page 3	STRANDED SURVEY PARTY.
+page 3	WATCH WITHSTANDS PLOWING.
+page 4	U.S. NAVY MASSES FOR WAR GAMES.
+page 4	SINGAPORE LOSS WOULD ENDANGER WHOE EMPIRE.
+page 4	INJURED MAN IN HOSPITAL.
+page 4	Doukhobor Sect Loses Spiritual Head.
+page 4	Representative Attendance At Funeral.
+page 4	RUSSIAN FUNCTION.
+page 7	Doors Closed On Mourners.
+page 7	Prepared for Death.
+page 7	Funeral Musses.
+page 7	SUPPORT FOR FRANCO.
+page 7	Straits Governor's Indo China Visit.
+page 7	SECRET AMERICAN PLANE.
+page 7	German Battleship To Be Launched.
+page 7	CARIBBEAN SEA EXERCISES.
+page 7	FOREIGN PLANES OVER GUAM.
+page 7	NEUTRALITY VIOLATION.
+page 7	GERMAN BATTLESHIP.
+page 7	QUESTION OF NATIONAL DEFENCE IN CREAT BRITAIN.
+page 7	BRITAIN ASKS FOR EXPLANATION OF MINORCA BOMBING.
+page 7	Non-Intervention Expenses.
+page 7	Committee to Meet.
+page 7	Still Need for Food.
+page 7	ON LECTURE TOUR.
+page 7	EMERGENCY MEASURES.
+page 7	DEFECNE OF PAPUA.
+page 7	Extraordinary Impression.
+page 7	Explanation Demanded.
+page 7	Recognition Issue.
+page 12	NO CASE TO ANSWER.
+page 12	Broker Discharged In Silk Case.
+page 12	Loss Of Hoihow Described.
+page 12	Eden May Re-Join Cabinet.
+page 13	MADRID HEAVILY BOMBARDED BY INSURGENT ARTILLERY.
+page 13	200,000 Mourners File Past Bier.
+page 13	CARDINALS PREPARE TO TAKE VOTE.
+page 13	Task Of Choosing The New Pontiff.
+page 13	CENTURIES OLD USAGE.
+page 13	CHIANG'S CONDOLENCES.
+page 13	Cordell Hull's Warning Talk.
+page 13	MINORCA INCIDENT HAS REPERCUSSIONS.
+page 13	FALL OF MINORCA.
+page 13	First Details Of Franco's Coup.
+page 13	COMPLETE DISORDER.
+page 13	LLIVIA FALLS.
+page 13	EIRE RECOGNISES FRANCO.
+page 13	SWITZERLAND ALSO.
+page 13	Deer And Kangaroo.
+page 13	Island Without A Traffic Cop.
+page 13	DOIHARA'S IGNOBLE FAILURE.
+page 13	Efforts To "Convert" Wu Pei-fu.
+page 13	Fire Wrecks Birmingham Music Hall.
+page 13	28 Dead In Burma Riots.
+page 13	CHIANG LAUNCHES BIG OFFENSIVE ON HUNAN'S FRONTS.
+page 13	JAPANESE ENCIRCLED.
+page 13	JAPANESE TO ATTACK KULING WITH GAS?
+page 13	SAMSHUI THRUST BEATEN BACK.
+page 13	GUERILLA ACTIVITIES.
+page 13	Quiet Prevails On Hainan.
+page 13	Japanese Claim Full Success For Troops.
+page 13	LOSS OF HOIHOW DESCRIBED.
+page 13	Awful Madrid Air Raid.
+page 13	AUSTRALIAN AIR FORCE.
+page 13	Expansion Now Ahead of Schedule.
+page 14	TAKING THE "STING" OUT OF MATHEMATICS.
+page 14	Baby Under Glass Is Getting Better.
+page 14	Missouri Keeps Old Law.
+page 14	Farm Girls May Set Hat Style.
+page 14	Colonel Follows Wife's Footsteps In Snow.
+page 14	Blondes Backed By Psychology.
+page 14	UNBOLTED WINDOW.
+page 14	A SIMILAR NOTE.
+page 14	Rabbit Thief Concurs.
+page 15	Washer Admits Luck.
+page 15	Shirley's Bodyguard.
+page 15	MOSLEMS OPPOSED TO FEDERATION.
+page 15	SUCCESS OF OIL DEVELOPMENT.
+page 15	PROBLEM OF INDIAN "ENCROACHMENT".
+page 15	STRANDED SURVEY PARTY.
+page 15	WATCH WITHSTANDS PLOWING.
+page 16	British Ambassador Leaves Peiping.
+page 16	U.S. NAVY MASSES FOR WAR GAMES.
+page 16	FIRST IN ATLANTIC.
+page 16	EXTENSIVE AIR RAIDS.
+page 16	Japanese Continue Mass Terror.
+page 16	PAKHOI AND HOPPO RAIDED.
+page 16	CHIANG LAUNCHES BIG OFFENSIVE ON HUAN'S FRONTS.
+page 16	ATTACK NEAR KULING REPULSED.
+page 16	JAPANESE SHELL CHINESE.
+page 16	OFFENSIVE AGAINST GUERILLAS.
+page 16	KULING FOREIGNERS.
+page 16	AIR ARM BEATEN AT MACAO.
+page 16	CATHOLIC LEADER FORMS MINISTRY.
+page 16	Jaspar Giver Task By King Leopold.
+page 16	Four Dead In New Palestine Outrages.
+page 16	NEW LOCAL DENTIST.
+page 16	QUIET PREVAILS ON HAINAN.
+page 16	JAPANESE TAKE OVER MARITIME CUSTOMS.
+page 16	Hockey Club Sides For The Week.
+page 16	JUNIOR TEAM.
+page 16	Lord Gort Returns To Egypt.
+page 19	Doors Closed On Mourners.
+page 19	Prepared for Death.
+page 19	Funeral Masses.
+page 19	SUPPORT FOR FRANCO.
+page 19	Straits Governor's Indo China Visit.
+page 19	SECRET AMERICAN PLANE.
+page 19	German Battleship To Be Launched.
+page 19	CARIBBEAN SEA EXERCISES.
+page 19	FOREIGN PLANES OVER GUAM.
+page 19	NEUTRALITY VIOLATION.
+page 19	GERMAN BATTLESHIP.
+page 19	QUESTION OF NATIONAL DEFENCE IN GREAT BRITAIN.
+page 19	BRITAIN ASKS FOR EXPLANTION OF MINORCA BOMBING.
+page 19	Non-Intervention Expenses.
+page 19	Committee to Meet.
+page 19	Still Need for Food.
+page 19	ON LECTURE TOUR.
+page 19	EMERCENCY MEASURES.
+page 19	DEFENCE OF PAPUA.
+page 19	Extraordinary Impression.
+page 19	Explanation Demanded.
+page 24	SINGAPORE LOSS WILL ENDANGER WHOLE EMPIRE.
+page 24	MERCHANT SHIPS AND NAVY.
+page 24	VITAL TRADE ROUTES.
+page 24	SUPREMACY VITAL.
+page 24	LECTURE AT Y.M.C.A.
+page 24	Asama Maru Coming.
+page 24	First Ship In Revived N.Y.K. Schedule.
+page 25	"GREATEST AIR RAID YET" AS FRANCO BOMBS MADRID.
+page 25	200,000 MOURNERS FILE PAST BELOVED POPE.
+page 25	53 Japanese Vessels Now Off S. Kwangtung Coast.
+page 25	France And Far East Seen.
+page 25	Shots Fired At Meeting.
+page 25	GUNS ALSO POUND STRICKEN CAPITAL.
+page 25	Artillery Bombardment.
+page 25	LIVIA FALLS.
+page 25	EIRE RECOGNISES FRANCO.
+page 25	SWITZERLAND ALSO.
+page 25	GERMANY PREPARES FOR CRISIS.
+page 25	Army Preparations Accelerated.
+page 25	ZBW Appeals To Kuling.
+page 25	Attempt To Contact Residents By Radio.
+page 25	Japan Tells France Why.
+page 25	Arita Explains Hainan Action To Envoy.
+page 25	Quiet Prevails On Hainan.
+page 25	Japanese Claim Full Success For Troops.
+page 25	LOSS OF HOIHOW DESCRIBED.
+page 25	JAPANESE TAKE OVER MARITIME CUSTOMS.
+page 25	R.A. CAPTAIN, ON ASSAULT CHARGE, SAYS MEN "LIARS".
+page 25	Conflicting Evidence In Remarkable Case.
+page 25	STRUCK BY GUNNER.
+page 25	CAPTIN'S STATEMENT.
+page 25	Court Considers Sentence.
+page 25	SMALL-POS SUSPECTED.
+page 25	American Sailor on President Liner.
+page 26	WHEN AMERICANS WOULD GO TO WAR: BALLOT SHOWS
+page 26	GOVERNOR OF MACAO.
+page 26	Informal Visit To Hongkong.
+page 26	Girl Overboard In Channel.
+page 26	Nationwide Survey By Magazine.
+page 26	Asama Maru Coming.
+page 26	First Ship In Revived N.Y.K. Schedule.
+page 26	Singapore Threat In Hainan Coup.
+page 26	MERCHANT SHIPS AND NAVY.
+page 26	VITAL TRADE ROUTES.
+page 26	SUPREMACY VITAL.
+page 26	AUSTRALIAN AIR FORCE.
+page 26	Expansion Now Ahead of Schedule.
+page 27	Cordell Hull's Warning Talk.
+page 27	Fire Wrecks Birmingham Music Hall.
+page 27	CONSTANT PROCESSION OF MOURNERS IN ST. PETER'S.
+page 27	CARDINALS PREPARE TO TAKE VOTE.
+page 27	Task Of Choosing The New Pontiff.
+page 27	CENTURIES OLD USAGE.
+page 27	RICH AND POOR FILE PAST BODY OF POPE PIUS XI.
+page 27	ITALIAN TROOPS ON GUARD.
+page 27	RAGGED CLOTHES.
+page 27	CRIED AND WEPT.
+page 27	200,000 MOURNERS FILE PAST BIER.
+page 27	CHIANG'S CONDOLENCES.
+page 27	COWARDLY ASSAULT.
+page 27	Incident Which Led To Police Officer Shooting.
+page 28	ATHENS PLANTS HALF MILLION TREES.
+page 28	Mobilisation Reports.
+page 28	REPORT DENIED.
+page 28	CHINAG LAUNCHES BIG OFFENSIVE ON HUNAN FRONT: JAPANESE IN RETREAT.
+page 28	LONG STALEMATE ENDS AS GUNS ROAR SOUTH OF YOYANG.
+page 28	EXTENSIVE AIR RAIDS.
+page 28	Japanese Continue Mass Terror.
+page 28	PAKHOI AND HOPPO RAIDED.
+page 28	JAPANESE ENCIRCLED.
+page 28	JAPANESE TO ATTACK KULING WITH GAS.
+page 28	SAMSHUI THRUST BEATEN BACK.
+page 28	GUERILLA ACTIVITIES.
+page 28	ATTACK NEAR KULING REPULSED.
+page 28	JAPANESE SHELL CHINESE.
+page 28	OFFENSIVE AGAINST GUERILLAS.
+page 28	KULING FOREIGNERS.
+page 28	Disastrous Floods In South Africa.
+page 28	LECTURE AT Y.M.C.A.
+page 29	Court Martial Aboard Cruiser Ends Thefts.
+page 29	GARDEN ROAD PATH.
+page 29	Government Improving Safety Provisions.
+page 29	Application To Postpone Returns.
+page 29	OUT OF GAOL, BACK AGAIN.
+page 29	Witnesses "Liars": Officer's Claim In Defence At Court Martial.
+page 29	STRUCK ON MOUTH.
+page 29	HELD BIM TIGRTLY.
+page 29	"HE GOT EXCHED".
+page 29	NOSE WAS BLEEDING.
+page 29	EXPRESION ON HIS FACE.
+page 29	BOTH LIARS.
+page 29	HANDBAG SNATCHING.
+page 29	Man Pleads Poverty As Excuse.
+page 31	JAPANESE HILP IN CLEANING UP SHANGHAI GANGS IS REQUESTED.
+page 31	Municipal Council Issues Pointed Statement.
+page 31	Physical Training Camp Here To Be Re-organised.
+page 31	EMERGENCY REFUGEE COUNCIL.
+page 31	FALL OF MINORCA.
+page 31	First Details Of Franco's Coup.
+page 31	COMPLETE DISORDER.
+page 31	Island Without A Traffic Cop.
+page 31	CATHOLIC LEADER FORMS MINISTRY.
+page 31	Jaspar Given Task By King Leopold.
+page 31	Sword Swallower In Colony.
+page 31	"Divine Guidance" For Japanese Force In The Hainan Is. Landing!
+page 31	GUERILLAS' 158 FIGHTS DURING JAUARY.
+page 31	TREASON BLAMED.
+page 31	Loyalist Collapse In Catalonia.
+page 31	CABINET MEETS.
+page 31	DOIHARA'S IGNOBLE FAILURE.
+page 31	Efforts To "Convert" Wu Pei-fu.
+page 31	New Maersk Ship Pleases Passengers.
+page 34	FUNCTIONS FOF OFFCERS OF SUB.
+page 34	H.M.S. Phoenix At Zamboanga.
+page 34	Temperature Soars During Week-End.
+page 34	British Ambassador Leaves Peiping.
+page 34	Lord Gort Returns To Egypt.
+page 34	Four Dead In New Palestine Outrages.
+page 35	Entries For Badminton Tournament.
+page 35	Only Five For Men's Senior Singles.
+page 35	MEGAN TAYLOR RETAINS HER SKATING TITLE.
+page 35	No Decision Reached In Boxing Bout.
+page 35	AIR ARM BEATEN AT MACAO.
+page 36	U.S. ARMADA MASSES FOR MANOEUVRES IN ATLANTIC.
+page 36	Fleets In Caribbean Sea Area.
+page 36	FIRST IN ATLANTIC.
+page 36	14-Years In Prison.
+page 36	Army Officer Admits Police Shooting.

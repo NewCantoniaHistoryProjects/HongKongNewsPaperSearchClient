@@ -1,0 +1,193 @@
+page 1	DESPERATE DEFENCE.
+page 1	Rebels Meet Fierce Resistance.
+page 1	LEFTISTS LOOKING TO RUSSIA FOR AID.
+page 1	Looking To Russia.
+page 1	Aid For Leftists.
+page 1	Swift New Thrust.
+page 1	Attack Postponed.
+page 1	Heavy Loss In Typhoon.
+page 1	UNKNOWN NUMBER OF VICTIMS.
+page 1	BIG SHIPS DELAYED.
+page 1	FIERCE ANGER AGAINST FRANCE.
+page 1	GERMANY RESENTS THOREZ CHARGES.
+page 1	Await Blum's Move.
+page 1	"Guns Instead Of Butter."
+page 1	ENEMIES MUST BE "EXTERMINATED."
+page 1	RACERS DUE IN COLONY.
+page 1	TWO PLANES NOW EN ROUTE HERE.
+page 1	SIR GODFREY COLLINS ILL.
+page 1	Nazi Foreign Policy Soon May be Known.
+page 1	MONETARY ACCORD COMPLETE.
+page 1	EXCHANGE OF GOLD PART OF PLAN.
+page 1	STABILISATION IS AIM.
+page 1	STERLING STILL FREE.
+page 1	SOUNDEST SYSTEM.
+page 1	BRITAIN DENIES INVOKING TREATY.
+page 1	ANSWER TO JAPAN PRESS CHARGES.
+page 1	MAKE NO COMMENT.
+page 1	NOT APPROACHED.
+page 1	NEW DEAL WINS NEW HEARING.
+page 1	UPON LEGALITY OF SILVER TAXES.
+page 1	SEEKS TO UPSET JUDGMENTS.
+page 1	New Planes Coming Out To Singapore.
+page 1	TYPHOON RECURVES.
+page 1	NAVAL PACTS IN DANGER.
+page 1	Germany Objecting To Auglo-Soviet Accord.
+page 1	WHOLE OF LIMITATION SCHEME THREATENED.
+page 1	Peace Over Palestine.
+page 1	RULERS APPPEALS BRING RESULTS.
+page 1	ARAB PRESS JUBILANT.
+page 1	Demonstrators Warned.
+page 1	ATTACKS ON POLICE ARE INTOLERABLE.
+page 1	ARTIFICIAL WOOL FACTORY.
+page 1	GERMANY'S LATEST VENTURE.
+page 3	MY ROMANCE: By Princess Juliana Escaped From Devil's Island.
+page 3	MURDERER ARRESTED AFTER 11 YEARS.
+page 3	Pneumatic Shorts Make Sea Safe, Says Inventor.
+page 3	King George's Favourite Pony Retires.
+page 3	De Beers May Seek Diamonds In Rhodesia.
+page 3	IDYLL AMID THE ALPS.
+page 3	How I Met The Prince.
+page 3	The Secret Well Kept.
+page 4	PREMIER RETURNB.
+page 4	KING GEORGE V MEMORIAL FOR HONGKONG.
+page 4	OFFICIAL SCHEME.
+page 5	CINEMA NOTES.
+page 5	LORD HAILSHAM INDISPOSED.
+page 7	SINGAPORE'S FAMOUS GIN SLING MOSTLY DRUNK BY TOURISTS.
+page 7	Resdents Changing Taste In Hard Liquor.
+page 7	MORE BEER;LESS SPIRITS.
+page 7	ADVANCE IN CANCER TREATMENT.
+page 7	Longer Intervals In Radiation.
+page 7	SMALLER DOSES.
+page 7	A QUEEN AMONG THE SUFFRAGERRES.
+page 7	DID EMPEROR OF CHINA OWN THE FIRST MOTOR CAR?
+page 7	He Must Fly Recklessly.
+page 7	Says Daredevil Doctor.
+page 7	Bull Saves Child From Lion.
+page 7	CHARGE TO THE RESCUE.
+page 8	BUCKLEIGH A WARM FAVOURITE.
+page 8	Cesarewitch Outlook.
+page 8	SECOND VICTORY.
+page 8	Pearce Scores 101 For Hongkong.
+page 8	ALL-INDIA CRICKET TOUR LOSS MAY BE 1,000 POUNDS.
+page 8	LEE WAI-TONG AS ORATOR.
+page 8	SPLENDID ADDRESS TO LOCAL REFEREES.
+page 8	SUGGESTS SINGAPORE COMES HERE FOR INTERPORT.
+page 9	MOTOR CYCLING.
+page 9	New Records Are Set By Two Riders.
+page 10	MOTOR CAR CRASH.
+page 10	ONE COOLIE HILLED AND TWO INJURED.
+page 10	AN INVESTITURE.
+page 10	MR. E. TAYLOR TO RECEIVE HONOUR NEXT WEEK.
+page 11	NEWS OF THE DAY IN PICTURES FROM FAR AND NEAR.
+page 11	PHOTONEWS.
+page 11	HAPPENINGS AS SEEN BY THE CAMERA'S EYE.
+page 11	Navy Rebels Bombarded into Surrender.
+page 12	NEW THEORY OF TIME.
+page 12	SURPRISE FOR THE BRITISH ASSOCIATION.
+page 12	CLOCK TESTS.
+page 12	A Paper System.
+page 12	A Curious Result.
+page 12	Second New Theory.
+page 12	NEWSPAPER'S ACHIEVEMENT.
+page 12	ENORMOUS GROWTH OF "DAILY TELEGRAPH."
+page 12	'Perfect Romance' Is Finally Ended.
+page 13	NEW PEACE PLAN GAINS U.S. FAVOUR.
+page 13	Would "Freeze" Pacific Fortifications.
+page 13	BRITISH FORMULA NOW MORE FULLY APPRECLATED.
+page 13	Naval Pacts In Danger.
+page 13	TEST TEAM ARRIVES.
+page 13	QUEZON DUE IN H.K. FOR HOLIDAY.
+page 13	Heavy Loss In Typhoon.
+page 13	UNKNOWN NUMBER OF VICTIMS.
+page 13	MAY BE AT FORT BAYARD.
+page 13	KIERNAN TALKS WITH HONGKONG.
+page 13	NO WORD FROM MISS KILGALLEN.
+page 13	Nazi Foreign Policy Soon May be Known.
+page 13	FIERCE ANGER AGAINST FRANCE.
+page 13	GERMANY RESENTS THOREZ CHARGES.
+page 13	Await Blum's Move.
+page 13	Protest Ordered.
+page 13	"Guns Instead Of Butter."
+page 13	ENEMIES MUST BE "EXTERMINATED."
+page 13	DESPERATE DEFENCE.
+page 13	Rebels Meet Fierce Resistance.
+page 13	LEFTISTS LOOKING TO RUSSIA FOR AID.
+page 13	Watched Battle.
+page 13	Enormous Engagement.
+page 13	Swift, New Thrust.
+page 13	Looking To Russia.
+page 13	Aid For Leftists.
+page 13	New Planes Coming Out To Singapore.
+page 13	Peace Over Palestine.
+page 13	RULERS' APPPEALS BRING RESULTS.
+page 13	ARAB PRESS JUBILANT.
+page 13	JEWS GIVE THANKS.
+page 15	MY ROMANCE: By Princess Juliana Escaped From Devil's Island.
+page 15	MURDERER ARRESTED AFTER 11 YEARS.
+page 15	Pneumatic Shorts Make Sea Safe, Says Inventor.
+page 15	King George's Favourite Pont Retires.
+page 15	De Beers May Seek Diamonds In Rhodesia.
+page 15	IDYLL AMID THE ALPS.
+page 15	How I Met The Prince.
+page 15	The Secret Well Kept.
+page 16	KING TO GO SHOOTING.
+page 16	PREMIER RETURNS.
+page 16	ARTIFICIAL WOOL FACTORY.
+page 16	GERMANY'S LATEST VENTURE.
+page 16	OPIUM & HEROIN DIVAN.
+page 16	THREE INMATES CAUGHT IN RAID.
+page 16	FOKI STEALS BOVRIL.
+page 16	COOLIE ALSO FIGURES AS ACCOMPLICE.
+page 16	TYPHOON RECURVES.
+page 16	INDIAN ON TRIAL FOR LIFE.
+page 16	ACCUSED DISARMED.
+page 16	MEDICAL EVIDENCE.
+page 16	COULD UNDERSTAND.
+page 16	WHEN TRUTH COMES OUT.
+page 16	FINE WEATHER.
+page 17	RACERS DUE IN COLONY.
+page 17	TWO PLANES NOW EN ROUTE HERE.
+page 19	SINGAPORE'S FAMOUS GIN SLING MOSTLY DRUNK BY TOURISTS.
+page 19	Residents Changing Taste In Hard Liquor.
+page 19	MORE BEER; LESS SPIRITS.
+page 19	NEW DEAL WINS NEW HEARING.
+page 19	UPON LECALITY OF SILVER TAXES.
+page 19	SEEKS TO UPSET JUDGMENTS.
+page 19	PEACE OVER PALESTINE.
+page 19	DID EMPEROR OF CHINA OWN THE FIRST MOTOR CAR?
+page 19	WORLD CRUSADE AT 70.
+page 19	GEN BOOTH'S 65 MEETINGS IN INDIA.
+page 19	NOT AFRAID.
+page 19	LORD HAILSHAM INDISPOSED.
+page 19	HEAVY LOSS IN TYPHOON.
+page 20	BUCKLEIGH A WARM FAVOURITE.
+page 20	Cesarewitch Outlook.
+page 20	SECOND VICTORY.
+page 20	Pearce Scores 101 For Hongkong.
+page 20	Lee WAI-TONG AS ORATOR.
+page 20	SPLENDID ADDRESS TO LOCAL REFEREES.
+page 20	SUGGESTS SIN GAPORE COMES HERE FOR INTERPORT.
+page 21	MOTOR CYCLING.
+page 21	New Records Are Set By Two Riders.
+page 22	TRANSPORT ARRIVES.
+page 22	NEWSPAPER'S ACHIEVEMENT.
+page 22	ENORMOUS GROWTH OF "DAILY TELEGRAPH."
+page 23	NEWS OF THE DAY IN FICTURES FROM FAR AND NEAR.
+page 23	PHOTONEWS.
+page 23	HAPPENINGS AS SEEN BY THE CAMERA'S EYE.
+page 23	Navy Rebels Bombarded Into Surrender.
+page 24	BRITAIN DENIES INVOKING TREATY.
+page 24	ANSWER TO JAPAN PRESS CHARGES.
+page 24	MAKE NO COMMENT.
+page 24	NOT APPROACHED.
+page 24	NEW STEEL QUOTAS.
+page 24	BRITISH TREASURY INSTRUCTIONS.
+page 24	TREAT FOR THE CHILDREN.
+page 24	SPECIAL CHILDREN SHOW BY MALINI.
+page 24	LORRY MISHAP SEQUEL.
+page 24	CYCLIST THROWS TAR ON DRIVER.
+page 24	SIR GODFREY COLLINS ILL.
+page 24	Demonstrators Warned.
+page 24	ATTACKS ON POLICE ARE INTOLERABLE.

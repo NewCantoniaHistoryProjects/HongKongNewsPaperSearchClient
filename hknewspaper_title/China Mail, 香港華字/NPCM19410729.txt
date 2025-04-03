@@ -1,0 +1,335 @@
+page 1	WILD RUMOURS IN SHANGHAI.
+page 1	Business Circles Shocked By Export Ban Report.
+page 1	CHINESE CREDITS FROZEN.
+page 1	As From To-day.
+page 1	JAPAN WANTS PEACE.
+page 1	JAPANESE DISEMBARKATION COMMENCES.
+page 1	Main Bodies To-day.
+page 1	Detailed Agreement.
+page 1	Fears Leave Morale Unshaken.
+page 1	Nanking Comment.
+page 1	Trade Rumours.
+page 1	Indian Casualty Figures.
+page 2	FLOPPING OF NAZI OFFENSIVE.
+page 2	Political Strategy Misfires On All Fronts.
+page 2	Attempt To Force Japan And Spain Into The War.
+page 2	ANGLO-DUTCH CONFERENCE IN LONDON.
+page 2	RISE IN PRICES IN EUROPE.
+page 2	AXIS HARD HIT.
+page 2	N.Z. ARMY RESIGNATION.
+page 2	Immediate Aim.
+page 2	After Five Weeks.
+page 2	PHILIPPINE PLEDGES.
+page 2	NO BEER?
+page 2	NO COAL!
+page 2	"Shortage Of Bottles".
+page 2	MALAYA INDIAN'S DENIAL.
+page 2	IRAN MISSION.
+page 2	SPIRITED AWAY.
+page 2	MODERNISATION OF "THE ROCK" NEARLY COMPLETE.
+page 2	DEFENCE VOTE PASSES THE HOUSE.
+page 2	GERMAN DENIAL.
+page 3	Britain And United States Consult On Far East Moves.
+page 3	TO PURSUE PARALLEL COURSES.
+page 3	Reviewing Events.
+page 3	N.Z. In Line.
+page 3	U.S. Invitation To Latin America.
+page 3	PHILIPPINE C.-IN-C.
+page 3	JAPANESE TRADE TO CEASE?
+page 3	COURTESY CALL AT GIBRALTAR.
+page 3	THREE CANADIANS DROWN.
+page 3	NETHERLANDS TO HOLD NO PARLEYS WITH AXIS.
+page 3	Radio Orange.
+page 3	ITALIAN AIRR FORCE GENERAL KILLED IN ACTION.
+page 3	SUPPORT FOR MR. MENZIES.
+page 4	GERMANS FIND EXCUSE IN ARMY'S DISCOMFORT.
+page 4	HARD HIT BUT SAFE HOME.
+page 4	BRIDE AUCTIONS WEDDING CAKE.
+page 4	Camouflaged Forts.
+page 4	ROYAL FAMILY AT REVUE.
+page 4	PHILPPINES MILITARY PRECAUTIONS.
+page 4	DE GAULLE SPEECH AT BEIRUT.
+page 4	ARCHBISHOP IN PALACE BOMBING.
+page 6	WAVELL SEES NEED FOR NEW A.E.F.
+page 6	He Expects Long War.
+page 6	Apology For Shirt Sleeves.
+page 6	Stresses Importance Of' Planes.
+page 6	Manpower Need.
+page 6	Air Power.
+page 6	 Pays Tribute To Troops.
+page 8	COOL HEROISM OF BRITISH IN TOBRUK.
+page 8	Cannot Be Taken.
+page 8	Daily Raids.
+page 8	No Civilians.
+page 8	One Paper.
+page 8	HE DIDN'T SAY WHY.
+page 8	DETECTOR FOR BOMB RESCUES.
+page 8	HOME GUARDS VS. CHUTE TROOPS.
+page 8	Defence Adequate.
+page 9	MAJOR ACCUSED OF SHUTTING EYE TO THEFTS.
+page 9	Colonel's Denials.
+page 9	R.A.F. BEAT NEW NAZI.
+page 9	TANK HERO'S 2ND WOUND.
+page 9	8,200 U.S. MEN FIGHTING.
+page 9	IT'S THAT SONG AGAIN.
+page 9	THIS BOMB BOUNCHED.
+page 9	ESCAPE FROM GREECE IN FISHING BOAT.
+page 9	Start At Dawn.
+page 9	12-Horr Run.
+page 9	The Last Lap.
+page 12	NEW PUSH ON DEEP SHELTERS.
+page 12	STEPPING STONE TO MOROCCO.
+page 12	Disease Increasing.
+page 13	HONOURS PRINCE OF PALS.
+page 13	Can't Invite Friends.
+page 13	ALONE A YEAR, BRITAIN CUTS ODDS IN WAR.
+page 13	Essentials Of Position Preserved.
+page 13	Wavell Won Despite Odds.
+page 13	Won "Battle Of Britain".
+page 13	HOOD WAS GOING TO U.S. REPORT.
+page 13	ARMY CHAPLAIN KILLED.
+page 15	CHUNG HWA SCORE 6-3 WIN OVER SOUTH CHINA IN WEEK-END BALL TILT.
+page 15	BUDGE'S AEW FACE AS WEDDING GIFT.
+page 15	BASKETBALL RESULTS.
+page 15	Ring History Against Conn.
+page 15	EQUINE SPORTS CLUB HAVE NEARLY 200 HEMBERS.
+page 16	NAZIS BOG DOWN.
+page 16	War Becomes Stationary In Amolendk Sector.
+page 16	SECOND NAZI NOTE TO LA PAZ.
+page 16	Sharply Protest.
+page 16	German Thrust For Leningrad Stopped.
+page 16	The "Explanation".
+page 16	Soviet Communique.
+page 16	MALAYA'S DEFENCE EFFICIENCY.
+page 17	WILD RUMOURS IN SHANGHAO.
+page 17	Business Circles Shocked By Lxport Ban Report.
+page 17	CHINESE CREDITS FROZEN.
+page 17	As From To-day.
+page 17	JAPAN WANTS PEACE.
+page 17	JAPANESE DISEMBARKATION COMMENCES.
+page 17	Main Bodies To-day.
+page 17	Fears Leave Morale Unshaken.
+page 17	Nanking Comment.
+page 17	Trade Rumours.
+page 17	JAPANESE SHIPPING CAUTION.
+page 17	TOKYO TO GO SLOW.
+page 17	A CLEAR DAY.
+page 18	FLOPPING OF NAZI OFFENSIVE.
+page 18	Political Strategy Misfires On All Fronts.
+page 18	Attempt To Fore Japan And Spain Into The War.
+page 18	ANGLO-DUTCH CONFERENCE IN LONOON.
+page 18	RISE IN PRICES IN EUROPE.
+page 18	AXIS HARD HIT.
+page 18	N.Z. ARMY RESIGNATION.
+page 18	Immediate Aim.
+page 18	After Five Weeks.
+page 18	PHILIPPINE PLEDGES.
+page 18	MALAYA'S DEFENCE EFFICIENCY.
+page 18	MALAYA INDIAN'A DENIAL.
+page 18	IRAN MISSION.
+page 18	SPIRITED AWAY.
+page 18	MODERNISATION OF "THE ROCK" NEARLY COMPLETE.
+page 18	All In.
+page 18	DEFENCE VOTE PASSES THE HOUSE.
+page 18	GERMAN DENIAL. 
+page 19	Britain And United States Consult On Far East Moves.
+page 19	TO PURSUE PARALLEL COURSES.
+page 19	Reviewing Events.
+page 19	N.Z. In Line.
+page 19	Nomura Sees Wells.
+page 19	U.S. Invitation To Latin America.
+page 19	SCOTTISH VISIT.
+page 19	JAPANESE TRADE TO CEASE?
+page 19	COURTESY CALL AT GIBRALTAR.
+page 19	THREE CANADIANS DROWN.
+page 19	NETHERLANDS TO HOLD BO PARLEYS WITH AXIS.
+page 19	Radio Orange.
+page 19	ITALIAN AIR FORCE GENERAL KILLED IN ACTION.
+page 19	SUPPORT FOR MR MENZIES.
+page 20	GERMANS FIND EXCUSE IN ARMY'S DISCOMFORT.
+page 20	Camouflaged Forts.
+page 20	HARD HIT BUT SAFE HOME.
+page 20	Indian Casualty Figures.
+page 20	PHILIPPINES MILITARY PRECAUTIONS.
+page 20	DE GAULLE SPEECH AT BEIRUT.
+page 20	At Damascus.
+page 21	U.S. Rubber Supply Threatened.
+page 21	Government Stores Rubber.
+page 21	Synthetic Rubber
+page 22	WAVELL SEES NEED TOR NEW A.E.F.
+page 22	He Expects Long War.
+page 22	Apology For Shirt Sleeves.
+page 22	Stresses Importance Of' Planes.
+page 22	Manpower Need.
+page 22	Air Power.
+page 22	Pays Tribute To Troops.
+page 24	COOL HEROISM OF BRITISH IN TOBRUK.
+page 24	Cannot Be Taken.
+page 24	Daily Raids.
+page 24	No Civilians.
+page 24	One Paper.
+page 24	HE DIDN'T SAY WHY.
+page 24	DETECTOR FOR BOMB RESCUES.
+page 24	HOME GUARDS US. CHUTE TROOPS.
+page 24	Defence Adequate.
+page 25	JAPANESE BUSINESS IN COLONY ALMOST AT A STANDSTILL.
+page 25	PERUVIAN FIGHTING.
+page 25	LORD RENNELL OF RODD PASSES.
+page 25	AXIS EMBASSIES SEALED.
+page 25	MERCHANT NAVY ORPHANS.
+page 25	LONDON'S A.A. DEFENCES.
+page 25	FINLAND BREAKS OFF RELATIONS.
+page 25	PHILIPPINE C.-IN-C.
+page 25	ARCHBISHOP IN PALACE BOMBING.
+page 25	SAVOIAS SHOT DOWN OFF MALTA.
+page 25	IT'S THAT SONG AGAIN.
+page 25	AWARDS TO R.A.F. HEROES.
+page 25	SHANGHAI SURPRISE ARREST.
+page 28	NEW PUSH ON DEEP SHELTERS.
+page 28	TANK HERO'S 2ND WOUND.
+page 28	STEPPING STONE TO MOROCCO.
+page 28	Disease Increasing.
+page 29	LOCAL SHARES.
+page 29	ALONE A YEAR, BRITAIN CUTS ODDS IN WAR.
+page 29	Essentials Of Position Freserved.
+page 29	Wavell Won Despite Odds.
+page 29	Won "Battle Of Britain".
+page 29	HOOD WAS GOING TO U.S. REPORT.
+page 29	ARMY CHAPLAIN KILLED.
+page 29	THE WING ON BANK, LIMITED.
+page 30	SIGNALS CHECKED AT LAST.
+page 30	BAHRAM'S U.S. SUBSCRIPTIONS ARE CANCELLED.
+page 30	ORACLE TO BE SHOT.
+page 30	2nd In Austral Derby.
+page 30	FRIDAY'S BOXING MATCH.
+page 30	DERBY WINNERS TO REMAIN IN ENGLAND.
+page 30	R.A.O.C. PLAYERS REGISTERED.
+page 30	Army Cricketer & Ruggerite Killed.
+page 30	Wins On Three Legs.
+page 30	BICYCLE TIME TRIAL PRIZES.
+page 32	NAZIS BOG DOWN.
+page 32	War Becomes Stationary In Smolensk Sector.
+page 32	SECOND NAZI NOTE TO LA PAZ.
+page 32	Sharply Protest.
+page 32	German Thrust For Leningrad Stopped.
+page 32	The "Explanation".
+page 32	Soviet Communique.
+page 32	Battle-Cruiser Bombed.
+page 32	SAMPAN MISHAP.
+page 32	CABINET CHANGES IN AMMAN.
+page 32	JAPANESE DISEMBARKATION COMMENCES.
+page 32	Detailed Agreement.
+page 32	TOBRUK PATROL ACTIVITY.
+page 33	SPEEDY FLARE-UP UNLIKELY.
+page 33	American Estimate Of Situation Direction Of New Thrust May Be Altered.
+page 33	TOKYO TO GO SLLW.
+page 33	GERMAN CONSUL ARRESTED IN BOLIVIA.
+page 33	EXPERT ESTIMATE OF ENORMOUS GERMAN LOSSES.
+page 33	Situation In Hand.
+page 33	Oil Supply Question.
+page 33	Japan's Answer.
+page 33	Japanese Report.
+page 33	H.K. FIRMS NAMED.
+page 34	WILD RUMOURS IN SHANGHAI.
+page 34	Business Circles Shocked By Export Ban Report.
+page 34	Fears Leave Morale Unshaken.
+page 34	ANGLO-DUTCH CONFERENCE IN LONDON.
+page 34	JAPAN IN POSITION OF THREAT.
+page 34	TATUTA MARU MAY NOW DOCK.
+page 34	Nanking Comment.
+page 34	Trade Rumours.
+page 34	PHILIPPINE PLEDGES.
+page 34	JAPAN WANTS PEACE.
+page 34	JAPANESE SHIPPING CAUTION.
+page 34	Japan's Commitments.
+page 34	JAPANESE DISEMBARKATION COMMENCES.
+page 34	Main Bodies To-day.
+page 34	Detailed Agreement.
+page 35	Britain And United States Consult On Far East Moves.
+page 35	TO PURSUE PARALLEL COURSES.
+page 35	Reviewing Events.
+page 35	N.Z. In Line.
+page 35	Nomura Sees Wells.
+page 35	U.S. Invitation To Latin America.
+page 35	SCOTTISH VISIT.
+page 35	JAPANESE TRADE TO CEASE?
+page 35	COURTESY CALL AT GIBRALTAR.
+page 35	THREE CANADIANS DROWN.
+page 35	NETHERLANDS TO HOLD NO PARLETS WITH AXIS.
+page 35	Radio Orange.
+page 35	ITALIAN AIR FORCE GENERAL KILLED IN ACTION.
+page 35	SUPPORT FOR MR. MENZIES.
+page 36	GERMANS FIND EXCUSE IN ARMY'S DISCOMFORT.
+page 36	Camouflaged Forts.
+page 36	HARD HIT BUT SAFE HOME.
+page 36	Indian Casualty Figures.
+page 36	PHILIPPINES MILITARY PRECAUTIONS.
+page 36	DE GAULLE SPEECH AT BEIRUT.
+page 36	At Damascus.
+page 37	MODERNISATION OF "THE ROCK" NEARLY COMPLETE.
+page 37	LULLED TO TRAGEDY.
+page 37	MALAYA INDIAN'S DENIAL.
+page 37	DEFENCE VOTE PASSES THE HOUSE.
+page 37	GERMAN DENIAL.
+page 37	IRAN MISSION.
+page 38	WAVELL SEES NEED FOR NEW A.E.F.
+page 38	He Expects Long War.
+page 38	Apology For Shirt Sleeves.
+page 38	Stresses Importance Of' Planes.
+page 38	Air Power.
+page 38	N.Z. ARMY RESIGNATION.
+page 38	SECOND NAZI NOTE TO LA PAZ.
+page 38	Sharply Protest.
+page 38	PORTUGUESE YOUTH ACCUSED.
+page 38	FIREWOOD PROFITEERING.
+page 38	A CLEAR DAY.
+page 40	Attempt To Force Japan And Spain Into The War.
+page 40	Immediate Aim.
+page 40	After Five Weeks.
+page 40	RISE IN PRICES IN EUROPE.
+page 40	TRANSFERRED.
+page 40	MALAYA'S DEFENCE EFFICIENCY.
+page 40	CABINET CHANGES IN AMMAN.
+page 40	AXIS HARD HIT.
+page 40	HE DIDN'T SAY WHY.
+page 40	DETECTOR FOR BOMB RESCUES.
+page 40	TOBRUK PATROL ACTIVITY.
+page 40	SAMPAN MISHAP.
+page 41	JAPANESE BUSINSS IN COLONY ALMOST AT A STANDSTILL.
+page 41	PERUVIAN FIGHTING.
+page 41	LORD RENNELL OF RODD PASSES.
+page 41	AXIS EMBASSIES SEALED.
+page 41	MERCHANT NAYY ORPHANS.
+page 41	LONDON'S A.A. DEFENCES.
+page 41	FINLAND BREAKS OFF RELATIONS.
+page 41	PHILIPPINE C.-IN-C.
+page 41	ARCHBISHOP IN PALACE BOMBING.
+page 41	SAVOIAS SHOT DOWN OFF MALTA.
+page 41	IT'S THAT SONG AGAIN.
+page 41	AWARDS TO R.A.F. HEROES.
+page 41	SHANGHAI SURPRISE ARREST.
+page 44	NEW PUSH ON DEEP SHELTERS.
+page 44	TANK HERO'S 2ND WOUND.
+page 44	STEPPING STONE TO MOROCCO.
+page 44	Disease Increasing.
+page 45	NOT SO LUCKY FINDING.
+page 45	$1,000 FOR BOWL OF RICE.
+page 45	GERMAN DRUGS ON FRENCH SHIP.
+page 45	MENACES CHARGE.
+page 45	RIVER RUMOUR.
+page 45	BICYCLE TIME TRIAL PRIZES.
+page 45	EQUINE SPORTS CLUB HAVE NEARLY 200 MEMBERS.
+page 48	NAZIS BOG DOWN.
+page 48	War Becomes Stationary In Smolensk Sector.
+page 48	CHINESE CREDITS FROZEN.
+page 48	As From To-day.
+page 48	German Thrust For Leningrad Stopped.
+page 48	The "Explanation".
+page 48	Soviet Communique.
+page 48	Battle-Cruiser Bombed.
+page 48	Division Destroyed.
+page 48	SPEEDY FLARE-UP UNLIKELY.
+page 48	NAVAL BATTLE IN BALTIC.
+page 48	NAZIS STRIPPING APANISH RAILWAYS.
+page 48	GOEBBELS ON THE WARPATH.
+page 48	OPERA STAR SAFE.

@@ -1,0 +1,339 @@
+page 1	TORPEDOED DURING CHRISTMAS PARTY.
+page 1	BIG MACAO EXPLOSION.
+page 1	Bomb In Well-Known City Hotel.
+page 1	Air Forces Have Quiet Christmas.
+page 1	SEEK TRANSFER OF SHIPS.
+page 1	U.S. Company's New Application.
+page 1	Pitcairn Islanders Isolated by War.
+page 1	Hitler' Tour Of Front Lines.
+page 1	Settling New Boundaries.
+page 1	Soviet-Japanese Commission.
+page 1	American Army Budget Record.
+page 1	Transfer Of U. S. Ships.
+page 1	BERLIN-MOSCOW AIR SERVICE.
+page 1	THE KING'S BROADCAST MYSTERY.
+page 1	THE POPE GRATIFIED.
+page 1	Cordial Message To Pres. Roosevelt.
+page 1	SONS FIGHT FOR ALLIES.
+page 1	WAR BECOMING A LITTLE LESS GENTLEMANLY.
+page 1	23 SOVIET VICTIMS.
+page 1	Finnish Air Force Claims Victory.
+page 1	LATEST.
+page 1	JAPANESE REPULSED.
+page 1	Indo-China-Border-Drive Collapses.
+page 1	JAPAN'S RESOURCES AT LOW EBB.
+page 2	Rainless December?
+page 2	Royal Navy Rugger Teams.
+page 2	THE PHILIPPINES.
+page 2	NEW ADVERTISEMENTS.
+page 2	FOR THE PROTECTION OF CHILDREN.
+page 2	Students In Buses.
+page 2	Hongkong C.C. Beat Army.
+page 2	Married Beat Singles At Craigengower.
+page 2	Century First Wicket Partnership At K.C.C.
+page 2	ANTARCTIC REGION.
+page 2	Japanese Claim to Discovery In 1912.
+page 2	CHINESE CHAMBER.
+page 2	Reflections.
+page 2	KING'S LUNCH IN CORPORALS' MESS.
+page 2	By PHILIP JORDAN.
+page 2	FRANCE.
+page 2	But They Will Call It Ersatz Bacon.
+page 2	CHICKEN, GRAPES.
+page 2	DIET-IN PRISON.
+page 3	SAILOR AT SEA HAS SWIMMING LESSONS BY MAIL.
+page 3	By LOUISE MORGAN.
+page 3	Flattened Bullet As War Souvenir.
+page 3	CROSSES FOR THEIR SONS.
+page 3	Once Our Enemy Now Firm Friend.
+page 3	ROBBERS ATTACK JUNK.
+page 3	NANNING RAIDS.
+page 3	OBITUARY.
+page 4	DIARY OF A MOSCOW DAY.
+page 4	IN PRAISE OF WINTER.
+page 5	ITALIAN PLANE WRECKED.
+page 5	America and Japan.
+page 5	PEACEFUL TRADE IS DESIRED.
+page 5	FINNS' ARMY LEADERS FEELING MORE CONFIDENT.
+page 5	Expedition Starts.
+page 5	Junk Chong Ho Sails For Manila.
+page 5	No Truce At Christmas.
+page 5	Australians Arrive.
+page 5	Christmas Tragedies.
+page 5	The Police Reserve.
+page 5	List of parades For The Coming Wcek.
+page 5	Matauchung Escapes.
+page 5	Two Internees Gaoled For Damaging Property.
+page 5	MONGOL PRINCESSES.
+page 5	Stomach Upset by Acidity?
+page 6	SCOTLAND WIN DESULTORY MATCH.
+page 6	England Defeated 2-0: Schoolboy Prominent In Forward Line.
+page 6	HONGKONG C.C. BEAT ARMY Alec Pearce Scores Brilliant Century.
+page 6	Competitions At The Country Club.
+page 7	Allies' 'Touch of Genius'
+page 7	'Prison Hells' Ruled By The Convicts.
+page 7	"churchill' s Last Quiet Days"
+page 7	STANHOPE BLAMED FOR SCAPA LOSS.
+page 7	HE RENTS LAND IN FRANCE FOR THE B.E.F.
+page 7	Except The Trenches And Fighting Positions.
+page 7	Germans Fish In View Of French.
+page 7	Child Labour on German Farms.
+page 7	SOLDIERS'CLOTHING.
+page 9	MOTHERS ARE OFTEN PEACEMAKERS.
+page 9	LONDON LOG.
+page 9	Air Mail Letter From Home.
+page 10	Home Fires Burning-Grimsby.
+page 10	They Talk Of Fish and Mines.
+page 10	LATE NEWS.
+page 10	DIED IN SLEEP AT CLUB.
+page 10	ARMS IN THE SEA.
+page 10	Atlantic Gives Us Magnesium.
+page 10	WAR BECOMING A LITTLE LESS GENTLEMANLY.
+page 10	SEVEN DIE IN PLANE CRASH.
+page 10	CONTACT UNITS ACTIVE.
+page 10	New Appointment.
+page 10	SWISS WARNING.
+page 11	Finnish Ski-Soldiers Wreck Red Tanks.
+page 11	VTORY OF FIGHTING.
+page 11	OBITUARY.
+page 11	DIED IN SLEEP.
+page 11	Late Mr, Ulderup Hore For 40 Years.
+page 11	CHRISTMAS CRIME.
+page 11	Nazi Torpedo Ends Ship Xmas Party.
+page 11	JAPANESE REPULSED.
+page 11	Indo-China Border Drive Collapses.
+page 11	American Army Budget Record.
+page 11	Transfer Of U.S. Ships.
+page 11	Government Permission Sought By Big Ling.
+page 11	HITLER VISITS FRANCE.
+page 11	But He Kept It A Dark Secret.
+page 11	Germany's Grim.
+page 11	Christmas Spirit.
+page 11	Black-Out And Bad Weather.
+page 11	Hopes For Peace Still Cherished.
+page 11	China's Adverse Trade Balance.
+page 11	SONS FIGHT FOR ALLIES.
+page 11	WAR BECOMING A LITTLE LESS GENTLEMANLY.
+page 11	23 SOVIET VICTIMS.
+page 11	Finnish Air Force Claims Victory.
+page 11	LATEST.
+page 11	JAPAN'S RESOURCES AT LOW EBB.
+page 12	NEW ADVERTISEMENTS.
+page 12	LETTERS.
+page 12	Students In Bu5es.
+page 12	Hongkong C.C. Beat Army.
+page 12	Married Beat Singles At Craigengower.
+page 12	Century First Wicket Partnership At. K.C.C.
+page 12	ANTARCTIC REGION.
+page 12	Japanese Clajm to Discovery In 1912.
+page 12	CHINESE CHAMBER.
+page 12	Reflections.
+page 12	KING'S LUNCH IN CORPORALS' MESS.
+page 12	 By PHILIP JORDAN.
+page 13	SAILOR AT SEA HAS SWIMMING LESSONS BY MAIL.
+page 13	Flattened Bullet As War Souvenir.
+page 13	CROSSES FOR THEIR SONS.
+page 13	Once Our Enemy Now Firm Friend.
+page 13	ROBBERS ATTACK JUNK.
+page 13	50 YEARS AGO.
+page 13	NANNING RAIDS.
+page 13	RADIO.
+page 13	OBITUARY.
+page 13	Former Mexican Consul In Hongkong.
+page 14	DIARY OF A MOSCOW DAY.
+page 14	Over The Fronrtiers.
+page 14	IN PRAISE OF WINTER.
+page 14	Charms Of The Hearth.
+page 14	Lotus Eaters.
+page 15	THE POPE GRATIFIED.
+page 15	Cordial Message To Pres. Roosevelt.
+page 15	Settling New Boundaries Soviet-Japanese Commission.
+page 15	Pitcairn Islanders Isolated By War.
+page 15	Hitler's Tour Of Front Lines.
+page 15	THE KING'S BROADCAST MYSTERY.
+page 15	Air Forces Have Quiet Christmas.
+page 15	SEEK TRANSFER OF SHIPS.
+page 15	U.S. Company's New Application.
+page 15	COPING WITH RICE PROBLEM.
+page 15	AUSTRALIAN AIRMEN IN ENGLAND.
+page 15	Civic Reception Following Disembarkation.
+page 15	VIVID EYE-WITNESS STORY OF FIGHTING.
+page 15	"Puppet" Is Kidnapped Latest Shanghai Incident.
+page 15	No Truce At Christmas.
+page 15	CHRISTMAS FESTIVITIES.
+page 15	Hongkong Hotel Has Record Crowds.
+page 15	WAR BECOMING A LITTLE LESS GENTLEMANLY.
+page 15	BERLIN-MOSCOW AIR SERVICE.
+page 15	Stomach Upset by Acidity?
+page 16	SCOTLAND WIN DESULTORY MATCH.
+page 16	England Defeated 2-0: Schoolboy Prominent In Forward Line.
+page 16	HONGKONG C.C. BEAT ARMY Alec Pearce Scores Brilliant Century.
+page 16	Far Eastern Shot Put Record.
+page 16	Golf.
+page 16	Competitions At The Country Club.
+page 17	Allies' 'Touch of Genius'
+page 17	'Prison Hells' Ruled By The Convicts.
+page 17	"Churchill's Last Quiet Days."
+page 17	DO WHAT THEY LIKE.
+page 17	STANHOPE BLAMED FOR SCAPA LOSS.
+page 17	HE RENTS LAND IN FRANCE FOR THE B.E.F.
+page 17	Except The Trenches And Fighting Positions.
+page 17	Germans Fish In View Of French.
+page 17	Child Labour on German Farms.
+page 19	MOTHERS ARE OFTEN PEACEMAKERS.
+page 19	LONDON LOG.
+page 19	Air Mail Letter From Home.
+page 19	G.T. WANG HONOURED.
+page 20	Home Fires Burning-Grimsby.
+page 20	They Talk Of Fish and Mines.
+page 20	Water Rents To Be Made Quarterly.
+page 20	Effective As From January 1
+page 20	LATE NEWS.
+page 20	BIG MACAO EXPLOSION.
+page 20	Bomb In Woll-Known Citv Hotel.
+page 20	MINES EXPLODE ON ISLAND.
+page 20	Thrill For Residents At Cheung Chau.
+page 20	BUSY CHRISTMAS FOR AIR PATROLS.
+page 20	PEARL RIVER RE-OPENED.
+page 20	SEVEN DIE IN PLANE CRASH.
+page 20	CONTACT UNITS ACTIVE.
+page 20	New Appointment.
+page 20	SWISS WARNING.
+page 21	Long-Range Bombardment By Big Russian Cannon.
+page 21	SOVIET "BIG BERTHAS" SHELL KARELIA CITY.
+page 21	SPECIAL TO THE "TELEGRAPH."
+page 21	SKIERS HARASS ENEMY.
+page 21	SWEDEN TO JOIN IN WAR?
+page 21	Man Catches Snatch-Thief.
+page 21	And Is Commended By Magistrate.
+page 21	VATICAN & ITALY REACH AGREEMENT.
+page 21	Escort Girl Robbed.
+page 21	But Bag-Snatcher Is Caught.
+page 21	You May Not Know.
+page 21	HITLER VISITS FRANCE.
+page 21	But He Kept It A Dark Secret.
+page 21	Germany's Grim.
+page 21	Christmas Spirit.
+page 21	Black-Out And Bad Weather.
+page 21	Hopes For Peace Still Cherished.
+page 21	China's Adverse Trade Balance.
+page 21	SONS FIGHT FOR ALLIES.
+page 21	ALLIES TO BUY MORE U.S. PLANES.
+page 21	Settling New Boundaries Soviet-Japanese Commission.
+page 21	"Puppet" Is Kidnapped.
+page 21	Latest Shanghai Incident.
+page 21	New Appointment.
+page 21	AMERICAN PROTEST.
+page 21	Britain And Panama Declaration.
+page 21	LATEST.
+page 21	NEW CRISIS LOOMS IN JAPANESE CABINET.
+page 22	TRANS-PACIFIC FREIGHT BUREAU.
+page 22	Notico to Shippers.
+page 22	CAR STOLEN.
+page 22	Another Purge?
+page 22	NEW ADVERTISEMENTS.
+page 22	ST. STEPHEN'S COLLEGE, STANLEY.
+page 22	ST. STEPHEN'S PREPARATORY SCHOOL, STANLEY.
+page 22	FOR THE PROTECTION OF CHILDREN.
+page 22	What to do to help a child.
+page 22	Students In Buses.
+page 22	SOVIET "BIG BERTHAS" SHELL KARELIA CITY.
+page 22	SEEK TRANSFER OF SHIPS.
+page 22	U.S. Company's New Application.
+page 22	Air Forces Have Quiet Christmas.
+page 22	Broke Into City Store.
+page 22	Would-be Thief Is Sent To Prison.
+page 22	CITY ROBBERY SEQUEL: MAN IS CHARGED.
+page 22	BERLIN-MOSCOW AIR SERVICE.
+page 22	$255 Stolen Fron Shop Foki.
+page 22	Thief's Haul From Wardrobe.
+page 22	German Train Tragedy.
+page 22	SWISS WARNING.
+page 22	Rainless December?
+page 22	SKIERS HARASS ENEMY.
+page 22	Confiscation Of Sampan.
+page 22	Hongkong Ordinance.
+page 22	POST OFFICE.
+page 23	JAPANESE RERULSED.
+page 23	Indo-China Border Drive Collapses.
+page 23	PEARL RIVER RE-OPENED.
+page 23	BUSY CHRISTMAS FOR AIR PATROLS.
+page 23	SEVEN DIE IN PLANE CRASH.
+page 23	Pitcairn Islanders Isolated by War.
+page 23	MINES EXPLODE ON ISLAND.
+page 23	Thrill For Residents At Cheung Chau.
+page 23	American Army Budget Record.
+page 23	Transfer Of U.S. Ships.
+page 23	Government PERMISSION Sought By Big Line.
+page 23	Hitler's Tour of FRONT Lines.
+page 23	RADIO.
+page 23	CHRISTMAS CRIME.
+page 23	Nazi Torpedo Ends Ship Xmas Party.
+page 24	DIARY OF A MOSCOW DAY.
+page 24	IN PRAISE OF WINTER.
+page 24	Charms Of The Hearth.
+page 24	Lotus Eaters.
+page 25	OBITUARY.
+page 25	DIED IN SLEEP.
+page 25	Late Mr Uiderup Here For 40 Years.
+page 25	Popular Y.M.C.A. Official Dies.
+page 25	TO MARRY IN HONGKONG.
+page 25	JAPAN'S RESOURCES AT LOW EBB.
+page 25	THE KING'S BROADCAST MYSTERY.
+page 25	THE POPE GRATIFIED.
+page 25	Cordial Message To Pres. Roosevelt.
+page 25	AUSTRALIAN AIRMEN IN ENGLAND.
+page 25	Civic Reception Following Disembarkation.
+page 25	Married Beat Singles At Craigengower.
+page 25	Century First Wicket Partnership At K.C.C.
+page 25	COPING WITH RICE PROBLEM.
+page 25	CONTACT UNITS ACTIVE.
+page 25	HoNGKONG C.C. Beat Army.
+page 25	CHRISTMAS.
+page 25	FESTIVITIES.
+page 25	Hongkong Hotel Has Record Crowds.
+page 25	Reflections.
+page 25	Stomach Upset by Acidity?
+page 26	SCOTLAND WIN DESULTORY MATCH.
+page 26	England Defeated 2-1: Schoolboy Prominent In Forward Line.
+page 26	HONGKONG C.C BEAT ARMY.
+page 26	Alec Pearce Scores Brilliant Century.
+page 26	Far Eastern Shot Put Record.
+page 26	Competitions At The Country Club.
+page 27	Allies' Touch-of Genus'.
+page 27	BA NK NOTLCES.
+page 27	'Prison Hells' Ruled By The Convicrs.
+page 27	"Churchill's Last Quiet Days."
+page 27	DO WHAT THEY LIKE.
+page 27	STANHOPE BLAMED FOR SCAPA LOSS.
+page 27	HE RENTS LAND IN FRANCE FOR THE B.E.F.
+page 27	Except The Trenches And Fighting Positions.
+page 27	Germans Fish In View Of French.
+page 27	Child Labour on German Farms.
+page 27	SOLDIERS' CLOTHING.
+page 27	Refugee Students Raise Money For Fighters.
+page 27	WINTER GARMENTS.
+page 28	FOR MEN OR WOMEN ON SERVICE ORIN CIVVIES.
+page 28	Helmet Scarf.
+page 28	Christmas Celebration.
+page 28	For Oval Face.
+page 28	CHUNGKING EPIDEMIC.
+page 28	Serious Outbreak Of Diphtheria Reported.
+page 28	WAKE UP YOUR LIVER BILE-.
+page 29	MORHERS ARE OFTEN PEACEMAKERS.
+page 29	INDIAN CONSTABLE ACCEPTS BRIBES.
+page 29	SINYANG BNATTLE RAGES.
+page 29	Chinese Work Havoc With Sabotage.
+page 29	The Holiday Mood for Happy People.
+page 29	ST. FRANCIS HOTEL.
+page 30	WAR BECOMING A LITTLE LESS GENTLEMANLY.
+page 30	Flattened Bullet.
+page 30	As War Souvenir.
+page 30	H.K.ADOPTS FIRST 1939 WAR SONG.
+page 30	Swing polka Comes To The Colony.
+page 30	BIG MACAO EXPLOSION.
+page 30	Bomb In Well-Known City Hotel.
+page 30	Water Rents To Be Made Quarterly.
+page 30	Effective As From January 1.
+page 30	Once Our Enemy Now Firm Friend.
+page 30	LATE NEWS.

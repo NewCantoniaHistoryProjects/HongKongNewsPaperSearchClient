@@ -1,0 +1,425 @@
+page 1	BERGEN RECAPTURED BY BRITISH FORCES.
+page 1	GERMAN FLEET SAID TRAPPED BY SWIFT ALLIED ACTION.
+page 1	DARING ADVENTURE.
+page 1	"REUTER" CONFIRMATION.
+page 1	AIR FORCE SUCCESS.
+page 1	At Least One Big Nazi Cruiser Damaged.
+page 1	Heinkel Intercepted.
+page 1	Activity Along Coast.
+page 1	OSLO'S FALL DESCRIBED.
+page 1	Eye-witness Account By Escaped Briton.
+page 1	Inhabitants Bewildered.
+page 1	Brighter Stock Exchange.
+page 1	MAJOR BATTLES RAGE ALL ALONG NORWAY'S COAST.
+page 1	A NOTHER BATTLE RAGING.
+page 1	Naval Action Off Swedish Coast.
+page 1	Two Warships Sink.
+page 1	Unsuccessful Attack.
+page 1	Only Part of Operations.
+page 1	REDS TO REMAIN NEUTRAL.
+page 1	German Invasion A Surprise.
+page 1	No Change In Attitude.
+page 1	ITALIAN TROOPS AT LIBYA.
+page 1	GERMANS ENTER HAMAR.
+page 1	New Norwegian Capital Falls.
+page 1	Big Oslo Battle.
+page 1	Die Defending Oslo.
+page 1	Occupation Of Narvik.
+page 1	OCCUPATION CONFIRMED.
+page 2	THEY ALL WANT TO PALY OPPOSITE HIM.
+page 2	BACK FROM A LOOK AT GERMANY.
+page 2	He put in potatoes - and pulled out gold.
+page 2	GIRL OF 12 IS HER DAD'S ADVOCATE.
+page 2	FIGHT IN VAIN TO SAVE MEN TRAPPED UNDER THE SEA.
+page 2	News Reel Man There. 
+page 2	Lord Sandhurst - Lieutenant.
+page 2	2 Wars - 2 Feathers.
+page 5	Evacuees Were Hardier Than Country Children.
+page 5	One Plain, One Purl, No Twinge.
+page 5	Soothing.
+page 5	Tonic Value Of Fresh Air.
+page 5	'Girl of Aran'.
+page 5	The Five Luckiest Men Of The R.A.F.
+page 5	Wreckage In Trees.
+page 5	Shanghai Assassins.
+page 5	Mrs, Hebald was Reading a Thriller...
+page 5	Be FIRST AWAY with A New Chevrolet!
+page 7	DARLING OF STAGE DIES.
+page 7	The Passing of Mrs, Patrick-Campbell.
+page 7	Toast Of London.
+page 7	Played with Bernhardt.
+page 7	Scandinavian Ships Held Up.
+page 7	Canada And S. Africa Take Action.
+page 7	ANGLO-RUSSIAN RELATIONS.
+page 7	Military Band Concert.
+page 7	AIR FORCE SUCCESS.
+page 7	Heinkels Driven Off.
+page 7	Brilliant Reconnaissance.
+page 7	Two Heinkels Down.
+page 7	OSLO'S FALL DESCRIBED.
+page 7	House Blown Up.
+page 7	Scandinavia A Combat Area.
+page 7	U.S. Extension of The Neutrality Act.
+page 7	President Talks with Welles.
+page 7	MAJOR BATTLES RAGE ALL ALONG NORWAY'S COAST.
+page 7	Damaged By Shrapnel.
+page 7	Nazi Admission.
+page 7	ANOTHER BATTLE RAGING.
+page 7	New Stockholm Report.
+page 7	Still Fighting.
+page 7	Transports Sunk.
+page 7	GERMANS ENTER HAMAR.
+page 7	Norwegians Dig In.
+page 7	Nazis Bomb Open Towns.
+page 7	Norwegians Wiped Out.
+page 7	SPURIOUS MONEY FOR NORWAY.
+page 7	DENMARK QUIET.
+page 7	Danes Find Sanctuary In Sweden.
+page 7	Flee Into Sweden.
+page 7	BELGIUM'S ALARM.
+page 7	Leave Cancelled.
+page 7	25 YEARS AGO.
+page 7	10 YEARS AGO.
+page 7	5 YEARS AGO.
+page 10	Red Cross Town - Without Guns or Soldiers - is French Experiment in Humanity.
+page 10	HIS STARS FELL DOWN.
+page 11	BERGEN RECAPKTURED BY BRITISH FORCES.
+page 11	GERMAN FLEET SAID TRAPPED BY SWIFT ALLIED ACTION.
+page 11	OCCUPATION CONFIRMED.
+page 11	DARING ADVENTURE.
+page 11	"REUTER" CONFIRMATION.
+page 11	NORTH SEA BATTLES.
+page 11	Nazis Try Desperately To Break Blockade.
+page 11	Big German Losses.
+page 11	ALLIES WANTED THIS CHANCE.
+page 11	Over 2,000 Britons In Scandinavia.
+page 11	Germans Admit Loss Of Big Ships As - 
+page 11	MAJOR BATTLES RAGE ALL ALONG NORWAY'S COAST.
+page 11	A NOTHER BATTLE RAGING.
+page 11	Naval Action Off Swedish Cost.
+page 11	Two Warships Sink.
+page 11	Unsuccessful Attack.
+page 11	Only Past of Operations.
+page 11	SABOTAGE PAVED WAY.
+page 11	How Nazi Invasion Was Effected.
+page 11	Soldiers As Tourists.
+page 11	BRITISH TROOPS IN NORWAY.
+page 11	Now Fighting Nazis Outside Trondheim.
+page 11	Norwegian Forces Rallying.
+page 11	Iceland Assumes Prerogatives.
+page 11	Declares Independence.
+page 11	Swiss Army Ready.
+page 12	MAJOR BATTLES RAGE ALL ALONG NORWAY'S COAST.
+page 12	Damaged By Shrapnel.
+page 12	Nazi Admission.
+page 12	ANOTHER BASTTLE RAGING.
+page 12	New Stockholm Report.
+page 12	Still Fighting.
+page 12	Transports Sunk.
+page 12	25YEARS AGO.
+page 12	10 YEARS AGO.
+page 12	5 YEARS AGO.
+page 12	BRITISH TROOPS IN NORWAY.
+page 12	Sporadic Resistance.
+page 12	Complete Blockade.
+page 14	DARLING OF STAGE DIES.
+page 14	The Passing Of Mrs Patrick-Campbeil.
+page 14	Toast Of London.
+page 14	Played with Bernhardt.
+page 14	Scandinavia A Combat Area.
+page 14	U.S. Extension of The Neutrality Act.
+page 14	President Taiks With Welles.
+page 14	Military Band Concert.
+page 14	World Press Again Denounces Hitler.
+page 14	LATEST AGGRESSION ACT CONDEMNED.
+page 14	Significant Nazi Version.
+page 14	"Unashamed Madness."
+page 14	Digging Own Graves.
+page 14	Anger and Anxicty.
+page 14	Inevitable Violation.
+page 14	REDS TO REMAIN NEUTRAL.
+page 14	GERMAN Invasion A Surprise.
+page 14	No Change In Attitude.
+page 14	Scandinavian Ships Held Up.
+page 14	Canada And S. Africa Take Action.
+page 14	American Opinion.
+page 17	GERMANS ENTER HAMAR.
+page 17	New Norwegian Capital Falls.
+page 17	Big Oslo Battle.
+page 17	Die Defending Oslo.
+page 17	Occupation Of Narvik.
+page 17	Norwegians Dig In.
+page 17	Nazis Bomb Open Towns.
+page 17	King Confers With Nazis.
+page 17	British Embargo On Exports.
+page 17	Australian Sugar For Britain.
+page 17	AIR FORCE SUCCESS.
+page 17	At Least One Big Nazi Cruiser Damaged.
+page 17	Heinkel Intercepted.
+page 17	Activity Along Coast.
+page 17	Heinkels Driven Off.
+page 17	Brilliant Reconnaissance.
+page 17	Two Heinkels Down.
+page 17	Raid On Scotland.
+page 17	BELGIUM'S ALARM.
+page 17	Leave Cancelled.
+page 17	War Now On Britain's Doorstep.
+page 17	SCANDINAVIAN INVASION OFFERS GRAVENEWTHREAT.
+page 17	Strategical Advanlages.
+page 17	Newspaper's Warning.
+page 17	GOLD POURS INTO U.S.
+page 17	Neutrals Taking All Precautions.
+page 17	ITALIAN TROOPS AT LIBYA.
+page 17	SPURIOUS MONEY FOR NORWAY.
+page 17	STOCK MARKET REPORT.
+page 17	OSLO'S FALL DESCRIBED.
+page 17	Eye-witness Account By Escaped briton.
+page 17	Inhabitants Bewildered.
+page 17	House Blown Up.
+page 17	Singapore's War Gift.
+page 17	Authorities To Offer 1,000,000 Pound.
+page 17	British Malaya's Gifts.
+page 17	ANGLO- RUSSIAN RELATIONS.
+page 18	UNBEATEN RECORD MAINTAINED.
+page 18	Central British Assn. Draw With Police In Tournament Game.
+page 18	POSITIONSL CHANGES.
+page 18	BONSD MISSED.
+page 18	GOOD MATCH ANTICIPATED BETWEEN RADIO AND C.B.A.
+page 18	LIFE- SAVING CLASSES.
+page 18	University Retain Senior Title For Fourth Successive Year.
+page 18	Recreio Beat Taikoo.
+page 18	Diocesan Boys' Annual Sports Meeting.
+page 18	Craigengower Eleven.
+page 18	R. ENGINEERS' CRICKET AVERAGES.
+page 18	Sgt Denyer's Brilliant All- round Feat.
+page 18	Only Four Tennis League Entries To Date.
+page 18	REGISTRATION.
+page 18	MAINTAINED.
+page 18	Kumaons Defeat Rajputana Rifles In Large Units Semi -final.
+page 18	FOUR SHORT CORNERS.
+page 18	SOLITARY GOAL.
+page 18	C.S.C.C. Bowls Rinks.
+page 19	DENMARK QUIET.
+page 19	Danes Find Sanctuary In Sweden.
+page 19	Flee Into Sweden.
+page 19	Farewell Audience.
+page 19	Local Infantry Activity.
+page 19	Nazis New Move.
+page 19	Brighter Stock Exchange.
+page 21	British units force Skaggerak and engage enemy : Heavy Nazi losses certain: German warships bottled in Oslo Fjord.
+page 21	LARGE NAZI CONVOY OVERWHELMED AD WARSHIPS DISPERSED.
+page 21	SMOKE OF BATTLE.
+page 21	DISASTER FOR NAZI FLEET.
+page 21	Earlier Losses Were Also Staggering.
+page 21	WARSHIP IN FLAMES.
+page 21	BRITISH ATTACK ON OSLO.
+page 21	Germans Trapped In Former Capital.
+page 21	Heavy Fighting Rages.
+page 21	Bergen Report Confirmed.
+page 21	Dogfight Over Oslo.
+page 21	NAZI NAVY VIRTUALLY WIPED OUT CLAIM.
+page 21	Britain May Take Over Danish Territories.
+page 21	Order To Danish Ships.
+page 21	Vatican's Reports.
+page 21	GERMAN THREAT TO THE BALKANS.
+page 21	Allied Precautions.
+page 21	Ministers Confer.
+page 21	ADMITS LOSS OF 4 SHIPS.
+page 21	GAMBLING NAVAL PRESTIGE.
+page 22	GERMAN NAVY FACES COMPLETE DISASTER.
+page 22	Four Warships Sunk.
+page 22	Nazis Silent.
+page 22	Loss For Words.
+page 22	Swiss Army Ready.
+page 22	DOUGLAS STEAMSHIP COMPANY LTD.
+page 22	HOXG KONC TELEPHONE COMPANY, LIMITED.
+page 22	DISATER FOR NAZI FLEET.
+page 22	How Cruisers Were Sunk.
+page 22	Not Same Ships.
+page 22	Norwegian Warships Sunk: Heavy Loss.
+page 22	Salvo of Torpedoes.
+page 22	Bremen Rumour.
+page 22	Submarines Trapped.
+page 22	No Confirmation.
+page 22	Deliberate Lie.
+page 22	BRITISH ATTACK ON OSLO.
+page 22	Raid on Denmark.
+page 22	Stavangor Raid.
+page 22	Over 2,000 Britons In Scandinavia.
+page 22	Lord Sandhurst-Lieutenant 2 Wars-2 Feathers.
+page 22	BRITAIN MAY TAKE OVER DANISH TERRITORIES.
+page 22	London Surprised.
+page 22	Iceland Assumes Prerogatives.
+page 22	Declares Independence.
+page 24	DARLING OF STAGE DIES.
+page 24	The Passing of Mrs. Patrick-Campbell.
+page 24	Toast Of London.
+page 24	Played With Bernhardt.
+page 24	Scandinavia A Combat Area.
+page 24	U.S. Extension of The Neutrality Act.
+page 24	President Talks with Welles.
+page 24	Military Band Concert.
+page 24	World Press Again Denounces Hitler.
+page 24	LATEST AGGRESSION ACT CONDEMNED.
+page 24	Significant Nazi Veraion.
+page 24	"Unashamed Madness."
+page 24	Digging Own Graves.
+page 24	Anger and Anxiety.
+page 24	Inevitable Violation.
+page 24	REDS TO REMAIN NEUTRAL.
+page 24	German Invasion A Surprise.
+page 24	No Change In Attitude.
+page 24	Scandinavian Ships Held Up.
+page 24	Canada And S. Africa Take Action.
+page 24	American Opinion.
+page 25	BRITISH TROOPS IN NORWSY.
+page 25	Norwegian Forces Rallying.
+page 25	Sporadic Resistance.
+page 25	Complete Blockade.
+page 25	CANADIAN SUPPLY.
+page 25	Sabotage Paved Way.
+page 25	How Nazi Invasion Was Effected.
+page 25	Soldiers As Tourists.
+page 25	BUILDING LECTURE.
+page 25	ANOTHER BATTLE RAGING.
+page 25	Naval Action Off Swedish Cost.
+page 25	Two Warships Slnk.
+page 25	New Stockholm report.
+page 25	Still Fighting.
+page 25	Transports Sunk
+page 25	British Embargo On Exports.
+page 25	AFTER FEVER CARE.
+page 25	Landlord Sued By His Tenants.
+page 25	ANGLO-RUSSIAN RELATIONS.
+page 27	GERMANS ENTER HAMAR.
+page 27	New Norwegian Capital Falls.
+page 27	Big Oslo Battle.
+page 27	Die Defending Oslo.
+page 27	Occupation of Narvik.
+page 27	Norwegians Dig In.
+page 27	Nazi Bomb Open Towns.
+page 27	Norwegians Wiped Out.
+page 27	King Confers With Nazis.
+page 27	ROOSEVELT VICTORY.
+page 27	Sweeps Poll In Illinois Primary Elections.
+page 27	AIR FORCE SUCCESS.
+page 27	At Least One Big Nazi Cruiser Damaged.
+page 27	Helnkel Intercepted.
+page 27	Activity Along Coast.
+page 27	Hcinkels Driven Off.
+page 27	Brilliant Reconnaissance.
+page 27	Two Hoinkels Down.
+page 27	Raid On Scotland.
+page 27	DESERTION CHARGE.
+page 27	Dorglas Steamship Co Meeting.
+page 27	Profiteering BY SHIPOWNERSDENIED.
+page 27	Chaisman's Speech.
+page 27	Critic Answered.
+page 27	Provident fund.
+page 27	Seconder's Speech.
+page 27	WOMEN BRUTALLY ATTACKED.
+page 27	To-night's Black-Out.
+page 27	Last Minute Reminders To Residents.
+page 27	Higher Coal Prices.
+page 27	Orher Busincss.
+page 27	SIX NAZI PLANES DOWNED.
+page 27	London jssues Official Statement.
+page 27	King In Raid Alarm.
+page 27	U.S. DASHES HOPES.
+page 27	Hitler Can't Seize Danish Credits.
+page 27	U.S. To Watch Interests.
+page 29	BERGEN AND TRONDIIEIM RETAKEN BY BRITISH FORCES YESTERDAY.
+page 29	NAZI WARSHIPS TRAPPED IN OSLO FJORD.
+page 29	OCCUPATION CONFIRMED.
+page 29	DARINC ADVENTURE.
+page 29	"REUER" CONFIRMATION.
+page 29	NORTH SEA BATTLES.
+page 29	Nazis Try Derporately To Break Blockade.
+page 29	Big German Losses.
+page 29	ITALIAN TROOPS AT LIBYA.
+page 29	ALLIES WANTED THIS CHANCE.
+page 29	BELGIUM'S ALARM.
+page 29	Leave Cancolled.
+page 29	GOLD POURS INTO U.S.
+page 29	Neutrals Taking All Preautions.
+page 29	MAJOR BATTLES RAGE ALL ALONG NORWAY'S COAST.
+page 29	Oniy Part Of Operations.
+page 29	Damaged By Shrapnel.
+page 29	Nazi Admission.
+page 29	Singapore's War Gift.
+page 29	Authorities To Offer 1,000,000 Pound.
+page 29	British Malaya's Gifts.
+page 30	MORE DANISH SHIPS HELD.
+page 30	S'hai Elections.
+page 30	NORWAY TO FIGHT WITH ALLIES.
+page 30	Archives Safe.
+page 30	America Releases Secret Planes.
+page 30	British Minister Escapes.
+page 30	Property Dispute Judgment.
+page 30	Transports Flee.
+page 30	MARINES LAND AT NARVIK.
+page 30	SPURIOUS MONEY FOR NORWAY.
+page 30	Australian Sugar For Britain.
+page 30	AALESUND S.O.S.
+page 30	Troopship Sinks.
+page 30	OSLO'S FALL DESCRIBED.
+page 30	Eye -witness Account By Escaped Briton.
+page 30	Inhabitants Bewildered.
+page 30	House Blown Up.
+page 30	48 Pound For Billiarda Cue.
+page 31	GERMAN NAVY FACES COMPLETE DISASTER.
+page 31	British units forees Skaggerak and engage enemy: Heavy Nazi losses certain: German warships bottled in Oslo FJORD.
+page 31	TURKEY URGES NEUTRALS TO JOIN ALLIES.
+page 31	BRITISH ATTACK ON OSLO.
+page 31	Germans Trapped In Former Capital.
+page 31	Heavy Fighting Ragcs.
+page 31	Bergon Report Confirmad.
+page 31	Dogfight Over Oslo.
+page 31	Raid On Denmark.
+page 31	Allied Prccautions.
+page 31	Ministers Confer.
+page 31	Rumanian Fears.
+page 31	SMOKE OF BATTLE.
+page 31	DISASTER FOR NAZI FLEET.
+page 31	WARSHIP IN FLAMES.
+page 31	WARSHIPS ENTER OSLO FJORD.
+page 31	Invaded Country To Become Our Ally.
+page 31	NORWEGIAN KING T PROCLAIM COMMON FRONT.
+page 31	Call To People.
+page 31	Volunteers Rush To Colour.
+page 31	To Fight With Allies.
+page 31	MARINES LAND AT NARVIK.
+page 31	British Warships Force Passage.
+page 31	Elverum STILL holds Our.
+page 31	1,600 PLANES INGREAT BATTLE.
+page 31	Germans In Norway Cut Off.
+page 31	B.E.F LANDS.
+page 34	DISASTER FOR NAZI FLEET.
+page 34	Not Some Ships.
+page 34	Norwegian Warships Sunk: Heavy Loss.
+page 34	Salvo of Torpedoes.
+page 34	Bremen Rumour.
+page 34	Submarines Trapped.
+page 34	No Confirmation.
+page 34	Deliberate Lie.
+page 34	Military Band Concert.
+page 34	Local Infantry Activity.
+page 34	Lord Sandhurst - Lieutenant.
+page 34	GERMAN NAVY FACES COMPLETE DIS ASTER.
+page 34	Four Warships Sunk.
+page 34	Nazis Silent.
+page 34	Loss For Words.
+page 34	Admits Loss Of 4 Ships.
+page 34	REDS TO REMAIN NEUTRAL.
+page 34	German Invasion A Surprise.
+page 34	No Change In Attitude.
+page 34	BRITISH ATTACK ON OSLO.
+page 34	Stavanger Raid.
+page 34	NORWEGIAN KING TO PROCLAIM COMMON FRONT.
+page 34	Archlves Safe.
+page 34	DARLING OF STAGE DIES.
+page 34	The passing of Mrs. Patrick-Campbell.
+page 34	SKAGGERAK BATTLE.
+page 34	Attempted Nazi Coup Failed.
+page 34	ALLIED ARMADA FOR NORWAY.
+page 34	Gold Reserve Saved.

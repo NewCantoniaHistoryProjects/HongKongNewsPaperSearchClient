@@ -1,0 +1,397 @@
+page 1	DECORATIONS AT THE CORONATION.
+page 1	LONDON A FAIRYLAND.
+page 1	THE SEAMEN'S SRIKE.
+page 1	A TRUCE OFFERED.
+page 1	HOME RACING.
+page 1	NORTHUMBERLAND PLATE.
+page 1	HOME CRICKET COUNTY RESULTS.
+page 1	SHANGHAI EN FETE.
+page 1	FOR THE CORONATION.
+page 1	SINGAPORRE'S FESTIVITIES.
+page 1	CONGRATULATORY ADDRESS.
+page 1	A GORGEOUS SCENE.
+page 1	KING'S FIRST ACT.
+page 1	LODNON HORSE SHOW.
+page 1	RANCE WINS JUMPING COMPETITON.
+page 1	HOME POLITICS.
+page 1	THE VETO BILL.
+page 1	A BYE ELECTION.
+page 1	THE SEAMEN'S STRIKE.
+page 1	POSITION BETTER.
+page 1	SOUTHAMPTON SPRIKERS.
+page 1	TURKEY AND ALBANIA.
+page 1	THE PORTE'S WARNING TO FOREIGN POWERS.
+page 1	U.S. COASTING STRIKE.
+page 1	A SETTLEMENT.
+page 1	PRINCE OF WALES.
+page 1	CADET ON H.M.S. KENT.
+page 1	INTERNATIONAL TARIFFS.
+page 1	FATAL ELECTION RIOT IN GALICIA.
+page 1	FOURTEEN KILLED.
+page 1	IMPERIAL CONFERENCE.
+page 1	MORE NITY REQUIRED.
+page 1	GREAT SPEECH BY MR ASQUITH.
+page 1	WORK OF THE CONFERENCE.
+page 1	SECRET COUNCILS LAID BARE.
+page 1	ACTUAL RESULTS.
+page 1	UIFORMITY OF ACTION.
+page 1	GNERAL BOTHA INTERVIEWED.
+page 1	KEYNOTE OF THE CONFERENCE.
+page 1	EXTENSIVE ILLUMINATIONS.
+page 1	FROM JOHN O'GROATS TO LAND'S END.
+page 1	THE CORONATION.
+page 1	NEW ZEALAND'S GOLD NUGGET.
+page 1	MAURITIUS DELEGATES.
+page 1	LONDON EN FETE.
+page 1	THE THREE-MILE LIMIT.
+page 1	THE WEST HAM ELECTION PETITION.
+page 1	THEIR MAJESTIES DINE QUIETLY.
+page 2	OUR CONTEMPORARIES.
+page 2	What they Think.
+page 2	The Coronation.
+page 3	THE STEWARD TRAGEDY.
+page 3	Mrs. Prodlock Found Guilty of Murder.
+page 3	Accused's Story Consistent.
+page 3	The Prosecution's Reply.
+page 3	The Medical Evidence.
+page 3	The Judge's Summing-up.
+page 3	Three Lines of Defence.
+page 3	The Degree fo Provocation.
+page 4	THE KING IS ON HIS THRONE.
+page 4	MANILA'S CELEBRATIONS.
+page 4	BRILLIANT GATHERINGS.
+page 4	FIRE AT CORONATION RECEPTION.
+page 4	IN SINGAPORE.
+page 4	New Matran.
+page 4	Chirese Band.
+page 4	The Heat.
+page 4	Annual Tennis Match.
+page 4	CORONATION MORN IN LONDON.
+page 4	UNSLEPT LONDON.
+page 4	FEAST OF COLOUR.
+page 4	SCENES IN LONDON.
+page 4	"SHAKESPEARE BALL".
+page 4	HONOURS LIST.
+page 4	STATE BANQUET.
+page 4	KING LAYS CORNERSTONE IN NEWFOUNDLAND.
+page 4	WORLDWIDE TELEGRAMS.
+page 4	PRINCE OF EALES CHEERED.
+page 4	DIGNIFIED PROCESSION.
+page 4	SERVICE ENCHANTING.
+page 4	ANOINTING THE KING.
+page 5	Coronation Celebrations.
+page 5	A SIRANGER'S IMPRESSIONS.
+page 5	CORONATION FESTIVITIES.
+page 5	ENGLISH "VARIETY OF TALENT AND CHARADCTER."
+page 5	Irrepressible Curiosity.
+page 5	National Esprit de Corps.
+page 5	The Wrath of Delue.
+page 5	A Deserved Appendication.
+page 5	"Fountain of Good."
+page 5	Reflection.
+page 5	Pariotism and Loyaity.
+page 5	Attractive and Impressive.
+page 5	Scene Effulgent.
+page 5	Infectious Enjoyment.
+page 5	A Blaze of Colour.
+page 5	Influence of the Western Mind.
+page 5	Chinese Methods.
+page 5	Chinaman's Respect.
+page 5	Childhood Days.
+page 5	"God Save the King".
+page 5	Promising Day.
+page 5	Venice in Harbour.
+page 5	London Outclassed.
+page 5	The Holiday Crowd.
+page 5	Kowloon to Yaumati.
+page 5	Gorgeous Beauty.
+page 5	THE CATHEDRAL SERVICE.
+page 5	An Impressive Scene.
+page 6	"God Save the King".
+page 6	The Parsee Service.
+page 6	Jewish Service.
+page 7	THE PUBLIC MEETING.
+page 7	REVIEW OF THE TROOPS.
+page 7	AT HAPPY VALLEY.
+page 7	Review Order.
+page 8	RECEPTIN AT GOVERNMENT HOUSE.
+page 8	AT THE SCHOOLS.
+page 8	Entertainment at Queen's Collgeg.
+page 8	St. Jjoseph's College.
+page 8	Ellis Kadoorie College.
+page 8	THE FISH LANTERN PROCESSION.
+page 8	Srecial Article.
+page 8	CITY DECORATIONS.
+page 8	At Madame Flint's.
+page 8	The Princely House of Ewo.
+page 8	On the Waterfront.
+page 8	The Barracks.
+page 9	The Sldiers Club.
+page 9	Naval Yard.
+page 9	Foreign Firms.
+page 9	In Chinatown.
+page 9	Whitcaway Laidlaw.
+page 9	Our Friend the Tramway Company.
+page 9	Queen's Building.
+page 9	King's Building.
+page 9	On the Hill.
+page 9	Asiatic Petrolcum Co.
+page 9	Nippen Yusen Kaisha.
+page 9	King Edward Hotel.
+page 9	Araold, Karberg & Co.
+page 9	Government Decorations.
+page 9	Coronation Items.
+page 9	Coronation Treat.
+page 9	THE KING'S HOME LIFE.
+page 9	Loyal Subjects.
+page 9	EXCISE OFFICER MURDERED.
+page 9	Ran to Police Station with Bleeding Throat.
+page 9	No. Apparent Motive for Crime Murderer Escapes.
+page 9	Mruderer Escapes.
+page 9	No Motive.
+page 9	Deed Committed white Asleep.
+page 9	THE RUBBER INDUSTRY.
+page 9	CHINA FOREIGN TRADE IN 1910.
+page 9	The Coast Ports.
+page 9	Yantze Provinces.
+page 9	Shanghai.
+page 9	Values.
+page 9	Hongkong.
+page 9	Foreign Opium.
+page 9	TYPHOON SIGNALS.
+page 9	ARMED ROBBERIES.
+page 9	Prevalent in Colony.
+page 9	Widow Robbed.
+page 9	Arrested in Kowloon.
+page 9	A "Black" Ourage.
+page 9	Stole in Value 66 Dollars.
+page 9	Large Thefts.
+page 11	LOG BOOK.
+page 11	Motor Ocean Liners.
+page 11	China Shipping In 1910.
+page 11	Hongkong Steamers for Baguio.
+page 13	Life-Saving Methods.
+page 13	SOUTHAMPTON STRIKERS.
+page 13	GREAT SPEECH BY MR. ASQUITH.
+page 13	WORK OF THE CONFERENOE.
+page 13	SECRET COUNCILS LAID BARE.
+page 14	ACTUAL RESULTS.
+page 14	UNIFORMITY OF ACTION.
+page 14	MAURITIUS DELEGATES.
+page 14	LONDON EN FETE.
+page 14	UNSSLEPT LONDON.
+page 14	FEAST OF COLOUR.
+page 14	UNSLEPT LONDON.
+page 14	FEAST OF COLOUR.
+page 14	"SHAKESPEARE BALL".
+page 14	HONOURS LIST.
+page 14	EXCSE OFFICER MURDERED.
+page 14	Ran to Police Station with Bleeding Throat.
+page 14	No Apparent Motive for Crime.
+page 14	Murderer Escapes.
+page 14	Writes Incriminating Message.
+page 14	Efforts to Save Life Fruitless.
+page 14	Murderer Escapes.
+page 14	No Motive.
+page 14	Deed Committd while Asleep.
+page 14	Larceny.
+page 15	Coronation Celebrations.
+page 15	A STRANGER'S IMPRESSIONS.
+page 15	CORONATION FESTIVITIES.
+page 15	ENGLISH "VARIETY OF TALENT AND CHARACTER."
+page 15	Irrepressible Curiosity.
+page 15	National Esprit de Corps.
+page 15	The Wrath fo Defoe.
+page 15	A Desered Appendication.
+page 15	"Fountain of Good."
+page 15	Reflection.
+page 15	Patrlotism and Loyalty.
+page 15	A ttractive and Impressive.
+page 15	Seene Effulgent.
+page 15	Infeatious Enjoyment.
+page 15	A Blaze of Colour.
+page 15	Influence of the Western Mind.
+page 15	Chinese Methods.
+page 15	Chinaman's Respect.
+page 15	Childhood Days.
+page 15	"God Save the King."
+page 15	Promising Bay.
+page 15	Venice in Harbour.
+page 15	London Outclassed.
+page 15	The Holiday Crowd.
+page 15	Kowloon to Yaumati.
+page 15	Gorgeous Beauty.
+page 15	THE CATHEDRAL SERVICE.
+page 15	An Impressive Scene.
+page 16	"God Save the King."
+page 16	The Parsee Service.
+page 16	Jewish Service.
+page 16	THE PUBLIC MEETING.
+page 16	REVIEW OF THE TROOPS.
+page 16	AT HAPPY VALLEY.
+page 16	Review Order.
+page 16	ARRIVAL OF THE GOVERNOR.
+page 16	DRUMHED SERVICE.
+page 16	RECEPTIN AT GOVERNMENT HOUSE.
+page 16	Set Pieces.
+page 17	AT THE SCHOOLS.
+page 17	Entertainment at Queen's College.
+page 17	St. Joseph's College.
+page 17	Ellis Kadoorie College.
+page 17	THE FISH LANTERN PROCESSION.
+page 17	Special Article.
+page 17	CITY DECORATIONS.
+page 17	Messrs A.S Watsn and Co.
+page 17	At Madame Flint's.
+page 17	The Princely House of Ewo.
+page 17	On the Waterfront.
+page 17	The Barracks.
+page 17	The Soldiers Club.
+page 17	Naval Yard.
+page 17	Foreing Firms.
+page 17	InChinatown.
+page 17	Whiteaway Laidiaw.
+page 17	Our Friend the Tramway Company.
+page 17	Queen's Building.
+page 17	King's Building.
+page 17	On the Hill.
+page 17	Asiatic Petroleum Co.
+page 17	Nippon Yusen Kaisha.
+page 17	King Edward Hotel.
+page 17	Arnold Karberg & Co.
+page 17	Government Decoradtions.
+page 17	Cqoronation Items.
+page 17	Coronation Treat.
+page 17	TYPHOON SIGNALS.
+page 17	Kowloon Railway.
+page 17	Health Restrictions.
+page 17	Coronation Arches.
+page 17	The Kowloon Morgue.
+page 18	INTERMENT OF SIR H. MODY.
+page 18	General Manifestations of Sympathy.
+page 18	A Strange Coincidence.
+page 18	CORONATION SERVICE.
+page 18	CORONATION VISITORS FROM MANILA.
+page 18	LADY LUGARDS MAID.
+page 18	An Unfortunate Accident.
+page 18	SPURIOUS MONEY.
+page 18	Floods Taiwan.
+page 18	THE SINGAPORE RUBBER SENSATION.
+page 18	Meeting of Shareholders.
+page 18	Those Defalcations.
+page 18	THE HOSPITAL TRAGEDY.
+page 18	At Yokohama.
+page 18	VICEROY'S RESIGNATION NOT ACCEPTED.
+page 19	CRIMINAL SESSIONS.
+page 19	Kidnapping.
+page 19	CHINESE IN MEXICO.
+page 19	Exclusion Acgt Enforced.
+page 19	BOYCOTTING THE KWANGTUNG GOVERNMENT.
+page 19	HONGKONG DETECITVES.
+page 19	In Chinese Territory.
+page 19	FESTIVITIES IN CANTON.
+page 19	At the Coronation.
+page 20	ROYAL ASIATIC SOCIETY.
+page 20	North China Branch.
+page 20	CRIMINAL SESSIONS.
+page 20	Assault Case.
+page 20	FROEIGN TRADE OF CHINA IN 1910.
+page 20	Hongkong Increase: 33,000,000 Taels.
+page 20	TheCrash.
+page 20	Too Much Rain.
+page 20	Copper Currency.
+page 20	CANTON RAILWAYS.
+page 20	Crack Race Pony.
+page 21	SANITARY BOARD.
+page 21	CHINA'S DIPLOMATIC RELATIONS.
+page 21	Wit Foreign Powers.
+page 21	CORONATION HONOURS FOR HONGKONG.
+page 21	His Excellency to be G.C.M.G.
+page 21	Sis Frederick Lugard.
+page 21	Hon Mr. Brewin.
+page 21	CHINESE Y.M.C.A.
+page 21	Dr. White's Visit.
+page 21	FIELD GUNS IN CHINA.
+page 21	Drilling the Gunners.
+page 21	ESCAPED FROM CUSTODY.
+page 21	Sequel at Police Court.
+page 21	U.S. Tariff Act.
+page 21	THE NEW KAPSING BEACON.
+page 21	Slte Decided Upon.
+page 21	To Dissipate "British Sallor's" Apprehension.
+page 21	Another rDesirable Feature.
+page 21	Semaphores for Lighthouses.
+page 21	Another Improvement.
+page 21	Shanghai Dock Co.
+page 21	THE MESSAGERIES MARITIMES.
+page 21	FAMOUS CHRISTIJAN SCIENTIST.
+page 21	To Lecture in Hongkong.
+page 21	TO CURE OPIUM HABIT.
+page 21	A Novel Suggestion.
+page 22	THE NEW POST OFFICE.
+page 22	A FEW THOUTHTS.
+page 22	Broken Tempers.
+page 22	Amusing Episodes.
+page 22	Be Charitable.
+page 22	MONDAY'S ORGAN RECITAL.
+page 22	FOREIGNERS IN KIANGUS.
+page 22	Alleged Abuses.
+page 22	Diplomatic Trouble.
+page 22	MONEY CHANGES' OFFENCES.
+page 22	Punishment to Follow.
+page 22	FOREIGN LOANS IN CHINA.
+page 22	A FOREIGN STEAMER PIRATED.
+page 22	Near Canton.
+page 22	SENAWANG RUBBER ESTATES.
+page 22	FOREIGN PROPERTY-HOLDERS.
+page 22	In China.
+page 22	RUN ON CANTON BANKS.
+page 22	Loan Being Raised.
+page 22	PRISON BREAKING.
+page 22	AT YING-TAK.
+page 22	A SHORT SERMON.
+page 22	The Psaim of Psaims-1.
+page 22	YAUMATI COLLISION.
+page 22	Sixteen Bodles Recovered.
+page 23	CHAMPAGNE.
+page 23	WIRELESS.
+page 23	A DONATIN OF CRUMBS.
+page 23	THE CORONATION.
+page 23	THE KING IS ON HIS THRONE.
+page 23	 Wednesdya.
+page 23	Street Lecturer Drowned.
+page 23	Appointments.
+page 23	An Engagement.
+page 23	A Shipping Improvement.
+page 23	Lawn Bowls.
+page 23	Slik & Silk Goods Shipments.
+page 23	Japanese Landlines Interupted.
+page 23	Land Sale.
+page 23	The Harbour Collision.
+page 24	Royal Colunial Institute.
+page 24	St Andrew's New Organ.
+page 24	New Matron.
+page 24	Chinese Band.
+page 24	The Heat.
+page 24	Annual Tennis Match.
+page 24	Offer to Hongkong Solicitors.
+page 24	Beware of Pickpockets.
+page 24	Corner in Gasoline.
+page 24	Plague Precautions.
+page 24	Typhoon Warning.
+page 24	Accident To llumination Device.
+page 24	A Wearisome Case.
+page 24	Holhow Quarantine.
+page 24	Manlla Quarantine.
+page 24	Typhoon Warning.
+page 24	Harbour Notification.
+page 24	Health Returns.
+page 24	The Landers Thompson Wedding.
+page 24	Harbour Master's Timely Warning.
+page 24	CHINA FOREIGN RADE IN 1910.
+page 24	The Coast Ports.
+page 24	Yangtze Provinces.
+page 24	Shanghai.
+page 24	Values.
+page 24	Hongkong.
+page 24	Foreign Opium.

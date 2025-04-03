@@ -1,0 +1,228 @@
+page 1	ANOTHER BRITISH SHIP BOARDED.
+page 1	Fooshing Halted Off Amoy by Japanese, On Way to Japan Ports.
+page 1	BOARDING OFFICER OFFERS APOLOGIES TO MASTER.
+page 1	Chinese Aircraft Raid Warships Off S'hai At Night.
+page 1	HARASSING WARSHIPS.
+page 1	One Man Against Warship.
+page 1	Handing Over Of Post Office Denied.
+page 1	BANK OFFICIAL DROWNED.
+page 1	Nanking Promises Reprisals.
+page 1	INTENSIVE CAMPAIGN IN HOPEI.
+page 1	Reinforcements For Japanese.
+page 1	Reinforcements In Tangku.
+page 1	BATTLE ROARS AROUND PEIPING.
+page 1	TWO AIR RAIDERS DOWNED.
+page 1	Third Damaged In Swatow Fight.
+page 1	Rewards For Victors.
+page 1	300 Killed On Refugee Train.
+page 1	FIGHTING IN ASUNCION.
+page 1	ROME MAY SEVER RELATIONS WITH SOVIET CAPITAL.
+page 1	Germany, Italy Unlikely To Join Nyon Parley.
+page 1	Responsibility Confirmed.
+page 1	Powerful Delegation.
+page 1	U. S. Displays Concern For Europe Peace.
+page 1	CANTON CLOSES RIVER.
+page 1	Navigation At Night Restricted.
+page 1	FORTS KEEP CLOSEWATCH.
+page 1	NAVAL MOVEMENTS.
+page 1	Australia's Defence Plans.
+page 1	Big Increase In Air Force.
+page 3	ASYLUM LOVERS FAIL IN BID FOR FREEDOM.
+page 3	Handsome Couple Vanish At Flower Show Caught in 5 Days.
+page 3	ESCAPE PLANNED IN CHURCH.
+page 3	HANDSOME COUPLE.
+page 3	CHURCH PLOT.
+page 3	BATHING GIRLS PRAY IN ROAD.
+page 3	Jilted Man Burns Girl's House.
+page 3	ATTACKED BY GUESTS.
+page 3	YOU MUST BE DRUNK HERE.
+page 3	Here Is Something You Did Not Know.
+page 3	COAL, LEAD AND SEALING WAX IN CLGARETTES.
+page 3	MANUFACTURER FINED 300 pounds.
+page 3	"FLOOR SWEEPINGS."
+page 3	Toddlers With "Hang-overs."
+page 3	"Not in Those Trousers."
+page 3	WHAT SOLDIERS THINK OF NEW ARMY SCHENE.
+page 3	Townsmen Object To Paying For Air Base.
+page 3	Only Effective Plan -Better Pay.
+page 3	Hypnolised Bride Talks Of Mystery Box.
+page 5	Unique British Film To Be Shown In Hongkong.
+page 5	LOCAL WEDDING.
+page 5	MISS J. G. MACKENZIE & MR. W. G. SMITH.
+page 5	RADIO BROADCAST.
+page 7	"I Have Caused The Duke No Pain" -Vicar.
+page 7	ADMITS U.S. TOUR "FLOP."
+page 7	ONLY 71 TURNED UP.
+page 7	800 pounds LOST ON TOUR.
+page 7	Aberhart Bank Levy Denounced.
+page 7	"A SHOCK FOR CANADA."
+page 7	"BLOW  TO TRADE."
+page 7	DOWINION BANK EXEMPT.
+page 7	MINISTER'S DEFENCE.
+page 7	Is It Done to Smack A Woman?
+page 7	ONE MAN COWED 60 MANIACS.
+page 7	Armed Guards And Hoses Had Failed.
+page 7	Lipstick Just Part Of A Girl's Training.
+page 9	RIFLE SHOOTING.
+page 9	Association Opens Its New Season.
+page 9	LEADING SCORES.
+page 9	LULLABY TENNIS.
+page 11	NEWS OF THE DAY IN PICTURES FROM FAR AND NEAR.
+page 11	PHOTONEWS.
+page 11	HAPPENINGS AS SEEN BY THE CAMERA'S EYE.
+page 12	U. S. TO KEEP OUT OF WAR.
+page 12	DETERMINATION OF PEOPLE.
+page 12	ROME MAY SEVER RELATIONS WITH SOVIET CAPITAL.
+page 12	Germany's Reply.
+page 12	Identity Of Views.
+page 12	Cabinet Session.
+page 12	Most Pressing Problem.
+page 12	Russia's Warning.
+page 12	Secretary Named.
+page 12	Australia On Up Grade.
+page 12	Marked Industrial Prosperity.
+page 12	SEA FIGHTS OFF SPAIN.
+page 12	SPANISH FORCES IN TWO ACTIONS.
+page 12	LONG BATTLE.
+page 12	MUSICAL TREAT FOR MACAO.
+page 12	ARTIST MAY BE HEARD HERE.
+page 12	HIGHER WAGES IN NEW ZEALAND.
+page 12	ALL CLASSES GET INCREASES.
+page 12	CONSTABLE WOUNDED.
+page 12	CHOLERA CASES.
+page 12	TYPHOON WARNING.
+page 12	NATIONAL TONGUE.
+page 12	ENGLISH STILL IMPORTANT IN CHINA'S SPEECH.
+page 12	English Important.
+page 12	SHANGHAI VISTORS.
+page 12	ENTERTAINED BY COMPANIES OF SUBMARINES.
+page 13	JAPANESE AGAIN BOMB NANTAO.
+page 13	Explosives Rained On South Station While Panic Seizes People.
+page 13	DEFENCELESS REFUGEES RUSH FOR SHELTER TO FRENCH CONCESSION IN S'HAI.
+page 13	Chinese Attacks.
+page 13	More Bombing.
+page 13	Chinese Hold Firm.
+page 13	Fierce Counter-Attack.
+page 13	Japanese Line Cut.
+page 13	Huge Forces In Shanghai.
+page 13	Marines For Shanghai.
+page 13	CANTON CLOSES RIVER.
+page 13	Navigation At Night Restrcted.
+page 13	FORTS KEEP CLOSEWATCH.
+page 13	NAVAL MOVEMENTS.
+page 13	REACHES S'HAI.
+page 13	MEETING CONCLUDES.
+page 13	BRITISH STEAMER BOARDED.
+page 13	TYPHOON HAVOC ON RAILWAY.
+page 13	FIGHTING NEARING PEIPING.
+page 13	Chinese Hurl Back Attacks Of Japanese.
+page 13	Harass Enemy On All Sides.
+page 13	FRENCH PLANE SHOT DOWN.
+page 13	ROME MAY SEVER RELATIONS WITH SOVIET CAPITAL.
+page 13	Germany, Italy Unlikely To Join Nyon Parley.
+page 13	Responsibility Confirmed.
+page 13	Powerful Delegation.
+page 13	Nanking Promises Reprisals.
+page 13	HALTED SEARCHED OFF AMOY.
+page 13	Apology For Mid-Day Incident.
+page 13	SWATOW BOWBED.
+page 13	SHANGHAI MAIL.
+page 15	ASYLUM LOVERS FAIL IN BID FOR FREEDOM.
+page 15	Handsome Couple Vanish At Flower Show Caught in 5 Days.
+page 15	ESCAPE PLANNED IN CHURCH.
+page 15	HANDSOME COUPLE.
+page 15	CHURCH PLOT.
+page 15	BATHING GIRLS PRAY IN ROAD.
+page 15	Jilted Man Burns Girl's House.
+page 15	ATTACKED BY GUESTS.
+page 15	YOU MUST BE DRUNK HERE.
+page 15	Here Is Something You Did Not Know.
+page 15	COAL, LEAD AND SEALING WAX IN CLGARETTES.
+page 15	MANUFACTURER FINED 300 pounds.
+page 15	"FLOOR SWEEPINGS."
+page 15	Toddlers With "Hang-overs."
+page 15	"Not in Those Trousers."
+page 15	WHAT SOLDIERS THINK OF NEW ARMY SCHENE.
+page 15	Townsmen Object To Paying For Air Base.
+page 15	Only Effective Plan -Better Pay.
+page 15	Hypnolised Bride Talks Of Mystery Box.
+page 17	SEA FIGHTS OFF SPAIN.
+page 17	SPANISH FORCES IN TWO ACTIONS.
+page 17	LONG BATTLE.
+page 17	FRENCH PATROL.
+page 17	CORRESPOENCE.
+page 17	"Ex Rights."
+page 17	For The Chinese Red Cross.
+page 17	MUSICAL TREAT FOR MACAO.
+page 17	ARTIST MAY BE HEARD HERE.
+page 17	Australia On Up Grade.
+page 17	Marked Industrial Prosperity.
+page 17	Unique British Film To Be Shown In Hongkong.
+page 17	U. S TO KEEP OUT OF WAR.
+page 17	DETERMINATION OF PEOPLE.
+page 17	CONSTABLE WOUNDED.
+page 17	Australia's Defence Pllans.
+page 17	Big Increase In Air Force.
+page 19	FIGHT ON S. S. GLENAPP.
+page 19	EUROPEAN OFFICERS AND CREW.
+page 19	MEN CHARGED AT MARINE COURT.
+page 19	KICKING DENIED.
+page 19	OTHER EVIDENCE.
+page 19	KICKED FOOD AWAY.
+page 19	TWO TEAM CONTEST.
+page 19	JAPANESE AGAIN BOMB NANTAO.
+page 19	Harassing Warships.
+page 19	Three Attacks On Warships.
+page 19	Second Raid.
+page 19	One Man Against Warship.
+page 19	Handing Over Of Post Office Denied.
+page 19	CUOLERA CASES.
+page 19	BANK OFFICTAL DROWNED.
+page 19	ROME MAY SEVER RELATIONS WITH SOVIET CAPITAL.
+page 19	Germany's Reply.
+page 19	Identity Of Views.
+page 19	Cabinet Session.
+page 19	Most Pressing Problem.
+page 19	Russia's Warning.
+page 19	Secretary Named.
+page 19	Experts To Assist.
+page 19	FIGHTING NEARING PEIPING.
+page 19	Japanese Making Stand.
+page 19	Using Gas Shells?
+page 19	DESERTING CAPITAL.
+page 19	PEOPLE CHEERFUL.
+page 19	Intensive Campaign.
+page 19	Reinforcements In Tangku.
+page 19	Britain May Compromise.
+page 19	ON MYSYERY MISSION.
+page 19	FAMOUS DOCTOR'S IDEAL REMEDY FOR STOMACH PAINS.
+page 19	HIGHER WAGES IN NEW ZEALAND.
+page 19	ALL CLASSES GET INCREASES.
+page 21	TWO AIR RAIDERS DOWNED.
+page 21	Third Damaged In Swatow Fight.
+page 21	Rewards For Victors.
+page 21	300 Killed On Refugee Train.
+page 21	Explanation Of Attack.
+page 21	INSURGENTS WIN NEW GROUND.
+page 21	Large Gains In Many Sectors.
+page 21	FORMER CHINESE SOLDIER.
+page 21	SENT TO PRISON FOR STEALING.
+page 21	HEROIN DIVAN RAIDED.
+page 21	MAN GETS YEAR'S HARD LABOUR.
+page 21	NON-INTERVENTION.
+page 23	NEWS OF THE DAY IN PICTURES FROM FAR AND NEAR.
+page 23	PHOTONEWS.
+page 23	HAPPENINGS AS SEEN BY THE CAMERA'S EYE.
+page 24	BATTLE ROARS AROUND PEIPING.
+page 24	MURDER PLOT DENIED.
+page 24	FORMER DIRECTOR GIVES EVIDENCE.
+page 24	SINCERE CO MURDER TRIAL.
+page 24	OWED MONEY.
+page 24	U. S. Displays Concern For Europe Peace.
+page 24	FIGHTING IN ASUNCION.
+page 24	ACCUSED'S STATEMENTS.
+page 24	LI CIVES EVIDENCE.
+page 24	HONGKONG TYPHOON VICTIMS.
+page 24	URGENT APPEAL FOR HELP.
+page 24	Italy Backs Nazi Demand For Colonies.
+page 24	"Mouthpiece" For Mussolini Speaks.

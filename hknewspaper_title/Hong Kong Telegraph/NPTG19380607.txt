@@ -1,0 +1,156 @@
+page 1	BOMBERS START NEW DAY OF TERROR.
+page 1	CASUALTIES FEARED TO BE SEVERE.
+page 1	Residential Areas Suffer Again.
+page 1	Only Four Bombs.
+page 1	Hope Bombings Will Cease.
+page 1	Interior Cities Raided.
+page 1	MOLLISON ARRESTED.
+page 1	"Wild Flying" Cause Of French Action.
+page 1	Defenceless British Ship Bombed, Sunk.
+page 1	New Scheme To Prevent Air Warfare.
+page 1	Observers Might Keep World Well-Informed.
+page 1	No Payment On Austrian Loans Made.
+page 1	SLOVAK MINORITY WARNED.
+page 1	Hodza Ready To "Declare War.
+page 1	PLEA FOR UNITY.
+page 1	HUGE DEFICIT FACING U.S.
+page 1	YOUNG SEAMAN ON TRIAL FOR MURDER.
+page 1	FRANCE APPEALS TO TOKYO.
+page 1	ITALIANS BLAME LOYALISTS.
+page 1	For Bombing Of French Village.
+page 1	DALADIER INVESTIGATES.
+page 1	Freud Seeks Peace, Quiet In England.
+page 1	Sanctuary Cities May Win Japan's Approval.
+page 1	MIGHTY EXPLOSION 200 YARDS FROM SHAMEEN.
+page 1	SCHEME OFFERS CERTAIN REFUGE.
+page 1	Foreign Supervision Might Be Needed.
+page 1	Sure Of Sympathy.
+page 1	FRENCH FIRE ON RAIDERS.
+page 3	Psychology Lessons For J.P.s.
+page 3	Clinic To Teach Magistrates.
+page 3	MAN POSES AS WOMAN.
+page 3	CHILDREN PREFER COMEDY IN FILMS.
+page 3	Crook Dramas "Do No Harm".
+page 3	BECOMES U.S. CITIZEN FOR SECOND TIME.
+page 3	Slimmers A Nuisance, Says Doctor.
+page 3	POLICE DOGS FOR LONDON.
+page 3	BRITONS ON GERMAN YACHT.
+page 3	Queen Mary Ignored Nurse's "Equal To Radium" Claim.
+page 3	"THE HOSPITAL".
+page 5	HANKOW READY FOR RAIDS.
+page 5	Special Zone For Foreigners.
+page 5	AN UPHEAVAL THAT KILLED OVER TWO HUNDRED CANTON CIVILIANS.
+page 6	For Ten Days He Was Most Famous Man In The World.
+page 7	PAID HOLIDAYS FOR ALL' DECISION WILL AFFECT 18,500,000.
+page 7	First Dollar On Deposit.
+page 7	18-YEAR-OLD GIRL, BURIED UNDER RUINS OF HOME, IS RESCUED.
+page 7	3 BOYS IN 25 MINUTES.
+page 7	Iowa Twins Pass 93.
+page 7	BROTHERS LIVE, DIE, TOGETHER.
+page 7	Newton Baker School Proposed.
+page 7	Powered Potatoes The Newest Food.
+page 11	BLOSSOM TIME IN ENGLAND.
+page 12	YOUNG SEAMAN ON TRIAL FOR MURDER.
+page 12	ONLY SALENT FEATURES.
+page 12	CHINESE DENY KAIFENG'S CAPTURE.
+page 12	Evacuating Hankow.
+page 12	China Won't Risk Fight On Honan Plains.
+page 13	BOMBERS START NEW DAY OF TERROR.
+page 13	CASUALTIES FEARED TO BE SEVERE.
+page 13	Residential Areas Suffer Again.
+page 13	Only Four Bombs.
+page 13	Hope Bombings Will Cease.
+page 13	Interior Cities Raided.
+page 13	BOMBING OF CANTON CONTINUES.
+page 13	Trouble In Franco's Ranks.
+page 13	AMERICAN SHOT BY JAPANESE.
+page 13	Ugly Story Of Soldier's Crime.
+page 13	ISOLATION MUST BE ABANDONED.
+page 13	U.S. Official Wants To Play Part In Peace Work.
+page 13	Government Opposed To Free Camp For Refugees.
+page 13	SIGNING TRADE TREATY.
+page 13	CHINESE TO MAKE FIRM STAND TO PROTECT HANKOW.
+page 13	Defence Tactics Decided.
+page 13	Black Watch Soldier Killed In Mine Blast.
+page 13	NOT INCLUDED IN INTERVIEW.
+page 13	France Mans Frontier to Stop Incursions.
+page 13	MIGHTY EXPLOSION 200 YARDS FORM SHAMEEN.
+page 13	ANTI-AIRCRAFT UNITS POSTED.
+page 13	Daladier Himself Inspects Border.
+page 13	Ordered To Shoot!
+page 13	Fire On Raiders.
+page 14	YOUNG SENMAN ON MURDER TRAIL.
+page 14	Prosecution Alleges Death of Dickinson was Premeditated.
+page 14	Immorality Aboard Warship.
+page 14	ONLY SALIENT FEATURES.
+page 14	AMBITIOUS SAILOR.
+page 14	SOURCE OF TROUBLE.
+page 14	IMMORAL PURPOSE ALLEGED.
+page 14	TOOK GRAVE RISK.
+page 14	PEOPLE IN THE CASE.
+page 14	DETESTATION GREW.
+page 14	"FORGET IT".
+page 14	"I WILL SHOOT HIM".
+page 14	PLAN WORKED OUT.
+page 14	Dorsetshire Tragedy.
+page 14	PROSECTION'S CONTENTION.
+page 14	ORGANISATION OF WATCH.
+page 14	"GET THEIR HEADS DOWN".
+page 14	WARSHIP MODEL IN COURT.
+page 14	WENT TO SLEEP.
+page 14	DISCOVERED BODY.
+page 14	TRYING TO BE SICK.
+page 14	"WHAT A TERRIBLE MESS".
+page 14	SNEER OR SMILE?
+page 14	MADE A STATEMENT.
+page 14	CHINESE MUSTERED.
+page 14	SEARCH FOR WEAPON.
+page 14	TWO MISSING BUTTONS.
+page 14	THE FIRST WITNESS.
+page 14	HOMOSEXUAL OFFENCES.
+page 14	AUSTRALIAN CRUISE.
+page 14	SHIP'S COMPANY WARNED.
+page 15	YOUNG SEAMAN ON MURDER TRIAL.
+page 15	FRONTIER TO STOP INCURSIONS FRANCE MANS.
+page 15	Newspapers Agreed In Stern Necessity.
+page 15	Grave Accusations.
+page 15	Bombers Active.
+page 15	Raid On Valencia.
+page 15	MOLLISON ARRESTED.
+page 15	"Wild Flying" Cause Of French Action.
+page 16	CHINESE TO MAKE FIRM STAND TO PROTECT HANKOW.
+page 16	Anticipate Long War.
+page 16	Gallant Rearguard Action.
+page 16	Won't Risk Fight On Plains.
+page 16	Chinese Deny Kaifeng's Capture.
+page 16	Evacuating hankow.
+page 16	Guerillas In Chefoo.
+page 16	Floods May Stop Fighting Near Chengchow.
+page 17	Sanctuary Cities May Win Japan's Approval.
+page 17	SCHEME OFFERS CERTAIN REFUGE.
+page 17	Foreign Supervision Might Be Needed.
+page 17	Sure Of Sympathy.
+page 17	Airmen Instructed.
+page 17	18-YEAR-OLD GIRL, BURIED UNDER RUINS OF HOME, IS RESCUED.
+page 17	ITALIANS BLAME LOYALISTS.
+page 17	For Bombing Of French Village.
+page 17	ON SECOND LEG OF OCEAN FLIGHT.
+page 17	New Scheme To Prevent Air Warfare Observers Might Keep World Well-Informed.
+page 17	Defenceless British Ship Bombed, Sunk.
+page 17	BOYCOTT ALLEGEDLY IGNORED.
+page 17	British Wholesale Houses Won't Buy From War-Makers.
+page 17	RAINFALL WELL BELOW AVERAGE.
+page 19	SLOVAK MINORITY WARNED.
+page 19	Hodza Ready To "Declare War.
+page 19	PLEA FOR UNITY.
+page 19	No Payment On Austrian Loans Made.
+page 19	HUGE DEFICIT FACING U.S.
+page 19	AN UPHEAVAL THAT KILLED OVER TWO HUNDRED CANTON CIVILIANS.
+page 20	For Ten Days He Was Most Famous Man IN The World.
+page 23	BLOSSOM TIME IN ENGLAND.
+page 24	FRANCE APPEALS TO TOKYO.
+page 24	FRENCH TO EVACUATE HOSPITAL IN CANTON.
+page 24	Rumours Of Sino-Soviet Secret Pact Reach Tokyo.
+page 24	CANTON DEFENCES PREVENT MUCH WORSE MASSACRE.
+page 24	TWO NEW CASES OF CHOLERA.
+page 24	REFUGEES FLEE FROM VOLCANO.

@@ -1,0 +1,327 @@
+page 1	German Commander Blows Himself Up With His Ship.
+page 1	GRAF SPEE SCUTTLED.
+page 1	Exclusive Story Of Sea Drama.
+page 1	CAPTAIN'S LAST WORDS.
+page 1	DISAPPEARS FROM VIEW.
+page 1	RUSSIAN BEATEN-UP.
+page 1	Cowardly Assault By "Puppet" Police.
+page 1	Soviet Reverses Continue.
+page 1	FINNS STUBBORNLY HOLDING OUT.
+page 1	Finns Destroy Soviet Army's Prestige.
+page 1	NAZIS LOSE FAITH IN NEW ALLY:
+page 1	SWEDEN'S FEARS.
+page 1	NAZI PLANE RAIDS ON EAST COAST.
+page 2	ABSENCE OF RAIDS.
+page 2	WEIGHTY FACTS FOR GOERING.
+page 2	The German Air Force.
+page 2	Inferior Equipment.
+page 2	U.S. Labour Wants German Boycott.
+page 2	NEW YEAR FIREWORKS.
+page 2	First Man To Fight In Air Mexican Battle Recalled.
+page 2	CHRISTMAS CAROLS.
+page 2	UNIVERSITY CONCERT.
+page 2	Somewhere In France.
+page 3	Parcel Post To Reich Stopped.
+page 3	Upset Stomach Quickly Put Right.
+page 3	R. A. F. MAINTAINS A LONELY AIR VIGL.
+page 3	JACK PAYNE'S DIVORCE.
+page 3	Ncrve-Racking Task.
+page 3	Ex-Kaiser 'Banned Gas Bombs'.
+page 3	NO VALID PASSPORT.
+page 4	Heiress Bride Vanishes 20 Years After Brother.
+page 4	B.E.F. is "Family Business"
+page 4	From PAUL BEWSHER.
+page 4	HONOURS FOR VICTORY.
+page 4	Widow's "Confession".
+page 4	Empire Training Scheme Signed.
+page 4	BRITISH SHIP MINED.
+page 4	Zionist Leader's Appointment.
+page 4	HER FATHER WAS HELD BY GERMAN OCEAN RAIDER.
+page 4	Act Like A Sailor, Said Patrick To U-boat Captain.
+page 4	JAPANESE SHIP RELEASED.
+page 4	INDIAN BAN ON AIRCRAFT.
+page 4	CROWN WAS OFFERED TO CRICKETER.
+page 4	An Adventure In Albania.
+page 4	FINNS STUBBORNLY HOLDING OUT.
+page 5	MUSSOLINI'S POLICY.
+page 5	SOMEWHERE IN FRANCE.
+page 5	Private Bert Wins The M.M.
+page 5	PREMIER WITH GORT.
+page 5	Neville Chamberlain On Visit To Western Front.
+page 5	An Air Raid Alarm.
+page 5	BIG STOCK OF SERUM.
+page 5	Fighting the Diseases of the War.
+page 5	BLACK-OUT CRIMES.
+page 7	Bird Shops Control.
+page 7	Must Now Be Licensed By Urban Council.
+page 7	New Streets Named.
+page 7	British Ships Wait For The Graf Spee.
+page 7	Graf Spee May Attempt To Make Fight Of It.
+page 7	Entire Village Gutted By Fire.
+page 7	French Hurl Back Big German Raid.
+page 7	Finns Retreat.
+page 7	Big Battle For North.
+page 7	Moscow communique.
+page 7	Finns admit northern reverse.
+page 7	Battle developing.
+page 7	No substantial red gain.
+page 7	Highlights in south.
+page 7	SINGAPORE BASE.
+page 8	MONDAY MORNING COMMENTARY.
+page 8	IRELAND'S GALLANT BUT UNAVAILING EFFORT.
+page 8	China Fully Extended To Win By 4-2: Hills Brilliant In Defence.
+page 8	J.T. SMITH EASILY BEATS F.D. HUNTER AT FANLING.
+page 8	IRELAND SCORE EARLY.
+page 8	England Soccer XI Chosen.
+page 8	CHINA EQUALISE.
+page 8	CHINA GO AHEAD.
+page 8	ARMY TROUNCE NAVY 20-0.
+page 8	Excellent Display By The Backs.
+page 8	Reception Prepared For Jack Dempsey.
+page 8	Dempsey May Omit Visit To H.K.
+page 9	LUCK AGAINST.
+page 9	PENALTY AWARD.
+page 9	SIREN IN KHAKI.
+page 9	Rum For Air Raid Victims.
+page 9	OBJECTOR'S DUAL NATIONALITY.
+page 9	"Done Our Share".
+page 9	Valentino's Widow Clings To Her 'Peke'.
+page 9	Army Beat The Navy.
+page 9	PREMEDITATED MOVE.
+page 9	Still at It, Still Wrong.
+page 9	BELGIANS HEAR GUN-FIRE.
+page 9	Purchasing Fleet Of Cargo Ships.
+page 9	OUTPLAYED IN SCRUMS.
+page 9	A STUMBLING BLOCK.
+page 9	Ireland's Unavailing Effort.
+page 11	Explosion In Liner "Told" In Tea Cup.
+page 11	"WELL COP IT" DID SO.
+page 11	CAPTAIN INJURED.
+page 11	RADIO BLOWN AWAY.
+page 11	They Don't Want Mr. Hitler.
+page 11	Town That Fears A Hitler Guarantee.
+page 11	The Swiss don't miss.
+page 11	"Harry, they've given me a ship".
+page 11	'He was A Man'.
+page 11	JAPANESE BUDGET.
+page 11	Yen 1,274,780,000 for The Army.
+page 11	Manchukuo Budget.
+page 12	ARMOUR TORN TO FRAGMENTS.
+page 12	Latest Of Type.
+page 12	Cost 3,750,000Pound.
+page 12	British Pilots Await New Calls To Duty.
+page 12	BITTER AERIAL WARFARE LIKELY.
+page 12	Air Minister's Warning.
+page 12	Rice riot in shanghai.
+page 12	Quelled After Loss Of 20 Bags Of Rice.
+page 13	China Station Warship Stands By Burning Cruiser.
+page 13	GRAF SPEE SCUTTLED.
+page 13	Exclusive Story Of Sea Drama.
+page 13	LANGDORF IS SAFE.
+page 13	Cumberland Stands By Burning Ship.
+page 13	RUSSIAN BEATEN-UP.
+page 13	Cowardly Assault By "Puppet" Police.
+page 13	CAPTAIN'S LAST WORDS.
+page 13	DISAPPEARS FROM VIEW.
+page 13	Exeter's Losses.
+page 13	Casualty List Lssued.
+page 13	Soviet Reverses Continue.
+page 13	FINNS STUBORNLY HOLDING OUT.
+page 13	Finns Destroy Soviet Army's Prestige.
+page 13	NAZIS LOSE FAITH IN NEW ALLY: SWEDEN'S FEARS.
+page 13	NAZI PLANE RAIDS ON EAST COAST.
+page 14	ABSENCE OF RAIDS.
+page 14	WEIGHTY FACTS FOR GOERING.
+page 14	The German Air Force.
+page 14	Inferior Equipment.
+page 14	U.S. Labour Wants German Boycott.
+page 14	NEW YEAR FIREWORKS.
+page 14	First Man To Fight In Air Mexican Battle Recalled.
+page 14	CHRISTMAS CAROLS.
+page 14	UNIVERSITY CONCERT.
+page 15	Parcel post to Reich Stopped.
+page 15	Upset Stomach Quickly Put Right.
+page 15	R. A. F. MAINTAINS A LONELY AIR VIGIL.
+page 15	A Pilot's Heroism.
+page 15	JACK PAYNE'S DIVORCE.
+page 15	Ncrve-Racking Task.
+page 15	Ex-Kaiser 'Banned Gas Bombs'.
+page 15	Just in Time.
+page 15	NO VALID PASSPORT.
+page 16	HONG KONG HORTICULTURAL SOCIETY.
+page 16	LANDDORF IS SAFE.
+page 16	Planes Overhead.
+page 16	Armour Torn To Fragments.
+page 16	Latest Of Type.
+page 16	Cost 3,750,000Pound.
+page 16	Badminton Fixtures Changed.
+page 16	GRAF SPEE SCUTTLED.
+page 16	The Only Casualty.
+page 16	Huge Crowds Watch Drama.
+page 16	Nazi Admissions.
+page 16	Ready To Run Gantlet.
+page 16	Two Terrific Explosions.
+page 16	NAZIS LOSE FAITH IN NEW ALLY: SWEDEN'S FEARS.
+page 16	Sweden's Apprchension.
+page 16	Kirov Out Of Action.
+page 16	Flag Flies Gallantly.
+page 16	Nazis Won't Admit Defeat.
+page 16	HER FATHER WAS HELD BY GERMAN OCEAN RAIDER.
+page 16	Act Like A Sailor, Said Patrick To U-boat Captain.
+page 16	FINNS STUBBORNLY HOLDING OUT.
+page 16	Appeal For World Help.
+page 16	Russian Attacks Repulsed.
+page 16	AIR PATROLS' WORK.
+page 16	FRANCE BUYS PLANES.
+page 16	JAPANESE SHIP RELEASED.
+page 17	SOMEWHERE IN FRANCE.
+page 17	PREMIER WITH GORT.
+page 17	Neville Chamberlain on Visit To Western Front.
+page 17	An Air Raid Alarm.
+page 18	Battle Of Babel.
+page 21	Army Beat The Navy.
+page 21	PREMEDITATED MOVE.
+page 21	Police 10 Ciub 8
+page 21	BELGIANS HEAR GUN-FIRE.
+page 21	OUTPLAYED IN SCRUMS.
+page 21	A STUMBLING BLOCK.
+page 21	Purchasing Fleet Of Cargo Ships.
+page 21	Ireland's Unavailing Effort.
+page 21	LUCK AGAINST.
+page 21	PENALTY AWARD.
+page 24	R.A.F. Attacks On Sylt.
+page 24	Nazi Plane Sinks British Steamer.
+page 24	German Plane Doomed.
+page 24	British Pilots Await New Calls To Duty.
+page 24	BITTER AERIAL WARFARE LIKELY.
+page 24	Air Minister's Warning.
+page 24	Rice Riot In Shanghai.
+page 24	Quelled After Loss Of 20 Bags Of Rice.
+page 25	Last Moments of Admiral Graf Spee Deseribed In Vivid, Exclusive Despatches.
+page 25	CHINA STATION CRUISER STANDS BY BLAZING GERMAN RAIDER.
+page 25	CAPTAIN & CREW TO BE INTERNED.
+page 25	WANTED TO FIGHT.
+page 25	Captain Opposed Ignominious End.
+page 25	Looked Good As Now.
+page 25	SHANGHAI COST OF LIVING.
+page 25	Bows Above Water.
+page 25	Planes Overhead.
+page 25	Pride Of Nazi Navy Meets Ignominious End.
+page 25	"Telegraph's" Exclusive Reports Of Scuttling Of The "Graf Spee".
+page 25	VIVID RADIO BROADCAST.
+page 25	BRITON DETAINED.
+page 25	Taken Off Captured Neutral Steamer.
+page 25	FINLAND'S APPEAL.
+page 25	President Asks For Material Aid.
+page 25	Third Power Shipping Will Be Permitted To Use River As Far As Nanking.
+page 25	YANGTSE RIVER TO BE RE-OPENED.
+page 25	CHILDREN FOREGO PRIZES.
+page 25	C.B.S. Scholar Aid War Organisation Fund.
+page 25	Exeter's Losses.
+page 25	Casualty List Issued By Admiralty.
+page 25	61 Killed, 23 Wounded.
+page 25	Doctors Rush To Aid.
+page 25	BRITONS GIVE THEIR LIVES.
+page 25	First Casualties On The Western Front.
+page 25	CHUNGKING AIR RAID.
+page 26	As They See It Abroad.
+page 26	ABSENCE OF RAIDS.
+page 28	RUSSIAN BEATEN-UP.
+page 28	Upset Stomach Quickly Put Right.
+page 28	Finns Destroy Soviet Army's Prestige.
+page 28	NAZIS LOSE FAITH IN NEW ALLY: SWEDEN'S FEARS.
+page 29	SOMEWHERE IN FRANCE.
+page 29	Soviet Reverses Continue.
+page 29	FINNS STUBBORNLY HOLDING OUT.
+page 29	No Important Gains.
+page 29	Appeal For World Help.
+page 29	Russian Attacks Repulsed.
+page 29	Reds Routed.
+page 29	Russian Commenique.
+page 30	Battle Of Babel.
+page 31	Chinese Troops Instigate Ambitious Offensive.
+page 31	SEEK TO DISLOCATE THE YANGTSE RIVER.
+page 31	Transport Impeded.
+page 31	Defying Bombardment.
+page 31	Offensive Contivues.
+page 31	"Domei" Report.
+page 31	Company Meeting.
+page 31	7,000 DOLLARS IN PROFIT.
+page 31	But Company Pays Good Dividend.
+page 31	Chairman's Speech.
+page 31	Profit Allocation.
+page 31	Rice Riot In Shanghai.
+page 31	Quelled After Loss Of 20 Bags Of Rice.
+page 31	Most Audacious Thief In H.K.
+page 31	R. A. F. Attack On Sylt.
+page 31	Nazi Plane Sinks British Steamer.
+page 31	German Plane Doomed.
+page 31	Seaplane Base Bombed.
+page 31	HITLER FOOLING HIS PEOPLE.
+page 31	Bus Hits Pillar.
+page 31	Chinese Woman Charged With Manslaughter.
+page 31	One Dollar Paid Off.
+page 31	"You Want To Fight".
+page 31	JAPANESE SHIP RELEASED.
+page 31	Release After Examination.
+page 31	FRENCH LOAN FOR CHINA.
+page 31	39,150 Heroin Pills Found.
+page 31	Raid Described.
+page 31	Prisoocrs' Statements.
+page 31	CAR AND MOTOR CYCLE STOLEN.
+page 33	NAZI PLANE RAIDS ON EAST COAST.
+page 33	INDIAN BAN ON AIRCRAFT.
+page 33	BELGIANS HEAR GUN-FIRE.
+page 33	Purchasing Fleet Of Cargo Ships.
+page 33	Army Beat The Navy.
+page 33	PREMEDITATED MOVE.
+page 36	LATE NEWS.
+page 36	H.K. Lady Tells Of N.Y.K. Disaster.
+page 36	"IGNOMINIOUS," SAYS "Times".
+page 36	TACOMA CAPTAIN ARRESTED: NAZI CREW INTERNED.
+page 36	Langdorf picked Up By Cruiser.
+page 36	SCUTTLED AS "PROTEST".
+page 37	German Commander Blows Up His Ship.
+page 37	GRAF SPEE SCUTTLED.
+page 37	Ship, Afire, Sinks Off Montevideo.
+page 37	LEAVES HARBOUR.
+page 37	THREAT TO SCUTTLE.
+page 37	NAZI ADMISSIONS.
+page 37	Crew Transferred.
+page 37	Ark Royal And Renown At Rio Do Janeiro.
+page 37	Graf Spee Explodes Under Own Power.
+page 37	Sinking Of Graf Spee Confirmed.
+page 37	Ark Royal And Renown Reach Rio Do Janeiro.
+page 37	Exeter's Losses.
+page 37	Casualty List Issued By Admiralty.
+page 37	61 Killed, 23 Wounded.
+page 37	Purchasing Fleet Of Cargo Ships.
+page 37	LIGHT CRUISERS OF THE GERMAN FLEET AT SEA.
+page 37	FINNS STUBBORNLY HOLDING OUT.
+page 37	Successful Resistance.
+page 37	No Imoortant Gains.
+page 37	Appeal For World Help.
+page 37	Finns Destroy Soviet Army's Prestice.
+page 37	NAZIS LOSE FAITH IN NEW ALLY: SWEDEN'S FEARS.
+page 37	Germany's Doubts.
+page 37	80,000 Women War Workers.
+page 37	War's Darkest Blackout.
+page 37	NAZI PLANE RAIDS ON EAST COAST.
+page 37	Sweden's Apprehension.
+page 37	Kirov Out Of Action.
+page 38	ABSENCE OF RAIDS.
+page 38	WEIGHTY FACTS FOR GOERING.
+page 38	By Major F. A. de V. Robertson.
+page 38	The German Air Force.
+page 38	Inferior Equipment.
+page 38	U.S. Labour Wants German Boycott.
+page 38	NEW YEAR FIREWORKS.
+page 38	First Man To Fight In Air.
+page 38	Mexican Battle Recalled.
+page 38	CHRISTMAS CAROLS.
+page 38	UNIVEHSITY CONCERT.
+page 40	DUCHESS CASUALTIES.
+page 40	ENEMY CRUISER HIT.
+page 40	Starhemberg Is Ready To Fight.
+page 40	"For Freedom".
+page 40	Secret Reports.

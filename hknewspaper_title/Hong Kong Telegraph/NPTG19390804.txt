@@ -1,0 +1,462 @@
+page 1	National Guards Called Out.
+page 1	"INSURRECTTON" INCOLORADO.
+page 1	War In Europe Unlikely.
+page 1	Direct Assurance By Spokesman.
+page 1	Restful Night In Hospital.
+page 1	Lady Northcote To Return Home To-Day.
+page 1	Russo-American Trade Agreement.
+page 1	CHAMBERLAIN'S VACATION.
+page 1	T R I B U N A L POSTPONED.
+page 1	No Conscripts Examined.
+page 1	Flood Menace In N. China.
+page 1	Tientsin Threat Now Dangerous.
+page 1	Negotiations Open In Rome For Full Alliance.
+page 1	JAPAN TO JOIN MILITARY AXIS WITH GERMANY, ITALY.
+page 1	Long-Awaited Bombshell.
+page 1	Meeting Called Off.
+page 1	PRISONERS IN SPAIN.
+page 1	U.S. Nationals To Be Repatriated.
+page 1	Utter Confusion, Says German.
+page 1	Chungking Bombing.
+page 1	Another Raid On The Capital.
+page 1	Kiangsi Towns Raided.
+page 1	HOWBEIT TRIBES SETTLE FEUDS.
+page 1	Mongol Border Fighting.
+page 1	Japan Claims 69 Planes Downed.
+page 2	Spies Costing Britain 700.000 Pounds.
+page 2	Oil From Blue Water Gas.
+page 2	IN BRITAIN'S QUIETEST FACTORY.
+page 2	Women Build Bombers.
+page 2	Gracie Fields In Divorce Court.
+page 2	Boy's Tribute To Dead Airman.
+page 3	Man Married His Niece Now Granted Decree.
+page 3	Decision On Spy Film.
+page 3	HONGKONG BRIDE.
+page 3	Baby Swallows Safety-Pin.
+page 3	Two Girls Burned To Death.
+page 3	Bogus Stamp Slips Through Post.
+page 3	Hospitals, Camouflage Shelters.
+page 3	Unionists Hold Hythe.
+page 3	FOOD PROBLEM WITH GASTRITIS.
+page 4	NEW MEXICAN OIL PROPOSALS.
+page 4	U. S. And Philippines.
+page 4	HOUSE OF LORES DEBATE ON FAR EAST SITUATION.
+page 4	Gunmen Released.
+page 4	Another Rebuff.
+page 4	No Condonation.
+page 4	Japan Warned.
+page 4	Others Interested.
+page 5	SOLICITOR OB. JECTS.
+page 5	Practice Adopted Revenue Officers.
+page 5	WOMAN PILL CARRIER.
+page 5	Give Chance to Find Man Who Gave The to. Her.
+page 5	P R E M I E R RESIGNS.
+page 5	Mr. Stevens Defeated On N. S. W House Motion.
+page 5	N.Z. Premier Ill.
+page 5	Australian Labour.
+page 5	HISTORY OF HONG-KONG DURING THE WAR YEARS.
+page 5	A Look Through The "Telegraph".
+page 5	50 YEARS AGO.
+page 5	25 YEARS AGO.
+page 5	10 YEARS AGO.
+page 5	5YEAFS AGO.
+page 5	O B I T U A R Y.
+page 5	Famous Hungarian Dies In Soviet Prison.
+page 5	Japanese Bomb Chungking.
+page 5	Twenty Five Planes.
+page 5	Attack On Hoppo.
+page 5	Flags Misused.
+page 5	Fukien Bases Bombed.
+page 7	OVERNIGHT NEWS PAGE.
+page 7	Should Not Worry.
+page 7	SERIOUS CLASHES.
+page 7	Martial Law In U. S. Strike Area.
+page 7	SHIP DAID SINKING.
+page 7	Messages Give Name Of Vessel Known Safe.
+page 7	TOKYO CONFERENCE AT A STANDSTILL.
+page 7	But Position Not Yet Hopeless.
+page 7	Inseparable Questions.
+page 7	Position Not Hopeless.
+page 7	Enlarging Conference
+page 7	Soya Bean Trade.
+page 7	Shanghai Cautions.
+page 7	Strict Measures To Stop Terrorist Activities.
+page 7	Terrorists Invade School.
+page 7	Haul Of Terrorists.
+page 7	Pearl River Delta.
+page 7	Traffic May Be Resumed In Near Futre.
+page 7	CHINA'S THADE.
+page 7	Third Of Imports In Japanese Hands.
+page 7	FUTURE OF KOREA.
+page 7	Independence Move Gains Momentum.
+page 7	Officers Executed.
+page 7	Trouble In Spain.
+page 7	De Llano Declines 
+page 8	DISGRACEFUL SCENES AFTER ERON-HARROW CRICKET GAME.
+page 8	M.C.C. May Impose Ban On The Match: Strong Views On Lord's Scenes.
+page 8	Cambridge Beat Oxford In Polo Match.
+page 8	Riding And Hitting All Superior.
+page 8	SMALLEST PONY IN THE WORLD.
+page 8	HONNGKONG SOCCER LEAGUE TO MAKE A START ON SEPTEMBER 23.
+page 8	Management Committee Meet To Finalise Arrangements.
+page 8	King Leopold Competes In National Title.
+page 8	L. T. A. APPLIES THE SCREWS.
+page 8	WINGHTMAN CUP EXPENSES BEING CUT DOWN.
+page 8	TOURISTS BADLY TROUNCED.
+page 8	Wooderson Wins 1,500 Metres Race.
+page 8	TENNIS TOURISRS DELAYED.
+page 8	Interport Match Put Back.
+page 8	DRASITC ACTION BY NATIONAL HUNT COMMITTEE.
+page 8	Cricket Scores At Close Of Play.
+page 8	BOXER'S LICENCE AND PURSE REVOKED FOR " SHAM EXHIBITION".
+page 9	Competitor's Claim To The King's Medal.
+page 9	But War Office States She Was Not Eligible: Sequel To Bisley Shoot.
+page 9	PRINCIPLE INVOLVED.
+page 9	MACAO OFFICIALS.
+page 9	Report of Resignations Denied Here.
+page 9	HOT AND COLD MONTH.
+page 9	Variable Temperatures Recorded in July.
+page 9	U.S. COMMODITY PRICES.
+page 9	LATEST CABLED QUOTATIONS.
+page 9	Champion Explains Sneaths And Dloles.
+page 9	Mr. Stern (Snip, Snip) Does His Bit.
+page 9	TEACHING FOOTBALL EXPERTS.
+page 9	INOOR BOWLING.
+page 9	Leading Scores For Month Of Jaly.
+page 9	TYPHOON STATIONARY.
+page 9	Now Roughly 100 Miles From Hongkong.
+page 9	Lonsdale Weds Gaol Visitor.
+page 13	National Guards Called Out.
+page 13	"INSURRECTION".
+page 13	War In Europe Unlikely.
+page 13	Direct Assurance By Spokesman.
+page 13	Militiamen In Flooded Camps.
+page 13	But Britain's Trainees Are Happy.
+page 13	Hampshire Camp Flooded.
+page 13	Improving Food.
+page 13	E x p u l s I n o n s Continue.
+page 13	Another Girl Suspect Is Detained.
+page 13	5 FRENCHMEN SENTENCED.
+page 13	Negotiations Open In Rome For Full Alliance.
+page 13	JAPAN TO JOIN MILITARY AXIS WITH GERMANY.ITALY.
+page 13	Long- Awaited Bombshell.
+page 13	Meeting Called Off.
+page 13	Official Comunique.
+page 13	Italian Move.
+page 13	"Nezt Few Months Critical" --- Halifax.
+page 13	DANZIG & PEACE OF EUROPE.
+page 13	Future Peace.
+page 13	Official Propagandists.
+page 13	Leaving Saturday.
+page 13	Russian Delegates.
+page 13	Anti-Communist Body In Shanghai.
+page 13	Cib. Prepares.
+page 13	Anglo-German Trade Figures.
+page 13	Britain Holding Second place.
+page 13	Utter Confusion, Says German.
+page 13	Chungking Bombing.
+page 13	Another Raid On The Capital.
+page 13	Kiangsi Towns Raided.
+page 13	Japanese Communique.
+page 13	QUEEN'S BIRTHDAY.
+page 13	Mongol Border Fighting.
+page 13	Japan Claims 69 Planes Downed.
+page 14	Spies Costing Britain 700,000 Pounds.
+page 14	Oil From Blue Water Gas.
+page 14	IN BRITAIN'S QUIETEST FACTORY.
+page 14	Women Build Bombers.
+page 14	Exhumed Husband: Coroner Puzzled.
+page 14	Gracie Fields In Divorce Court.
+page 14	Boy's Tribute To Dead Airman.
+page 15	Man Married His Niece Now Granted Decree.
+page 15	Decision On Spy Film.
+page 15	HONGKONG BRIDE.
+page 15	Baby Swallows Safety-Pin.
+page 15	Two Girls Burned To Death.
+page 15	Bogus Stamp Slips Through Post.
+page 15	Hospitals, Camouflage Shelters.
+page 15	Unionists Hold Hythe.
+page 15	FOOD PROBLEM WITH GASTRITIS.
+page 16	P A T R I O DETAINED.
+page 16	Germans Keep Czech In Concontration Camp.
+page 16	Taft To Seek Presidency.
+page 16	Republican Nominee For White House.
+page 16	Chances Not Favoured.
+page 16	LADY M. P. MARRIES.
+page 16	Many Prominents At Wedding.
+page 16	Will Keep Eye On Propaganda.
+page 16	"Fantastic" German Methods.
+page 16	Gangs Reply To Dewey.
+page 16	New-York Gangsters Kill Off State Witnesses.
+page 16	Seven Witnesses Killed.
+page 16	H.K. Stock Market.
+page 17	T RI B U N A L POSTONED.
+page 17	NO Conscripts Examined.
+page 17	HOWBETI TRIBES SETTLE FEUDS.
+page 17	NEW MEXICAN OIL PROPOSALS.
+page 17	Restful Night In Hospital.
+page 17	Lady Northcote To Return Home To-Day.
+page 17	CHAMBERLAIN'S VACATION 
+page 17	Russo-American Trade Agreement.
+page 17	U. S. And Philippines.
+page 17	Flood Menace In N. China.
+page 17	Tientsin Threat Now Dangerous.
+page 17	HISTORY OF HONG-KONG DURING THE WAR YEARS.
+page 17	Another Rebuff.
+page 17	A Look Through The "Telegraph".
+page 17	50 YEARS AGO.
+page 17	25 YEARS AGO.
+page 17	10 YEARS AGO.
+page 17	5 YEARS AGO.
+page 17	PRISONERS IN SPAIN.
+page 17	U.S. Nationals To Be Repatriated.
+page 17	Disappearance At Sea.
+page 17	Mystery Of Changte Chief Engineer.
+page 17	Ship Puts About.
+page 18	Who Helps Japan?
+page 18	HISTORY OF HONGKONG DURING THE WAR YEARS.
+page 18	TWENTY-FIVE YEARS AGO TO-DAY,THIS PROCLAMATION WAS ISSUED.
+page 19	If Japan Destroys China She Will Destroy Us".
+page 19	HOUSE OF LORDS' DEBATE ON FAR EAST SITUATION.
+page 19	RELIED ON NEWSPAPERS.
+page 19	CONTIONUOUSLY DISAPPOINTING.
+page 19	Far East Possessions.
+page 19	Abrogate Treaty.
+page 19	Japan And Germany.
+page 19	Japanese Arrogance.
+page 19	Chinese Curtency.
+page 19	Japan's Disappointment.
+page 19	Australia's Interest.
+page 19	Tientsin Silver.
+page 19	War Declaration.
+page 19	Halifax Replies.
+page 19	Doubt
+page 19	No Condonation.
+page 19	Japan Warned.
+page 19	Others Interested.
+page 19	Ancient Privileges.
+page 19	Old Treaty Methods.
+page 19	Colonel Spear.
+page 19	Settlement Soon?
+page 19	Offer Of Good Offices.
+page 19	Situation In Kulangsu.
+page 19	Many Faint.
+page 19	No Reply From Japanese.
+page 19	Gunmen Released.
+page 19	Mystery S. O. S. Off Florida.
+page 19	Currency Control Tightened.
+page 19	ARAB LEADERS TO HANG.
+page 19	Locusts Threaten Wheatfields.
+page 19	ENGLISH AS A LANGUAGE.
+page 20	DISGRACEFUL SCENES AFTER ETON-HARROW CRICKET GAME.
+page 20	Cambridge Beat Oxford In Polo Match.
+page 20	Riding And Hitting All Superior.
+page 20	OTHER RESRLTS.
+page 20	SMALLEST PONY IN THE WORLD.
+page 20	TO BE NAMED VIM.
+page 20	Here And There With "Abe".
+page 20	Leading Cricketers To Be Given A Rest.
+page 20	Change In Captaincy?
+page 20	Cricket Mathematics.
+page 20	Unfair Results.
+page 20	HONGKONG SOCCER LEAGUE TO MAKE A START ON SEPTEMBER 23.
+page 20	Management Committee Meet To Finalise Arrangements.
+page 20	TWO SECTIONS.
+page 20	L.T.A. APPLIES THE SCREWS.
+page 20	WIGHTMAN CUP EXPENSES BEING CUT DOWN.
+page 20	TOO MUCH FUSS.
+page 20	A FAMOUS HORSE SOLD CHEAPLY FOR 30 GUINEAS.
+page 20	TOURISTS BADLY TROUNCED.
+page 20	Wooderson Wins 1,500 Metres Race.
+page 20	WOODERSON RECORD GOES.
+page 20	BOXER'S LICENCE AND PURSE REVOKED FOR "SHAM EXHIBITION".
+page 20	TENNIS TOURISTS DELAYED.
+page 20	Interport Match Put Back.
+page 20	DRASTIC ACTION BY NATIONAL HUNT COMMITTEE.
+page 20	Cricket Seores At Close Of Play.
+page 21	Competitor's Claim To The King's Medal.
+page 21	German Gas Masks For Parisiens.
+page 21	Soviet Aid To China Denied.
+page 21	Moscow Has No Knowledge Of Credits.
+page 21	China's Aid To Soviet.
+page 21	OUR GUIDE TO THE CINEMAS.
+page 21	EAGLE OBTAINS NEW CREW.
+page 23	A NEW COMMANDER IN CHIEF TAKES OVER.
+page 24	CHINA'S INDUSTRIES.
+page 24	Development Necessary For Victory.
+page 24	Dead Hotel Maid: Police Interview Six Soldiers.
+page 24	HER FRIEND.
+page 24	CRUSHED FLOWERS.
+page 24	SEEN IN SALOON.
+page 25	"Next Few Months Critieal"-Halifax.
+page 25	DANZIG & PEACE OF EUROPE.
+page 25	Future Peace.
+page 25	Official Propagandists.
+page 25	Leaving Saturday.
+page 25	Russian Delegates.
+page 25	Germans On Move.
+page 25	Big Concentrations Near Poland.
+page 25	Barbed Wire Barricades.
+page 25	Czechs Conscripted.
+page 25	Anglo-German Trade Figures.
+page 25	Britain Holding Second Place.
+page 25	HUNGARY & SLOVAKIA START NEW DISPUTE.
+page 25	Negotiations Open In Rome For Full Alliance.
+page 25	JAPAN TO JOIN MILITARY AXIS WITH GERMANY,ITALY.
+page 25	Long-Awaited Bombshell.
+page 25	Meeting Called Off.
+page 25	Official Communique.
+page 25	Italian Move.
+page 25	Officer On Court Martial.
+page 25	Recent Stranding Of M.T.B. No 12.
+page 25	P.O. Gives Evidence.
+page 25	11 Years' Experience.
+page 25	Good Navigator.
+page 25	SAFEGUARDENG OCEAN FLIERS.
+page 25	MOSCOW REJECTS TOKYO DEMANDS.
+page 25	Daring Escape From Court.
+page 25	Prisoner Gains His Freedom.
+page 25	5 FRENCHMEN SENTENCED.
+page 25	BRITONS EVACUATE.
+page 25	Church Congregation Under Arrest.
+page 25	Anti-British Rallies.
+page 25	U.S. STARTS DEFENCE TALKS WITH CANADA.
+page 25	SCHOOL LEAVING EXAMS.
+page 25	Education Dept Publishes Results.
+page 26	Governor Proclaims Existence of "State of Insurreetion".
+page 26	NATIONAL GUARD CALLED OUT AS STRIKERS RIOT.
+page 26	"No Man's Land".
+page 26	No Annexation Of Territory.
+page 26	Disappearance on Trip To Hongkong.
+page 26	Mystery Of A Missing Ship's Chief Engineer.
+page 26	Ship Puts About.
+page 26	NEW MEXICAN OIL PROPOSALS.
+page 26	Mongol Border Fighting.
+page 26	Japan Claims 69 Planes Downed.
+page 26	More All "Victories".
+page 26	Spain's Ideas On Gibraltar.
+page 26	Retrocession Only A Question Of Time.
+page 26	Gib. Prepares.
+page 26	HOWBEIT TRIBES SETTLE FEUDS.
+page 26	Pork "Sky-High": Fuel Unobtainable.
+page 26	KULANGSU WORRIED BY FOOD FAMINE.
+page 26	Many Faint.
+page 26	No Reply From Japanese.
+page 26	Japanese Pamphlets.
+page 26	Gangs Reply To Dewey.
+page 26	New York Gangsters Kill Off State Witnesses.
+page 26	Seven Witnesses Killed.
+page 27	War In Europe Unlikely.
+page 27	Direct Assurance By Spokesman.
+page 27	Russo-American Trade Agreement.
+page 27	Police Swoop Catches Many Europeans.
+page 27	PEAK MOTORISTS ON NO-LICENCE CHARGES.
+page 27	TRIBUNAL POSTPONED.
+page 27	No Conscripts Examined.
+page 27	56 Men Called Up.
+page 27	Another Rebuff.
+page 27	Utter Confusion, Says German.
+page 27	CHAMBERLAIN'S VACATION.
+page 27	Flood Menace In N. China.
+page 27	Tientsin Threat Now Dangerous.
+page 27	Locusts Threaten Wheatfields.
+page 27	ENGLISH AS A LANGUAGE.
+page 27	U.S. And Philippines.
+page 27	Spies Cost Britain 700,000pound.
+page 27	PATRIOT DETAINED.
+page 27	Germans Keep Czech In Concentration Camp.
+page 27	Mystery S. O. S. Off Florida.
+page 27	FOOD PROBLEM WITH GASTRITIS.
+page 28	DANZIG & PEACE OF EUROPE.
+page 28	Ohio Senator May Follow In Father's Footsteps.
+page 28	SON OF EX-PRESIDENT TO SEEK TO OUST ROOSEVELT.
+page 28	Chances Not Favoured.
+page 28	Political Comeback.
+page 28	Examination Results.
+page 28	Restful Night In Hospital.
+page 28	Lady Northcote To Return Home To-Day.
+page 29	Chinese Air Force Challenges Invaders Over Chungking.
+page 29	JAPANESE PLANES DOWNED IN SPECTACULAR BATTLE.
+page 29	Japanese Communique.
+page 29	Chinese Give Combat.
+page 29	Britons In Dugout.
+page 29	Moonlit Night.
+page 29	Only Few Casualties.
+page 29	Americans' Escape.
+page 29	Fine Weather Aids Invaders.
+page 29	Kiangsi Towns Raided.
+page 29	"Hit-Run" Motorist Nets Heavy Fines.
+page 29	Accelerated.
+page 29	Denied Knowledge.
+page 29	PRISONERS IN SPAIN.
+page 29	U.S. Nationals To Be Repatriated.
+page 29	Preparing For A Royal Baby.
+page 29	A Look Through The "Telegraph".
+page 29	50 YEARS AGO.
+page 29	25 YEARS AGO.
+page 29	10 YEARS AGO.
+page 29	5 YEARS AGO.
+page 29	Will Keep Eye On Propaganda.
+page 29	"Fantastic" German Methods.
+page 30	Who Helps Japan?
+page 30	HISTORY OF HONGKONG DURING THE WAR YEARS.
+page 30	TWENTY-FIVE YEARS AGO TO-DAY,THIS PROCLAMATION WAS ISSUED.
+page 31	House of Lords' Debate on Far East Situation.
+page 31	HONGKONG'S FUTURE IF JAPANESE WIN THE WAR WITH CHUNGKING.
+page 31	Government Policy Bitterly Attacked.
+page 31	HISTORY OF HONGKONG DURING THE WAR YEARS.
+page 31	MILITIAMEN EVACUATE FLOODED ENCAMPMENTS.
+page 31	Hampshire Camp Flooded.
+page 31	 Improving Food.
+page 31	Rentals Of Sited On Beaches.
+page 31	ARAB LEADERS TO HANG.
+page 32	DISGRACEFUL SCENES AFTER ETON-HARROW CRICKET GAME.
+page 32	Cambridge Beat Oxford In Polo Match.
+page 32	Riding And Hitting All Superior.
+page 32	SMALLEST PONY IN THE WORLD.
+page 32	Here And There With "Abe".
+page 32	Leading Cricketers To Be Given A Rest.
+page 32	Change In Captaincy?
+page 32	Cricket Mathematics.
+page 32	King Leopold Competes In National Title.
+page 32	L. T. A. THE SCREWS.
+page 32	WIGHTMAN CUP EXPENSES BEING CUT DOWN.
+page 32	TOO MUCH FUSS.
+page 32	A FAMOUS HORSE SOLD CHEAPLY FOR 30 GUINEAS.
+page 32	TOURISTS BADLY TROUNCED.
+page 32	HONGKONG SOCCER LEAGUE TO MAKE A START ON SEPTEMBER 23.
+page 32	Management Committee Meet To Finalise Arrangements.
+page 32	TWO SECTIONS.
+page 32	BOXER'S LICENCE AND PURSE REVOKED FOR "SHAM EXHIBITION".
+page 33	Competitor's Claim To The King's Medal.
+page 33	But War Office States She Was Not Eligible: Sequel To Bisley Shoot.
+page 33	PRINCIPLE INVOLVED.
+page 33	German Gas Masks For Parisiens.
+page 33	Soviet Aid To China Denied.
+page 33	Moscow Has No Knowledge Of Credits.
+page 33	China's Aid To Soviet.
+page 33	HONGKONG DEFEAT IN ESPLEN CUP.
+page 33	Close Match Decided By A Three On The Last Head.
+page 33	OUR GUIDE TO THE CINEMAS.
+page 33	Expulsions Continue.
+page 33	Another Girl Suspect Is Detained.
+page 33	1,000 Million Banknotes.
+page 33	Chinese Order Placed In London.
+page 33	SCHACHT BACK IN GERMANY.
+page 33	EAGLE OBTAINS NEW CREW.
+page 33	LADY M. P. MARRIES.
+page 33	Many Prominents At Wedding.
+page 34	When A Child Is Undecided.
+page 34	FACTS ABOUT FLAVOURING.
+page 34	Hints For The Housewife.
+page 34	Lemon Prune Pie.
+page 35	A NEW COMMANDER IN CHIEF TAKES OVER.
+page 36	Dr. Mistowski Taken Ill.
+page 36	Enters Hospital In Colombo.
+page 36	MACAO OFFICIALS.
+page 36	Report of Resignations Denied Here.
+page 36	Gunmen Released.
+page 36	BRITONS EVACUATE.
+page 36	Threat Of Death.
+page 36	Anti-Communist Body In Shanghai.
+page 36	Currency Control Tightened.

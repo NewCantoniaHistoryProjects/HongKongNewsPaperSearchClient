@@ -1,0 +1,334 @@
+page 1	WILLKIE ADMITS DEFEAT.
+page 1	Overwhelming States Majority For Roosevelt.
+page 1	Four Millions Up On The Popular Vote.
+page 1	Democrat Gains.
+page 1	Roosevelt's Reply To Willkie.
+page 1	4,000,000 Majority.
+page 1	Emden dockyard blasted.
+page 1	FUSHIMI MARU SAILS WITH JAP, EVACUEES.
+page 1	U-BOAT SINKS SPANISH SUGAR.
+page 1	JAPANESE ARMY WITHDRAWAL REPORTS PERSIST.
+page 1	ACTION NEAR SIDI BARRANI.
+page 1	ITALIANS BAN SWISS PAPERS.
+page 2	NEUTRAL COMMENT ON GREEK CAMPAIGN.
+page 2	HUSH-A-BYE BABY.
+page 2	SULTAN OF JOHORE WEDS RUMANIAN GIRL.
+page 2	DORNIER DESTROYED.
+page 2	SQUADRON'S 21 NAZIS IN 24 HOURS.
+page 2	Message Carrier.
+page 2	BEES GO TO COURT.
+page 2	OIL SUPPLY FOR SPAIN ARRANGED.
+page 2	ISLAND'S NAZI VOICE.
+page 2	NORTH PT. CLUB SUICIDE.
+page 2	AIR RAID DANCE.
+page 2	24-HOURS DAY FOR ARMS TRAINERS.
+page 3	Direct Hit On Public-House Kills Marry In East Scotland.
+page 3	WIDESPREAD DAMAGE IN LONDON NIGHT RAID.
+page 3	Three Shot Down.
+page 3	Four British Lost.
+page 3	LIVERPOOL A.A. GUN SUCCESSES.
+page 3	SERVICE FAMILIES' ASSOCIATION.
+page 3	OVERSEAS GREEKS RAISE FUNDS.
+page 3	COLONY'S SURRENDER TO DE GAULLE.
+page 3	SIRENS SET TOWN POSER.
+page 3	HERTZOG PARTY SPLIT.
+page 3	Hertzog Policy Too Mild.
+page 3	GROWING STOCK EXCHANGE DEMAND.
+page 3	RAID VICTIMS WILL KEEP PENSIONS.
+page 3	WARNING SYSTEM PROTEST.
+page 3	ANGLO-U.S. "GET TOGETHER"
+page 3	RAIDS' EFFECT ON TRAFFIC REVENUE.
+page 4	Evacuat'n Advisory Committee Herring Complaint.
+page 4	OUTBREAK-FOOD THEORY.
+page 4	TWO WOUNDED IN MOCK FIGHT.
+page 4	KEY-OF-THE DOOR SQUAD AT WORK.
+page 4	COSTLY CAP-21pounds FOR SPITFIRE.
+page 4	JEWS' WORLD ARMY.
+page 5	BROTHERS TOOK WEDDING SAVINGS.
+page 5	THIS DAD MUST DELAY CELEBRATION.
+page 5	U.S. HEAR LONDON AIR-RAID.
+page 5	10,000 SHOTS A MINUTE!
+page 6	GERMANS ALLOW PRISONERS OF WAR TO ESCAPE.
+page 6	Frontier Crossed.
+page 6	Camp Leader.
+page 6	POPPY DAY FUND 1940.
+page 6	THIS IS HOW THEY AGT.
+page 6	SHANGHAI GOODS IN INDO-CHINA HELD.
+page 6	REVEALED SECRET.
+page 7	Italy's Aims In War On Britain.
+page 7	Malta Will Resist.
+page 7	Cyprus Goes To War.
+page 7	Aden Guards The Gates.
+page 7	A Commonalty Of Courage.
+page 7	"No Reason To Regret"
+page 8	FAMILY VICTIMS IN NORTH'S ONGEST RAID.
+page 8	A.A. Barrage.
+page 8	A BAD GUESS JERRY!
+page 8	CHINESE SOLDIERS IN MUTINY.
+page 8	Japanese Attacked.
+page 8	DO AS DAD DOES.
+page 8	FLOOD DAMAGE IN FRANCE SAID BEYOND DESCRIPTION.
+page 9	GERMANS FLEE FROM HEAD-ON ATTACKS.
+page 9	Head-On Attack.
+page 9	Jaguars Crippled.
+page 9	Night Attack.
+page 9	COURT STAYS PUT.
+page 9	BARBED WIRE IN MAN'S LUNG.
+page 9	Swallowed in Last War.
+page 9	SEEING IS BELIEVING.
+page 9	AND YET THEY FELL.
+page 9	QUEEN'S MAID DIES.
+page 13	U.S. FILMS BANNED.
+page 13	OBJECTORS WANT TO FIGHT NOW.
+page 13	"Those Murderers"
+page 13	SHE WAS A HE FOR 23 YEARS.
+page 13	SAPPERS' FINE WIN.
+page 13	K.C.C. CRICKET ELEVENS.
+page 14	G. SOUZA AND AMPLAVANAR RETURN FINE PERFORMANCES.
+page 14	Civil Service Miss Good Chance Of Beating Club.
+page 14	T.G.C. Knight Again Does Well.
+page 14	Good Bowling.
+page 14	Sporting Chance.
+page 14	CAPT. SKIPWITH----FAST BOWLER.
+page 14	Macauley Shines.
+page 14	Zimmern's Cow Shots.
+page 14	DAY RUNS ACROSS OWN BACKS: FORD HOLDS UP ATTACK.
+page 14	Good In Spasms.
+page 14	Penalty Try.
+page 15	VARSITY LOSE BUT SHOW SOME PROMISE.
+page 15	Strong Division.
+page 15	YOUTHFUL RACEHORSE TRAINER.
+page 16	MEANING OF U.S. ELECTION.
+page 16	Mr. Cordell Hull Sees Foreign Policy Mandate.
+page 16	Greatest Contribution To Stability.
+page 16	Mandate For Hull.
+page 16	NEWSTATUS FOR HOME GUARD.
+page 16	Full Armament.
+page 16	BRITISH HOUSING PROBLEM.
+page 16	WILLKIE ADMITS DEFEAT.
+page 16	BRITISH GUNS FOR THE GREEDS.
+page 17	WILLKIE ADMITS DEFEAT.
+page 17	Overwhelming States Majority For Roosevelt.
+page 17	Four Millions Up On The Popular Vote.
+page 17	MORE REASON FOR MEETING.
+page 17	Programme Altered.
+page 17	FUSHIMI MARU SAILS WITH JAP. EVACUEES.
+page 17	U-BOAT SINKS SPANISH SUGAR.
+page 17	JAPANESE ARMY WITHDRAWAL REPORTS PERSIST.
+page 17	ACTION NEAR SIDI BARRANI.
+page 17	Emden dockyard blasted.
+page 17	ITALIANS BAN SWISS PAPERS.
+page 18	NEUTRAL COMMENT ON GREEK CAMPAIGN.
+page 18	TURKEY NOT AWED BY ITALY.
+page 18	CHUNGKING THRILLED BY RESULT.
+page 18	OIL SUPPLY FOR SPAIN ARRANGED.
+page 18	AIR RAID DANCE.
+page 18	BRITISH RELATIONS WITH EGYPT.
+page 18	FURTHER GREEK ADVANCES IN MACEDONIA.
+page 18	Greek Reeipients.
+page 18	DORNIER DESTROYED.
+page 18	SULTAN OF JOHORE WEDS RUMANIAN GIRL.
+page 18	CHINA AND ROOSEVELT ELECTION.
+page 19	Direct Hit On Public-House Kills Many In East Scotland.
+page 19	WINESPREAD DAMAGE IN LONDON NIGHT RAID.
+page 19	Three Shot Down.
+page 19	Four British Lost.
+page 19	LIVERPOOL A.A. GUN SUCCESSES.
+page 19	SERVICE FAMILIES' ASSOCITION.
+page 19	BRITISH HOUSING PROBLEM.
+page 19	NEWSTATUS FOR HOME GUARD.
+page 19	Full Armament.
+page 19	GROWING STOCK EXCHANGE DEMAND.
+page 19	OVERSEAS GREEKS RAISE FUNDS.
+page 19	COLONY'S SURRENDER TO DE GAULLE.
+page 19	'DEAD' MAN MAKES LEGAL HISTORY.
+page 19	FINANCIAL AID FOR GREECE.
+page 19	NORTH PT. CLUB SUICIDE.
+page 19	ANGLO-U.S. "GET TOGETRER"
+page 19	SQUADRON'S 21 NAZIS IN 24 HOURS.
+page 19	Message Carrier.
+page 19	BARBED WIRE IN MAN'S LUNG.
+page 20	Evacuat'n Advisory Committee Hearing Complaint.
+page 20	OUTBREAK-FOOD THEORY.
+page 20	TWO WOUNDED IN MOCK FIGHT.
+page 20	KEY-OF-THE DOOR SQUAD AT WORK.
+page 20	COSTLY CAP-21pounds FOR SPITFIRE.
+page 20	JEWS' WORLD ARMY.
+page 21	BROTHERS TOOK WEDDING SAVINGS.
+page 21	THIS DAD MUST DELAY CELERATION.
+page 21	U.S. HEAR LONDON AIR-RAID.
+page 21	10,000 SHOTS A MINUTE!
+page 22	GERMANS ALLOW PRISONERS OF WAR TO ESCAPE.
+page 22	Frontier Crossed.
+page 22	Camp Leader.
+page 22	POPPY DAY FUND 1940.
+page 22	THIS IS HOW THEY ACT.
+page 22	SHANGHAI GOODS IN INDO-CHINA HELD.
+page 22	REVEALED SECRET.
+page 23	Italy's Aims In War On Britain.
+page 23	Malta Will Resist.
+page 23	Cyprus Goes To War.
+page 23	Aden Guards The Gates.
+page 23	A Commonalty On Courage.
+page 23	"No Reason To Regret"
+page 24	FAMILY VICTIMS IN NORTH'S LOVGEST RAID.
+page 24	A.A. Barrage.
+page 24	A BAD GUESS JERRY!
+page 24	CHINESE SOLDIERS IN MUTINY.
+page 24	Japanese Attacked.
+page 24	DO AS DAD DOES.
+page 24	FLOOD DAMAGE IN FRANCE SAID BEYOND DESCRIPTION.
+page 25	HERTZOG SPLIT WITH THE AFRIKAANDER EXTREMISTS.
+page 25	Sought Vote Of Confidence.
+page 25	Lead To Doom.
+page 25	HUSH-A-BYE BABY.
+page 25	AND YET THEY FELL.
+page 25	QUEEN'S MAID DIES.
+page 25	SEEING IS BELIEVING.
+page 25	COURT STAYS PUT.
+page 29	U.S. FILMS BANNED.
+page 29	OBJECTORS WANT TO FIGHT NOW.
+page 29	"Those Murderers"
+page 29	SHE WAS A HE FOR 23 YEARS.
+page 29	YOUTHFUL RACEHORSE TRAINER.
+page 29	A.M. OMAR NOT INDIA TEAM.
+page 29	SAPPERS' FINE WIN.
+page 29	K.C.C. CRICKET ELEVENS.
+page 30	G. SOUZA AND AMPLAVANAR RETURN FINE PERFORMANCES.
+page 30	Civil Service Miss Good Chance Of Beating Club.
+page 30	T.G.C. Knight Again Does Well.
+page 30	Good Bowling.
+page 30	Sporting Chance.
+page 30	CAPT. SKIPWITH FAST BOWLER.
+page 30	Macauley Shines.
+page 30	Zimmern's Cow Shots.
+page 30	DAY RUNS ACROSS OWN BACK: FORD HOLDS UP ATTACK.
+page 30	Good In Spasms.
+page 30	Penalty Try.
+page 30	KNIGHT LEAVING.
+page 31	VARSITY LOSE BUT SHOW SOME PROMISE.
+page 31	Strong Division.
+page 32	MEANING OF U.S. ELECTION.
+page 32	Mr. Cordell Hull Sees Foreign Policy Mandate.
+page 32	Greatest Contribution To Stability.
+page 32	Mandate For Hull.
+page 32	BRITISH GUNS FOR THE GREEKS.
+page 32	BRITHSH SUBMARINE SINKS TANKER.
+page 32	WILLKIE ADMITS DEFEAT.
+page 32	Democrat Gains.
+page 32	Roosevelt's Reply To Willkie.
+page 32	4,000,000 Majority.
+page 32	N.W. FRONTIER TRIBES' LOYALTY.
+page 33	HUGE FASCIST FORCE TRAPPED IN MACEDONIA.
+page 33	Greek Pressure On Koritza Increased.
+page 33	JAPAN'S FOOD PROBLEM.
+page 33	HITLER MOVING IN THE BALKIANS.
+page 33	Turkey's Expectations.
+page 33	Japanese Shipping Control.
+page 33	AXIS AIR OF UNCONCERN.
+page 33	JOB FOR WENDELL WILLKIE?
+page 34	WILLKIE ADMITS DEFEAT.
+page 34	Overwhelming States Majority For Roosevelt.
+page 34	Four Millions Up On The Popular Vote.
+page 34	Democrat Gains.
+page 34	Roosevelt's Reply To Willkie.
+page 34	4,000,000 Majority.
+page 34	CHUNGKING THRILLED BY RESULT.
+page 34	SOVIET ANNIVERSARY.
+page 34	SHANGHAI APPLAUDS RESULT.
+page 34	CHINA AND ROOSEVELT ELECTION.
+page 34	HONG KONG CHINESE COMMENT ON THE RE-ELECTION.
+page 34	Seasoned Leadership.
+page 34	Japan's Positlon.
+page 34	KEY-OF-THE DOOR SQUAD AT WORK.
+page 35	Direct Hit On Public-House Kills Many In East Scotland.
+page 35	WIDESPREAD DAMAGE IN LONDON NIGHT RAID.
+page 35	LINERPOOL A.A. GUN SUCCESSES.
+page 35	10,000 SHOTS A MINUTE!
+page 35	SERVICE FAMILIES' ASSOCIATION.
+page 35	Three Shot Down.
+page 35	Four British Lost.
+page 35	Emden dockyard blasted.
+page 35	NEWSTATUS FOR HOME GUARD.
+page 35	Full Armament.
+page 35	U-BOAT SINKS SPANISH SUGAR.
+page 35	FINANCIAL AID FOR GREECE.
+page 35	FURTHER GREEK ADVANCES IN MACEDONIA.
+page 35	Greek Recipients.
+page 35	HUMPHREYS BUILDING THEFT.
+page 35	NORTH PT. CLUB SUICIDE.
+page 35	'DEAD' MAN MAKES LEGAL HISTORY.
+page 35	ACTION NEAR SIDI BARRANI.
+page 35	DORNIER DESTROTED.
+page 36	Evacuat'n Advisory Committee Hearing Complaint.
+page 36	OIL SUPPLY FOR SPAIN ARRANGED.
+page 36	OUTBREAK-FOOD THEORY.
+page 36	FUSHIMI MARU SAILS WITH JAP. EVACUEES.
+page 36	MORE REASON FOR MEETING.
+page 36	Programme Altered.
+page 37	SULTAN OF JOHORE WEDS RUMANIAN GIRL.
+page 37	NOMINAL FINE.
+page 37	JAPANESE ARMY WITHDRAWAL REPORTS PERSIST.
+page 37	BRITISH HOUSING PROBLEM.
+page 37	ARMISTICE DAY.
+page 38	NEUTRAL COMMENT ON REEK CAMPAIGN.
+page 38	OVERSEAS GREEKS RAISE FUNDS.
+page 38	COLONY'S SURRENDER TO BE GAULLE.
+page 38	POPPY DAY FUND 1940.
+page 38	TURKEY NOT AWED BY ITALY.
+page 38	BARBED WIRE IN MAN'S LUNG.
+page 38	ANGLO-U.S. "GET TOGETHER"
+page 38	THIS IS HOW THEY ACT.
+page 38	ITALIANS BAN SWISS PARERS.
+page 38	JEWS' WORLD ARMY.
+page 39	Italy's Aims In War On Britain.
+page 39	Malta Will Resist.
+page 39	Cyprus Goes To War.
+page 39	Aden Guards The Gates.
+page 39	A Commonalty Of Courage.
+page 39	"No Reason To Regret"
+page 40	Injunction Against Widow of Late Tong Shao-Yi Sought.
+page 40	Injunction Sought.
+page 40	Common Ground.
+page 40	Sino-Japanese Activities.
+page 40	TWO WOUNDED IN MOCK FIGHT.
+page 40	A BAD GUESS JERRY!
+page 40	SOME MIRACLE!
+page 40	COSTLY CAP-21pounds FOR SPITFIRE.
+page 40	FLOOD DAMAGE IN FRANCE SAID BEYOUND DESCRIPTION.
+page 41	HERTZOG SPLIT WITH THE AFRIKAANDER EXTREMISTS.
+page 41	Sought Vote Of Confidence.
+page 41	Lead To Doom.
+page 41	HUSH-A-BYE BABY.
+page 41	AND YET THEY FELL.
+page 41	QUEEN'S MAID DIES.
+page 41	SEEING IS BELIEVING.
+page 41	COURT STAYS PUT.
+page 45	SHE WAS A HE FOR 23 YEARS.
+page 45	GROWING STOCK EXCHANGE DEMAND.
+page 45	U.S. FILMS BANNED.
+page 45	REVEALED SECRET.
+page 45	OBJECTORS WANT TO FIGHT NOW.
+page 45	"Those Murderers"
+page 45	K.C.C. CRICKET ELEVENS.
+page 45	SAPPERS' FINE WIN.
+page 45	YOUTHFUL RACEHORSE TRAINER.
+page 46	G. SOUZA AND AMPLAVANAR RETURN FINE PERFORMANCES.
+page 46	Civil Service Miss Good Chance Of Beating Club.
+page 46	T.G.C. Knight Again Does Well.
+page 46	GOOD CRICKET MATCH ON ONDAY.
+page 46	Macauley Shines.
+page 46	Zimmern's Cow Shats.
+page 46	DAY RUNS ACROSS OWN BACKS: FORD HOLDS UP ATTACK.
+page 46	Good In Spasms.
+page 46	Penalty Try.
+page 48	MEANING OF U.S. ELECTION.
+page 48	Mr. Cordell Hull Sees Foreign Policy Mandate.
+page 48	Greatest Contribution To Stability.
+page 48	Mandate For Hull.
+page 48	BRITISH GUNS FOR THE GREEKS.
+page 48	BRITISH SUBMARINE SINKS TANKER.
+page 48	SHANGHAI SILK SLUMP.
+page 48	N.W. FRONTIER TRIBES' LOYALTY.
+page 48	SNATCHING INCIDENT.
+page 48	CAMERA ARREST IN KOWLOON CITY.

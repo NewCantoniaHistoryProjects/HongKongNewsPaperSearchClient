@@ -1,0 +1,162 @@
+page 1	YOUR VIEWS AND MINE.
+page 1	A WEEKLY COLUMP OF LOCAL GOSSIP.
+page 1	PROMOTING CONCORD.
+page 1	SOME OF THE GUESTS.
+page 1	THOSE QUOTAS.
+page 1	ECONOMIC CONDITION OF H.K.
+page 1	WANT OF CONFIDENCE.
+page 1	GOVERNMENT LEAD.
+page 1	DROP IN THE DOLLAR.
+page 1	SPECULATION IN RUBBER.
+page 1	Government Not To Intervene.
+page 1	SHANGHAI CHAMPIONS.
+page 1	NEW TERRITORIES.
+page 2	AROUND AND ABOUT CHINA.
+page 2	What The Engineer Is Doing.
+page 2	CANTON HANKOW RAILWAY.
+page 2	BETTER COMMUNICATION.
+page 2	LONG DISTANCE TELEPHONE.
+page 2	Diesel-Engined Barge For Coastal Work.
+page 2	CHARCOAL BURNERS.
+page 2	COLD STORAGE SYSTEM.
+page 2	PORT WORKS AT MOMBASA.
+page 2	Single-Storey Steel Sheds.
+page 2	Training Of Physics Laboratory Assistants.
+page 3	ELECTRICAL DEVELOPMENT.
+page 3	NEW HOPITAL FOR CHAPEI.
+page 3	Need Met by Action of Aged Philanthropist.
+page 3	SPRING COMES TO SHANGHAI.
+page 3	Vernal Season Disguised In Summer Garb.
+page 3	MR. B. W. TAPE Leaving The "Sun Life."
+page 3	MOTHER'S PLEAS.
+page 3	End Hunger Strike.
+page 3	BETTER TIMES.
+page 3	IN The West End Again.
+page 3	DIARY OF LOCAL EVENTS
+page 4	WEEK-END RADIO PROGRAMMES.
+page 4	Broadcast By Z.B.W. On 355 Metres.
+page 5	"QUEEN CHRISTINA."
+page 5	Showing At The Queen's.
+page 5	TO-DAY AT THE CINEMA.
+page 5	AT THE KING'S.
+page 5	Devil Tiger: Good Film Of Wild Life.
+page 5	AN ODD LOT.
+page 5	Under The Same Roof.
+page 5	GUILTY AS HELL.
+page 5	Lowe And McLaglen Together Again.
+page 5	"QUEEN CHRISTINA."
+page 5	"Garbo" Returns At Alhambra & Queen's.
+page 5	"THE MATCH KING."
+page 5	Warren William And Lila Damita.
+page 5	Victorian Trend REVIVES Charm Of Rich Jewels.
+page 6	He Joined In The Chase.
+page 6	AT THE MARINE COURT.
+page 6	Unlawful Mooring of Boat.
+page 6	CAUSING OBSTRUCTION.
+page 6	THE MEANING OF "APPROPRIATE."
+page 6	R.A.F. CORPORAL CHARGED.
+page 6	PENANG TIN.
+page 6	Conditions Show Improvement.
+page 6	FIRST CHINESE OWNER.
+page 6	Of An Aeroplane In Malaya.
+page 6	WOMEN GIVE THEIR SUPPORT.
+page 6	Classes At Military Stations.
+page 6	KNITTING FACTORY ON FIRE.
+page 6	Outbreak At Shamshuipo.
+page 6	WAH TZE YAT PO 71 ST Anniversary Celebrated.
+page 6	RECENT MOTOR FATLITY RECALLED.
+page 6	Inquiry Into Death Of Mrs. Hannah Scott.
+page 6	SPILLERS GOOD GESULTS.
+page 7	THE BRITISH EMPIRE LEADING.
+page 7	IN THE GREAT RACE FOR RECOVERY.
+page 7	Singapore Trade Fair Opened.
+page 7	BATTLE HONOURS.
+page 7	Claims of the Gordons.
+page 7	STOCK EXCHANGE'S NEW HOME.
+page 7	Declared Open By Mr. G. H. Potts.
+page 7	ARTS EXHIBITION.
+page 7	To Be Staged By Buddhist Society.
+page 7	TRADE SCHOOLS IN HONGKONG.
+page 7	Report Follows Investigations In Malaya.
+page 7	HOW HONG KONG should PROCEED.
+page 7	AN ATTEMPTED REBELLION.
+page 7	Threats To Kill Any Eurpean.
+page 7	SOME FAIR FEATURES.
+page 8	THE TEST MATCHES.
+page 8	OBITUARY.
+page 8	SINGAPORE IMPORTS.
+page 8	Californian Polo Ponies.
+page 8	EXCHANGE MARKET'S BETTER TONE.
+page 8	Return of Confidence Shown in Shanghai.
+page 8	World Cable News In Brief.
+page 8	WOOL MANUFACTURE IN CHINA.
+page 8	Mr. Latham's Expression Of Interest.
+page 8	TRANSPORT MERGER.
+page 8	FORESHADOWED.
+page 8	Tram and Bus Companies in Agreement.
+page 8	NEWS SUMMARY.
+page 8	LOCAL AND GENERAL.
+page 8	EXHIBITION AT BRUSSELS.
+page 8	British Government To Erect Pavilion.
+page 9	RAJCHMAN REPORT CRITICISED.
+page 9	JAPAN SUSPECTS WESTERN.
+page 9	POWERS OF WICKED PLANS.
+page 9	REORGANISED CHINA.
+page 9	H.M.S. WHIRLWIND IN COLLISION.
+page 9	Bows Damaged By Merchant Vessel.
+page 9	CHINESE MILITARY MISSION.
+page 9	New Group Leaves For Europe.
+page 9	INDIAN COTTON CONFERENCE.
+page 9	Lord Derby Appeals To Lancashire.
+page 9	BRITISH FARM POLICY.
+page 9	Not To Be Jeopardised By Foreign Agreements.
+page 9	ENGLAND NEW ZEALAND FLIGHT.
+page 9	COMMONS RISE ON MAY 18.
+page 9	BRITISH PLANES TO VISIT CANADA.
+page 9	DEFAULTS IN WAR DEBTS.
+page 9	Mere Token Pavments Unavailing.
+page 9	FURTHER DETAILS EXPECTED.
+page 9	U.S. SILVER POSITION.
+page 9	Solution Not Far Off.
+page 9	ROSEVELT'S WORD SILVER LAW.
+page 9	"PERSECUTION" OF INSULL.
+page 9	Township Advocates National Defence.
+page 9	Rubber Restriction Bill.
+page 9	DIPLOMATS BUSY AT GENEVA.
+page 9	Important Developments Expected.
+page 9	ARMS EDLEGATE IN LONDON.
+page 9	NEW THREAT IN NORTH.
+page 9	Japanese Protest In Manchuria.
+page 9	REFORM IN BRITAIN.
+page 9	Lord Salisbury's Bill Dropped.
+page 9	MOSCOW RETICENT.
+page 9	Regarding Japan's Statement.
+page 9	London Air-Mail Letter.
+page 9	A SMILING CHANCELLOR.
+page 9	WOMEN IN AMERICA'S CUP RACES.
+page 9	YESTERDAY'S SAYINGS.
+page 9	JAPANESE ATTACHE TO MARRY LONDON WOMAN.
+page 9	ROMAN "RACKETS.
+page 9	AN YPRES VETERAN.
+page 9	LORD ALLENBY'S HINDENBURG.
+page 9	"TO THE WORST READBR OF ALL!"
+page 10	FIFTH EXTRA RACE MEETING.
+page 10	Full Details Of Entries And Weight.
+page 10	TEN YEARS OF INPERIAL AIRWAYS.
+page 10	The Development Of The Empire Air Routes.
+page 10	The First Link.
+page 11	H.K. VOLUNTEER DEFENCE CORPS.
+page 11	CONTRACT BRIDGE.
+page 11	Third Round Matches.
+page 11	H.K.C.C. TENNIS FINALS.
+page 11	Rodger Brothers Win Dr Traill Defeated.
+page 11	AILORS AND SOLDIERS HOME.
+page 12	A RESTORATION BUDGET BUDGET.
+page 12	From "Bleak House"To "Great Expectations."
+page 12	MR. CHAMBERLAIN'S SPEECH.
+page 13	THE EXCHANGE MARKET.
+page 13	MESSRS.ROZA BROS.
+page 13	REPORT.
+page 13	CANTON INSURANCE OFFICE.
+page 13	Good Year's Work Reported.
+page 13	CANTON SILK MARKET.

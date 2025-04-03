@@ -1,0 +1,411 @@
+page 1	Raid On Scapa Flow Naval Base: Enemy Repulsed Over Yorkshire.
+page 1	GERMAN PLANES INTENSIFY RAIDS ON GREAT BRITAIN.
+page 1	FINE WORK BY ROYAL AIR FORCE REPELS IN VADERS.
+page 1	Premier Tells House Of Enemy Air Raids.
+page 1	Relentless Naval Hunt.
+page 1	Sweening U- Boats From The Sea.
+page 1	Comparative Losses.
+page 1	16 Killed, 44 Wounded.
+page 1	Four Planes Brought Down.
+page 1	Scapa Folw 'Invasion' Creates A Sensation.
+page 1	Russia Seeks New Spheres Of Influence.
+page 1	Designs On Iran Are Reported By U.S.
+page 1	Vitally Important Move.
+page 1	SUBMARINE RETURNS.
+page 1	Daring Commander To Be Decorated.
+page 1	Two Vessels Hit?
+page 1	U- Boat's Escape Accepted.
+page 1	WAR EFFECT ON U.S. BUSINESS.
+page 1	 STRONG GERMAN ATTACKS ALONG THE SAAR FRONT.
+page 1	Pre-Arranged Plan.
+page 1	Wearing Steel Vests.
+page 1	Onslaught A Failure.
+page 1	Propaganda Contradiction.
+page 1	FEAR AND BOREDOM.
+page 1	British C.-in-C. Says Of War.
+page 1	P.B.I. Will Win War.
+page 1	Daring R.A.F. Planes.
+page 1	Make Daylight Flight Over Germany.
+page 1	Financial Aid For Brazil.
+page 1	Stabilising Exchange.
+page 1	FRANCE DEMOBILISING!
+page 1	Over --- 50 Men Being Released From Army.
+page 1	CHINESE SUCCESSES.
+page 1	Defeat Of Japanese Army In Shansi.
+page 1	Clever Flanking Attacks.
+page 1	Japanese Driven Bank.
+page 1	LATEST.
+page 1	Raid On German City Rumoured.
+page 1	See Back Page For Further Late News.
+page 1	NORWEGIAN SHIP SUNK.
+page 1	Germans Claim New Neutral Victim.
+page 2	PREMIER TELLS HOUSE OF ENEMY AIR RAIDS.
+page 2	Scapa Flow Air Raid.
+page 2	Admiralty Gommunique.
+page 2	Two Attackperts Shot Down.
+page 2	British Steamer Attacled.
+page 2	Search For Plane.
+page 2	Enemy Intercepted.
+page 2	Refuge Problem Worries Roosevelt.
+page 2	FOR THE PROTECTION OF CHILDREN.
+page 2	What to do to help a child.
+page 2	Henderson Reveals The Real Hitler.
+page 2	Vain, Ambitious, And Ignorant.
+page 2	Falsely Counselled.
+page 2	Desired British Friendship.
+page 2	Honest Harangue.
+page 2	More Women Workless.
+page 2	Finland Becomes Optimistic.
+page 2	New Netherlands Defence Credit.
+page 2	Promise To Neutrals.
+page 2	Little Interference With Bona Fide Trade.
+page 2	Hint To Neutrals.
+page 2	Bank Of England Acts Again.
+page 2	Mysterious Turn To Parleys.
+page 2	More Buses For Londoners.
+page 2	9,085,050 Wireless Fans In Britain.
+page 2	Soviets Don't Want German Settlers.
+page 3	A Look Through The "Telegraph."
+page 3	25 YEAR AGO.
+page 3	10 YAER AGO.
+page 3	5 YEAR AGO.
+page 3	FLAG DAY DONATIONS.
+page 3	JAPAN-AUSTRALIA.
+page 5	A MESSAGE FROM MUSSOLINI.
+page 5	Shrouded In Mystery.
+page 5	AMERICAN EXPERTS.
+page 5	Start Work To Improve Highways In China.
+page 5	Nordic Neutrality U. S. NEUTRALITY BILL AND FAR EAST WAR.
+page 5	Sino- Japanese Situation Under Consideration.
+page 5	Statement By Dr. kung.
+page 5	West Front.
+page 5	Germans Suffer Casualties.
+page 5	German Report.
+page 5	Advance Hold Up.
+page 5	Big Push Pending.
+page 5	Ball Cancelled.
+page 5	St. Andrew's Society.
+page 5	Members Welcomed.
+page 5	Alternate Scheme.
+page 5	Celebration In King's.
+page 5	U- Boat Success.
+page 5	HOW ROYAL OAK WAS SUNK.
+page 5	Margin of Safety
+page 5	COCKTAIL PARTY.
+page 5	Large Sun Raised For War Organisation.
+page 5	A Claim, A Denial An Inquiry.
+page 5	German Air Raid On Scapa Flow.
+page 5	Further Alarms.
+page 5	Orderly Reaction.
+page 5	BROADCAST GREETING.
+page 5	Manila's Gesture to New U.S. Commissioner.
+page 5	FAMOUS DOCTOR'S IDEAL REMEDY FOR STOMACH PAINS.
+page 7	Edinburgh's Defence Agianst Air Raids.
+page 10	CHINESE TO HELP.
+page 10	Discuss Contributions To War Fund.
+page 10	HERTZOG DENIES POR-HITLERISM.
+page 10	IMPORTANT MEETING.
+page 10	Choosing Leaders for New Central Regime.
+page 10	SUIYUAN LOYALTY.
+page 10	U-BOAT CREW REWARDED.
+page 10	ANOTHER RAID ON ORKNEYS.
+page 10	FRENCH COUPLE MARRIED.
+page 10	MUSICAL EVENING.
+page 10	Helen Lockhart Arranges Christ Church Concert.
+page 10	CHINESE REFUGEES.
+page 10	Little Change Shown In Hongkong Camps.
+page 10	GERMAN SETTLERS.
+page 10	Repatriated From Latvia To Settle in Poland.
+page 10	Sabotage In Mines.
+page 11	Raid On Scapa Flow Naval Base: Enemy Repulsed Over Yorkshire.
+page 11	GERMAN PLANES INTENSIFY RAIDS ON GREAT BRITAIN.
+page 11	FINE WORK BY ROYAL AIR FORCE REPELS IN VADERS.
+page 11	Premier Tells House Of Enemy Air Raids.
+page 11	16 Killed, 44 Wounded.
+page 11	Four Planes Brought Down.
+page 11	Relentless Naval Hunt.
+page 11	Sweeping U- Boats From The Sea.
+page 11	Comparative Losses.
+page 11	Scapa Flow 'Invasion' Creates A Sensation.
+page 11	SUBMARINE RETURNS.
+page 11	Daring Commander To Be Decorated.
+page 11	Two Vessels Hit?
+page 11	U- Boat's Escape A	ccepted.
+page 11	Scapa Flow Inquiry.
+page 11	WAR EFFECT ON U.S. BUSINESS.
+page 11	West Hunan Town Again Raided.
+page 11	STRONG GERMAN ATTACKS ALONG THE SAAR FRONT.
+page 11	Pre-Arranged Plan.
+page 11	Made Use Of Gas Possible.
+page 11	British Scientist Who Helped In 1917 Dies.
+page 11	20,000,000 REFUGEES.
+page 11	Possible Effect Of War In Europe.
+page 11	British Govt Concerned.
+page 11	Countess Haig Dies At Home.
+page 11	Wife Of Britain's Great War C. In C.
+page 11	Royalty Sponsors Daughters.
+page 11	Soviet To Stay Neutral.
+page 11	But Will Aid Nazis With Goods.
+page 11	NOEWEGIAN SHIP SUNK.
+page 11	German Claim New Neutral Victim.
+page 12	Mysterious Turn To Parleys.
+page 12	No Agreement.
+page 12	STRONG GERMAN ATTACKS ALONG THE SAAR FRONT.
+page 12	Wearing Steel Vests.
+page 12	Onslaught A Failure.
+page 12	Propaganda Contradiction.
+page 12	FOR THE PROTECTION OF CHILDREN.
+page 12	What to do to help a chid.
+page 12	PREMTER TELLS HOUSE OF ENEMY AIR RAIDS.
+page 12	Scapa Flow Air Raid.
+page 12	Admiralty Communique.
+page 12	Two Attackers Shot Down.
+page 12	British Steamer Attacked.
+page 12	Search For Plane.
+page 12	Enemy Intercepted.
+page 12	Raid On German City Rumoured.
+page 12	Another Raid On Orkneys.
+page 12	RUSSLAN FACES MURDER CHARGE.
+page 12	SUBMARINE RETURNS.
+page 12	U- Boat Crew Rewarded.
+page 12	R.A.F. Successes.
+page 12	Running Fight.
+page 12	COUNTESS HAIG DIES AT HOME.
+page 12	Haig Diary Dispute.
+page 12	REICH CLAIMS N. SEA CONTROL!
+page 13	CHINESE SUCCESSES.
+page 13	Defeat Of Japanese Army In Shansi.
+page 13	Clever Flanking Attacks.
+page 13	Japanese Driven Bank.
+page 13	Japanese Debacle Continues.
+page 13	Financial Aid For Brazil.
+page 13	Stabilising Exchange.
+page 13	More Women Workless.
+page 13	Soviets Don't Want German Settlers.
+page 13	FRANCE DEMOBILISING!
+page 13	Over --- 50 Men Being Released From Army.
+page 13	Daring R.A.F. Planes.
+page 13	Make Daylight Flight Over Germany.
+page 13	FEAR AND BOREDOM.
+page 13	British C.-in-C. Says Of War.
+page 13	P.B.I. Will Win War.
+page 13	9,085,050 Wireless Fans In Britain.
+page 13	New Netherlands Defence Credit.
+page 15	Hitler Abandons Repatriation.
+page 15	Of Minorities In Western Europe.
+page 15	Re-Settled In Poland.
+page 15	Grasshopper Plague.
+page 15	Traffic Suspended In Janpan.
+page 15	Trains Held Up.
+page 15	Japan Protest Is Denied.
+page 15	German Allegation Ridiculed.
+page 15	Aid For Airline.
+page 15	U.S.NEUTRALITY BILL AND FAR EAST WAR.
+page 15	Sino- Japanese Situation Under Consideration.
+page 15	Statement By Dr. Kung.
+page 15	Govt. Will Pay Compensation.
+page 15	For Property Damage At End Of War.
+page 15	No Better Scheme.
+page 15	Tientsin Blockade Still Continues.
+page 15	$1,000,000 GIFT TO BRITAIN.
+page 15	Ball Cancelled.
+page 15	St. Andrew's Society.
+page 15	Members Welcomed.
+page 15	Alternate Scheme.
+page 15	Celebralion In King's.
+page 15	U-Boat Success.
+page 15	HOW ROYAL OAK WAS SUNK.
+page 15	Margin of Safety.
+page 15	U- Boats Suffer Heavily.
+page 15	Iceland Fish For Britain.
+page 15	A Claim.
+page 15	A Denial.
+page 15	An Inquiry.
+page 15	FAMOUS DOCTOR'S IDEAL REMEDY FOR STOMACH PAINS.
+page 17	Edinburgh's Defence Against Air Raids.
+page 19	Promise To Neutrals.
+page 19	Little Interference With Bona Fide Trade.
+page 19	Hint To Neutrals.
+page 19	More Buses For Londoners.
+page 19	Finland Becomes Optimistic.
+page 19	Refuge Problem Worries Roosevelt.
+page 19	GESTAPO.
+page 19	A Look Through The "Telegraph."
+page 19	50 YEAR AGO.
+page 19	25 YEAR AGO.
+page 19	10 YEAR AGO.
+page 19	5 YAEAR AGO.
+page 19	Bank Of England.
+page 19	Henderson Reveals The Real Hitler.
+page 19	Vain, Ambitious, And Ignorant.
+page 19	Falsely Counselled.
+page 19	Desired British Friendship.
+page 19	Honest Harangue.
+page 20	CHINESE TO HELP.
+page 20	Discuss Contributions To War Fund.
+page 20	Returning Benefits.
+page 20	HERTZOG DENIES PRO-HITLERISM.
+page 20	Maginot Line Is Not Impregnable.
+page 20	But It Will Provide Trap For Germans.
+page 20	Luring Hitler On.
+page 20	Commissioner In Hongkong.
+page 20	Mr.F. B. Sayre En Route To Manila.
+page 20	Ex-Kaiser Gets Ration Card.
+page 20	And Watches The New Holocaust From Doorn.
+page 20	CHINESE REFUGEES.
+page 20	Little Change Shown in Hongkong Camps.
+page 20	GERMAN SETTLERS.
+page 20	Repatriated From Latvia To Settle in Poland.
+page 20	Sabotage In Mines.
+page 21	All Communications With Outside World Severed By Tallinm.
+page 21	ESTONIAN PRECAUTIONS AS RED RAMY OCCUPIES BASES.
+page 21	SCANDIN AVIAN POWERS TO POOL RESOURCES.
+page 21	HOPES FOR PEACE.
+page 21	20,000,000 REFUGEES.
+page 21	Possible Effect Of War In Europe.
+page 21	BLOCKADE LIFTED.
+page 21	Japanese Marines Leave Kulangsu.
+page 21	Six Point Agreement.
+page 21	CHARGE OF MANSLAUGHTER.
+page 21	U.S. COMMISSIONER TO P.I. WON'T BE DRAWN.
+page 21	2,500,000 MEN.
+page 21	READY FOR WEST: HITLER'S THREAT.
+page 21	Falsely Counselled.
+page 21	Desired British Friendship.
+page 21	Honest Harangue.
+page 21	Rajah Of Sarawak Offers Fortune.
+page 21	Soviet To Stay Neutral.
+page 21	But Will Aid Nazis With Goods.
+page 21	Anglo-Sovicr Trade.
+page 21	CHIEF OF POLLCE ASSASSINATED.
+page 21	NORWEGIAN SHIP SUNK.
+page 21	Germans Claim New Neutral Victim.
+page 22	Aid For Airline.
+page 22	STRONG GERMAN ATTACKS ALONG THE SAAR FRONT.
+page 22	Pre- Arranged Plan.
+page 22	Wearing Steel Vests.
+page 22	Onslaught A Failure.
+page 22	Maginot Line Not Impregnable.
+page 22	Luring Hitler On.
+page 22	No Change On West Front.
+page 22	Scapa Flow 'Invasion' Creates A Sensation.
+page 22	SUBMARINE RETURNS.
+page 22	Daring Commander To Be Decorated.
+page 22	Two Vessels Hit?
+page 22	U- Boat's Escape Accepted.
+page 22	U- Boat Crew Rewarde.
+page 22	HERTZOG DENIES PRO-HITLERISM.
+page 22	Scapa Flow Inquiry.
+page 22	Propaganda Contradiction.
+page 22	Govt. Will Pay Compensation.
+page 22	For property Damage At End Of War.
+page 22	No Batter Schemo.
+page 22	$1,000,000 GIFT TO BRITAIN.
+page 22	Japan Protest Is Denied.
+page 22	German Allegation Ridiculed.
+page 22	WAR EFFECT ON U.S. BUSINESS.
+page 22	West Hunan Town Again Raided.
+page 23	CHINESE SUCCESSES.
+page 23	Defeat Of Japanese Army In Shansi.
+page 23	Clever Flanking Attacks.
+page 23	Japanese Driven Back.
+page 23	Japanese Debacle Continues.
+page 23	Financial Aid For Brazil.
+page 23	Stabilising Exchange.
+page 23	More Women Workless.
+page 23	Soviets Don't Want German Settlers.
+page 23	FRANCE DEMOBILISING!
+page 23	Over --- 50 Men Being Released From Army.
+page 23	Daring R.A.F. Planes.
+page 23	Make Daylight Flight Over Germany.
+page 23	FEAR AND BOREDOM.
+page 23	British C.-in-C. Says Of War.
+page 23	9,085,050 Wireless Fans In Britain.
+page 23	New Netherlands Defence Credit.
+page 25	Raid On Scapa Flow: Enemy Repulsed Over Yorkshire.
+page 25	FINE WORK BY ROYAL AIR FORCE.
+page 25	REPELS GERMAN AIR INVADERS.
+page 25	AHENIA SEQUEL.
+page 25	CARRYING GUNS,SAYS PASSENGER.
+page 25	Declares Ship Was Fitted As Raider.
+page 25	To Be Fitted Out As Raider.
+page 25	"Inside Job."
+page 25	Thieves Novel Method Of Entering House over Method Of Entering House.
+page 25	Premier Tells House Of Enemy Air Raids.
+page 25	16 Killed.44 Wounded.
+page 25	Four Planes Brought Dowr.
+page 25	Scapa Flow Air Raid.
+page 25	Admiralty Communique.
+page 25	Two Attackers Shot Down.
+page 25	British Steamer Attacked.
+page 25	Search For Plane. 
+page 25	Relentless Naval Hunt.
+page 25	Sweeping U- Boats From The Sea.
+page 25	Comparative Losses.
+page 25	Grasshopper Plague.
+page 25	Traffic Suspended In Japan.
+page 25	Trains Hold Up.
+page 25	Nazis Uncertain Of The Soviet.
+page 25	Countess Haig Dies At Home.
+page 25	Wife Of Britain's Great War C. In C.
+page 25	Royalty Sponsors Daughters.
+page 25	Haig Diary Dispute.
+page 25	OBITUARY.
+page 25	Man Who Made Gas War Real.
+page 25	Big Increases In Shipping Freight Rates.
+page 25	761/2 Per Cent. Above August Figures.
+page 25	FAMOUS DOCTOR'S IDEAL REMEDY FOR STOMACH PAINS.
+page 27	Edinburgh's Defence Against Air Raids.
+page 28	U.S. COMMISSIONER TO P.I. WON'T BE DRAWN.
+page 28	"TUT-TUT."
+page 28	Gecbbels' Fear Of Hearing Bad Words.
+page 28	Prison & Cane For Robber.
+page 28	Revolvers , Scissors Used In Crime.
+page 28	Originator Of Robbcry.
+page 28	REICH CLAIMS N. SEA CONTROL!
+page 28	Gave Police False Information.
+page 28	ESTONLAN PRECAUTIONS AS RED ARMY OCCUPIES BASES.
+page 28	Delegate Returns 
+page 28	20,000,000 REFUGEES.
+page 28	British Govt. Concerned.
+page 28	BLOCKADE LIFTED.
+page 28	Soviet Assurance To United States.
+page 28	Finland Becomes Optimistic.
+page 29	Promise To Neutrals.
+page 29	Little Interference With Bona Fide Trade.
+page 29	More Buses For Londoners.
+page 29	Refuge Problem Worries Roosevelt.
+page 29	GESTAPO.
+page 29	There's Nothing Up My Sleeve --- .
+page 29	A Look Through The "Telegraph."
+page 29	50 YEAR AGO.
+page 29	25 YEAR AGO.
+page 29	10 YEAR AGO.
+page 29	5 YEAR AGO. 
+page 29	Bank Of England Acts Again.
+page 29	First Offence 24 Years Ago .
+page 29	Middle- Aged Woman With Bad Record.
+page 29	Another Old Offender.
+page 29	Attempt To Obtain $50 By Trick.
+page 29	Tientsin Blockade Still Continues.
+page 29	Attempted Suicide In Hospital.
+page 29	$86,000 ESTATE.
+page 30	H.K.V.D.C. REGULATIONS.
+page 30	Carps Unit.
+page 30	Typhoon Disaster.
+page 30	Manila Protests.
+page 30	Von Papen Mystifies.
+page 30	Mediation Seen.
+page 30	Nazi Merchantmen Seized.
+page 30	CHILD FALLS TO DEATH.
+page 30	Mysterious To Parleys.
+page 30	No Agreement.
+page 30	Irreconcilable Proposals.
+page 30	Turkey To Sign Pacts.
+page 30	NEUTRALITY ACT AND U.S. SHIPS.
+page 30	Germans Fine On Dutch Planes.
+page 30	 Swallowed Stolen Earring.
+page 30	X- Ray Discovers It In Man's Stomach.
+page 30	Wrist Watch Snatching Epidemic.
+page 30	Losses Form Residences.
+page 30	City Office Theft.

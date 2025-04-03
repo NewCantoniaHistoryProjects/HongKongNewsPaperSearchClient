@@ -1,0 +1,10 @@
+page 2	CANTON.
+page 2	BANGKOK.
+page 2	PROCLAMATION.
+page 2	FOOCHOW.
+page 2	SHANGHAI.
+page 2	NINGPO.
+page 2	TIENTSIN.
+page 2	WUHU.
+page 2	NANKING.
+page 2	NAGASAKI.

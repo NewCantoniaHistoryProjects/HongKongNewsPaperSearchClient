@@ -1,0 +1,5 @@
+page 3	POSTAL BATES.
+page 3	Hongkong Batchs of Postage.
+page 3	Miscellaneous Aotlees.
+page 3	POST OFFICE NOTICE.
+page 3	For Merchant Ships.

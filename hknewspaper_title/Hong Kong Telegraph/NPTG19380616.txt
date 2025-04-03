@@ -1,0 +1,381 @@
+page 1	INSURGENTS SINK ANOTHER BRITIHS SHIP.
+page 1	NO HEED OF WARNING BY CHAMBERLAIN.
+page 1	Two French Vessels Sunk Simultaneously.
+page 1	Three French Victims.
+page 1	Welcome Stand.
+page 1	Warmly Welcomed.
+page 1	Bombing Debate Coming.
+page 1	SUMMONS FRENCH TROOPS.
+page 1	Tientsin Consul Defies Japanese.
+page 1	POUNDING LOYALIST RETREAT.
+page 1	Relentless Advance By Insurgents Continues.
+page 1	NO BOMBING CASUALIES.
+page 1	GERMAN TROOPS CAPTURED.
+page 1	MIAJA RALLIES ARMY.
+page 1	Traitor's Flares Guide Bombers to Canton.
+page 1	JAPANESE DRIVE ON HANKOW CONTINUES.
+page 1	Armies Succeed In Effecting Junction.
+page 1	Chinese Counter-Attack.
+page 1	12,000 Dead Of Cholera In India Provinces.
+page 1	WOMEN IN CUSTODY IN GREAT SPY DRAMA.
+page 1	U.S. Investigations Near Completion.
+page 1	FLOOD THREATENS CATASTROPHE OF MAJOR DIMENSIONS.
+page 1	Fighting Flood.
+page 1	KIDNAPPER AWAITS SENTENCE.
+page 1	JEWS CAN'T TEACH IN AUSTRIA.
+page 1	And Children Will Be Segregated.
+page 1	Suez Earnings Down Again.
+page 1	MORNING BOMBINGS TAKE FEW LIVES IN DESERTED AREA.
+page 1	Planes Scatter Handbills To Discourage Soldiers.
+page 1	Propaganda Pamphlets.
+page 1	CHINESE AID ENEMY TO FIGHT VAST FLOOD.
+page 1	Britain Floats 80,000,000 Pounds Defence Loan.
+page 1	PACIFIST SPEECH HECKLED.
+page 1	Bishop Discourages Use Of Force To Stop Bombings.
+page 1	PAVING ROAD TO WAR.
+page 4	INSURGENTS SINK ANOTHER BRITISH SHIP.
+page 4	Still Plan To Probe Bombings.
+page 4	JAPANESE DRIVE ON HANKOW CONTINUES.
+page 4	POUNDING LOYALIST RETREAT.
+page 4	NEARING SAGUNTO.
+page 6	WHAT SENSE IN CENSORSHIP?
+page 7	NEW METHOD OF HANDWRITING IS BEING TAUGIIT LOCAL CHILDREN.
+page 7	ARMY SCHOOLS ADOPT RHYITHMIC PATTERN SYSTEM.
+page 7	Claimed To Be Means Of Banishing All Bad Handwriting.
+page 7	FIRST PATTERNS.
+page 7	INK-WRITING.
+page 7	TELLS OF MINING COMPANY PLANS.
+page 7	WOMEN IN CUSTODY IN GREAT SPY DRAMA.
+page 7	Fur Wraps On Summer Frocks For Ascot.
+page 7	PACIFIST SPEECH HECKLED.
+page 7	U.S. COPPER FOR JAPAN.
+page 7	APPROVAL GIVEN WEST INDIES LABOUR INQUIRY.
+page 7	FRANCE USES MACHINERY OF DECREE.
+page 11	LONG LIFE AT THORPE ARNOLD.
+page 12	Warns Traders To Caution In German Trade.
+page 12	Loan Negotiations May Cause Trouble.
+page 12	TRADE PACT UNSATISFACTORY.
+page 12	Nazi Ships Suspect In Castellon Bombardment.
+page 12	Bombings Held Attack On Civilisation.
+page 12	SEVEN DIE IN STORMS.
+page 12	Spreading South-East.
+page 12	May Find Natural Course.
+page 12	NEW G.S.O. 2 FOR HONGKONG.
+page 12	ONE DEAD IN JUNK EXPLOSION.
+page 12	Police Face Extortion Charges.
+page 12	ARMY LORRY KILLS WOMAN.
+page 13	CHINESE AID ENEMY TO FIGHT FLOOD.
+page 13	JAPANESE ADMIT LOSS IN DELUGE.
+page 13	Vast Army trying to Divert Menacing.
+page 13	Spreading South-East.
+page 13	WHY TEN H.K. PONIES LOST TAILS.
+page 13	THEY WERE STOLEN!
+page 13	JAPANESE FIGHT LOSING BATTLE.
+page 13	50,000 Feared Dead.
+page 13	Planes Aid Fight.
+page 13	U.S. ECONOMIST PASSES AWAY.
+page 13	Insurgents Sink Another British Merchant Ship.
+page 13	CASTELLON OCCUPATION COMPLETED.
+page 13	Starving Populace Welcomes Victors.
+page 13	Police Held On Charge Of Extortion Attempts.
+page 13	European Involved In Kowloon.
+page 13	Flood Threat In Yangtse Valley Area.
+page 13	No response On War Debt Enquiries.
+page 13	Only Finland Making Payment To U.s.
+page 13	CANTON ESCAPES DISASTER.
+page 13	Bombs Fall Close to Foreign-Owned Hospital.
+page 13	WAR MUST DRAG ON.
+page 13	"Times" Exonerates Japan From Blame For China Flood.
+page 13	FRANCO PAYS NO HEED TO LATEST BRITISH PROTEST.
+page 13	Three French Vessels Sunk Simultaneously.
+page 13	Three French Victims.
+page 13	Welcome Stand.
+page 13	Warmly Welcomed.
+page 13	DOG-FIGHT NEAR CANTON.
+page 13	Barbed Wire For Palestine Border Line.
+page 13	ENGLISH AIR MAIL DELAYED.
+page 13	New Plane Brings Bags To-morrow.
+page 14	PACIFIST SPEECH HECKLED.
+page 14	Bishop Discourages Use Of Force To Stop Bombings.
+page 14	PAVING ROAD TO WAR.
+page 14	U.S. COPPER FOR JAPAN.
+page 14	Japanese Ship Claims Pacific Blue Riband.
+page 14	DIPLOMATS DRIVEN OUT OF JAPAN.
+page 14	Ex-Charge D' Affaires Says Secretary Serves Peiping.
+page 14	BRITISH EXPORTS INCREASE.
+page 14	But Imports Keep Pace Too Easily.
+page 14	Von Fritsch Honoured.
+page 14	Rumour Of Discord Disproved.
+page 14	HITLER NEEDED IN VIENNA.
+page 14	WEALTHY MAN LED JAMAICA STRIKERS.
+page 14	Crown Drops Charge Of Sedition.
+page 14	Hit-Run Motorist In Court.
+page 14	BAD FLOODS IN JAPAN.
+page 14	SEVEN DIE IN STORMS.
+page 14	SUMMONS FRENCH TROOPS.
+page 14	Tientsin Consul Defies Japanese.
+page 14	Police Watch For Street Offenders.
+page 14	NO SETTLEMENT ON GUN-POWER.
+page 14	WAR RISK RATES UNDER REVIEW.
+page 14	FOUR EXECUTED FOR SABOTAGE.
+page 14	MONEY TO HELP CHINA CIVILIANS.
+page 15	Traitor's Flares Guide Bombers to Canton.
+page 15	JAPANESE DRIVE ON HANKOW CONTINUES.
+page 15	Armies Succeed In Effecting Junction.
+page 15	Chinese Counter-Attack.
+page 15	Nazi Ships Suspect In Castellon Bombardment.
+page 15	MORNING BOMBINGS TAKE FEW LIVES IN DESERTED AREA.
+page 15	Planes Scatter Handbills To Discourage Soldiers.
+page 15	Propaganda Pamphlets.
+page 15	Warns Traders To Caution In German Trade.
+page 15	Loan Negotiations May Cause Trouble.
+page 15	TRADE PACT UNSATISFACTORY.
+page 15	Bomber Shot Down.
+page 15	Three Visits.
+page 15	School Struck.
+page 15	Questions In Commons.
+page 16	CONSTABLE'S APPEAL DISMISSED.
+page 16	INSURGENTS SINK ANOTHER BRITISH MERCHANT SHIP.
+page 16	Bombing Debate Coming.
+page 16	Still plan To Probe Bombings.
+page 18	WHAT SENSE IN CENSORSHIP?
+page 19	NEW METHOD OF HANDWRITING IS BEING TAUGIIT LOCAL CHILDREN.
+page 19	ARMY SCHOOLS ADOPT RHYITHMIC PATTERN SYSTEM.
+page 19	Claimed To Be Means Of Banishing All Bad Handwriting.
+page 19	FIRST PATTERNS.
+page 19	INK-WRITING.
+page 19	POUNDING LOYALIST RETREAT.
+page 19	Relentless Advance By Insurgents Continues.
+page 19	NO BOMBING CASUALTIES.
+page 19	GERMAN TROOPS CAPTURED.
+page 19	MIAJA RALLIES ARMY.
+page 19	NEARING SAGUNTO.
+page 19	WOMEN IN CUSTODY IN GREAT SPY DARAMA.
+page 19	U.S. Investigations Near Completion.
+page 19	KIDNAPPER AWAITS SENTENCE.
+page 19	ARMY LORRY KILLS WOMAN.
+page 19	NEW G.S.O. Z FOR HONGKONG.
+page 19	AVIATION SPIRIT WAS FOR CHINA.
+page 19	EXPLOSION SHIPMENT DESTINED FOR HANKOW.
+page 19	1,300 Tins Destroyed In Junk Blaze.
+page 19	GAMING HOUSE FINE.
+page 20	DON BRADMAN SCORES SEVENTH CENTURY OF TOUR.
+page 20	AUSTRALIAN LADIES HAVE GOOD DAY I SURREY TORUNAMENT/
+page 20	Miss Wynne And Miss Coyne Both Successful.
+page 20	ENTERPRISIN PLAY.
+page 20	MENACING ATTACK.
+page 20	Von Cramm Appeal To Be Head June 21.
+page 20	BOOKIES HAPPIER AT ASCOT.
+page 20	Oaks Winner Lets Down supporters.
+page 20	THE COLD CUP.
+page 20	NO ARRANGEMENTS FOR SWIMMING INTERPORT YET.
+page 20	Position To Be Sounded Before Making Decision.
+page 20	Isle Of Man T. T. Race Won By German.
+page 20	Ginger Wood In Second Place.
+page 20	BERT GADD AND R. WHITCOMBE NOW LEADING.
+page 20	MASARYK MOTOR RACE CANCELLED.
+page 20	Bowls.
+page 20	WEEDING PROCESS CONTINUES.
+page 20	Matches Decided In Open Pairs.
+page 20	ANOTHER THREE FIGURE INNINGS BY AUSTRALIAN.
+page 20	KNOCKS UP 104 AGAINST GENTLEMEN OF ENGLAND.
+page 20	COUNTY SCORES.
+page 21	Australian Ladies Win At Surrey.
+page 21	MISS SCRIVEN ADVANCES.
+page 21	NEW YORK GIANTS BLANKED.
+page 21	Latest Results In U.S. Baseball.
+page 21	VISITOR LOSES BELONGINGS.
+page 21	Mysterious Activities At San Cho.
+page 21	Japanese Order Big Fleet Of Rafts.
+page 21	JAPANESE LANDING REPULSED.
+page 21	CHINESE INTENSIFY ACCTCK.
+page 21	IMPORTANT TOWN RETAKEN.
+page 21	BACK FROM GIBRALTAR.
+page 21	Mrs. Moody Over-Rides Opponent.
+page 21	Quick Victory In Tennis Tourney.
+page 21	Young Mother Attempts.
+page 21	Suicide As Bady Dies.
+page 21	Bombings Help Attack On Civilisation.
+page 22	ARSENE LUPIN RETURNS.
+page 22	BY LEBBEUS MITCHELL.
+page 23	LONG LIFE AT THORPE ARNOLD.
+page 23	FRANCE USES MACHINERY OF DECREE.
+page 24	Belligerent Hawker Goes To Prison.
+page 24	Chopper Threat To European.
+page 24	JEWS CAN'T TEACH IN AUSTRIA.
+page 24	And Children Will Be Segregated.
+page 24	Britain floats 80,000,000POUNDS Defence Loan.
+page 24	Fur Wraps On Summer Frocks For Ascot.
+page 24	APPROVAL GIVEN WEST INDIES LABOR INQUIRY.
+page 24	FAILED TO LEARN TO RESPECT LAW.
+page 24	SNATCHER TO BE CANED.
+page 24	SHIPS IN RADIO COMMUNICATION.
+page 24	NO NEW CASES OF CHOLERA.
+page 24	Huge Turtld Killed At Tweed Bay.
+page 24	Companion Of 400-ib Visitor Captured.
+page 24	JAPANESE RULES FOR CHINESE TRAVELLERS.
+page 24	Suez Earnings Down Again.
+page 24	ASSAULT IN STREET.
+page 25	CHINESE AID ENEMY TO FIGHT FLOOD.
+page 25	JAPANESE ADMIT LOSS IN DELGE.
+page 25	Vast Army Trying To Divert Menacing Yellow River.
+page 25	Spreading South-East.
+page 25	WHY TEN H.K. PONIES LOST TAILS.
+page 25	THEY WERE STOLEN!
+page 25	JAPANESE FIGHT LOSING BATTLE.
+page 25	50,000 Feared Dead.
+page 25	Planes Aid Fight.
+page 25	U.S. ECONOMIST PASSES AWAY.
+page 25	CASTELLON OCCUPATION COMPLETED.
+page 25	Starving Populace Welcomes Victors.
+page 25	Police Held On Charge Of Extortion Attempts.
+page 25	European Involved In Kowloon.
+page 25	Flood Threat In Yangtse Valley Area.
+page 25	No Response On War Debt Enquiries.
+page 25	Only Finland Making Payment To U.S..
+page 25	CANTON ESCAPES DISASTER.
+page 25	Bombs Fall Close To Froeign-Owned Hospital.
+page 25	WAR MUST DRAG ON.
+page 25	"Times" Exonerates Japan From Blame For China Flood.
+page 25	Barbed Wire For Palestine Border Line.
+page 25	ENGLISH AIR MAIL DELAYED.
+page 25	New Plane Brings Bags Tomorrow.
+page 25	Insurgents Sink Another British Merchant Ship.
+page 25	FRNCO PAYS NO HEED TO LATEST BRITISH PROTEST.
+page 25	Three French Vessels Sunk Simultaneously.
+page 25	Three French Victims.
+page 25	Welcome Stand.
+page 25	Warmly Welcomed.
+page 25	Barbed Wire For Palestine Border Line.
+page 25	ENGLISH AIR MAIL DELAYED.
+page 25	New Plane Brings Bags Tomorrow.
+page 25	Six Raiders Shot Down.
+page 25	FIVE SHOT DOWN? 
+page 26	PACIFIST SPEECH HECKLED.
+page 26	Bishop Discourages Use Of Force To Stop Bombings.
+page 26	PAVING ROAD TO WAR.
+page 26	U.S. COPPER FOR JAPAN.
+page 26	Japanese Ship Claims Pacific Blue Riband.
+page 26	DIPLOMATS DRIVEN OUT OF JAPAN.
+page 26	Ex-Charge D' Affaires Says Secretary Serves Peiping.
+page 26	BRITISH EXPORTS INCREASE.
+page 26	But Imports Keep Pace Too Easily.
+page 26	Von fritsch Honoured.
+page 26	Rumour Of Discord Disproved.
+page 26	HITLER NEEDED IN VIENNA.
+page 26	LETERS TO THE EDITOR.
+page 26	WANTS TO ENROLL.
+page 26	HISTORY OF TEA.
+page 26	WEALTHY MAN LED JAMAICA STRIKERS.
+page 26	Crown Drops Charge Of Sedition.
+page 26	 Hit-Run Motorist In Court.
+page 26	BAD FLOODS IN JAPAN.
+page 26	SEVEN DIE IN STORMS.
+page 26	SUMMONS FRENCH TROOPS.
+page 26	Tientsin Consul Defies Japanese.
+page 26	Police Watch For Street Offenders.
+page 26	NO SETTLEMENT ON GUN-POWER.
+page 26	WAR RISK RATES UNDER REVIEW.
+page 26	FOUR EXECUTED FOR SABOTAGE.
+page 26	MONEY TO HELP CHINA CIVILIANS.
+page 26	Kill Kidney Trouble Quick.
+page 27	JAPANESE DRIVE ON HANKOW CONTINUES.
+page 27	Armies Succeed In Effocting Junction.
+page 27	Chinese Counter-Attack.
+page 27	Nazi ships Suspect In Castellon.
+page 27	Bombardment.
+page 27	Traitor's Flares Guide Bombers to Canton.
+page 27	MORNING BOMBINGS TAKE FEW LIVES IN DESERTED AREA.
+page 27	Planes Scatter Handbills To Discourage Soldiers.
+page 27	Propaganda Pamphlets.
+page 27	Warns Traders To Caution In German Trade.
+page 27	Loan Negotiations May Cause Trouble.
+page 27	TRADE PACT UNSATISFACTORY.
+page 27	Bomber Shot Down .
+page 27	Three Visits.
+page 27	School Struck.
+page 27	Questions In Commons.
+page 28	CONSTABLE'S APPEAL DISMISSED.
+page 28	INSURGENTS SINK ANOTHER BRITISH MERCHANT SHIP.
+page 28	Bombing Debate Coming.
+page 28	Still Plan To Probe Bombings.
+page 29	CHINESE AID ENEMY TO FIGHT FLOOD.
+page 29	May Find Natural Course.
+page 29	Catastrophe Of Major Dimensions.
+page 29	Fighting Flood.
+page 29	12,000 Dead Of Cholera In India Provinces.
+page 29	Meet Common Enemy.
+page 29	In Desperate Straits.
+page 29	Thousands Marooned.
+page 31	NEW METHOD OF HANDWRITING IS BEING TAUGHT LOCAL CHILDREN.
+page 31	ARMY SCHOOLS ADOPT RHYTHMIC PATTERN SYSTEM.
+page 31	Claimed To Be Means Of Banishing All Bad Hand writing.
+page 31	FIRST PATTERNS.
+page 31	INK-WRITING.
+page 31	POUNDING LOYALIST RETREAT.
+page 31	Relentless Advance By Insurgents Continues.
+page 31	NO BOMBING CASUALTIES.
+page 31	GERMAN TROOPS CAPTURED.
+page 31	MIAJA RALLIES ARMY.
+page 31	NEARING SAGUNTO.
+page 31	WOMEN IN CUSTODY IN GREAT SPY DRAMA.
+page 31	U.S. Investigations Near Completion.
+page 31	KIDNAPPER AWAITS SENTENCE.
+page 31	ARMY LORRY KILLS WOMAN.
+page 31	NEW G.S.O. 2 FOR HONGKONG.
+page 31	AVIATION SPIRIT WAS FOR CHINA.
+page 31	EXPLOSION SHIPMENT DESTINED FOR HANKOW.
+page 31	1.300 Tins Destroyed In Junk Blaze.
+page 31	GAMING HOUSE FINE.
+page 32	DON BRADMAN SCORES SEVENTH CENTURY OF TOUR.
+page 32	AUSTRALIAN LADIES HAVE GOOD DAY I SURREY TORUNAMENT/
+page 32	Miss Wynne And Miss Coyne Both Successful.
+page 32	ENTERPRISIN PLAY.
+page 32	MENACING ATTACK.
+page 32	Von Cramm Appeal To Be Head June 21.
+page 32	BOOKIES HAPPIER AT ASCOT.
+page 32	Oaks Winner Lets Down supporters.
+page 32	THE COLD CUP.
+page 32	NO ARRANGEMENTS FOR SWIMMING INTERPORT YET.
+page 32	Position To Be Sounded Before Making Decision.
+page 32	Isle Of Man T. T. Race Won By German.
+page 32	Ginger Wood In Second Place.
+page 32	BERT GADD AND R. WHITCOMBE NOW LEADING.
+page 32	MASARYK MOTOR RACE CANCELLED.
+page 32	Bowls.
+page 32	WEEDING PROCESS CONTINUES.
+page 32	Matches Decided In Open Pairs.
+page 32	ANOTHER THREE FIGURE INNINGS BY AUSTRALIAN.
+page 32	KNOCKS UP 104 AGAINST GENTLEMEN OF ENGLAND.
+page 32	COUNTY SCORES.
+page 33	Australian Ladies Win At Surrey.
+page 33	NEW YORK GIANTS BLANKE.
+page 33	Latest Results In U.S. Baseball.
+page 33	VISITOR LOSES BELONGINGS.
+page 33	Mysterious Activities At San Cho.
+page 33	Japanese Order Big Fleet Of Rafts.
+page 33	JAPANESE LADING REPULSED.
+page 33	CHINESE INTENSIFY ATTACK.
+page 33	IMPROTANT TOWN RETAKEN.
+page 33	BACK FROM GIBRALTAR.
+page 33	Mrs. Moody Over-Rides Opponent.
+page 33	Quick Victory In Tennis Tourney.
+page 33	Young Mother Attempts Suicide As Baby Dies.
+page 33	Bombings Held Attack OnCivilisation.
+page 35	LONG LFIFE AT THORPE ARNOLD.
+page 35	FRANCE USES MACHINERY OF DECREE.
+page 36	Belligerent Hawker Goes To Prison.
+page 36	Chopper Threat To European.
+page 36	JEWS CAN'T TEACH IN AUSTRIA.
+page 36	And Children Will Be Segregated.
+page 36	Britain Floats 80,000.000POUNDS Defence Loan.
+page 36	Fur Wraps On Summer Frocks For Ascot.
+page 36	APPROVAL GIVEN WEST INDIES LABOUR INQUIRY.
+page 36	U.S. SAILORS IN NARCOTIC RACKET.
+page 36	DOG-FIGHT NEAR CANTON.
+page 36	NO NEW CASES OF CHOLERA.
+page 36	Huge Turtle Killed At Tweed Bay.
+page 36	Companion Of 400-ib Visitor Captured.
+page 36	JAPANESE RULES FOR CHINESE TRAVELLERS.
+page 36	Suez Earnings Down Again.
+page 36	ASSAULT IN STREET.

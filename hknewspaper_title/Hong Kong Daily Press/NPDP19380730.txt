@@ -1,0 +1,128 @@
+page 1	PAN-AMERICAN FLYING BOAT SEVERAL HOURS OVERDUE AT MANILA.
+page 1	Hawaii Clipper Last Reported Fighting Strong Headwinds In Flight From Guam.
+page 1	SIX PASSENGERS ABOARD, INCLUDING OFFICIAL.
+page 1	FLYING THROUGH CLOUDS.
+page 1	MISHAP IN FRENCH MANOEUVRES.
+page 1	Military Truck Overturns.
+page 1	FIVE JAPANESE SOLDIERS KILLED.
+page 1	FIGHTING THE CHOLERA TERROR IN CHINA.
+page 1	Damages Sustained In Japan Floods.
+page 1	KWANGTUNG GOERNOR DUE NEXT WEEK.
+page 1	Japanese Use Of Poison Gas Confirmed.
+page 1	Successful Baltic Sea Swim.
+page 1	DANISH WOMAN'S ACHIEVEMENT.
+page 1	Japanese Ships Hit Mine.
+page 1	NEW AIR SERVICE.
+page 1	FINAL VICTORY WILL BE FOR CHINESE NATION.
+page 1	Optimism Expressed By General Lung Yen. Governor Of Yunnan.
+page 1	DEFENCE OF HANKOW.
+page 1	Revolution In Crete Island.
+page 1	INSURGENTS OCCUPY CANEA.
+page 1	WARSHIPS OFF CRETE.
+page 1	COMMUNIST LEADERS ARRESTED.
+page 1	MECHANICAL LABOURERS DO THEIR SHARE.
+page 2	DAMAGES AWARDED IN ACTION FOR LIBEL.
+page 2	Letter That Suggested Traders Were Dishonest.
+page 2	WROTE TO NEWCASTLE.
+page 2	THE LETTER.
+page 2	CONSTRUCTION TO BE PUT.
+page 2	MR. SILVA'S DEFENCE.
+page 2	CHINESE WOMAN LEADER FLYING TO CONFERENCE.
+page 2	TRAFFIC CASES AT CENTRAL.
+page 2	DOCTOR FINED.
+page 2	MAGISTRATE AS WITNESS.
+page 2	SCHOOL CERTIFICATE EXAMINATION.
+page 2	Important Changes Proposed.
+page 2	THREE GRADES OF SUCCESS.
+page 2	HITLER DEFIED.
+page 2	REFUSE TO RETURN.
+page 2	EXPELLED.
+page 4	FAR-REACHING CHANGES IN ARMY ANNOUNCED.
+page 4	New Time Scale Of Promotion Amongst New Measures.
+page 4	LARGEST GAZETTE IN HISTORY.
+page 4	METHOD OF PROMOTION.
+page 4	INCREASED PAY.
+page 4	RETIRED PAY.
+page 5	SHIRLEY TEMPLE SEES PRESIDENT ROOSEVELT.
+page 5	Talks About Salmon, Loose Teeth And Lamb Chops.
+page 5	NOVA PILBEAM IN CRASH.
+page 5	BERLIN CHOIR TO VISIT CARDIFF.
+page 6	JAPANESE AT KIUKIANG FAIL TO ESTABLISH CONTACT WITH TROOPS NEAR POYANG LAKE.
+page 6	Maze Of Hills, Lakes And Rivers Offers Handicaps.
+page 6	DRIVE INTO HUPEH.
+page 6	NAMOA FIGHTING.
+page 6	EVACUATION OF CIVILIANS IN TIME OF WAR.
+page 6	London Committee's Report Now Ready.
+page 6	WEST INDIES COMMISSION.
+page 6	To Study Economic And Social Conditions.
+page 6	KING JOINS FAMILY.
+page 6	SIR MAURICE HANKEY.
+page 6	Received By King On Retirement.
+page 6	TWO KILLED IN ALICANTE RAID.
+page 6	EXPENDITURE ON ARMAMENTS.
+page 6	ANTI-JEWISH TENDENCY IN ITALY.
+page 6	U.S. Ambassador Makes Inquiries.
+page 6	RACIAL PURITY.
+page 6	DOWNING STREET LUNCHEON.
+page 6	EGYPTIAN PREMIER ENTERTAINED.
+page 7	AMBASSADOR ARRIVING ON WEDNESDAY.
+page 7	Rabies In Colony.
+page 7	VOLUNTEER ORDERS.
+page 8	KOWLOON COURT CHARGES.
+page 8	Officer Fined For Traffic Offences.
+page 8	FORGED BANKNOTE COMMITTAL CASE.
+page 8	FORGED BANKNOTE.
+page 8	PENINSULA HOTEL CUTLERY CASE.
+page 8	MOVES HER PEN UNDER GUNFIRE.
+page 8	Miss Hsieh Pin-ying At The Front.
+page 8	FINISHING TOUCHES.
+page 8	ILLNESS OF PRINCE ARTHUR.
+page 8	EGYPTIANS COULD NOT CURE MALARIA.
+page 8	OLDEST KNOWN PAPYRUS.
+page 8	EXTRACT OF CINCHONA.
+page 9	BRITAIN AND AMERICA CAN SPOT WAR WITHOUT FIGHTING.
+page 9	JOINT EMBARGO OF EXPORTS TO JAPAN.
+page 9	Economic Pressure Will Be Effective Affirms Miss Freda Utley.
+page 9	CHANGE OF POLICY.
+page 9	SIX MORE MONTHS.
+page 9	Doihlara In Shanghai.
+page 9	FOREIGN SHIPS ASKED TO CLEAR FROM YANGTSE.
+page 9	BAR OF GOLD SALVAGED.
+page 9	From Ship Which Sank In 1799.
+page 9	GOVERNMENT WIN IN BY-ELECTION.
+page 9	POLISH REDS ARRESTED.
+page 9	Last Will Of Late Queen Marie.
+page 9	MALTA'S NEW CONSTITUTION.
+page 9	INTERNATIONAL GEOGRAPHIC CONGRESS.
+page 9	SOUTHAMPTON IS EMPIRE AIR TRAFFIC BASE.
+page 9	Puppets Called Shameless Creatures By Japanese.
+page 9	PUPPETS SEEK SAFETY.
+page 9	SOVIET PURGE.
+page 9	JAPANESE PREPARE DRIVE FROM S. SHANSI.
+page 9	HALT AT KIUKIANG.
+page 9	CHANCES LOST BY ATROCITIES.
+page 9	Japan's Conquest Plan Based On False Analogies.
+page 16	PEIPING FEARS BOLD GUERILLA ATTACK.
+page 16	Reported Massing Of Chinese In Western Hills.
+page 16	JAPANESE READY.
+page 16	Sporadic Fighting In Rangoon.
+page 16	FLOOD WATERS ENTER KUCHENT.
+page 16	Americans Faces Slapped.
+page 16	FLYING BOAT OVERDUE.
+page 16	Guerilla Activities Increasing.
+page 16	MANY SUCCESSES.
+page 16	SHANGHAID'S AMUSEMENT TAX TOTAL.
+page 16	MILITARYD TRUCK OVERTURNS.
+page 16	LEFT ON ROAD.
+page 17	PEIPING FEARS BOLD GUERILLA ATTACK.
+page 17	Reported Massing Of Chinese In Western Hills.
+page 17	JAPANESE READY.
+page 17	Sporadic Fighting In Rangoon.
+page 17	FLOOD WATERS ENTER KUCHENG.
+page 17	Americans Faces Slapped.
+page 17	FLYING BOAT OVERDUE.
+page 17	Guerilla Activities Increasing.
+page 17	MANY SUCCESSES.
+page 17	SHANGHAI'S AMUSEMENT TAX TOTAL.
+page 17	MILITARY TRUCK OVERTURNS.
+page 17	LEFT ON ROAD.

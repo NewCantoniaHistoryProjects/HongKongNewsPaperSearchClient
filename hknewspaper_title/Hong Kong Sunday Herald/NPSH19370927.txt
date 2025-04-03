@@ -1,0 +1,138 @@
+page 1	CANTON AGAIN HEAVILY BOMBED.
+page 1	Hankow Railway Link Expected To Be Next Air Raid Objective.
+page 1	CANTON ROUSED BY TWO ALARMS, BUT FEW BOMBS FELL LAST NIGHT.
+page 1	Foreign Volunteers Doing Very Arduous Duty.
+page 1	CROWDS KEEPING CLEAR.
+page 1	Two Alarms In Night.
+page 1	Arduous Police Duties.
+page 1	SOVIET PROTEST TO JAPAN.
+page 1	Ambassador Won't Leave Nanking.
+page 1	CHINA'S NOTE.
+page 1	200 MORE BODIES IN HANYANG UNCOVERED.
+page 1	Increasing Toll Of Bombing In Hankow.
+page 1	Japanese Tanks Driven Back.
+page 1	Commands In Shanghai.
+page 1	SEVERE DAMAGE FEARED.
+page 1	Alarm Sounded As City Wakes.
+page 1	RAILWAY STATION STRUCK.
+page 1	DAMAGE STILL UNKNOWN.
+page 1	PLANES LIKE THESE BOMB CHINESE CITIES.
+page 1	DUKE OF WINDSOR IN PARIS.
+page 1	Hongkong Residents Arrested.
+page 1	Imprisoned In Canton With Spy Suspects.
+page 1	ARRESTED FRIDAY.
+page 1	TWO DICTATORS SATISFIED WITH CONVERSATIONS.
+page 1	"Men, Not Formulae, Are Making Politics."
+page 1	Will See Krupps' Factories.
+page 1	NAVAL EXPERS MEETING.
+page 1	Hope To Get Italy Into Anti-Piracy Patrol Scheme.
+page 1	REFUGEES LEAVE.
+page 3	PLENTY OF LIFE AT NORTH POLE PARTY REPORTS.
+page 3	Birds, Animals Seen And Biological Spring Comes In Sea Depths.
+page 3	CHESS TOURNAMENT.
+page 3	FIND NEW ISLANDS.
+page 3	LIFE AT THE POLE.
+page 4	BOYCOTT URGED.
+page 4	Japan Is Vulnerable.
+page 4	Demand for Oil.
+page 4	"TIME OUT."
+page 4	Leader In Commercial World Dies.
+page 4	Edward Pilene Did Great Work To Promote Peace.
+page 4	Won European Recognition.
+page 4	SEVERAL HONOURS.
+page 4	SOVIET PROTEST TO JAPAN.
+page 4	JAVA SEA SPANNED BY AIRWAY.
+page 4	Dutch line Starts New Service.
+page 4	200 MORE BODIES IN HANYANG UNCOVERED.
+page 4	War Office Destroyed.
+page 4	CHINESE PRINCE DUE.
+page 4	TOKYO REFUSES THIRD PARTY INTERVENTION.
+page 4	POLICY NOT CHANGED.
+page 4	BELGIAN PREMIER KEEPS POST.
+page 4	YIELDS TO PLEAS OF COLLEAGUES.
+page 5	ANOTHER MAGAZINE FOR HONGKONG.
+page 5	"Review And Guide" Makes Its Bow To-day.
+page 6	REFUGEES' PROBLEMS AND COMPLAINTS.
+page 13	FISHING FLEET SUNK BY GUNFIRE.
+page 13	Over 300 Believed Lost When Submarine Attacks Junk Crews.
+page 13	STORIES OF REARFUL EXPERIENCE RELATED BY WOUNDED CHINESE FISHERMEN BROUGHT HERE.
+page 13	Saw Ship After Ship Sunk By Warship's Small Gun.
+page 13	ATTACKED WITHOUT WARNING.
+page 13	MASTER'S REPORT.
+page 13	GUN SHOT WOUNDS.
+page 13	EXPOSURE.
+page 13	Other Reports.
+page 13	Escaped In Dinghy.
+page 13	STRESSES NEED OF MUNITIONS.
+page 13	Dr. Wellington Koo Warns U.S. Of Future's Danger.
+page 13	MAN-EATING TIGER.
+page 13	PLANES LIKE THESE BOMB CHINESE CITIES.
+page 13	Trucks Blocked In Race To Food Godowns.
+page 13	BRITISH OFFICIAL MURDERED.
+page 13	Arab Terrorists Believed Guilty.
+page 13	Gunmen Attack Party Leaving Nazareth Church.
+page 13	ON "BLACK LIST."
+page 13	ACTION CONDEMNED.
+page 13	CANTON DAMAGE ONLY SLIGHT.
+page 13	Few Casualties In Morning Attack.
+page 13	Bombing Anticipated.
+page 13	Crowds Keeping Clear.
+page 13	Two Alarms In Night.
+page 13	Naval Families Coming South Aboard Medway.
+page 13	Gunboats For Canton To Be Built In H.K..
+page 13	MURDERER SEEKS TO APPEAL.
+page 13	Justices Refuse To Hear New Alibi Evidence.
+page 13	And Counsel Won't Act.
+page 13	ALIBI STORY.
+page 13	"PLENTY OF GROUNDS."
+page 13	REJECTING ANGLOFRENCH DEMANDS.
+page 13	Hitler Warns Mussolini.
+page 16	MURDERER SEEKS TO APPEAL.
+page 16	ENTIRELY FRIVOLOUS.
+page 16	CANTON DAMAGE ONLY SLIGHT.
+page 16	Arduous Police Duties.
+page 16	Bombings Resented.
+page 16	Bombed At 8.35 a.m..
+page 16	Railway Station Struck.
+page 16	Damage Still Unknown.
+page 16	Daring Exhibition.
+page 16	206 Bodies Found.
+page 16	STRESSES NEED OF MUNITIONS.
+page 16	LEAGUE MEETING.
+page 16	FISHING FLEET SUNK BY GUNFIRE.
+page 16	Japanese Planes Bomb Villages In Kiangsi.
+page 16	Missionary Institution In Nanchang Bombed.
+page 16	60 Killed, Injured In Chuhsien.
+page 16	Hainan Coast Attack.
+page 17	ANOTHER MAGAZINE FOR HONGKONG.
+page 17	"Review And Guide" Makes Its Bow To-day.
+page 19	Leader In Commercial World Dies.
+page 19	Edward Pilene Did Great Work To Promote Peace.
+page 19	Won European Recognition.
+page 19	SEVERAL HONOURS.
+page 19	SAYS C.I.O. FOMENTING RED PLOT.
+page 19	Labour Groups At Loggerheads.
+page 19	"League Fiddles As China Burns."
+page 19	Chinese Refuse To Attend Dance.
+page 19	DUKE OF WINDSOR IN PARIS.
+page 19	ROOSEVELT IN JAUNTY MOOD.
+page 19	"TIME OUT."
+page 19	SOVIET PROTEST TO JAPAN.
+page 19	Ambassador Won't Leave Nanking.
+page 19	CHINA'S NOTE.
+page 19	MASS RESOLUTIONS.
+page 24	200 MORE BODIES IN HANYANG UNCOVERED.
+page 24	Increasing Toll Of Bombing In Handow.
+page 24	Japanese Tanks Driven Back.
+page 24	Commands In Shanghai.
+page 24	War Office Destroyed.
+page 24	TWO DICTATORS SATISFIED WITH CONVERSATIONS.
+page 24	"Men, Not Formulae, Are Making Politics."
+page 24	Will See Krupps' Factories.
+page 24	BATTLE RESUMES IN S'HAI AREA.
+page 24	JAPANESE GUNS ROAR ALL NIGHT WITH QUINSAN LINES TARGET.
+page 24	Sunny Weather At Nanking.
+page 24	Americans Evacuate Chefoo.
+page 24	Bomb Explosions Shake Shanghai's Park Hotel.
+page 24	NAVAL EXPERTS MEETING.
+page 24	Hope To Get Italy Into Anti-Piracy Patrol Scheme.

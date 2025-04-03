@@ -1,0 +1,387 @@
+page 1	British Warships Take Up "Death Watch."
+page 1	GRAF SLPEE DOOMED TO DESTRUCTION?
+page 1	"Heavy Reinforcements" Arrive at Montevideo.
+page 1	Armour Pierced.
+page 1	Governments Consult.
+page 1	Diplomatic Activity.
+page 1	Lost in Convoy Mishap.
+page 1	Luxembourg Goes To Work While her Neighbours Go To Fight.
+page 1	Remarkable War Zone Scenes Described.
+page 1	No Luxembourg Defences.
+page 1	R.A.F. OVER NORTH SEA.
+page 1	Big Battle Over Heligoland.
+page 1	VICTORY HAILED.
+page 1	Retreat That Became Flight.
+page 1	NAZI HAD WEIGHT.
+page 1	"Taffrail" Sums Up The Battle.
+page 1	Not So One-Sided.
+page 1	Retreat becomes Rout.
+page 1	Brilliant Action.
+page 1	Officers Dispirited.
+page 1	Molson's Signal Used.
+page 1	BRITAIN AND THE BREMEN.
+page 1	Nazis Thunderstruck.
+page 1	German Admission.
+page 1	Death For Two Murderers.
+page 1	REDS ENTER VITAL CITY.
+page 1	"Scorched Earth" In Finland.
+page 1	Cumberland Off Montevideo.
+page 1	CHINA RE-ELECTED TO COUNCIL OF LEAGUE.
+page 4	REDS ENTER VITAL CITY.
+page 4	Russians Use Gas
+page 4	Viceroy Of India In Calcutta.
+page 4	REMARKABLE WAR ZONE SCENES DESCRIBED.
+page 4	This Time It's Different.
+page 4	Galleries Of Iron-Mines.
+page 4	Club Teams For The Week-end.
+page 4	Craigengower Eleven.
+page 4	Eluded Nine U-Boats.
+page 4	Yugo-Slav Ship In Distress.
+page 4	Runs Aground Near Borneo.
+page 4	FRANCO-BRITISH ECONOMIC PACT.
+page 4	ARK ROYAL STILL ACTIVE.
+page 4	GRAF SPEE DOOMED TO DESTRUCTION?
+page 4	What Awaits The Battleship.
+page 4	Comparison With Emden.
+page 4	Neutrality Violated?
+page 4	Licking Her Wounds.
+page 4	Two-Day Stay Permitted.
+page 4	Soviet-Nazi Trade Talks Drag On.
+page 4	Parliament Adjourns.
+page 4	NAZI HAD WEIGHT.
+page 4	What Will Be Her End?
+page 5	GERMAN WARSHIP RUNS TO SHESTER.
+page 5	New York Account.
+page 5	Ran Out Of Fuel.
+page 5	Why Exeter Dropped Out.
+page 5	Exeter With A List.
+page 5	GERMAN VERSION.
+page 5	Admiral Graf Spee Said To Have Attacked Exeter!
+page 5	German Claims Grew.
+page 5	British Denial Issued.
+page 5	BRITISH COMMANDER.
+page 5	"SHIP" SUNK ON DRY LAND.
+page 5	NAZIS' WILDEST CLAIM.
+page 5	Britain Orders 1,000 Planes --- For A Start.
+page 5	AIR ARMADA FROM CANADA IN FANUARY.
+page 5	HIS SWISS EXILE.
+page 5	THESE POLES WANT TO FISH FOR US.
+page 5	Danes Warned By Leaflets Dagger.
+page 7	Generals Meet The Emperor.
+page 7	FIGHTING SPEECH BY THE RPIME MINISTER.
+page 7	"Gallant Action" In Atlantic Described.
+page 7	Secret Naval Agreement?
+page 9	Problem Of Caddies At Fanling Golf Club.
+page 9	R. YOUNG ESECTED CAPTAIN AT ANNUAL MEETING.
+page 9	Cabaret And Dance.
+page 9	RACING REVIEW.
+page 9	'SUB-GRIFFINS' RACE.
+page 9	Win For King Kong.
+page 9	TRDY HANDICAP.
+page 9	Hard Task For Punters.
+page 10	HUNDREDS DEAD.
+page 10	Vivid account Of Sinking Russian Ship.
+page 10	WEEKLY TRAFFIC REPORT.
+page 10	OUR GUIDE TO THE CINEMAS.
+page 10	CONSTIPATION KEEPS A CHILD BACK.
+page 11	THIS IS HOW THEY TRAIN.
+page 12	CHRISTIAN SCIENCE.
+page 12	Big Gathering At Lecture At Hongkong Hotel.
+page 12	"chrlst" and "Jesus."
+page 12	Human understanding.
+page 12	Waiting To Deal Death Blow.
+page 12	BRITISH WAR LOSSES.
+page 12	PEIPING APATHY.
+page 12	"Puppets'" Anniversary Celebrations Flop.
+page 12	BRITAIN STILL PROTESTING.
+page 12	Answers To Correspondents.
+page 13	British Warships Take Up "Death Watch."
+page 13	GRAF SPEE DOOMED TO DESTRUCTION?
+page 13	"Heavy Reinforcements Arrive at Montevideo.
+page 13	Waiting To Deal Death Blow.
+page 13	British Cruisers Out of Sight.
+page 13	Death Watch Starts.
+page 13	BRITISH WAR LOSSES.
+page 13	Lost in Convoy Mishap.
+page 13	Luxembourg Goes To Work While Her Neighbours Go To Fight.
+page 13	Remarkable War Zone Scenes Described.
+page 13	No Luxembourg Defences.
+page 13	VICTORY HAILED.
+page 13	Retreat That Became Flight.
+page 13	NAZI HAD WEIGHT.
+page 13	"Taffrail" Sums Up The Battle.
+page 13	Not So One-Sided.
+page 13	Retreat Becomes Rout.
+page 13	Brilliant Action.
+page 13	Officers Dispirited.
+page 13	Nelson's Signal Used.
+page 13	BRITAIN AND THE BREMEN.
+page 13	Nazis Thunderstruck.
+page 13	German Admission.
+page 13	Death For two Murderers.
+page 13	REDS ENTER VITAL CITY.
+page 13	"Scorched Earth" In Finland.
+page 13	Salla Regained.
+page 13	EXETER'S LOSSES.
+page 16	RETREAT THAT BECAME FLIGHT.
+page 16	Damage Described.
+page 16	Smart Manoeuvring.
+page 16	CHINA RE-ELECTED TO COUNCIL OF LEAGUE.
+page 16	Two-Part Resolution.
+page 16	ARK ROYAL STILL ACTIVE.
+page 16	GRAF SPEE DOOMED TO DESTRUCTION?
+page 16	Armour Pierced.
+page 16	Governments Consult.
+page 16	Diplomatic Activity.
+page 16	What Awaits The Battleship.
+page 16	Comparison With Emden.
+page 16	Neutrality Violated.
+page 16	Licking Her Wounds.
+page 16	Two-Day Stay Permitted.
+page 16	No Distinction.
+page 16	Eluded Nine.
+page 16	NAZI HAD WEIGHT.
+page 16	What Will Be Her End?
+page 16	Britain Rejoices.
+page 16	Parliament Adjourns.
+page 16	REDS ENTER VITAL CITY.
+page 16	Soviet Regiments Destroyed.
+page 16	Russians Use Gas.
+page 16	Yugo-Slav Ship In Distress.
+page 16	Runs Aground Near Borneo.
+page 16	FRANCO-BRITISH ECONOMIC PACT.
+page 16	CHRISTMAS CONCERT.
+page 16	REMARKABLE WAR ZONE SCENES DESCRIBED.
+page 16	This Time It's Different.
+page 16	Galleries Of Iron-Mines.
+page 17	GERMAN WARSHIP RUNS TO SHELTER.
+page 17	New York Account.
+page 17	Ran Out Of Fuel.
+page 17	Why Exeter Dropped Out.
+page 17	Exeter With A List.
+page 17	GERMAN VERSION.
+page 17	Admiral Graf Spee Said To Have Attacked Exeter!
+page 17	German Claims Grow.
+page 17	British Denial Issued.
+page 17	BRITISH COMMIANDER.
+page 17	"SHIP" SUNK ON DRY LAND.
+page 17	NAZIS' WILDEST CLAIM.
+page 17	Britain Orders 1,000 Planes --- For A Start.
+page 17	AIR ARMADA FROM CANADA IN JANUARY.
+page 17	HIS SWISS EXILE.
+page 17	THESE POLES WANT TO FISH FOR US.
+page 17	Danes Warned By Leaflets.
+page 17	Umbrella With Dagger.
+page 19	Generals Meet The Emperor.
+page 19	GERMAN WARSHIP RUNS TO SHELTER.
+page 19	FIGHTING SPEECH BY THE PRIME MINISTER.
+page 19	"Gallant Action" In Atlantic Described.
+page 19	AMERICA APPALLED.
+page 19	Suffering Of Victims Of Nazi Terror.
+page 19	"America's Challenge."
+page 19	TRAWLER SUNK BY MINE.
+page 19	Skipper And Seven Men Missing.
+page 19	Churchill And Conveys.
+page 19	Soviet-Nazi Trade Talks Drag On.
+page 19	Conditions For Orient Peace.
+page 19	Admiral Yarnell's Three Points.
+page 19	ATTLEE TO VISIT WESTERN FRONT.
+page 19	Profit-Taking On Cotton.
+page 19	Viceroy Of India In Calcutta.
+page 19	WEAKNESS AFTER FEVER.
+page 21	Problem Of Caddies At Fanling Golf Club.
+page 21	R. YOUNG ESECTED CAPTAIN AT ANNUAL MEETING.
+page 21	Cabaret And Dance.
+page 21	RACING REVIEW.
+page 21	'SUB-GRIFFINS' RACE.
+page 21	Win For King Kong.
+page 21	TRDY HANDICAP.
+page 21	Hard Task For Punters.
+page 22	HUNDREDS DEAD.
+page 22	Vivid Account Of Sinking Of Russian Ship.
+page 22	WEEKLY TRAFFIC REPORT.
+page 22	OUR GUIDE TO THE CINEMAS.
+page 22	CONSTIPATION KEEPS A CHILD BACK.
+page 23	THIS IS HOW THEY TRAIN.
+page 24	CHRISTIAN SCIENCE.
+page 24	Big Gathering At Lecture At Hongkong Hotel.
+page 24	PEIPING APATHY.
+page 24	"Puppets'" Anniversary Celebraitons Flop.
+page 24	BRITAIN STILL PROTESTING.
+page 24	Answers To Correspondents.
+page 25	DEC. 12, 1914: Admiral Graf Spee's Squadron Sunk At Falkland Islands DEC. 13, 1939: Admiral Graf Spee Put To Flight Off Uruguayan Coast.
+page 25	NAZI RAIDER MAY SAIL TO DOOM TO-MORROW.
+page 25	Contradictory Report?
+page 25	Note To Uruguay.
+page 25	Governments Consult.
+page 25	Diplomatic Activity.
+page 25	EXETER'S LOSSES.
+page 25	Planes Used To Save Critically Wounded.
+page 25	Exeter Sighted.
+page 25	R.A.F. OVER NORTH SEA.
+page 25	Big Battle Over Heligoland.
+page 25	Death For Two Murderers.
+page 25	61 Britons Released In Montevideo.
+page 25	RAIDER SANK 45,000 TONS OF SHIPPING.
+page 25	Graf Spee's Victims.
+page 25	Uruguayan Rioting.
+page 25	People Don't Want to Aid Nazis.
+page 25	Retreat That Became Flight.
+page 25	Retreat Becomes Rout.
+page 25	GRAJF SPEE BADLY HIT.
+page 25	Armour Pierced.
+page 25	THE RULE OF 24-HOURS.
+page 25	WATCH FOR MARAUDER.
+page 25	Little Hope Of Escape Now.
+page 25	British Cruisers Out of Sight.
+page 25	Death Watch Starts.
+page 25	MUSTARD GAS CLAIMS FINALLY EXPLODED.
+page 25	FINNS SET TORCH TO MANY TOWNS.
+page 25	Fight To End.
+page 25	Salmijaervi Evacuated.
+page 25	NINE NAVY VICTIMS.
+page 25	1,635 Men Lost In British Warships.
+page 25	London Jubilation.
+page 25	JACK DEMPSEY HERE ON MONDAY AFTERNOON.
+page 27	Luxembourg Goes To Work While Her Neighbours Go To Fight.
+page 27	Remarkable War Zone Scenes Described.
+page 27	No Luxembourg Defences.
+page 27	Ore In Abundance.
+page 27	This time It's Different.
+page 27	Galleries Of Iron-Mines.
+page 27	PEIPING APATHY.
+page 27	"Puppet'" Anniversary Celebrations Flop.
+page 27	Viceroy Of India In Calcutta.
+page 27	U.S. LABOUR BACKS THE ALLIES.
+page 27	CHINA RE-ELECTED TO COUNCIL OF LEAGUE.
+page 27	Two-Part Resolution.
+page 27	Dramaitie Final Scene.
+page 27	FRANCO-BRITISH ECONOMIC PACT.
+page 28	WATCH FOR MARAUDER.
+page 28	What Awaits The Battleship.
+page 28	Comparison With Emden.
+page 28	BRITISH WAR LOSSES.
+page 28	FINNS SET TORCH TO MANY TOWNS.
+page 28	Tremendous Fires.
+page 28	Salla Regained.
+page 28	Soviet Regiments Destroyed.
+page 28	Russians Use Gas.
+page 28	Success In Centre.
+page 28	Tanks Destroyed.
+page 28	Olympic Stars Fight.
+page 28	NINE NAVY VICTIMS.
+page 28	Nazi Raider Badly Hit.
+page 28	Officers Dispirited.
+page 28	Damage Described.
+page 28	Licking Her Wounds.
+page 28	Raider Sank 45,000 Tons.
+page 28	Goodwill Plane Returning Home.
+page 28	CHRISTMAS CONCERT.
+page 28	81 KILLED IN BIG RUMANIAN TRAGEDY.
+page 28	NAZI RAIDER MAY SAIL TO DOOM TO-MORROW.
+page 28	Neutrality Violated?
+page 28	No Sistinction.
+page 28	Out For War?
+page 28	Two-Day Stay Permitted.
+page 28	THE FIGHT DESCRIBED.
+page 28	Brilliant Action.
+page 28	Smart Manoeuvrig.
+page 28	Smoke Screens Uled.
+page 28	Won't Lose Her Now.
+page 28	URUGUAYAN RIOTING.
+page 28	No Objection To Brief Respite.
+page 28	OFFICE BOY LOSES H.K. FIRM THOUSANDS, CLAIM.
+page 28	NAZI HAD WEIGHT.
+page 28	"Taffrail" Sums Up The Battle.
+page 28	Not So One-Sided.
+page 28	What Will Be Her End?
+page 28	U.S. Hails Victory.
+page 28	Britain Rejoices.
+page 28	402 Survivors From Red Ship.
+page 28	Survive Another Blizzard At Sea.
+page 30	The Best Reply To Hitler's Mines.
+page 31	YANGTSE MAY BE RE-OPENED TO THIRD POWERS.
+page 31	PUPPET MAYOR TO RESIGN.
+page 31	The China War.
+page 31	Chinese Still Scoring.
+page 31	$10,000 FOR REFUGEES.
+page 31	HITLER 10 RUSH NEW BATTLESHIPS.
+page 31	REFUGEES RETURN TO THE SOVIET.
+page 31	Hitler Brands His Benefactor.
+page 31	Headed Vast Steel Trust.
+page 31	Saw Writing On Wall.
+page 31	You May Not Know-
+page 31	Soviet Aid For China To Continue.
+page 31	Foreign Reactions.
+page 31	Japanese May Go On Rations.
+page 31	Wishful Christmas In Germany.
+page 31	Money, But Not Allowed To Buy.
+page 31	Other Concessions.
+page 31	Theatre Tickets As Presents.
+page 31	Coal Shortage.
+page 31	French Budget Vote Is Unanimous.
+page 31	WEAKNESS AFTER FEVER.
+page 32	"Captain Foster's" Racing Review.
+page 32	CLOSE OF THE CURRENT SEASON.
+page 32	Confusion Bay Should Win The Hongkong Autumn Champions.
+page 32	CHANCE FOR OTHERS.
+page 32	Daily Double Prospects.
+page 32	OPENING EVENT Confusion Bay Certain.
+page 32	LAGGARDS' HAN'CAP.
+page 32	Vote For Pumpernickel.
+page 32	DILATORY HANDICAP.
+page 32	Smiling Time Indicated.
+page 32	Experimental Short Corner To Be Given Trial In Hongkong.
+page 32	Army And Navy XV's For Triangular Tournament Game.
+page 32	Badminton Fixtures Amended.
+page 32	OVERSEAS POSTAL MATCH.
+page 32	Difficult Conditions At Kowloon City.
+page 33	Problem Of Caddies At Fanling Golf Club.
+page 33	R. YOUNG ELECTED CAPTAIN AT ANNUAL MEETING.
+page 33	RACING REVIEW.
+page 33	SUB-GRIFFINS' RACE.
+page 33	Win for king kong.
+page 33	TARDY HANDICAP.
+page 33	Hard Task For Punters.
+page 33	AUSTRALIANS' EVENT best Of The Afternoon.
+page 33	LAST CHANCE H'CAP.
+page 33	Further Difficulties.
+page 33	FINALE HANDICAP.
+page 33	Piet Hein Should Win.
+page 33	India Rallies To Mother Country.
+page 33	Splendid Response In Time Of Need.
+page 33	Yugo-Slav Ship In Distress.
+page 33	Runs Aground Near Borneo.
+page 34	HUNDREDS DEAD.
+page 34	Vivid Account Of Sinking Of Russian Ship.
+page 34	WEEKLY TRAFFIC REPORT.
+page 34	OUR GUIDE TO THE CINEMAS.
+page 34	CONSTIPATION KEEPS A CHILD BACK.
+page 35	Eluded Nine U-Boats.
+page 35	Conditions For Orient Peace.
+page 35	Admiral Yarnell's Three Points.
+page 35	TRAWLER SUNK BY MINE.
+page 35	Skipper And Seven Men Missing.
+page 35	Churchill And Convoys.
+page 35	ARK ROYAL STILL ACTIVE.
+page 35	BRITAIN AND THE BREMEN.
+page 35	Nazis Thunderstruck.
+page 35	German admission.
+page 35	BRITAIN STILL PROTESTING.
+page 35	Soviet-Nazi Trade Talks Drag On.
+page 35	Profit-Taking On Cotton.
+page 36	LATE NEWS.
+page 36	Must Leave Montevideo.
+page 36	Russian Claims.
+page 36	North Sea Battle.
+page 36	YAUMATI AIR RAID TEST.
+page 36	U.S. AMBASSADOR IN TIENTSIN.
+page 36	Nazi Ships Seized.
+page 36	AMERICA APPALLED.
+page 36	Suffering Of Victims Of Nazi Terror.
+page 36	"America's Challenge".
+page 36	ATTLEE TO VISIT WESTERN FRONT.
+page 36	Will-Power To Win War.
+page 36	London Speech By Lord Halifax.
+page 36	JAPAN REPORTS ON MANDATES.
+page 36	Document Delayed By War Conditions.

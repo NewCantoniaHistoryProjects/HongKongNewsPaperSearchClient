@@ -1,0 +1,128 @@
+page 1	CLOSING ROAD OF ESCAPE TO REFUGEES.
+page 1	Bermeo Roadstead Cut Off from Besieged Bilbao.
+page 1	INSURGENTS MAKE GAINS IN WEEK-END FIGHTING.
+page 1	Basques Claim Victories.
+page 1	Profound Gratitude.
+page 1	Sunk By Mine?
+page 1	SEMI-FASCIST LOSES FIGHT.
+page 1	POPULAR FRONT MAN WINS BY-ELECTION.
+page 1	BROADBENT DOWN AT NICOSIA.
+page 1	Winging From Darwin To Lympne.
+page 1	U.S-SALVANDOR TREATY.
+page 1	BOMBERS CARRYING GOODWILL MESSAGE.
+page 1	To Hop Atlantic For Coronation.
+page 1	U.S. Pilots Have Secret Orders.
+page 1	Minseito Party Tops Japan Poll.
+page 1	New Anti-Government Strength Displayed.
+page 1	Hindu Slain In Border Raid.
+page 1	Village Sacked And Shops Looted.
+page 1	SAILORS RETURN AS KIN MOURN.
+page 1	Bristol Ship Founders, 10 Hands Missing.
+page 1	In Collision With Yugo-Slav Vessel.
+page 1	Enquiry To Hear Case Of Strikers.
+page 1	London Continues To Live Without Buses.
+page 1	FIGHTING FOR DAVIS CUP.
+page 1	BELGIUM, SWITZER LAND WIN ROUND.
+page 1	SWISS SUCCESS.
+page 1	U.S. SWEEPS THROUGH.
+page 1	GOERING REVIEWS CRACK TROOPS.
+page 1	KING, AS FIELD MARSHAL, AT DEDICATION OF CHAPEL AT DANSHURST OF CHAPEL AT DANSHURST.
+page 1	N.Y. Market Continues Dullness.
+page 1	Some Nervousness Over London Conditions.
+page 1	MOSCOW NOW A SEAPORT.
+page 1	Volga-Moscow Canal Service Started.
+page 1	16-FOOT YACHTS FOR H.K.
+page 1	Formation Of New Club.
+page 1	10 Boats In Course Of Construction.
+page 1	DEVELOP COMMON POLICY.
+page 1	Germany And Italy Working Together.
+page 1	Von Neurath In Rome To-Day.
+page 1	BOSTON NOSES OUT YANKEES.
+page 1	Giants Beat Braves And Cards Slump.
+page 1	Brooklyn Shows Excellent Form.
+page 1	St. Wolfgang Serenades Former King.
+page 1	Duke Of Windsor To Leave Austria Soon.
+page 3	DEPOPULATION MENACE IN DOMINIONS.
+page 3	Luxuries Are Competing With British Parenthood.
+page 3	GEORGE VI ATTENDS CORONATION OF GEORGE V.
+page 3	MIGHTY ARMADA WILL ASSEMBLE ON MAY 20 FOR REVIEW BY GEORGE VI.
+page 3	MANY NATIONS TO SEND SHIPS TO SPITHEAD.
+page 3	GIRL BETRAY LOVER TO OGPU, KILLS HERSELF.
+page 3	Egyptian Gold Hoard Discovered.
+page 5	FIRST OF MAY.
+page 5	CELEBRATIONS ALL OVER GLOBE.
+page 5	German Youth.
+page 5	German Colonles.
+page 5	Catholic Priests Tried.
+page 5	The Red Army.
+page 12	Prayer Dominion Citizens' Designation.
+page 12	"BRITISH SUBJECT" MAY BE ABOLISHED.
+page 12	Stay-in Girls Threaten Strip-Strike.
+page 12	SINGLE FLAG DAY IN APPEAL FOR FUNDS.
+page 12	Stalin Marries Again.
+page 12	DIARY OF DEATH IN SNOWBOUND CABIN.
+page 12	RECORD OF BROTHERS' TRAGIC FATE.
+page 13	BRITAIN EXPECTS TOKYO PROPOSALS FOR CO-OPERATION.
+page 13	Will Lend Sympathetic Ear If Japanese Policy In China Is Revised.
+page 13	QUESTIONS OF COLLABORATION IN FAR EAST DESCUSSED.
+page 13	Awaiting Proposals.
+page 13	Unbroken Record of Failure.
+page 13	Would Solve Problems.
+page 13	VERDICT AGAINST HAYASHI.
+page 13	China Press View Of Japan Elections.
+page 13	Government Loses Support.
+page 13	MINSEITO PARTY TOPS POLL.
+page 13	DEVELOP COMMON POLICY.
+page 13	Germany And Italy Working Together.
+page 13	Von Neurath In Rome To-Day.
+page 13	GOERING REVIEWS CRACK TROOPS.
+page 13	BOMBERS CARRYING GOODWILL MESSAGE.
+page 13	To Hop Atlantic For Coronation.
+page 13	U.S. Pilots Have Secret Orders.
+page 13	N.Y. Market Dullness Continues.
+page 13	Some Nervousness Over London Conditions.
+page 13	U.S.-BAVADOR TREATY.
+page 13	REBELS PERMIT BRITISH HELP FOR REFUGEES.
+page 13	WARSHIPS TAKE STATIONS TO PROTECT RESCUE CRAFT.
+page 13	Rebels Push Forward.
+page 13	Loyalists Attacking.
+page 13	Anarchists Revolt.
+page 13	Government House "Boy" Imprisoned.
+page 13	Heroin-Smoker Took 20Pounds From A.D.C.
+page 13	Admits Crime And Discloses Cache.
+page 13	16-FOOT YACHTS FOR H.K.
+page 13	Formation Of New Club.
+page 13	10 Boats In Course Of Construction.
+page 13	DEATH OF MRS. A. A. DAND.
+page 13	PASSES AWAY IN HOSPITAL.
+page 13	MOSCOW NOW A SEAPORT.
+page 13	Volga-Moscow Canal Service Started.
+page 15	DEPOPULATION MENACE IN DOMINIONS.
+page 15	Luxuries Are Competing With British Parenthood.
+page 15	GEORGE VI ATTENDS CORONATION OF GEORGE V.
+page 15	MIGHTY ARMADA WILL ASSEMBLE ON MAY 20 FOR REVIEW BY GEORGE VI.
+page 15	MANY NATIONS TO SEND SHIPS TO SPITHEAD.
+page 15	GIRL BETRAY LOVER TO OGPU, KILLS HERSELF.
+page 15	Egyptian Gold Hoard Discovered.
+page 16	REBELS PERMIT BRITISH HELP FOR REFUGEES.
+page 16	Closing Road of Escape.
+page 16	Basques Claim Victories.
+page 16	Profound Gratitude.
+page 16	Sunk By Mine?
+page 16	GOVERNMENT HOUSE "BOY" IMPRISONED.
+page 24	Bristol Ship Founders, 10 Hands Missing.
+page 24	In Collision With Yugo-Slav Vessel.
+page 24	BROADBENT DOWN AT NICOSIA.
+page 24	Winging From Darwin To Lympne.
+page 24	Hindu Slain In Border Raid.
+page 24	Village Sacked And Shops Looted.
+page 24	BOSTON NOSES OUT YANKEES.
+page 24	Giants Beat Braves And Cards Slump.
+page 24	Brooklyn Shows Excellent Form.
+page 24	KING, AS FIELD MARSHAL, AT DEDICATION OF CHAPEL AT SANDHURST.
+page 24	Enquiry To Hear Case Of Strikers.
+page 24	London Continues To Live Without Buses.
+page 24	SECOND RAIL-MOTOR IN SERVICE.
+page 24	"Canton Belle" On Hire To Parties.
+page 24	King's Park Incident.
+page 24	Charge Against Soldier Amended.

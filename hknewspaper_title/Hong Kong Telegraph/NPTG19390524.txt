@@ -1,0 +1,357 @@
+page 1	British Destroyers, On Patrol, Informed of Incident.
+page 1	JAPANESE DESTROYER HALTS P. & O. LINER.
+page 1	60 TRAPPED IN U.S. SHIP.
+page 1	SUBMARIME LOST IN 40 FATHOMS.
+page 1	PALESTINE POLICY.
+page 1	Commons Reject Labour Amendment.
+page 1	STOPPED NEAR HONGKONG.
+page 1	Triple Entente Revived.
+page 1	QUEEN MOTHER'S CAR CAPSEZES.
+page 1	DULANGSU PARLEYS .
+page 1	Admirals Meet In H.M.S. Birmingham.
+page 2	Woman sniffed A.R.P. gas in test, became ill .
+page 2	SAVED BY OXYGEN.
+page 2	EMPIRE NEWS.
+page 2	TRETJSH CUIANA.
+page 2	JEWISH SETTLEMENT LOAN PLAN.
+page 2	ENDTA .
+page 2	CONCERN OVER TRADE AGREEMENT.
+page 2	MOTHER JAILS GIPSY BRIDE.
+page 2	Girl in 25,000 Pictures Will Not Smile.
+page 3	Woman's 24,000 Pounds will go to her butler-one day.
+page 3	NOW HE MUST GET NEW JOB.
+page 3	Her Dream Is Put In Harness.
+page 3	Air Stewardess Sets Record.
+page 3	"Worst-Dressed" Woman.
+page 3	Who Made Fashions.
+page 3	Currency In China.
+page 3	Elk. Trouble Ranchers.
+page 4	Kay Francis's Fiance Accuses A Countess.
+page 4	SUBMARINE LOST IN 40 FATHOMS.
+page 4	PALESTINE POLICY.
+page 4	Czechs Sentenced For Patriotism.
+page 4	Rising Sun Lowered.
+page 4	War Affects Japanoso Shipping In Pacific.
+page 4	P. & O. Liner Stopped.
+page 4	League Drafts Reply To Koo.
+page 4	QUEEN MOTHER'S CAR CAPSIZES.
+page 4	TRIPLE ENTENTE REVIVED.
+page 4	Britain Holds Czech Assets.
+page 4	No Release Until Obligations Met.
+page 4	Diet Ends Childless Marriages.
+page 5	The BRITISH EMPIRE.
+page 5	MURDER INQUEST VETDECT.
+page 5	Fast Drivers Lose Time.
+page 5	Offenders Caught.
+page 5	Watch Boing Kept For Nightsoil Dumpors.
+page 6	To-day is Empire Day.
+page 6	Here is The story of the-.
+page 6	BRITISH EMPIRE.
+page 7	DRAMATIST COMMITS SUICIDE.
+page 7	Cerman Playwright Victim Of Progrom.
+page 7	Japan And Military Alliance.
+page 7	Big Pressure By Tokyo Press.
+page 7	Kiddies Cheer The King.
+page 7	DANISH REFERENDUM.
+page 7	Proposed Constitutional Reform Voted On.
+page 7	Empire Day Message.
+page 7	FELM FOR ROTARIANS.
+page 7	Members learn of Petrol Engine Lubrication.
+page 7	Jewish Protest At Geneva.
+page 7	More Danzig Incidents.
+page 7	HONGKONG REFUGEES.
+page 7	Camp at Fanling North Closed on May 16.
+page 7	Portugal an Ally.
+page 7	North China Yen Failure Is Denied.
+page 7	Split Within Chinese Peace Group.
+page 7	BILLS FOR COUNCIL.
+page 7	Second and Third Readings Of Important Ordinances.
+page 7	AUXILIARY SERVICE.
+page 7	Results of Examination In Home Nursing.
+page 7	FIRST LUNCHEON.
+page 7	Sino-American Cultural Institute Meeting.
+page 9	Derby Precautions Against I.R.A. Outrages.
+page 9	Policemen Guarding Horses And Course:
+page 9	Royalty To Attend.
+page 9	SPORT ADVTS.
+page 9	THE HONG KONG JOCKEY CLUB.
+page 9	GLORIOUS WIATHER FOR RACE.
+page 9	ACCEPTORS, JOCDEYS IM DERBY.
+page 9	Athletics.
+page 9	LONDON VERSRS PARIS.
+page 9	Netherlands Queen Visits Belgium.
+page 9	Indian Team Welcome In New Zealaed .
+page 9	SO SAYS TEST CRICKETER.
+page 9	RECORD ENTRIES FOR LAWN BOWLS CHAMPIONSHIP.
+page 9	SINGLES OHAMPIONSHIP.
+page 10	DELIA DAMAGED.
+page 10	Passengers Plane's.
+page 10	Mishap At Bangkok.
+page 10	AIR SERVICES.
+page 10	Arrivals and Departures Of Planes Outward.
+page 10	Constables Charged.
+page 10	Court finds No Evidence To Support Assault.
+page 11	Theft From Warship.
+page 11	Cookboy Compradore Face Charges.
+page 11	NO LICENCE FOR SET.
+page 11	Gift Radio Leads to Fine Against Owner.
+page 11	REGISTRY WEDDINGS.
+page 11	WEDDING NOTICES.
+page 11	FAILED TO ESCAPE.
+page 11	Pickpocket's Leap Into Harbour Unavailing.
+page 14	SOVIET SHIP IN SINGAPORE TO PURCHASE RUBBER.
+page 14	Only Able To Load Just Over Half Of 1,200-Ton Order.
+page 14	'I Won't Fight, I Wont'Do A.R.P.Work'.
+page 14	NURSE PUTS OFF HER WEDDING.
+page 14	After Illness Claim.
+page 14	Barrister.Dies Telling Of "Third Force".
+page 15	"Heave To Or I Fire," Japanese Cruiser Warned Ranpura.
+page 15	TWO SHOTS FIRED TO HALT P. & O. LINER.
+page 15	60 TRAPPED IN U.S. SHIP.
+page 15	SUBMARINE LOST IN 40 FATHOMS.
+page 15	PALESTINE POLICY.
+page 15	Commons Reject Labour Amendment.
+page 15	ADMIRAL SEES INCIDENT.
+page 15	Triple Entente Revived.
+page 15	Bonnet Gives New Details Of Pact.
+page 15	QUEEN MOTHER'S CAR CAPSIZES.
+page 15	KULANGSU PARLEYS.
+page 15	Admirals Meet In H.M.S. Birmingham.
+page 16	Woman sniffed A.R.P. gas in test, became ill.
+page 16	SAVED BY OXYGEN.
+page 16	EMPIRE NEWS.
+page 16	PLANS FOR DEFENCE OF KENYA.
+page 16	JEOISH SETTLEMENT LOAN PLAN.
+page 16	INDIA CONCERN OVER TRADE AGREEMENT.
+page 16	MOTHER JAILS GIPSY BRIDE.
+page 16	Girl in 25,000 Pictures Will Not Smile.
+page 17	Woman,s 24,000 Pounds Will go to her butler-one day.
+page 17	NOW HE MUST GET NEW JOB.
+page 17	Her Dream Is Put In Harness.
+page 17	Air Stewardess Sets Record.
+page 17	"Worst-Dressed" Woman Who Made Fashions.
+page 17	Curreney In China.
+page 17	Elk Trouble Ranchers.
+page 17	Yachtsman, 73, Wed Recently.
+page 18	TRIPLE ENTINTE RIVIVED.
+page 18	LAN "INADVISABLE.
+page 18	FOR THE PROTICTION OF CHILDREN.
+page 18	What to do holp a child.
+page 18	Death For Treason In Ireland.
+page 18	P. & O. Liner Stopped.
+page 18	General Election This Year?
+page 18	PALESTINE POLICY.
+page 18	SRBMARINE LOST IN 40 FATHOMS.
+page 18	Netherlands Queen Visits Belgium.
+page 18	Annam Emperor Flies To France.
+page 19	The BRITISH EMPIRE.
+page 19	MURDER INQREST VERDECT.
+page 19	Fast Drivers Lose Time.
+page 19	Offenders Caught.
+page 19	Watch Boing Kept For Nightsoil Dumpers.
+page 20	To-day is Empire Day.
+page 20	Here is the story of the-.
+page 20	BRITISH EMPIRE.
+page 20	Triple Entente.
+page 20	Quest For Riches In Unknown Seas.
+page 20	Carried Our Flag To The New World.
+page 20	Ten Little Ships On Great Voyage.
+page 20	Why England Was Afraid To Fight.
+page 20	These Men Built 
+page 20	British Sea Power.
+page 21	DRAMATIST COMMITS SUICIDE.
+page 21	Cerman playwright Victim Of Progrom.
+page 21	Japan And Military Alliance.
+page 21	Big Pressure By Tokyo Press.
+page 21	Kiddies Cheer The King.
+page 21	DANISH REFERENDUM.
+page 21	Proposed Constitutional Reform Voted On.
+page 21	Empire Day Message.
+page 21	FILM FOR ROTARIANS.
+page 21	Members Learn of Petrol Engine Lubrieation.
+page 21	Jewish Protest At Geneva.
+page 21	More Danzig Incidents.
+page 21	HONGKONG REFUGEES.
+page 21	Camp at Funling North Closed on May 16.
+page 21	Portugal an Ally.
+page 21	North China Yen Failure Is Denied.
+page 21	Split within Chinese Peace Group.
+page 21	BILLS FOR COUNCIL.
+page 21	Second and Third Readings Of Important Ordinances.
+page 21	AUXILIARY SERVICE.
+page 21	Results of Examination In Home Nursing.
+page 21	FIRST LUNCHEON.
+page 21	Sino-American Cultural Institute Meeting.
+page 23	Derby Precautions Against I.R.A. Outrages.
+page 23	Policemen Guarding.
+page 23	Horses And Course: Royalty To Attend.
+page 23	SPORT ADVTS.
+page 23	THE HONG DONG JOCDEY CLUB.
+page 23	ACCEPTORS,
+page 23	JOCKEYS IN DERBY.
+page 23	TENNIS LEAGUE RESULTS.
+page 23	Czechs Sentenced For Patriotism.
+page 23	TENNIS LEAGUE RESULTS.
+page 23	Indian Team Welcome In New Zealaed.
+page 23	SO SAYS TEST CRICKETER.
+page 23	RECORD ENTRIES FOR LAWN BOWLS CHAMPIONSHIP.
+page 23	SINGLES CHAMPIONSHIP.
+page 24	DELIA DAMAGED.
+page 24	Passengers Plane's Mishap At Bangkok.
+page 24	AIR SERVICES.
+page 24	Arrlvals and Departures Of Planes.
+page 24	Constables
+page 24	Charged
+page 24	Court Finds No Evidence To Support Assault.
+page 25	Theft from Warship.
+page 25	Cookboy, Compradore Face Charges.
+page 25	NO LICENCE FOR SET.
+page 25	Gift Radio Leads to Fine Against Owner.
+page 25	REGLSTRY WEDDINGS.
+page 25	WEDDING NOTECES.
+page 25	FAILED TO ESCAPE.
+page 25	Pickpocket's Leap Into Harbour Unavailing.
+page 26	Made-up for a FISH.
+page 26	Cheese Novelties.
+page 26	Cornflour Chocolates.
+page 26	Salmon Au Gratin.
+page 26	Successful Sewing.
+page 26	DATE FRITTERS.
+page 26	SHORT CUTS.
+page 27	PHOTONEWS.
+page 28	SWVIET SHIP IN SINGAPORE TO PURCHASE RUBBER.
+page 28	Only Able To Load Just Over Half Of 1,200-Ton Order.
+page 28	Britain Holds Czech Assets.
+page 28	No. Release Until Obligations Met.
+page 28	Rising Sun Lowered.
+page 28	War Affects Japanese Shipping In Pacific.
+page 28	League Drafts Reply To Koo.
+page 28	STOCK MARKET REPORT.
+page 28	NURSE PUTS OFF HER WEDDING.
+page 28	After Illness Claim.
+page 28	MIDSHIPMEN TO PLAY AT WIMBLEDON.
+page 28	Germans leave Spain.
+page 28	INTIRNATIONAL BARTER TAKES A NEW TWIST.
+page 28	WIN FOR ARSENAL.
+page 29	"Heave To Or I Fire," Japanese Cruiser Warned Ranpura.
+page 29	BLAND SHOT FIRED TO HALT P. & O. LINER.
+page 29	JAPANESE BOARD BRITISH SHIP NEAR HONGKONG.
+page 29	KULANGSU SITUATION TADES MORE SERIOUS TURN.
+page 29	Negotiations Said Broken Down: Japanese Naval Blockade Threat.
+page 29	HONGKONG MONEY MART SELLS.
+page 29	Japanese Yen Collapse: Now Worth Only 7d.
+page 29	NAVY MAY TAKE OVER DAI TAK.
+page 29	Admiralty Takes Over Pilots.
+page 29	ARE YOU BRITISH SHIP?
+page 29	 ADMIRAL SEES INCIDENT.
+page 29	STRONG PROTEST.
+page 29	C. in C. May See Japan's Admiral.
+page 29	Triple Entente Rovived.
+page 29	Bonnet Gives New Details Of Pact.
+page 29	Three Hongkong Officers In.
+page 29	R.A.F. Plane Crash.
+page 29	Harbour Rescue Unnoticed.
+page 29	Japanese Land More Troops.
+page 29	JAPANESE CONTROL OF COASTWISE SHIPPING.
+page 30	Queen Mary Injured In Motor Accident.
+page 30	ROYAL CAR SOMERSAULTS DOWN EMBANDMENT.
+page 30	Germans Leave Spain.
+page 30	Turkey To gain Sanjak.
+page 30	Outcome Of New Pacts.
+page 30	Britain Holds Czech Assets.
+page 30	NO release Until Obligations Met.
+page 30	League Drafts Reply To Koo.
+page 31	Why the American Submarine Sand.
+page 31	COMMONS REJECTS LABOUR MOTION.
+page 31	PALESTINE PLAN IS APPROVED.
+page 31	SIXTY TRAPPED IN LOST SUBMARINE.
+page 31	Rising Sun Lowered.
+page 31	General Election This Year?
+page 31	Yachtsman, 73, Wed Recently.
+page 31	Launched 7 Months Ago.
+page 33	Three Power Entente.
+page 33	CHOLERA EPIDEMIC CLAIMS 200 LIVES.
+page 33	This Black And Tan Terrier Knew His Sausages.
+page 33	WAS ONCE WOUNDED IN RUSSIA.
+page 33	ADMIRAL TADES OVER CRUISERS.
+page 33	KULANGSU CRISIS.
+page 33	Continued From Page 1.
+page 33	Passengers Tell Of Ship Thrill As Japanese Board P. & O. Liner.
+page 33	ADMIRAL'S PROTEST.
+page 34	Triple Entente.
+page 34	To-day is Empire Day. 
+page 34	Here is the story of the-.
+page 34	BRITISH 
+page 34	EMPIRE.
+page 34	Quest for Riches In Unknown Seas.
+page 34	Carried Our Flag To The New World.
+page 34	Ten Little Ships On Great Voyage.
+page 34	Why England Was Afraid To Fight.
+page 34	These Men Built British Sea Power.
+page 35	Italo-German Military Pact: Secret Terms To Be Added.
+page 35	GAYDA'S CHALLENGE TO DEMOCRACIES.
+page 35	BORDER AIR COMBATS.
+page 35	Mongol Planes Said Shot Down.
+page 35	Steamer Sinks With Crew Of 16.
+page 35	Demand For Gilt-Edged Holdings.
+page 35	Dedication Of  Sanctuary Window.
+page 35	Barter Scheme Parleys.
+page 35	French Diplomat Denies Report.
+page 35	Japan Does Not Seek To Conquer.
+page 35	Says "Puppet" In Canton.
+page 35	Charity Fair Opens.
+page 35	New Gold Field Discovered.
+page 35	Netherlands Queen Visits Belgium.
+page 35	CHINESE CHALD UP MORE GAINS ON NUMBER OF FRONTS.
+page 35	Wang Was In Hongkong Says Report.
+page 35	U.S. Ambassador Back In China.
+page 35	The BRITISH EMPIRE.
+page 35	Hawking Starts.
+page 35	The Slave Trade.
+page 35	Annam Emperor Flies To France.
+page 37	Derby Precautions Against I.R.A. Outrages.
+page 37	Policemen Guarding Horses And Course: Royalty To Attend.
+page 37	SPORT ADVTS.
+page 37	THE HONG KONG JOCKEY CLUB.
+page 37	Athletics.
+page 37	LONDON VERSRS PARIS.
+page 37	ACCEPTORS, FOCDEYS IN DERBY.
+page 37	Czechs Sentenced For Patriotism.
+page 37	TENNIS LEAGUE RESULTS.
+page 37	Indian team Welcome In New Zealaed.
+page 37	SO SAYS TEST CRICKETER.
+page 37	RECORD ENTRIES FOR LAWN BOWLS CHAMPIONSHIP.
+page 37	 SINGLES CHAMPIONSHIP.
+page 38	RADIO.
+page 38	Death For Treason In Ireland.
+page 39	Theft From Warship.
+page 39	Cookboy, Compradore Face Charges.
+page 39	NO LICENCE FOR SET.
+page 39	Gift Radio Leads to Fine Against Owner.
+page 39	REGISTRY WEDDINGS.
+page 39	WEDDENG NOTICES.
+page 39	FAILED TO ESCAPE.
+page 39	Pickpocket's Leap Into Harbour Unavailing.
+page 40	Make-up for a FISH.
+page 40	Cheese Novelties.
+page 40	Cornflour Chocolates.
+page 40	Salmon Au Gratin.
+page 40	Successful Sewing.
+page 40	DATE FRLTTERS.
+page 40	SHORT CUTS.
+page 42	Dionnes Sue Dafoe.
+page 42	On Atlantic Floor.
+page 42	Landing Party Withdrawn.
+page 42	Turn For Worse.
+page 42	U.S. Ambassador For H.K.
+page 42	Japanese Raid On Swatow.
+page 42	Millionaire Here With 1,200 Birds.
+page 42	NEXT EXPEDITION WILL BETO SOUTH POLAR REGEONS.
+page 42	Antarctic Claims.
+page 42	Negro Convicts Shot Dead.
+page 42	OBITUARY.
+page 42	Shameen Pioneer Dies In England.
+page 42	Pressmen See Desolation.
+page 42	Tsengshing Reduced To Shambles.
+page 42	Diet Ends Childless Marriages.
+page 42	Protestants And Pope's Appeal.

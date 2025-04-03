@@ -1,0 +1,182 @@
+page 1	CANTON AGAIN FIGHTS RAIDERS.
+page 1	Damage Feared Heavy As Result Of Battle Directly Over City.
+page 1	BOMBERS RETURN IN RELAYS TO SHATTER OBJECTIVES.
+page 1	Crowds Watch Spell-Bound As Airmen Meet in Single Or Massed Combat Overhead.
+page 1	Ground Guns Ignored.
+page 1	Thousands Watch Dog-fights.
+page 1	Railway Not Bombed.
+page 1	FALSE SHANGHAI ALARM.
+page 1	Serious Damage In Northern Air Raids.
+page 1	CONFIDENT OF POWER.
+page 1	POOTUNG STRONG.
+page 1	CHIESE RED CROSS ACTIVE.
+page 1	15 Killed In Train Collision.
+page 1	New Drive On China's North Line.
+page 1	Defenders Likely To Fall Back On Strong Positions.
+page 1	CABINET CRISIS IN TURKEY.
+page 1	JAPAN'S NOTE SATISFIES GREAT BRITAIN.
+page 1	Incident Arising From Wounding Of Ambassador Closed.
+page 1	Incident Is Closed.
+page 1	Tone is Satisfactory.
+page 1	Raids Won't Endanger Foreigners.
+page 1	But Japan Won't Pay Indemnity For Damages.
+page 1	JAPANESE THREATS RESENTED.
+page 1	U.S. Note's Tone Shows Stiffer Attitude.
+page 1	Nanking Attack Not Justified.
+page 1	LESSON OF EXPERIENCE.
+page 1	ONE JAPANESE SHOT DOWN.
+page 1	QUARANTINE NOTIFIED.
+page 4	JAPANESE THREATS RESENTED.
+page 4	RETURN APPROVED.
+page 4	FRENCH REPRESENTATIONS.
+page 4	NO RECOGNITION.
+page 4	RARE IMPERTINENCE.
+page 4	JAPAN'S NOTE SATISFIES GREAT BRITAIN.
+page 4	Reassurance Given.
+page 4	CANTON AGAIN FIGHTS RAIDERS.
+page 4	Raids Through Night.
+page 4	Gun-Fire Down River.
+page 4	40 Killed And Wounded In Nanking Raids.
+page 4	Japanese Launches Along Whangpoo.
+page 4	Two Damaged Japanese Planes Located.
+page 4	FALSE SHANGHAI ALARM.
+page 11	HE'S GOING TO BE A FARMER'S BOY.
+page 11	TEAM LEADER.
+page 12	HOLLAND REALISES DANGER.
+page 12	Reinforcing Army In East Indies.
+page 12	Italy Wants No Hold Upon Spanish Soil.
+page 12	Explains Aims In Aiding Insurgents.
+page 12	U.S. LEGION PARADES.
+page 12	SCINTILLATING SPECTACLE.
+page 12	Parcels For Postmen.
+page 12	INSURGENTS TAKING REPRISALS.
+page 12	Reported Arrest Of French Consul.
+page 12	British Rescue French Steamer.
+page 12	FRENCH SHIP ATTACKED.
+page 12	ADVANCE SLOWED.
+page 12	WOUNDED ITALIANS RETURN.
+page 12	Epic Fight By Nanking Air Officer.
+page 12	Brings Down Big Bomber In Thrilling Clash.
+page 12	IMPROVED FINANCES.
+page 12	Surplus Shown In N.S.W. Budget.
+page 13	AIR WAR WAGED ON ALL FRONTS.
+page 13	Yangtse River Port Heavily Bombarded.
+page 13	CANTON SUFFERS SEVERELY IN TO-DAY'S EARLY RAID.
+page 13	Hundreds of Chinese Seek Shelter in Hongkong.
+page 13	PLANES ATTACK GRAND CANAL TOWN.
+page 13	REFUGEES POURING IN.
+page 13	Canton Station Packed.
+page 13	Terrifying Experience.
+page 13	Battle Rages An Hour.
+page 13	Ground Guns Ignored.
+page 13	Thousands Watch Dog-fights.
+page 13	GREATER CHOLERA IMMUNITY.
+page 13	Extra Inoculation Not Included In D.M.S. Instructions.
+page 13	QUARANTINE NOTIFIED.
+page 13	CHINESE RED CROSS ACTIVE.
+page 13	Conte Verde Refloated.
+page 13	Damage Cannot Be Estimated.
+page 13	STOP PRESS NEWS.
+page 13	JAPAN'S NOTE SATISFIES GREAT BRITAIN.
+page 13	Incident Arising From Wounding Of Ambassador Closed.
+page 13	Incident Is Closed.
+page 13	Tone is Satisfactory.
+page 13	White Men Lynch Negro In Capetown.
+page 13	Dangerous Racial Trouble Brewing.
+page 13	General Smuts Threatened.
+page 13	Japan Is Condemned.
+page 13	VERY OUTSPOKEN BRITISH VIEWS.
+page 13	NO REPLY TO U.S. BY JAPAN.
+page 13	Second Note To Tokyo More Vigorous.
+page 13	Joint Protest Rumoured.
+page 13	Joint Protests.
+page 13	Japan Explains.
+page 16	AIR WAR WAGED ON ALL FRONTS.
+page 16	Railway Not Bombed.
+page 16	One Japanese Shot Down.
+page 16	Raids Through Night.
+page 16	Gun-Fire Down River.
+page 16	40 Killed And Wounded.
+page 16	Japanese Launches Along Whangpoo.
+page 16	Two Damaged Japanese Planes Located.
+page 16	Nanking's Courage.
+page 16	Fortress Destroyed.
+page 16	DO THEY WANT TO KILL THE THEATRE?
+page 16	T.U.C.'S NEW CHAIRMAN.
+page 16	NO REPLY TO U.S. BY JAPAN.
+page 16	Threats Resented.
+page 16	Lesson Of Experience.
+page 16	Return Approved.
+page 16	French Representations.
+page 16	No Recognition.
+page 16	Rare Impertinence.
+page 16	JAPAN'S NOTE SATISFIES GREAT BRITAIN.
+page 16	Reassurance Given.
+page 16	Japanese Assurances.
+page 16	Japan's Final Reply.
+page 17	HOLLAND REALISES DANGER.
+page 17	Reinforcing Army In East Indies.
+page 17	Epic Fight By Nanking Air Officer.
+page 17	Brings Down Big Bomber In Thrilling Clash.
+page 17	An Lee Will Be Sold.
+page 17	Wrecked In Typhoon On H.K. Bund.
+page 17	A TOTAL LOSS.
+page 17	U.S. LEGION PARADES.
+page 17	SCINTILLATING SPECTACLE.
+page 17	Parcels For Postmen.
+page 17	SELFLESS SERVICE PRAISED.
+page 17	Tribute Paid To Late Mr. Hicks.
+page 17	Italy Wants No Hold Upon Spanish Soil.
+page 17	Explains Aims In Aiding Insurgents.
+page 17	IMPROVED FINACES.
+page 17	Surplus Shown In N.S.W. Budget.
+page 18	BRITAIN CANNOT ACT ALONE.
+page 19	Independent Americans To Assist China.
+page 19	Profane Answer To Japan's Warning.
+page 19	"We Don't Intend To Break Faith."
+page 19	OUR ANSWER TO JAPAN.
+page 19	DEATH OF FORMER MOVIE STAR.
+page 19	RUTH ROLAND OF THE SILENT DAYS.
+page 19	BRITISH OFFICERS TO AID TURKISH AVIATORS.
+page 19	THREE OF FIVE SENT TO PRISON.
+page 19	Robbed Junkman Of $1,000.
+page 19	Revenue Men Involved.
+page 19	HIS LORDSHIP SUMS UP.
+page 19	CONSPIRACY SUGGESTED.
+page 19	THE JUDGMENT.
+page 19	Temperature Unchanged.
+page 19	Yesterday's Maximum Reading 85.
+page 19	YOUNG SOLDIER CHARGED.
+page 19	Manslaughter Hearing Adjourned.
+page 19	SHANGHAI REFUGEE PROBLEMS.
+page 19	Threat Of Disease And Famine.
+page 19	TERRIBLE PLIGHT.
+page 19	15 Killed In Train Collision.
+page 19	RIOTS IN SYRIA.
+page 19	INSURGENTS TAKING REPRISALS.
+page 19	Threaten Raid Into France.
+page 19	British Rescue French Steamer.
+page 19	RESCUE ATTEMPT.
+page 19	FRENCH SHIP ATTACKED.
+page 19	ADVANCE SLOWED.
+page 19	WOUNDED ITALIANS RETURN.
+page 19	TEAMSTERS PICKET DOCKS.
+page 19	PHASE OF FIGHT OF JURISDICTION.
+page 19	GEN. BOOTH SAILS FOR UNITED STATES.
+page 23	HE'S GOING TO BE A FARMER'S BOY.
+page 23	TEAM LEADER.
+page 24	New Drive On China's North Line.
+page 24	Defenders Likely To Fall Back On Strong Positions.
+page 24	FALSE SHANGHAI ALARM.
+page 24	Serious Damage In Northern Air Raids.
+page 24	CONFIDENT OF POWER.
+page 24	POOTUNG STRONG.
+page 24	PROBING NUTRITION, NURSING PROBLEMS.
+page 24	ENQUITY INTO ENGLISH NURSING SERVICE.
+page 24	CABINET CRISIS IN TURKEY.
+page 24	Raids Won't Endanger Foreigners.
+page 24	But Japan Won't Pay Indemnity For Damages.
+page 24	BRITAIN RESPECTS BLOCKADE.
+page 24	Advises Steamers To Submit To Investigation.
+page 24	WARSHIP DISPOSITION.
+page 24	CLIPPER DAMAGED.

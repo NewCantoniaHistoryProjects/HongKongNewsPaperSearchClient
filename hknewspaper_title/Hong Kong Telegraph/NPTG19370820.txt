@@ -1,0 +1,136 @@
+page 1	CHINESE SMASH JAPAN'S LINE.
+page 1	Claim Wedge Driven Through Enemy Down To Whangpoo's Bank.
+page 1	TERRIFIC BOMBARKMENT RAGING: SHANGHAI CONDITIONS NOW INCREASINGLY DANGEROUS.
+page 1	KUNGPING ROAD BATTLE.
+page 1	EFFECT FO SHELLING.
+page 1	EMPRESS OUE TO-MORROW.
+page 1	JAPANESE CLAIMS.
+page 1	CHINESEE BOMB WARSHIPS.
+page 1	U.S. AND ZONE PLAN.
+page 1	U.S. MARINES FOR S'HAI.
+page 1	KILLING PRECIPITATED SHANGHAI WAR.
+page 1	Englishman Flying On Rescue Dash.
+page 1	Santander's Capture Is Inevitable.
+page 1	Foreign Populace Leaving Because Of Firm Belief.
+page 1	ITALY ACCUSED.
+page 1	JAPAN BLAMED FOR OUTBREAK OF HOSTILITIES.
+page 1	Strong Attacks On Tokyo's Policy.
+page 1	FRANCE SUPPORTING PEACE PROPOSALS.
+page 1	Pravda's Attack.
+page 1	BRITAIN LODGES PROTEST.
+page 1	Claims Damages From Japanese.
+page 1	TSINGTSO OUTLOOK WORSE.
+page 1	U.S. Consul Seeks To Mediate.
+page 1	AMOY FORMOSANS.
+page 1	JAPANESE COLUNM ANNITILATED.
+page 1	TIENTSIS SCHOOLS TO OPEN.
+page 3	"LINDY'S" SECRET FLIGHT TO BRITTANY.
+page 3	Solving Man's Greatest Problems.
+page 3	WHAT IS DEATH? AND CAN IT EVER BE CONQUERED?
+page 3	SPECIALIST SHOOTS SON IN "MERCY MURDER."
+page 3	Then Revealed That.
+page 3	BONES BREAK, BUT HE SMILES ON.
+page 7	NEW CAUSE FOR CANCER.
+page 7	Daughter's Honour Avenged.
+page 7	NOTHER ACQUITTED OF MURDER.
+page 7	Their Majesties Visit Ireland.
+page 9	McAVOY REPLIES TO HYAMS.
+page 9	Willing To Box For Title And Purse.
+page 9	LAWN BOWLS PROGRAMME FOR TO-MORROW.
+page 9	RECREIO PLAY KOWLOON DOCKS IN IMPORTANT MATCH.
+page 9	WIGHTAN CUP.
+page 9	U.S. And English Team Announced.
+page 13	JAPANESE HALT CHINESE THRUST.
+page 13	Reports Of Victory Proved Groundless.
+page 13	DEFENCE LINES IN HONGKKEW UNBROKEN BY DETERMINED ATTACKS DURING HIGHT.
+page 13	BURNING OUT SNIPERS.
+page 13	SHANGHAI HEAVILY BOMBED.
+page 13	NEARED SETTLEMENT.
+page 13	FIGHTING AROUND GAOL.
+page 13	SCHOOL BOMBED.
+page 13	CONSULATES CLOSED.
+page 13	SAFELY EVACUATED.
+page 13	MORE COMING.
+page 13	HONGKONG A SAFE REFUGE.
+page 13	BOMBERS ACTIVE IN S'HAI.
+page 13	Chinese Attack With Telling Effect.
+page 13	Anxious Moments.
+page 13	MUST NOT FIGHT.
+page 13	JAPAN BLAMED FOR OUTBREAK OF HOSTILITIES.
+page 13	Strong Attacks On Tokyo's Policy.
+page 13	FRANCE SUPPORTING PEACE PROPOSALS.
+page 13	Pravda's Attack.
+page 13	POINTED WARNING TO JAPAN.
+page 13	LIMIT TO FREE HAND IN CHINA.
+page 13	HEAVY BRITISH LOSSES.
+page 13	BLAME EACH OTHER.
+page 13	BAD IMPRESSION.
+page 13	Nanking Raids Frustrated.
+page 13	Four Japanese Planes Shot Down.
+page 13	PILOTS CATTURSD.
+page 15	Cardinals Win Twice.
+page 15	Gain Ground On New York.
+page 15	KILLING PRECIPITATED SHANGHAI WAR.
+page 15	U.S. Keeping Nations.
+page 15	Out Of H.K..
+page 15	Officers' Wives Can't Come Out.
+page 15	REFUGEES IN MANILA.
+page 15	FIRST WHITE CHILD.
+page 15	AMERICA CELEBRATES ANNIVERSARY.
+page 15	Kung Taking Rest Cure.
+page 15	DOCTOR'S ADVICE.
+page 15	SOVIET SPIES EXECUTED.
+page 15	TYPHOON WARNING.
+page 15	Crystal Palace Blaze.
+page 15	Ruins In Grip Of Fire.
+page 15	FIRE ENVELOPES FRENCH TOWN.
+page 15	POWER PLANT PUT OUT OF ACTION.
+page 19	Warships To Remain On Guard Duty.
+page 19	British And U.S.,
+page 19	Fleets Won't Leave S'hai.
+page 19	ASKED TO LEAVE.
+page 19	U.S. AND ZONE PLAN.
+page 19	U.S. MARINES FOR S'HAI.
+page 19	Peak Servant Sentenced.
+page 19	Goods Pawned At Absurb Prices.
+page 19	UNION DIVIDEND.
+page 19	JAPANESE HALT CHINESE THRUST.
+page 19	10,000 JAPANESE REINFORCEMENTS.
+page 19	ATTEMPT FAILS.
+page 19	CONSOLIDATE POSITIONS.
+page 19	KUNGPING ROAD BATTLE.
+page 19	EFFECT OF SHELLING.
+page 19	JAPANESE CLAIMS.
+page 19	SHANGHAI CALMER.
+page 19	REACH CHIMEI ROAD.
+page 19	FAIL TO LAND.
+page 19	46 JAPANESE WARSHIPS.
+page 19	Peace Plan Supported.
+page 19	Japan's Answer.
+page 19	Nanking Promise.
+page 19	French Attitude.
+page 19	WANT TO REJOIN COLOURS.
+page 19	ARMY RESERVISTS'RESPONSE.
+page 19	OVER SHANTRNG COAST.
+page 21	McAVOY REPLIES TO HYAMS.
+page 21	Willing To Box For Title And Purse.
+page 21	LAWN BOWLS PROGRAMME FOR TO-MORROW.
+page 21	RECREIO PLAY KOWLOON DOCKS IN IMPORTANT MATCH.
+page 21	WIGHTAN CUP.
+page 21	U.S. And English Team Announced.
+page 24	BRITAIN LODGES PROTEST.
+page 24	Claims Damages From Japanese.
+page 24	SCIENTISTS AND EVERYDAY LIFE.
+page 24	BRITISH ASSOCIATION TOPICS.
+page 24	EXPLAINS PACT WITH CHINA.
+page 24	LOCAL MINE EXPLOSION.
+page 24	Santander's Capture Is Inevitable.
+page 24	Foreign Populace Leaving Beacause Of Firm Belief.
+page 24	ITALY ACCUSED.
+page 24	MANOEUVRES END.
+page 24	TSINGTAO OUTLOOK WORSE.
+page 24	U.S. Consul Seeks To Mediate.
+page 24	AMOY FORMOSANS.
+page 24	JAPANESE COLUMN ANNIHIALTED.
+page 24	TIENTSIN SCHOOLS TO OPEN.
+page 24	U.S. ATTITUDE.

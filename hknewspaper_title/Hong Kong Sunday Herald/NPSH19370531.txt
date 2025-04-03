@@ -1,0 +1,168 @@
+page 1	23 KILLED IN GERMAN WARSHIP.
+page 1	Spanish Aircraft Loose Bombs Upon Unprepared Vessel.
+page 1	GERMAN GOVERNMENT TAKING IMMEDIATE ACTION.
+page 1	83 Wounded Seamen Carried Ashore at Gibraltar.
+page 1	ARRIVAL AT GIBRALTAR.
+page 1	CABINET CONFERS.
+page 1	RUSHES TO BERLIN.
+page 1	SUBMARINE ATTACKS BARCELONA.
+page 1	COMMUNICATING MEASURES.
+page 1	OFFICIAL CASUALTY STATEMENT.
+page 1	Llewellyn Crashes On Speed Flight.
+page 1	MR. A. CAMERON DEAD.
+page 1	Woman Flier Plans Flight Around World.
+page 1	Mrs. Putnam Ready To Hop This Week.
+page 1	Changes Direction Of Voyage.
+page 1	MAROONED FLIERS RESCUED.
+page 1	Explorers Down Many Days In Desert.
+page 1	Revolution May Be Aim In India.
+page 1	PITTSBURGH REGAIS LEADERSHIP.
+page 1	Beats St. Louis While New York Loses.
+page 1	Yankees Progress By Hard Hitting.
+page 1	AMERICAN LEAGUE.
+page 1	17 Killed In Week-End Air Crashes.
+page 1	R.A.F. Machines Collide; Pilots Escape.
+page 1	Last Car Of Train Skips Rails, Crashes.
+page 1	One Woman Killed In Strange Mishap.
+page 1	Australians Badly Beaten.
+page 1	NOTED BANKER PASSES.
+page 1	Operated On Aboard Yacht In Mid-Ocean.
+page 1	3 STRIKERS HOLD UP OCEAN LINER.
+page 1	CHARLTON ATHLETIC IN ACTION.
+page 2	Entertaining Made Easy.
+page 2	Ambiguity.
+page 3	Soviet Navy Defies Secret Police.
+page 3	TALK OF MILITARY DICTATORSHIP.
+page 3	DESTROYING THE TERROR.
+page 3	"I WAS MISLED" SAYS NEGUS.
+page 3	TAKES BLAME FOR INADEQUATE DEFENCE.
+page 3	"U.S. Strip-Tease Act Indecent".
+page 3	U.S. IS BEHIND IN NAVAL BUILDING.
+page 3	Submarine Weakness.
+page 3	FREEING THE SQUARES "A BIG ORDER".
+page 3	Royal Commission May Be Needed.
+page 3	OXFORD "NO" TO GERMAN INVITATION.
+page 3	DEFENCE OF BALTIC NEUTRALITY.
+page 3	Nations To Confer.
+page 4	23 KILLED IN GERMAN WARSHIP.
+page 4	GREAT INDIGNATION.
+page 4	NEW CORONATION FILM AT THE QUEEN'S.
+page 4	Complete Picture Of Abbey Scenes.
+page 4	HOCKEY LECTURES.
+page 4	POLE VALUT RECORD.
+page 4	TRIBUTE PAID TO WAR DEAD.
+page 4	AMERICANS OBSERVE MEMORIAL DAY.
+page 5	THE HEART OF BRITAIN STOOD STILL.
+page 5	FRANCO-GERMAN AGREEMENT.
+page 5	OSLO CONVENTION.
+page 5	Baltic States Sign New Trade Agreement.
+page 7	6 FT. GIRL'S SPLIT-MIND SUICIDE.
+page 7	UBTLE AILMENT.
+page 7	MANNEQUINS WANTED - BY THE L.C.C..
+page 7	MODELS FOR FASHION STUDENTS.
+page 7	AMERICAN INDUSTRY'S MOST PROFITABLE YEAR SINCE 1930.
+page 7	FEDERAL PENAL COLONY FOR U.S.
+page 7	PAT ISLANDS AS SITE.
+page 7	The Latest Thing In Cook Stoves.
+page 8	AUSTRALIA ECLIPSED BY U. S. IN DAVIS CUP.
+page 8	Lose First Three Matches: America In Zone Final.
+page 8	BUDGE & MAKO WIN THE DOUBLES.
+page 8	Description Of Games.
+page 8	QUIST INSPIRED.
+page 8	Italy Beats Norway At Soccer.
+page 8	AUSTIN OUT OF FORM IN FINAL.
+page 8	Well Beaten By Henkel.
+page 8	Davis Cup Coach Bans Lobsters.
+page 8	From Tee To Padre's Pocket.
+page 9	"ARBITER" SELECTS BRITAIN'S STRONGEST SOCCER TEAM TO BEAT THE WORLD.
+page 12	DANGER FLAG WAS MISSING WHEN SOLDIER FELL SHOT.
+page 12	Officer Shouted: "Down".
+page 12	THERE ARE 123,000,000 RATS IN AMERICA.
+page 12	Ridicule Best Way To Punish.
+page 12	Three 8,000,000 Pounds Warships.
+page 12	INCREASING DEMAND FOR HELIUM.
+page 12	HAY MADE WITHOUT SUNSHINE.
+page 13	BOMBING CAUSES MAJOR CRISIS.
+page 13	Germany May Openly Assist Insurgents By Way of Reprisal.
+page 13	Two More Dying Aboard Badly Damaged Battleship.
+page 13	DYING.
+page 13	ORDERED TO FIRE.
+page 13	OFFICIAL CASUALTY STATEMENT.
+page 13	JENSION EASES.
+page 13	Japanese Warships Leave Swatow.
+page 13	Revolution May Be Aim In India.
+page 13	MAROONED FLIERS RESCUED.
+page 13	Explorers Down Many Days In Desert.
+page 13	4 Strikers killed In Gun-Fight.
+page 13	DEAD IN RIOTING.
+page 13	WORKERS BESIEGED.
+page 13	FIRED INTO CROWD.
+page 13	NOTED BANKER PASSES.
+page 13	Operated On Aboard Yecht In Min-Ocean.
+page 13	3 STRIKERS HOLP UP OCEAN LINER.
+page 13	Life Saved By "Iron Lung".
+page 13	Hole Cut In Ship's Side So Sick Man Can Travel.
+page 13	Woman Flier Plans Flight Around World.
+page 13	Mrs. Putnam Ready To Hop This Week.
+page 13	Changes Direction Of Voyage.
+page 13	17 Killed In Week-End Air Crashes.
+page 13	R.A.F. Machines Collide; Pilots Escape.
+page 13	SUBMARINE ATTACKS BARCELONA.
+page 13	Many Feared Lost In sunken Vessel.
+page 13	MAY BE REPRISAL.
+page 13	SEAMEN ADMIT ASSAULT.
+page 13	One Of Victims Badly Hurt In Fight.
+page 13	Shanhaikwan Incident Now Closed.
+page 15	Soviet Navy Defies Secret Police.
+page 15	TALK OF MILITARY DICTATORSHIP.
+page 15	"I WAS MISLED" SAYS NEGUS.
+page 15	TAKES BLAME FOR INADEQUATE DEFENCE.
+page 15	"U.S. Strip-Tease Act Indecent".
+page 15	U.S. IS BEHIND IN NAVAL BUILDING.
+page 15	Submarine Weakness.
+page 15	FREEING THE SQUARES "A BIG ORDER".
+page 15	Royal Commission May Be Needed.
+page 15	OXFORD "NO" TO GERMAN INVITATION.
+page 15	DEFENCE OF BALTIC NEUTRALITY.
+page 15	Nations To Confer.
+page 15	Mystery of Girl's Riding Fate.
+page 16	NEW CORONATION FILM AT THE QUEEN'S.
+page 16	Complete Picture Of Abbey Scenes.
+page 16	DEATH TAKES MISSIONARY.
+page 16	Keates Sets An Unofficial Record.
+page 16	FOR CYCLING CLUB.
+page 16	TWO COXSWAINS SUSPENDED.
+page 16	DOJIMA MARU FUND.
+page 17	TRIBUTE PAID TO WAR DEAD.
+page 17	AMERICANS OBSERVE MEMORIAL DAY.
+page 19	6 FT. GIRL'S SPLIT-MIND SUICIDE.
+page 19	SUBTLE AILMENT.
+page 19	AMERICAN INDUSTRY'S MOST PROFITABLE YEAR SINCE 1930.
+page 19	EARNINGS NEARLY $80,000,000.
+page 19	BOMBING CAUSES MAJOR CRISIS.
+page 19	ARRIVAL AT GIBRALTAR.
+page 19	CABINET CONFERS.
+page 19	RUSHES TO BERLIN.
+page 19	COMMUNICATING MEASURES.
+page 19	GREAT INDIGNATION.
+page 19	OFFICIAL BROADCAST.
+page 19	PITTSBURGH REGAINS LEADERSHIP.
+page 19	Beats St. Louis While New York Loses.
+page 19	Yankees Progress By Hard Hitting.
+page 19	CONSIDER DRIVER AT FAULT.
+page 19	Ridicule Best Way To Punish.
+page 23	ENGLAND'S TEN FAMOUS PREMIERS.
+page 24	APPEAL DECISION DELAYED.
+page 24	Involved Court Case Comes To Close.
+page 24	NO TERMS IMPOSED.
+page 24	IRRECULARITIES.
+page 24	Last Car Of Train Skips Rails, Crashes.
+page 24	One Woman Killed In Strange Mishap.
+page 24	Llewellyn Crashes On Speed Flight.
+page 24	"VERY BOLD CASE".
+page 24	FORMER RESIDENT PASSES ON.
+page 24	Mr. Allan Cameron Dies In Vancouver.
+page 24	To-day's Weather Forecast.
+page 24	CHARLTON ATHLETIC IN ACTION.
+page 24	DOUBT TRUTH OF ROBBERY REPORT.
+page 24	Australians Badly Beaten.

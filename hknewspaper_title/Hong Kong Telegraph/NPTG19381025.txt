@@ -1,0 +1,284 @@
+page 1	HANKOW HEARS SOUND OF NEARING GUNFIRE.
+page 1	Armed Peace Needed.
+page 1	SACRIFICES NEEDED.
+page 1	MAGINOT LINE SPIES CAUGHT.
+page 1	Japanese Claim Advancing Rapidly on Wuhan Cities.
+page 1	NON-COMBATANT AREAS.
+page 1	MARTIAL LAW BNFORCRD.
+page 1	NEARING FINAL STAGE.
+page 1	NEW PALESTINE REGULATION.
+page 1	Frisco's Chinatown Mourns.
+page 1	SAN FRANGISCO.
+page 1	BITTER ATTACK ON THE POPE.
+page 1	AGREEMENT SOON?
+page 1	Mystery Moves In Hongkong.
+page 1	Baby Sweep Ticket Holder's Odds Lengthen.
+page 1	FIRE BLOWS UP POWDER PLANT.
+page 1	Great Canton Fire Leaves A City of Ruins.
+page 1	JAPANESE MEET BRITONS.
+page 1	NOW UNDER CONTROL.
+page 1	Hungary's Proposals In Detail.
+page 3	MOTHER SHOOTS SON ON WEDDING-EVE, BRIDE KILLS HERSELF.
+page 3	COLONEL'S WIFE.
+page 3	Could Not See Him Marry on Stretcher.
+page 3	HUNTING-GIRL FIANCEE.
+page 3	"LOVED HIM MADLY."
+page 3	GULL HITS DRIVER.
+page 3	Ice-Block Desks In Laboratory Hewn in Glacier.
+page 3	For The Hatless.
+page 4	READY TO FIGHT ANYBODY.
+page 4	Japan And Defence Of Her Interests.
+page 4	Science Seeks Counter To Air Bombings.
+page 4	SHANGHAI WAR ECHO.
+page 4	Norwegian Resident Gets Royal Decoration.
+page 4	SIX DIE IN PLANE CRASH.
+page 5	France To Tighten Up Immigration.
+page 5	No More Refugees Can Be Admitted.
+page 5	MEDAL FOR DOG.
+page 5	THE POLICE RESERVE.
+page 5	Orders for the Current Week Issued.
+page 5	GREAT CANTON FIRE LEAVES A CITY OF RUINS.
+page 5	THE VERY COMMON COLD.
+page 5	Sentenced To Hospital.
+page 5	French Cabinet Changes Seen.
+page 6	THE FIERY DEATH OF CANTON.
+page 7	Love and Jealousy Story In "Green Scarf" Trial.
+page 7	TREE BRANCHES IN COURT.
+page 7	"SNAP CONCIDENCE."
+page 7	"VERY JEALOUS."
+page 7	HAIR FIND IN THICKET.
+page 7	SPILSBURY'S VIEW.
+page 7	WIVES BEATEN.
+page 7	For Going To Church!
+page 7	WOMAN SPENT 23 YEARS SAVING FOR A HOLIDAY.
+page 7	"AMAZED" BY LIFE IN LONDON.
+page 7	Falls Are Good For A Child.
+page 7	Talkies For 150 Warships And Shore Stations.
+page 7	"Problem Boy" Lured With Car Ride.
+page 7	Monkey's Ride On Wall Of Death.
+page 7	SINGAPORE DIVORCE.
+page 9	AMERICAN SAILORS SUCCEED.
+page 9	Team From Canopus Chung Sing.
+page 9	YARDLEY INJURED.
+page 9	CYCLING RECORD SET UP.
+page 9	Expects To Score In Cesarewitch.
+page 10	Hard Work Means A Chance of Long Life.
+page 10	Golf Is Not The Game It Was.
+page 10	Edinburgh's First Air Raid.
+page 11	PHOTONEWS.
+page 11	NEWS OF THE DAY IN PICTURES FROM FAR AND NEAR.
+page 11	HAPPENINGS AS SEEN BY THE CAMERA'S EYE.
+page 11	TUESDAY, OCTOBER 25 1938.
+page 12	HUNGARIAN RAIDS ON CARPATHIA.
+page 12	Latest Disturbances Cause Big Loss Of Life.
+page 12	GERMANY'S ATTITUDE VITAL.
+page 12	Revolutionary Leaders Make Good Escape.
+page 12	TANGANYIKA FACES BIG DEFICIT.
+page 12	HUNGARY'S NEW PROPOSALS.
+page 12	Slovakia And Ruthenia Plebiscites.
+page 12	Prague Starts Jew-Baiting.
+page 12	Disturbances Created In Coffee Houses.
+page 12	Remarkable Escape By Loyalists.
+page 12	SUBMARINE CABLE.
+page 12	ARMED MEN IN CITY ROBBERY.
+page 12	GENERALISSIMO LEAVES WUHAN.
+page 13	SAN FRANCISCO.
+page 13	ARMED MEN IN CITY ROBBERY.
+page 13	Gibraltar Loses Its Governor.
+page 13	Warm Farewell To General Harington.
+page 13	Chiang Leaves Wuhan.
+page 13	ENVOY'S MOVEMENT.
+page 13	WANG IN CHUNGKING.
+page 13	MYSTERY MOVES IN HONGKONG.
+page 13	THE CANTON FIRE.
+page 13	Fresh Fires Endangering The Shameen.
+page 13	CITY OF RUINS.
+page 13	ONLY FIVE MILES OFF AT 10 A.M..
+page 13	BIG FIRES IN WUHAN.
+page 13	Chinese Start Blazes In Southern City Districts.
+page 13	SHELLS NOW FALLING INSIDE CITY AREA.
+page 13	Armed Peace Needed.
+page 13	SAORIFICES NEEDED.
+page 13	Japanese Claim Advancing Rapidly on Wuhan Cities.
+page 13	DESPERATE STAND.
+page 13	DUEL AROUND TEHAN.
+page 13	GARRISON COMMANDER ON MOVEMENTS.
+page 13	ADVANCING RAPIDLY.
+page 13	'Frisco's Chinatown Mourns.
+page 15	MOTHER SHOOTS SON ON WEDDING-EVE, BRIDE KILLS HERSELF.
+page 15	COLONEL'S WIFE.
+page 15	Could Not See Him Marry on Stretcher.
+page 15	HUNTING-GIRL FIANCEE.
+page 15	"LOVED HIM MADLY."
+page 15	GULL HITS DRIVER.
+page 15	Ice-Block Desks In Laboratory Hewn in Glacier.
+page 15	For The Hatless.
+page 16	Hungary's Proposals In Detail.
+page 16	READY TO FIGHT ANYBODY.
+page 16	Japan And Defence Of Her Interests.
+page 16	Science Seeks Counter To Air Bombings.
+page 16	AGREEMENT SOON?
+page 16	SIX DIE IN PLANE CRASH.
+page 17	France To Tighten Up Immigration.
+page 17	No More Refugees Can Be Admitted.
+page 17	MEDAL FOR DOG.
+page 17	THE VERY COMMON COLD.
+page 17	Sentenced To Hospital.
+page 17	French Cabinet Changes Seen.
+page 17	MAGINOT LINE SPIES CAUGHT.
+page 17	FRESH FIRES ENDANGERING THE SHAMEEN.
+page 17	JAPANESE MEET BRITONS.
+page 17	EARLIER REPORT.
+page 17	CHIANG LEAVES WUHAN.
+page 19	Love and Jealousy Story In "Green Scarf" Trial.
+page 19	TREE BRANCHES IN COURT.
+page 19	WIVES BEATEN.
+page 19	For Going To Church!
+page 19	WOMAN SPENT 23 YEARS SAVING FOR A HOLIDAY.
+page 19	"AMAZED BY LIFE IN LONDON.
+page 19	BITTER ATTACK ON THE POPE.
+page 19	Talkies For 150 Warships And Shore Stations.
+page 19	"Problem Boy" Lured With Car Ride.
+page 19	NEW PALESTINE REGULATION.
+page 19	SINGAPORE DIVORCE.
+page 21	AMERICAN SAILORS SUCCEED.
+page 21	Team From Canopus Chung Sing.
+page 21	YARDLEY INJURED.
+page 21	CYCLING RECORD SET UP.
+page 21	Expects To Score In Cesarewitch.
+page 21	NOT MANY SIDES WILL EXTEND HONGKONG C. C..
+page 22	Hard Work Means A Chance of Long Life.
+page 22	Golf Is Not The Game It Was.
+page 22	Edinburgh's First Air Raid.
+page 23	PHOTONEWS.
+page 23	NEWS OF THE DAY IN PICTURES FROM FAR AND NEAR.
+page 23	HAPPENINGS AS SEEN BY THE CAMERA'S EYE.
+page 23	TUESDAY, OCTOBER 25, 1938.
+page 24	HUNGARIAN RAIDS ON CARPATHIA.
+page 24	Latest Disturbances Cause Big Loss Of Life.
+page 24	GERMANY'S ATTITUDED VITAL.
+page 24	Revolutionary Leaders Make Good Escape.
+page 24	TANGANYIKA FACES BIG DEFICIT.
+page 24	SHELLS NOW FALLING INSIDE CITY AREA.
+page 24	NON-COMBATANT AREAS.
+page 24	MARTIAL LAW ENFORCED.
+page 24	NEARING FINAL STAGE.
+page 24	HUNGARY'S NEW PROPOSALS.
+page 24	Slovakia And Ruthenia Plebiscites.
+page 24	Remarkable Escape By Loyalists.
+page 24	FIGHTING RE-OPENS.
+page 24	START SHELLING CITY.
+page 24	FIRE BLOWS UP POWDER PLANT.
+page 25	WUHAN CITIES EVACUATED.
+page 25	Japanese Occupation Expected This Afternoon.
+page 25	Refugee Ships Bombed.
+page 25	CONTINUOUS RAIDS.
+page 25	Men Flock To Join Naval Volunteers.
+page 25	HSINKING VISIT AROUSES INTEREST.
+page 25	ALL CANTON WORKERS SAFE.
+page 25	CHINESE TO TAKE UP NEW DEFENCE LINES.
+page 25	Big Fire Raging In Three Cities As Defences Leave.
+page 25	FIVE MILES OF AT 10 A.M..
+page 25	NON-COMBATANT AREAS.
+page 25	MARTIAL LAW ENFORCED.
+page 25	NEARING FINAL STAGE.
+page 25	How Canton Was Betrayed By Traitors: First Story.
+page 25	HEROIC YOUNG MEN.
+page 25	PRO-JAPAN PUPPET IN WAICHOW.
+page 25	New "Government" At East River City.
+page 25	TWO MILES AWAY.
+page 25	Generalissimo In Haiphong?
+page 25	NO DEFENCE OF WUHAN.
+page 26	'Telegraph' Correspondent Tours Front By Plane.
+page 26	CHINESE RETREATING.
+page 26	CONVINCED END NEAR.
+page 26	ADVANCED TOO QUICKLY.
+page 26	WUHAN CITIES EVACUATED.
+page 26	DESPERATE STAND.
+page 26	DUEL AROUND TEHAN.
+page 26	GARRISON COMMANDRR ON MOVEMENTS.
+page 26	Frisco's Chinatown Mourns.
+page 26	SAN FRANCISCO.
+page 26	MAYOR SAYS FAREWELL.
+page 26	KING MEETS I.L.O. REPRESENTATIVES.
+page 26	Chiang Leaves Wuhan.
+page 26	ENVOY'S MOVEMENT.
+page 26	WANG IN CHUNGKING.
+page 26	MYSTERY MOVES IN HONGKONG.
+page 26	BETRAYAL OF CANTON.
+page 27	HUNGARY'S LATEST PROPOSALS VIRTUALLY AN ULTIMATUM.
+page 27	Effect Proposals by Force If Necessary.
+page 27	DEMAND FOR PLEBISCITE IN EIGHT ZONES.
+page 27	SLOVAKIA AND RUTHENIA PLEBISCTTES.
+page 27	HUNGARY'S PROPOSALS IN DETAIL.
+page 27	ARMED MEN IN CITY ROBBERY.
+page 27	LATEST DISTURBANCES CAUSE BIG LOSS OF LIFE.
+page 27	19 YEAR-OLD GIRL BRUTALLY KILLED.
+page 27	Man And Wife Confess Divine Power Inspiration.
+page 27	GERMANY'S ATTITUDE VITAL.
+page 27	FIGHT ZONES NAMED.
+page 27	PRAGUE WANTS DIRECT NEGOTIATIOONS.
+page 27	Armed Peace Needed.
+page 27	SACRIFICES NEEDED.
+page 27	SLOVAKIA NOW AN AUTHORITARIAN STATE.
+page 28	READY TO FIGHT ANYBODY.
+page 28	Japan And Defence Of Her Interests.
+page 28	Science Seeks Counter To Air Bombings.
+page 28	AGREEMENT SOON?
+page 28	SIX DIE IN PLANE CRASH.
+page 29	6,000 Refugees Take A Kowloon Site by Storm.
+page 29	LIVE IN HUTCHES WITH COLD EARTH AS FLOORS AND NO SANITATION.
+page 29	ONE DOLLAR A "HOUSE".
+page 29	NAUSEOUS STENCH.
+page 29	Germany's Fortifications Unconquerable.
+page 29	THE VERY COMMON COLD.
+page 29	Sentenced To Hospital.
+page 31	SHAMEEN STILL ENDANGERED BY FIRES SWEEPING CANTON CITY.
+page 31	GERMANS WORK FRANTICALLY TO SAVE PROPERTY.
+page 31	Chungking Cantonese Stunned By News.
+page 31	CITY OF RUINS.
+page 31	JAPANESE MEET BRITONS.
+page 31	EARLIBR REPORT.
+page 31	MR. A. P. BLUNT HAS AN INTERVIEW.
+page 31	CHUNKING CANTONESE WANT EXPLANTION.
+page 31	CHUNKING STUNNED.
+page 31	Coolidge Sails, But Takes No Silver.
+page 31	JAPANESE EMBASSY MAKES STAEMENT.
+page 31	Scotch Fisher Lassies Go On Strike.
+page 31	Remarkable Escape By Loyalists.
+page 31	FIGHTING RE-OPENS.
+page 31	START SHELLING CITY.
+page 31	VOLUNTEER PRISONERS EXCHANGED IN PARIS.
+page 31	Gibraltar Loses Its Governor.
+page 31	Warm Farewell To General Harington.
+page 31	JAPAN'S TERMS FOR PEACE.
+page 31	Three Points Outlined In Semi-Official Declaration.
+page 31	NATIONAL GOVERNMENT IS VETOED ONCE AND FOR ALL.
+page 31	TWO CARS MISSING.
+page 33	France To Tighten Up Immigration.
+page 33	No More Refugees Can Be Admitted.
+page 33	Explorer On Non-Stop Flight Around World.
+page 33	European Thanked By Magistrate.
+page 33	FIRE BLOWS UP POWDER PLANT.
+page 33	MINISTER MEET THE PREMIER.
+page 33	NOT MANY SIDES WILL EXTEND HONGKONG C. C..
+page 33	Baby Sweep Ticket Holder's Odds Lengthen.
+page 34	Hard Work Means A Chance of Long Life.
+page 34	Golf Is Not The Game It Was.
+page 34	Edinburgh's First Air Raid.
+page 35	PHOTONEWS.
+page 35	NEWS OF THE DAY IN PICTURES FROM FAR AND NEAR.
+page 35	HAPPENINGS AS SEEN BY THE CAMERA'S EYE.
+page 35	TUESDAY, OCTOBER 25, 1938.
+page 36	GUNBOAT BOMBING EXCUSES.
+page 36	Japanese Uninformed Of Warships Location.
+page 36	HANKOW FALL IMMINENT.
+page 36	FOREIGNERS CUT OFF.
+page 36	CITY-WIDE EXPLOSIONS.
+page 36	Blue Jackets Landed In Hankow.
+page 36	SWATOW PREP ARING.
+page 36	Fires Burn Fiercely.
+page 36	RETREAT CUT OFF.
+page 36	CITY THEFTS CONTINUE.
+page 36	BITTER ATTACK ON THE POPE.
+page 36	CHINESE SOLDIER INTERKNED HERE.

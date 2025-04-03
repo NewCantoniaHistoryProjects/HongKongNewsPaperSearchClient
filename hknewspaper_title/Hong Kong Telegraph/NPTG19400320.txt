@@ -1,0 +1,140 @@
+page 1	R.A.F. REPRISAL RAID ON IMPORTANT GERMAN BASE.
+page 1	FINNISH CABINET TO RESIGN.
+page 1	Moscow Pressure To Be Ignored.
+page 1	Delegation In Moscow.
+page 1	NO PEACE BASIS.
+page 1	Despondency Follows Welles's Visit.
+page 1	Welles' Work Finished.
+page 1	Peace Plan Discounted.
+page 1	Purely propaganda.
+page 1	BRITAIN'S BUDGET.
+page 1	House Of Commons Debates The War.
+page 1	PREMIER DEFENDS HIS POLICY.
+page 1	Raid A Failure.
+page 1	Answers Criticism.
+page 1	2 GIANT LINERS FOR AUSTRALIA.
+page 1	Naval Protection.
+page 1	Tripled Aircraft Production.
+page 1	Calm Day On The Western Front.
+page 1	DRAMATIC BROADCAST FROM PARTICIPANTS.
+page 1	SEVERELY DAMAGED.
+page 1	Claim Raider Downed.
+page 1	Optimistic Hitler.
+page 1	Sees Success In New Peace Offensive.
+page 1	Triangular Talks Soon.
+page 1	Irrevocable Decisions.
+page 1	Nothing More To Say.
+page 1	Wang Ching-Wei Announces New Coup.
+page 1	JAPANESE AGREE TO WITHDRAW TROOPS.
+page 1	Eden May Become Minister For Air.
+page 1	Cabinet Re-shuffle Indicated.
+page 7	UPROAR IN DIET.
+page 7	When Minister Refuses To Answer Questions.
+page 7	Recess Declared.
+page 7	Scuffle On Floor.
+page 7	FRENCH CABINET REORGANISATION.
+page 7	Camouflage Pioneer Dies In London.
+page 7	PREMIER OEFENDS HIS POILCY.
+page 7	NANKING REGIME.
+page 7	Tokyo Will Negotiate Treaty With Wang.
+page 7	NO PEACE BASIS.
+page 7	Peace Offensive Ridiculed.
+page 7	Did Not See Mussolini.
+page 7	Confers With Colleague.
+page 7	DEATH OF MR. LI CHOR CHI.
+page 11	R.A.F. Rain Bombs On Sylt In Dramatic All-Night Vengeance Attack.
+page 11	AMMUNITION DUMP AT HORNUM BLOWN UP: RECKLESS PILOTS.
+page 11	HOLLAND HEARS 82 EXPLOSIONS.
+page 11	MUNITION DUMP BLOWN UP.
+page 11	CONTIMUES ATTACKS ALL NIGHT.
+page 11	FAST ACTION BY R.A.F. PILOTS.
+page 11	VIOLENT EXPLOSIONS HEARD.
+page 11	WALL OF FIRE ACROSS ISLAND.
+page 11	DUPONT HEIRESS INJURED.
+page 11	Big Tests By U.S. Navy.
+page 11	Lessons Of Current War To Be Learned.
+page 11	Five Important Tests.
+page 11	Yangtse Reopening: New Promise.
+page 11	Calm Day On The Western Front.
+page 11	French Shock Troops Go Into Action On Western Front.
+page 11	FIGHTING BREAKS OUT ACROSS THE RHINE.
+page 11	No Man's Land Scouting.
+page 11	Nazism Like A Ghastly Disease.
+page 11	Outspoken Speech By Mr. Paul McNutt.
+page 11	America's Danger.
+page 11	Mussolini's Assurance.
+page 11	No Demands While War Is Localised.
+page 11	Pope's Opinion.
+page 11	NAZIS CAN'S FOOL DUTCH.
+page 11	Reject Explanation Of Sea Warfare.
+page 11	Soviet Ratifies Peace Treaty.
+page 11	CONVOY SYSTEM BEATS U-BOATS.
+page 11	Submarine Campaign Fails.
+page 11	Germany's Losses.
+page 17	House Of Commons Debates The War.
+page 17	PREMIER DEFENDS HIS POLICY.
+page 17	Raid A Failure.
+page 17	Answers Criticism.
+page 17	Hitler May Tell Of Brenner Parleys.
+page 17	RIOTS IN LAHORE.
+page 17	25 Killed And 39 Injured.
+page 20	AMMUNITION DUMP BLOWN UP AT HORNUM.
+page 20	DRAMATIC BROADCAST FROM PARTICIPANTS.
+page 20	SEVERELY DAMAGED.
+page 20	Claim Raider Downed.
+page 20	2000 Scientists Can Find No Work in War.
+page 20	MOSQUITO EXPERT DUSTS BOOKS.
+page 20	WIFE AND MAN GIVE LIVES FOR BOY.
+page 20	ALL-NIGHT RAIDS.
+page 20	Terrific Onslaught On Sylt.
+page 20	RAIDS GIVE BIG SCOUP FOR BBC.
+page 21	RAIDS CONTINUE.
+page 21	Greatest Bombing Expedition Of The War Is Still In Progress:
+page 21	R.A.F. Rain Bombs On Sylt In Dramatic All-Night Vengeance Attack.
+page 21	Sylt Raid Latest.
+page 21	BRITISH PLANES CONTINUE RAIDS.
+page 21	PLANE FALLS IN FLAMES.
+page 21	Dancs Watch Battle.
+page 21	SEES ITALY AS NAZI ALLY.
+page 21	CONVOY SYSTEM BEATS U-BOATS.
+page 21	Submarine Campaign Fails.
+page 21	Germany's Losses.
+page 21	RAIDS GIVE BIG SCOOP FOR BBC.
+page 21	BIG MUNITION DUMP BLOWN SKY-HIGH.
+page 21	DENMARK HEARS 82 EXPLOSIONS.
+page 21	MUNITION DUMP BLOWN UP.
+page 21	CONTINUES ATTACKS ALL NIGHT.
+page 21	FAST ACTION BY R.A.F. PILOTS.
+page 21	VIOLENT EXPLOSIONS HEARD.
+page 27	House Of Commons Debates The War.
+page 27	PREMIER DEFENDS HIS POLICY.
+page 27	Hitler May Tell Of Brenner Parleys.
+page 27	RIOTS IN LAHORE.
+page 27	25 Killed And 39 Injured.
+page 27	Soldiers Take Over.
+page 27	Optimistic Hitler.
+page 27	Sees Success In New Peace Offensive.
+page 27	Triangular Talks Soon.
+page 27	Irrevocable Decisions.
+page 27	Nothing More To Say.
+page 27	Welles As Pawn.
+page 27	BRITAIN'S BUDGET.
+page 27	Press Opinions.
+page 27	Sympathetic Roosevelt.
+page 27	Supporting Cause Of The Allies.
+page 27	Tdle Talk.
+page 27	Soviet Press Views.
+page 27	The Russian Aim.
+page 27	Nazis Act While Dictators Talk.
+page 30	AMMUNITION DUMP BLOWN UP IN R.A.F.'S GREAT RAID.
+page 30	WALL OF FIRE ACROSS ISLAND.
+page 30	DRAMATIC BROADCAST.
+page 30	SEVERELY DAMAGED.
+page 30	FINNISH CABINET TO RESIGN.
+page 30	Moscow pressure To Be Ignored.
+page 30	Sylt Extensively Damaged.
+page 30	Air Ministry's Communique.
+page 30	Objects To Alliance.
+page 30	Bombs Fall On Danish Territory.
+page 30	Mussolini's Assurance.
+page 30	No Demands While War Is Localised.

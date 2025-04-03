@@ -1,0 +1,229 @@
+page 1	JAPANESE FORCES SUFFER SEVERE DEFEAT.
+page 1	COUNTER OFFENSIVE SUCCEDS.
+page 1	Shaho Recaptured And Invaders Retiring.
+page 1	JAPANESE WITHDRAW.
+page 1	Severe Fighting.
+page 1	Severe Fighting West of Kiukiang.
+page 1	BUILDING POWERFUL DEFENCES.
+page 1	Miaja Prepared To Defend Valencia.
+page 1	Limitation Of Arms Still Not in Sight.
+page 1	BORDER LOSSES SEVERE.
+page 1	Russians Announce Casualty List.
+page 1	GOVERNMENT PLANS HUT CAMPS FOR DESTITUTES HERE.
+page 1	ROOSEVELT TO HELP BACKWARD STATES.
+page 1	And Incidentally Purge Party.
+page 1	JAPANESE LODGE PROTEST.
+page 1	Officer Arrested By Volunteers.
+page 1	Many Japanese Arrested In Shanghai.
+page 1	SHANGHAI STILL CAUTIOUS.
+page 1	Volunteers Ready For Emergency.
+page 1	Bomb Hurts Two Jews IN Baghdad.
+page 1	MAY CANONISE LAST TSAR.
+page 1	German Labour Conscripted to Rush Defences.
+page 1	PRESS CEASES ALL REFERENCE TO COMING WAR GAMES.
+page 1	Air Force and Tank reserve Men Going to Rhineland.
+page 1	Frontier Not Excited.
+page 1	QUEEN MARY REGAINS RIBAND.
+page 1	Cuts Record By Hour And A Half.
+page 1	HOLDS BOTH RECORDS.
+page 3	GAVE LUXURY PARTIES ON BANK'S MONEY-KILLED HIS FAMILY.
+page 3	INHERITED 10,000POUNDS.
+page 3	HE NEVER WALKED.
+page 3	Chickens Rout Rattler.
+page 3	Doctors Must Tell in Insanity Divorces.
+page 3	CLIENTS NOT AFFECTED.
+page 3	"10,000POUNDS AT LEAST"
+page 3	Lawn Chair Takes Root.
+page 3	Patients "Killed" Daily For Ten Weeks To Be Cured.
+page 3	BY THE HAND.
+page 3	Modern Youth Is Audacious Says Lord Tweedsmuir.
+page 3	Chicken Population Estimated.
+page 4	Speculation In Britain.
+page 4	Manoeuvres May Presage Crisis In Czecho-Slovakia?
+page 4	NO BRITISH DEMARCHE.
+page 4	EUROPE'S NERVES TAUT.
+page 4	Yogi Is Ten Minutes In Sealed Box, Lives.
+page 4	STOPPED PULSE.
+page 4	FEATS OF ARCHERY.
+page 4	Film Stars Suspected Communists.
+page 4	Startling Report On U.S. Activities.
+page 4	PRAYERS FOR CHINESE.
+page 4	Christians Should fight Covetousness.
+page 4	GERMAN LABOUR CONSCRIPTED TO RUSH DEFENCES.
+page 4	"Let Us Keep Calm".
+page 4	CONFLICT DRAINING NATIONS' RESOURCES.
+page 4	Japan Spends Vast Sums On Arms.
+page 4	Many Planes Pass Macao.
+page 4	LOYALISTS CLAIM AIR VICTORY.
+page 4	Flight Cured Whooping Cough.
+page 4	MANY DEAD IN THREE AIR GRASHES.
+page 4	MEXICAN PLANE CRASH.
+page 4	AIR FORCE CRASH.
+page 4	Wild Weather In Britain.
+page 4	THREE LIGHTING VICTIMS.
+page 4	IMPROVEMENT SHOWN.
+page 4	VIOLATION OF TRUCE REPORTED.
+page 5	GERMAN MILITARY ACTIVITY CAUSING EUROPEAN TENSION.
+page 5	DEATH FOR TRESPASSERS.
+page 5	STORGE SPACE.
+page 5	SURPRISE PENDING?
+page 5	JAPANESE SPOKESMEN UPSET.
+page 5	DENIES RESPONSIBILITY.
+page 5	SERIOUS BOMBING PLOT.
+page 5	TO INVOLVE CHINESE.
+page 5	Bridegroom's Air Dash To Altar.
+page 5	HOME VIA UNITED STATES CANADA.
+page 7	ELECTRICAL WORKERS.
+page 7	SAY "NO" TO ARMS DILUTION.
+page 7	"REAL ACTION".
+page 7	CONSCRIPT LABOUR.
+page 7	Sailors To See Talking Pictures On Board.
+page 7	Child Falls 40 Feet' Unhurt.
+page 7	CEMENT COFFIN MURDER RIDDLE.
+page 7	Heiress's Husband Accused After Girls' Discovery.
+page 7	ARRESTED.
+page 7	YOUTH'S NED OF LEADERSHIP.
+page 7	City Adopts Petunia.
+page 7	'Hoppers Create Mystery.
+page 7	Sniper Kills Sea Otter.
+page 9	Home football Commences.
+page 9	COUNTY CRICKET SCORES.
+page 9	INDIANS ELIMINATED BY CHINESE.
+page 9	OLYMPIC GAMES.
+page 9	INDIA LOSES HOCKEKY.
+page 9	FAGG CREATES A WORLD RECORD.
+page 9	OTHER BIG DOUBLES.
+page 9	OUR GUIDE TO THE CINEMAS.
+page 9	ITALIAN MARRIAGE BONUSES.
+page 9	BRITAIN WINS.
+page 9	Danish Girl Sets Another World Mark.
+page 9	Other Results.
+page 9	DANISH WIN.
+page 9	LIGHT ATHLETIGS.
+page 9	America Leads In Contest With Germany.
+page 11	FRENZIED WELCOME FOR HOWARD HUGHES.
+page 13	TERRORISTS CONFES JAPANESE LEANINGS.
+page 13	REVELATION IN SHANGHAI COURT CASE.
+page 13	Foreign Authorities Maintain Vigilance.
+page 13	JAPANESE BOMBS FOUND.
+page 13	Ready For Emergency.
+page 13	Pro-Japanese General Murdered.
+page 13	Troops Go Over To Chinese.
+page 13	Many Japanese Arrested In Shanghai.
+page 13	VALENCIA SAVED, MIAJA ASSERTS.
+page 13	Claims Insurgents Outwitted.
+page 13	OPIUM OVERDOSE.
+page 13	GERMAN ACTIONS ALARM LONDON.
+page 13	Government Urged To Tell People Whole Truth.
+page 13	Newspapers Critical.
+page 13	Parachute Jump Ends In Death.
+page 13	RUSSO JAPANESE NGEGOTIATIONS NOE RUNNING SMOOTHLY.
+page 13	BRITISH TROOPS ENGAGED.
+page 13	Arabs Slain In Nablus Clash.
+page 13	BOMB HURTS TWO JEWS IN BAGHDAD.
+page 13	Fall From tram Ends Fatally.
+page 13	FORTUGUESE QUICK TO PROTEST.
+page 13	WAGING WAR ON NARCOTICS.
+page 13	Shipping Being Closely Waqtched.
+page 13	Japanese Slaughtered in Surprise Night Attack.
+page 13	CHINESE FALL ON SLEEPING TROOPS SOUTH OF YANGTSE.
+page 13	1,000 Casualties Inflicted; North Bank Drive Halted.
+page 13	Chinese Fighting With Confidence.
+page 13	AIR RAIDERS OVER CANTON.
+page 15	QUEEN MARY REGAINS RIBAND.
+page 15	Cuts Record By Hour An A Half.
+page 15	HOLDS BOTH RECORDS.
+page 15	Film Stars Suspected Communists.
+page 15	Startling Report On U.S. Activities.
+page 15	MAY CANONISE LAST TSAR.
+page 15	Japanese Forces Suffer Severe Defeat.
+page 15	COUNTER OFFENSIVE SUCCEEDS.
+page 15	Shaho Recaptured And Invaders Retiring.
+page 15	JAPANESE WITHDRAW.
+page 15	Severe Fighting.
+page 15	Severe Fighting West of Kiukiang.
+page 15	ROOSEVELT TO HELP BACKWARD STATES.
+page 15	And Incidentally Purge Party.
+page 15	CONFLICT DRAINING NATIONS' RESOURCES.
+page 15	Japan Spends Vast Sums On Arms.
+page 15	Many Planes Pass macao.
+page 15	Limitation Of Arms Still Not In Sight.
+page 15	ILLICIT STILL DISCOVERED.
+page 16	Second Victim Of Murderer Dies In Macao.
+page 16	JAPANESE SLAUGHTERED IN SURPRISE NIGHT ATTACK.
+page 16	Withdrawal Reported.
+page 16	Drive North Of Yangtse Halted.
+page 16	Chinese Recapture Fuyang.
+page 16	TERRORISTS CONFESS JAPANESE LEANINGS.
+page 16	Diplomat Stopped?
+page 16	Tow More Mutineers Die.
+page 16	Flight Cured Whooping Cough.
+page 16	CHINESE SEIZE HANKOW CONCESSION.
+page 16	Vilation of Treaty, Japan Complains.
+page 16	Renovating Famous Macao Hospital.
+page 16	Water Supply Will Be Cut To-night.
+page 16	DROUGHT CONTINUES.JEWELLERY STOLEN.
+page 16	BITTEN BY DOG.
+page 16	HANDBAG STOLEN.
+page 17	JAPANESE LODGE PROTEST.
+page 17	Officer Arrested By Volunteers.
+page 17	POLICE RESERVE ORDERS.
+page 17	CHINESE COMPANY.
+page 17	INDIAN COMPANY.
+page 17	EMERGENCY UNIT RESERVE.
+page 17	DODGED 10-CENT FARE WITH $294 IN HIS POCKET.
+page 17	PRAYERS FOR CHINESE.
+page 17	BETIRING-FOR SIX WEEKS.
+page 17	HOME VIA UNITED STATES CANADA.
+page 19	German Labour Conscripted to Rush Defences.
+page 19	RPESS CEASES AL REFERENCE TO COMING WAR GAMES.
+page 19	Air Force and Tank Reserve Men Going to rhineland.
+page 19	Frontier People Not Excited.
+page 19	"Let Us Keep Calm".
+page 19	BORDER LOSSES SEVERE.
+page 19	Russians Announce Casualty List.
+page 19	Joy-Ride Ends Disastrously For Clerk.
+page 19	Child Slave Turned Out: Owner Fined.
+page 19	LOYALISTS CLAIM AIR CICTORY.
+page 19	ISLAMIC UNION TO MEET.
+page 19	BUILDING POWERFUL DEFENCES.
+page 19	Miaja Prepares To Defend Valencia.
+page 19	Women Play Parts In "Dope" Trade.
+page 19	Heroin Store Gets One Year's Prison.
+page 19	MAN CARIER TAKEN.
+page 19	Opium Carrier Captured.
+page 19	TREE BRIGANDS IN CUSTODY.
+page 19	GAMBLELRS LOSE AGAINST LAW.
+page 21	AMERICAN ATHLETES VANQUISH GERMANS.
+page 21	Good Times Despite A Heavy Track.
+page 21	ANOTHER WIN FOR GERMANS.
+page 21	NEW YORK OUTFITS SUCCEED. 
+page 21	Latest Results In U. S. Baseball.
+page 21	INDIA LOSES HOCKEY.
+page 21	FAGG CREATES A WORLD RECORD.
+page 21	OTHER BGI DOUBLES.
+page 21	Davis Cup.
+page 21	AUSTRALIS DEFEATS JAPAN.
+page 21	Quist Obtains Winning Match.
+page 21	FOUR BOWLS MATCHES TO BE DECIDED AT VALLEY.
+page 21	LAFOON WINS BIG GOLF PRIZE.
+page 21	OUR GUIDE TO THE CINEMAS.
+page 23	FRENZIED WELCOME FOR HOWARD HUGHES.
+page 24	Mayfair Prisoner In Court Says 'Chocolates, Please'.
+page 24	JAIL 'BULLY BEEF' MAL UNEATEN.
+page 24	BORROWED 100POUNDS.
+page 24	More Sex Talks In Schools.
+page 24	Handbags For Men?
+page 24	"Rooster" Lays Eggs.
+page 24	Heiress Weds.
+page 24	A COBBLER.
+page 24	BUT HE WILL GO BACK LTO HIS JOB.
+page 24	Sigrid Gurie Gets Divorce, Court Bans.
+page 24	Recriminations.
+page 24	Cholera In nachang.
+page 24	CHOLERA CASES INCREASE BY SEVEN.
+page 24	SHAW HAS DUCE,  HITLER AND FRANCO IN DOCK.
+page 24	SHAMING DESPOTS.
+page 24	INTOLERANT.
+page 24	IF ALIEN BLASPHEMES.
+page 24	He Must Leave The Country.

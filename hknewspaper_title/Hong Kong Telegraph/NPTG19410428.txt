@@ -1,0 +1,311 @@
+page 1	CHURCHILL'S GREAT SPEECH: EXALTED SPIRIT OF PEOPLE.
+page 1	Defends Decision To Give Assistance To Greece.
+page 1	TEXT OF THE SPEECH.
+page 1	In Order To Win.
+page 1	Bombed Areas.
+page 1	Abyssinian Campaign Proceeds.
+page 1	Empcror's Entry.
+page 1	Furthcr Advance.
+page 1	Conquer Or Dre.
+page 1	Balkan Disunity.
+page 1	Babies Beat Bomb.
+page 1	Glass-Littered Cots.
+page 1	Turkey Orders Evacuation Of Civilians from Istanbul.
+page 1	British Colony.
+page 1	MORE AIRMEN REACH BRITAIN.
+page 1	Trained In Canada.
+page 1	NEW ZEALAND.
+page 1	Strength Of Forces.
+page 1	TUST ON KULTUR.
+page 1	Mme Chiang Broadcasts.
+page 1	Red Army Comment.
+page 1	NO AUSTRALIANDISUNITY.
+page 1	Labour Speaks Out
+page 1	National Government.
+page 1	Axis Threat To Egypt: Italians Cross Frontier.
+page 1	Harrying Tactics.
+page 1	Dictators Booed By Dieppe Audience.
+page 1	S'hai Banks Reopen.
+page 1	Hamburg Devastated By New R.A.F. Bombs.
+page 2	British Legion To Make Plans For After The War.
+page 2	Matters To Be Settled.
+page 2	Remembrance Day Record.
+page 2	Beneficiaries.
+page 2	Artillery Practices Notified.
+page 2	To Raise School Leaving Age to 15 After The War.
+page 2	Examination Reform.
+page 2	France's Collapse Ascribed To Drink.
+page 2	Vichy Dispatch.
+page 2	Buying from Britain.
+page 2	New Road Laws If Deaths Increase.
+page 2	Not Satisfied.
+page 2	Takc More Care.
+page 3	Hongkong News of the Week.
+page 3	A Page For The Evacuees.
+page 3	Review Of The Principal Topics April 20 To April 26.
+page 5	TEXT OFCHURCHILL'S STIRRING BROADCAST TO BRITISH EMPIRE.
+page 5	Across Atlantic.
+page 5	Neighbours of grcece.
+page 5	Libyan Reverse.
+page 5	Purging Cirenaica.
+page 5	Other Dangcrs.
+page 5	Atlanlic Lifeline.
+page 5	Countering The Attack.
+page 5	America's Decision.
+page 5	Giving Us The Tools.
+page 5	Weighing The Prospects.
+page 5	HOME SOCCER GATES REMINISCENT OF PRE-WAR GAMES.
+page 5	Rugby League Cup.
+page 5	Chinese Counter Attacks in North.
+page 5	1916 HERO WINS GEORGE MEDAL.
+page 5	Wrote to Paper.
+page 5	Now Dockmaster.
+page 5	Boys' and Girls' Clubs Annual Athletic Meet.
+page 5	TRIBUTE TO NAVY.
+page 5	Hopes For Perfect Wife.
+page 5	The Hussies.
+page 5	Amsterdam Jews Herded In Ghetto.
+page 5	Quisling Threatened.
+page 5	NAZIS KEEP UP POLISH TERROR.
+page 5	Must Sign.
+page 5	Bread Ration.
+page 5	Hearst In Fury Over New Film.
+page 5	Orders Ban.
+page 5	Indictments?
+page 5	.
+page 7	Heel Click Told Nazi's Identity.
+page 7	The Passenger.
+page 7	Didn't Have Card.
+page 7	Importance Of Music Is Stressed.
+page 7	Nazi Pilot Glad To Be In 'Good Old England'
+page 7	Pleased to bc Here.
+page 7	Two Nazi Attempts To Invade Britain Fail.
+page 7	Sea of Fire.
+page 7	Second Attempt.
+page 7	Battle Dress Change.
+page 7	Tunic Design.
+page 7	Dame Of Sark's Messae.
+page 7	QUEEN'S SPEECH FOUND.
+page 7	Where Beer Is Still Free.
+page 7	Boy Of Nine Inherits 291,000pounds.
+page 8	Manifesto Of French Socialists.
+page 8	Perfumers Double War Exports.
+page 8	NO AUSTRALIAN DISUNITY.
+page 8	DUTCHMEN FACE FIRING SQUAD.
+page 8	Lofoten Threat.
+page 8	IN LOVE AT FIRST GLANCE.
+page 8	Escaped from France.
+page 8	Television in Colour: 30Pounds Sets.
+page 8	The Best Yet.
+page 8	PRINCE LEARNS TO FLY.
+page 9	CHURCHILL'S GREAT SPEECH: EXALTED SPIRIT OF PEOPLE.
+page 9	Defends Decision To Give Assistance To Greece.
+page 9	TEXT OF THE SPEECH.
+page 9	In Order To Win.
+page 9	Bombed Areas.
+page 9	Abyssinian Campaign Proceeds.
+page 9	Empcror's Entry.
+page 9	Furthcr Advance.
+page 9	Conquer Or Dre.
+page 9	Balkan Disunity.
+page 9	Babies Beat Bomb.
+page 9	Glass-Littered Cots.
+page 9	Turkey Orders Evacuation Of Civilians from Istanbul.
+page 9	British Colony.
+page 9	MORE AIRMEN REACH BRITAIN.
+page 9	Trained In Canada.
+page 9	NEW ZEALAND.
+page 9	Strength Of Forces.
+page 9	TUST ON KULTUR.
+page 9	Mme Chiang Broadcasts.
+page 9	Red Army Comment.
+page 9	NO AUSTRALIANDISUNITY.
+page 9	Labour Speaks Out
+page 9	National Government.
+page 9	Axis Threat To Egypt: Italians Cross Frontier.
+page 9	Harrying Tactics.
+page 9	Dictators Booed By Dieppe Audience.
+page 9	S'hai Banks Reopen.
+page 9	Hamburg Devastated By New R.A.F. Bombs.
+page 10	Boys' and Girls' Clubs Annual Athletic Meet.
+page 10	British Legion To Make Plans For After The War.
+page 10	Matters To Be Settled.
+page 10	Remembrance Day Record.
+page 10	Beneficiaries.
+page 10	HOME SOCCER GATES REMINISCENT OF PRE-WAR GAMES.
+page 10	France's Collapse Ascribed To Drink.
+page 10	Vichy Dispatch.
+page 10	Buying From Britain.
+page 10	New Road Laws If Deaths Increase.
+page 10	Not Satisfied.
+page 10	Take More Care.
+page 11	Hongkontg News of the Week.
+page 11	Review Od The Principal Topics April 20 To April 26.
+page 13	TEXT OF CHURCHILL'S STIRRING BROADCAST TO BRITISH EMPIRE.
+page 13	Across Atlantic.
+page 13	Ncighbours of Greece.
+page 13	Libyan Revere.
+page 13	Purging Cirenaica.
+page 13	Atlantic Lifeline.
+page 13	Countering The Attack.
+page 13	America's Decision.
+page 13	Giving Us The Tools.
+page 13	Weighing The Prospects.
+page 13	Resources of Freedom.
+page 13	ARGENTINE TRADE CRISIS.
+page 13	Govt, By Decree.
+page 13	Artillery Practices Notified.
+page 13	Jews Herded In Ghetto.
+page 13	TRIBUTE TO NAVY.
+page 13	NO AUSTRALIAN DISUNITY.
+page 13	Labour Speaks Out.
+page 13	National Government.
+page 13	Chinese Counter Attacks in North.
+page 13	REINCARNATIONS.
+page 13	Of Late Panchen Lama.
+page 13	Jacoby In Chungking Representing N.B.C.
+page 13	NAZISKEEP UP POLISH TERROR.
+page 13	Must Sign.
+page 13	Bread Ration.
+page 13	Hearst In Fury Over New Film.
+page 13	Orders Ban.
+page 13	Indictments?
+page 15	Heel Click Told Nazi's Identity.
+page 15	The Passenger.
+page 15	Didn't Have Card.
+page 15	Importance Of Music Is Stressed.
+page 15	Nazi Pilot Glad To Be In 'Good Old England'
+page 15	Pleased to bc Here.
+page 15	Two Nazi Attempts To Invade Britain Fail.
+page 15	Sea of Fire.
+page 15	Second Attempt.
+page 15	Battle Dress Change.
+page 15	Tunic Design.
+page 15	Dame Of Sark's Messae.
+page 15	QUEEN'S SPEECH FOUND.
+page 15	Where Beer Is Still Free.
+page 15	Boy Of Nine Inherits 291,000pounds.
+page 16	Manifesto Of French Socialists.
+page 16	Perfumers Double War Exports.
+page 16	DUTCHMEN FACE FIRING SQUAD.
+page 16	IN LOVE AT FIRST GLANCE.
+page 16	Escaped from France.
+page 16	Television in Colour: 30pounds Sets.
+page 16	The Best Yet.
+page 16	PRINCE LEARNS TO FLY.
+page 17	CHURCHILL'S GREAT SPEECH: EXALTED SPIRIT OF PEOPLE.
+page 17	Defends Decision To Give Assistance To Greece.
+page 17	TEXT OF THE SPEECH.
+page 17	In Order To Win.
+page 17	Bombed Areas.
+page 17	Conquer Or Die.
+page 17	Balkan Disunity.
+page 17	Occupation Of Athens.
+page 17	Radio Broadcasts In German.
+page 17	Nazi Communique.
+page 17	In North Africa.
+page 17	Japan wants Non-Aggression Pact With the United States.
+page 17	BULLITT AND CHINA AID.
+page 17	Powerful Plea.
+page 17	Soviet-Japan Pact. 
+page 17	Everyboby,s Enemy.
+page 17	Violent Earthquake.
+page 17	Seizures In Shanghai.
+page 17	Destined For Foochow.
+page 17	Dictators Booed By Dieppe Audience.
+page 17	Traffic Accident.
+page 17	Babies Beat Bomb.
+page 17	Glass-Littered Cots.
+page 17	BRITISH WARSHIP.
+page 17	In U.S. For Repairs.
+page 17	Closely Guarded.
+page 17	Axis Start Big Drive On Suez And Alexandria.
+page 17	Possible Nazi Objective.
+page 17	Activity near Sollam.
+page 17	Tokyo Press Accuses Indo-China.
+page 17	Hamburg Devastated By New R.A.F. Bombs.
+page 18	HOME SOCCER GATES REMINISCENT OF PRE-WAR GAMES.
+page 18	Turkey Orders Evacuation Of Cuvilans from Istanbul.
+page 18	British Colony.
+page 18	Chinese Counter Attacks in North.
+page 18	Scotland Raided.
+page 18	Jacoby In Chungking Representing N.B.C.
+page 18	ITALIAN PRIEST TO PAY $50.
+page 18	Nominal Fine.
+page 18	Shanghai Banks Reopen.
+page 18	Caught In The Act.
+page 18	Red Army Comment.
+page 18	French Concession Coolies' Demands.
+page 18	Assistance For China.
+page 18	Stabilising Finances.
+page 18	Immigration Assistant Charged.
+page 18	Showed A Badge.
+page 18	Chinese Minister To Canderra.
+page 18	Acquitted Of Murder.
+page 18	Indian Watchman Leaves Dock.
+page 18	Identification.
+page 18	Wounds.
+page 18	Attempted Export Of Petrol.
+page 18	$250 Fines Imposed.
+page 18	Bail Estreated.
+page 18	Took Tools From Motorcar.
+page 19	Hongkong Nwws of the Week.
+page 19	A Page For The Evacuees.
+page 19	Review Of The Principal Topics April 20 To April 26.
+page 21	TEXT OF CHURCHILL'S S STIRRING BROADCAST TO BRITISH EMPIRE.
+page 21	Across Atlantic.
+page 21	Ncighbours of Greece.
+page 21	Libyan Reverse.
+page 21	Purging Cirenaica.
+page 21	Other Dangers.
+page 21	Arlantic Lifeline.
+page 21	Countering The Attack.
+page 21	Amcrica's Decision.
+page 21	Giving Us The Tools.
+page 21	Weighing The Prospects.
+page 21	Resources of Freedom.
+page 21	MORE AIRMEN REACH BRITAIN.
+page 21	Trained In Canada.
+page 21	Abyssininan Campaign Proceeds.
+page 21	Emperor's Entry.
+page 21	Further Advance.
+page 21	NO AUSTRALIAN DISUNITY.
+page 21	LABOUR Speaks Out.
+page 21	National Gouernment.
+page 21	ARGENTINE TRADE CRISIS.
+page 21	NEW ZEALAND.
+page 21	Strength Of Forces.
+page 21	NAZIS KEEP UP POLISH TERROR.
+page 21	Must Sign.
+page 21	Bread Ration.
+page 21	Hearst In Fury Over New Film.
+page 21	Orders Ban
+page 21	Indictments?
+page 23	Heel Click Told Nazi's Identity.
+page 23	The Passenger.
+page 23	Didn't Have Card.
+page 23	Importance Of Music Is Stressed.
+page 23	Nazi Pilot Glad To Be In 'Good Old England'
+page 23	Battle Dress Change.
+page 23	Tunic Design.
+page 23	Two Nazi Attempts To Invade Britain Fail.
+page 23	Sea of Fire.
+page 23	Second Attempt.
+page 23	Dame Of Sark's Message.
+page 23	QUEEN'S SPEECH FOUND.
+page 23	Where Beer Is Still Free.
+page 23	Boy OF nine Inherits 291,000Pounds.
+page 24	Axis Start Drive On Suez & Alexandria.
+page 24	Axis Threat to Egypt.
+page 24	Harrying Tactics.
+page 24	OCCUPATION OF ATHENS.
+page 24	BULLITT AND CHINA AID.
+page 24	COMMENT ON ROOSEVELT VISIT.
+page 24	RUST ON KULTUR.
+page 24	BRITISH Fireman's Troubles On Board Greek Steamer.
+page 24	Escorted to ship.
+page 24	Locked Up.
+page 24	No Use Reporting.
+page 24	Money to Go Ashore.
+page 24	Jews Herded In Ghetto.
+page 24	Quisling Threatened.

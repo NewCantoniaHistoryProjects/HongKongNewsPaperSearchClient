@@ -1,0 +1,393 @@
+page 1	SWAGGER OUTFITS.
+page 1	Plaid &Plain..
+page 1	Easy-to-Make.
+page 1	Vegetable Pie.
+page 1	FASHION NOTES.
+page 1	RADIO.
+page 1	Studio Saxophone Recital By Palapo.
+page 1	GRAVE DIFFICULTIES.
+page 1	Philippines Commissioner Voices a Warning.
+page 1	DARDANUS MAIL.
+page 1	Brought From Canton By Japanese Steamer.
+page 2	Sirdhana Goes Down In Fifteen Minutes After Striking Mine.
+page 2	DRAMATIC RESCUE SCENES AS B. I. LINER SINKS.
+page 2	POLICE INSPECTOR SAVES 137 WITH REVOLVER SHOT.
+page 2	Netherlanders Urged To Keep Calm And Prepare For Every Eventuality.
+page 2	IGNORE RUMOURS, SAYS PREMIER.
+page 2	Increase In Unemployed.
+page 2	Labour Minister's Warning.
+page 2	BURMAH'S NEW AERODROME.
+page 2	BRITAIN'S WITHDRAWAL OF TROOPS.
+page 2	No Question Of "Sell Out" To Japan.
+page 2	South Africa To Subsidise Her Exports.
+page 2	LITHUANLA TO HELP JEWS.
+page 2	DESPERATE NAZI NAVY.
+page 2	Has To Resort To Ruthlessness.
+page 2	NAZI SYSTEM MUST PERISH.
+page 2	Declares "freedom" Broadcast.
+page 2	FINLAND'S POSITION EXPLAINED.
+page 2	Cannot Concede The South Baltic Port.
+page 2	AIR ACTIVITY INTENSIFIED:NAZI RAIDS REPELLED.
+page 2	TWO PILOTS RELEASED.
+page 3	Cricket Comments.
+page 3	IDEAL MIXTURE.
+page 3	A Splendid Finish.
+page 3	The Central British School.
+page 3	UNION INSURANCE SOCIETY OF CANTON LTD.
+page 3	Another School Side.
+page 3	Middlesex Win.
+page 3	Cards
+page 3	Underwriters Confident.
+page 3	New War-Risk Rate For Shanghai.
+page 3	NAZI LABOUR PROBLEM.
+page 3	Where Britain Has Big Advantage.
+page 3	Pope's Broadcast To America.
+page 3	French Withdraw N. China Troops.
+page 3	NAZI AIRMEN RESCUED.
+page 3	EIRE AND TRADE WITH U.S.
+page 3	CITY OF FLINT TO GO FREE.
+page 3	THE KING HAS A 16-HOUR DAY.
+page 3	EX-KAISER'S SON QUITS.
+page 3	FINLAND'S POSITION EXPLAINED.
+page 3	Frontier Commission To Be Named.
+page 3	Japan Gets Domestic Courts.
+page 3	Baby Born In New Jail.
+page 3	Zeppelin Twins Married.
+page 3	London Has Used Up 12,000 Gallons of Paint.
+page 4	SWAM TO SAVE SKIPPER.
+page 4	No Names: No Firing Squad.
+page 4	What U.S.A. Is Thinking To-day.
+page 4	Long Lost Watch Plowed Up.
+page 4	"I Destroyed Terrifying Weapon" Says Inventor.
+page 4	DEATH RAY KILLED AT FOUR-MILE RANGE.
+page 4	Afghan Move by Soviet Minimized by Britain.
+page 5	Behind Hate's Mists.
+page 5	An American journalist says...
+page 5	Too much fussand nonsense!
+page 5	THREE GERMANS.
+page 6	SIRDHANA SUNK BY A MINE.
+page 6	EN ROUTE FOR HONGKONG.
+page 6	WESTERN FRONT.
+page 6	THREE GERMANS.
+page 6	NO REASON FOR RUMOURS OF DISASTER TO BE SPREAD.
+page 6	Seattle Shaken By Quake.
+page 6	CHINESE LABOURERS WANTED.
+page 6	LORD ROTHERMERE PUT IN WITNESS STAND.
+page 6	Dutch Prime Minister Deprecates Alarm: German Army Split?
+page 6	CENTRAL EXECRTIVE.
+page 6	Japanese Satisfied With Move.
+page 6	Upset Stomach Quickly Put Right.
+page 10	War Minister's Statement To Commons Reveals New Facts.
+page 10	HOW THE BRITISH ARMY IS FARING ON WESTERN FRONT.
+page 10	Goebbels libels Vatican in Berlin Newspaper.
+page 10	Tuberculosis In Colony.
+page 11	PLANES BOMB SUBMARINE.
+page 11	Believed Direct Hit Was Made.
+page 11	SHORTAGE OF PORK.
+page 11	Decrease In Importation Of Pigs from China.
+page 11	DONATION TO FUND.
+page 11	Gestapo Now Arresting Each Other.
+page 12	Sirdhana. Goes Down In Fifteen Minutes After Striking Mine.
+page 12	DRAMATIC RECUE SCENES AS B. I. LINER SINKS.
+page 12	POLICE INSPECTOR SAVES 137 WITH REVOLVER SHOT.
+page 12	Netherlanders Urged To Keep Calm And Prepare For Every Eventuality.
+page 12	IGNORE RUMOURS, SAYS PREMIER.
+page 12	Increase In Unemployed.
+page 12	Labour Minister's Warning.
+page 12	BURMAH'S NEW AERODROME.
+page 12	BRITAIN'S WITHDRAWAL OF TROOPS.
+page 12	No Question Of "Sell Out" To Japan.
+page 12	South Africa To Subsidise Her Exports.
+page 12	LITHUANIL TO HELP JEWS.
+page 12	DESPERATE NAZI NAVY.
+page 12	Has To Resort To Ruthlessness.
+page 12	NAZI SYSTEM MUST PERISH.
+page 12	Declares "Freedom" Broadcast.
+page 12	FINLAND'S POSITION EXPLAINED.
+page 12	Cannot Concede The South Baltic Port.
+page 12	AIR ACTIVITY INTENSIFIED: NAZI RAIDS REPELLED.
+page 12	SPECIAL TO THE "TELECRAPH."
+page 12	East Coast Air Fight.
+page 12	RATIONLNG AT HOME.
+page 12	Cards For Butter And Bacon.
+page 12	"NEW DEAL" FOR CHINA.
+page 12	Generalissimo Lays Down Ten Points.
+page 12	LATESTT.
+page 12	Japanese Warplane Due In Hongkong.
+page 13	CLASSIFIED ADVERTISEMENTS.
+page 13	NEW ADVERTISEMENTS.
+page 13	UNION INSURANCE SOCIETY OF CANTON, LTD.
+page 13	U.S. COMMODITY PRICES.
+page 13	LATEST OABLED QUOTATIONS.
+page 13	Underwriters Confident.
+page 13	New War-Risk Rate For Shanghai.
+page 13	NAZILABOUR PROBLEM.
+page 13	Where Britain Has Big Advantage.
+page 13	AIR ACTIVITY INTENSIFIED:NAZI RAIDS REPELLED.
+page 13	EIRE AND TRADE WITH U.S.
+page 13	CITY OF FLINT TO GO FREE.
+page 13	THE KING HAS A 16-HOUR DAY.
+page 13	TEA SERVED ON DESK.
+page 13	EX-KAISER'S SON QUITS.
+page 13	FINLAND'S POSITION EXPLAINED.
+page 13	Frontier Commission To Be Named.
+page 13	Japan Gets Domestic Courts.
+page 13	Zeppelin Twins Married.
+page 13	London Has Used UP 12,000 Gallons of Paint.
+page 13	ZBW ALL-IN BEE.
+page 13	POST OFFICE.
+page 14	DONALD DUCK.
+page 14	SWAM TO SAVE SKIPPER.
+page 14	INSECT BITES AND SCRATCHES ARE DANGER POINTS!
+page 14	ABSORBINE JR.
+page 14	No Names: No Firing Squad.
+page 14	What U.S.A. Is Thinking To-day.
+page 14	Long Lost Watch Plowed UP.
+page 14	"I Destroyed Terrifying Weapon" Says Inverutor.
+page 14	DEATH RAY KILLED AT FOUR-MILE RANGE.
+page 14	As They See It Abroad.
+page 14	Afghan Move by Soviet Minimised by Britain.
+page 15	An American journalist says...
+page 15	Too much fuss and nonsense!
+page 15	King's Christmas Day Message To Empire.
+page 15	GRIN AND BEAR IT By Lichty.
+page 15	THREE GERMANS.
+page 16	Contraband Control Improvement.
+page 16	Delay To Ships Is Decroasing.
+page 16	River Tragedy.
+page 16	Over 50 Drowned In Shanghai Accident.
+page 16	NEW JOB FOR SIR ARTHUR SALTER.
+page 16	London Markets Cheerful.
+page 16	Fishing Industry Re-Organisation.
+page 16	THREE GERMANS.
+page 16	Wang Follower Shot Dead.
+page 16	Gunmen Assassinate Restaurant Diner.
+page 16	Canadian Wheat Crop Record.
+page 16	Pope's Broadcast To America.
+page 16	KING AND QUEEN ATTEND CINEMA.
+page 16	London's "Tubes" To Re-open.
+page 16	French Withdraw N. China Troops.
+page 16	60-CENT STAMP REALISES 300Pounds.
+page 16	NAZI AIRMEN RESCUED.
+page 16	CHARITY FUNCTION.
+page 16	For Relief Of Distress In China.
+page 16	TWO PILOTS RELEASED.
+page 16	Big Army To Be Recruited.
+page 16	Red Cross Fund Now Totals 625Punds.
+page 16	STOCK MARKET REPORT.
+page 16	Exchange At A Glance.
+page 16	H.K. Stock Market.
+page 16	Private Car Parks.
+page 16	Baby Born In New Jail.
+page 16	Withdrawal Of.
+page 16	Troops.
+page 16	Japanese Satisfied With Move.
+page 16	JAPAN AND RUSSLA.
+page 16	Upset Stomach Quickly Put Right.
+page 17	"R. Abbit's" Crickct Comments.
+page 17	EXCELLENT GAME ON CLUB GROUND.
+page 17	Civil Service C.C. Win: Richardson and Pearce In Fine Batting Form.
+page 17	SPORT ADVTS.
+page 17	THE HONG KONG JOCKEY CLUB.
+page 17	Megan Taylor Turns lce Professional.
+page 17	Basketball.
+page 17	Colony Girls Win By Last Minute Goal.
+page 17	Hockey Incident Probed.
+page 17	H.K.F.A. Team For Governor's Cup.
+page 17	Football.
+page 17	Chinese Win Charity Game In S'hai.
+page 17	Football pools.
+page 17	Correspondence Too Heavy For Present Conditions.
+page 17	GOLF AVERAGES.
+page 17	S. L. King Heads 1939 List With 72.87.
+page 17	Apology To Be Sent To The Umpire.
+page 17	Adamson Cup Qualifiers.
+page 18	PHOTONEWS.
+page 18	A Look Through The "Telegraph."
+page 18	50 YEARS ACO.
+page 18	BANKS.
+page 18	THE CUARTERED BANK OF INDLA, AUTRALIA & CHINA.
+page 18	CONSIGNEES'NOTICE.
+page 18	SERVICES CONTRACTURLS DES MESSAGERIES MARITIMES.
+page 19	War Minister's Statcment To Commons Reveals New Facts.
+page 19	HOW THE BRITISH ARMY IS FARING ON WESTERN FRONT.
+page 19	Goebbels libels Vatican in Berlin Newspaper.
+page 19	Tuberculosis In Colony.
+page 20	PLANES BONB SUBMARINE.
+page 20	Belioved Direct Hit Was Made.
+page 20	SHORTAGE OF PORK.
+page 20	Decrease In Importation Of Pigs from China.
+page 20	LATE NEWS.
+page 20	DONATION TO FUND.
+page 20	Munich Plot Sequel.
+page 20	Gestapo Now Arresting Each Other.
+page 21	Two Armies Wait With Guns Cocked on Western Front.
+page 21	SILENT HATRED NOW REPLACES EARLY-WARBANTER.
+page 21	EVERYTHINC IN READINESS FOR FIRST BIG BATTLE.
+page 21	Netherlanders Urged To Keep Calm And Prepare For Every Eventuality.
+page 21	FATEFUL THREE DAYS FOR DUTCH.
+page 21	FINLAND'S POSITION EXPLAINED.
+page 21	Cannot Concede The South Baltic Port.
+page 21	HUT, ONE, FOR SERVANT, CIVIL.
+page 21	"NEW DEAL" FOR CHINA.
+page 21	Generalissimo Lays Down Ton Points.
+page 21	13,000 TON SHIP SUNK.
+page 21	Japanese Steamer Rescues Passengers.
+page 21	AIR RAID ON CANTON.
+page 21	Chinese Warplanes Bomb Military Establishments.
+page 21	No Betrayal By Britain.
+page 21	Archbishop Pleas For Federation.
+page 21	CARTOON.
+page 21	SEQUEL.
+page 21	Japanese Warplane To Bring 2 Britons.
+page 21	To Hongkong After Detention In Canton.
+page 21	DARDANUS PILOTS ALLOWED FREEDOM.
+page 21	BRITAIN'S WITHDRAWAL OF TROOPS.
+page 21	No Question Of "Sell Out" To Japan.
+page 21	SWEDISH SHIP IN FLAMES.
+page 21	Member Of Crew Lost In Yokohama Blaze.
+page 21	Dramatic Rescue Scenes As Sirdhana. Somls Within Sight Of Singapore.
+page 21	POLICE OFFICER SAVES 137 CHINESE WITH REVOLVER.
+page 21	LATEST.
+page 21	GAYDA'S "WARNING" TO BRITAIN AND FRANCE.
+page 21	SPECIAL TO THE "TELEGRAPH."
+page 22	CLASSIFIED ADVERTISEMENTS.
+page 22	FOR SALE.
+page 22	TO LET.
+page 22	Cricket Comments.
+page 22	(By "R. Abbit")
+page 22	NEW ADVERTISEMENTS.
+page 22	UNION INSURANCE SOCIETY OF CANTONL, LTD.
+page 22	Notlce to Shnreholders.
+page 22	POLICE OFFICER SAVES 137 CHINESE WITH REVOLVER.
+page 22	French Withdraw N. China-Troops.
+page 22	SILENT HATRED NOW REPLACES EARLY WAR BANTER.
+page 22	NAZI AIRMEN RESCUED.
+page 22	BURMAH'S NEW AERODROME.
+page 22	BRITAIN'S WITHDRAWAL OF TROOPS.
+page 22	13,000 TON SHIP SUNK.
+page 22	British Destroyer Attacks German Stesmer.
+page 22	London's "Tubes" TO Re-open.
+page 22	FINLAND'S POSITION EXPLAINED.
+page 22	American War Business.
+page 22	Billion Dollars Worth Of Orders Expected.
+page 22	POST OFFICE.
+page 22	FATEFUL THREE DAYS FOR DUTCH.
+page 23	STOCK MARKET REPORT.
+page 23	TWO EUROPEANS ROBBED.
+page 23	Junk Pirated By Armed Men.
+page 23	Parked Too Long.
+page 23	Pressman's Loss.
+page 23	INSECT BITES AND SCRATCHES ARE DANGER POINTS!
+page 23	ABSORBINE JR.
+page 23	U.S. COMMODITY PRICES LATEST CABLED QUOTATIONS.
+page 23	LITHUANIA TO HELP JEWS.
+page 23	Stolen Car Found Abandoned.
+page 23	Anglo-Soviet Talks Still Continue.
+page 23	Million Dollar Quake Damage.
+page 23	Fine For Cruelty To Chickens.
+page 23	KNOCKED DOWN BY TRAMCAR.
+page 23	Petrol Price Up In England.
+page 23	"I Destroyed Terrifying Weapon" Says Inventor.
+page 23	DEATH RAY KILLED AT FOUR-MILE RANGE.
+page 23	As They See It Abroad.
+page 23	Afghan Move by Soviet Minimised by Britain.
+page 24	An American journalist says...
+page 24	Too much fuss and nonsense!
+page 24	King's Christmas Day Message To Empire.
+page 24	GRIN AND BEAR IT By Lichty.
+page 24	THREE GERMANS.
+page 25	Judgment Reserved In Appeals Court Case.
+page 25	COUNSEL ON CHINA'S LEGAL SOVEREIGNTY.
+page 25	Reports From China War Front.
+page 25	Bitter Fighting Rages.
+page 25	Robbery Plot Nipped In The Bud.
+page 25	Police Break Up Gang In Divan.
+page 25	THREE GERMANS.
+page 25	Several Women Victims Of Handbag Snatchers.
+page 25	"Be It Ever So Humble-But It.
+page 25	Is Doubtful Whether-
+page 25	"Under The Staircase At 44 Tai Nam ST." Can Be Called Home.
+page 25	Munich Plot Sequel.
+page 25	Gestapo Now Arresting Each Other.
+page 25	Contraband Control Improvement.
+page 25	Delay To Ships Is Decreasing.
+page 25	Upset Stomach Quickly Put Right.
+page 26	"R. Abbit's" Cricket Comments.
+page 26	EXCELLENT GAME ON CLUB GROUND.
+page 26	Civil Service C.C. Win: Richardson and Pearce In Fine Batting Form.
+page 26	SPORT ADVTS.
+page 26	THE HONG KONG JOCKEY CLUB.
+page 26	Megan Taylor Turns lce Professional.
+page 26	Basketball.
+page 26	Colony Girls Win By Last Minute Goal.
+page 26	Hockey Incident Probed.
+page 26	H.K.F.A. Team For Governor's Cup.
+page 26	Football.
+page 26	Chinese Win Charity Game In S'hai.
+page 26	Football Pools.
+page 26	Correspondence Too Heavy For Present Conditions.
+page 26	GOLF AVERAGES.
+page 26	S. L. King Heads 1939 List With 72.87.
+page 26	Apology To Be Sent To The Umpire.
+page 26	Adamson Cup Qualifiers.
+page 27	NAZI SYSTEM MUST PERISH.
+page 27	Declares "Freedom" Broadcast.
+page 27	Increase In Unemployed.
+page 27	Labour Minister's Warning.
+page 27	DESPERATE NAZI NAVY.
+page 27	Has To Resort To Ruthlessness.
+page 27	South Africa To Subsidise Her Exports.
+page 27	Baby Born In New Jail.
+page 27	RATIONING AT HOME.
+page 27	Cards For Butter And Bacon.
+page 27	Underwriters Confident.
+page 27	New War-Risk Rate For Shanghai.
+page 27	NAZI LABOUR PROBLEM.
+page 27	Where Briain Has Big Advantage.
+page 27	Canadian Wheat Crop Record.
+page 27	River Tragedy.
+page 27	Over 50 Drowned In Shanghai Accident.
+page 27	KING AND QUEEN ATTEND CINEMA.
+page 27	Exchange At A Glance.
+page 27	H.K. Stock Market.
+page 27	A Look Through The "Telegraph."
+page 27	50 YEARS AGO.
+page 27	BANKS.
+page 27	THE CHAETERED DANK OF INDIA,AUSTRALIA & CHINA.
+page 27	CONSIGNEES' NOTICE.
+page 27	SERVUCES CONTRACTUELS DES MESSAGERIES MARITIMES.
+page 28	Vegetable Pie.
+page 28	FASHION NOTES.
+page 28	RADIO.
+page 28	GRAVE DIFFICULTIES.
+page 28	Philippines Commissioner Voices a Warning.
+page 28	DARDANUS MAIL.
+page 28	Brought From Canton By Japanese Steamer.
+page 29	AIR ACTIVITY INTENSIFIED: NAZI RAIDS REPELLED.
+page 29	Stole Ear-Rings From Woman.
+page 29	NEW JOB FOR SIR ARTHUR SALTER.
+page 29	Wang Follower Shot Dead.
+page 29	Gunmen Assassinate Restaurant Diner.
+page 29	60-CENT STAMP REALISES 300pounds.
+page 29	London Markets Cheerful.
+page 29	Fishing Industry Re-Organisation.
+page 29	Frontier Commission To Be Named.
+page 29	Japan Gets Domestic Courts.
+page 29	EIRE AND TRADE WITH U.S.
+page 29	CITY OF FLINT TO GO FREE.
+page 29	Cabaret Items At Peninsula Dance.
+page 29	Big Army To Be Recruited.
+page 29	Red Cross Fund Now Totals 652,000pounds.
+page 30	PLANES BOMB SUBMARINE.
+page 30	Believed Direct Hit Was Made.
+page 30	CHARITY FUNCTION.
+page 30	For Relief Of Distress In China.
+page 30	LATE NEWS.
+page 30	GUN KILLS SERGEANT.
+page 30	WITHDRAWAL COMMENCES.
+page 30	DONATION TO FUND.
+page 30	Fine Japanese Salvage Feat.
+page 30	Wrecked Australian Liner Towed To Osaka.
+page 30	Pope's Broadcast To Americe.
+page 30	Long Lost Watch Plowed Up.

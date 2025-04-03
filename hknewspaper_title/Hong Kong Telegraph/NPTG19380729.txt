@@ -1,0 +1,365 @@
+page 1	SWEEPING REFORMS IN BRITISH ARMY.
+page 1	PROMOTIONS SPEEDED BY NEW RULING.
+page 1	2,000 Officers To Get Higher Rank August.
+page 1	Private Means Unnecessary.
+page 1	12 Months' Warning.
+page 1	Explorers Plan Flight Over Southern Pole.
+page 1	FATE OF ITALIAN JEWS IN BALANCE.
+page 1	Rome To Preserve "Racial Purity."
+page 1	RANGOON RIOTING KILLS 40.
+page 1	British Regiment Called Out.
+page 1	Machine-Guns In Streets.
+page 1	40 NOW DEAD.
+page 1	Sabotage On Vancouver's Waterfront.
+page 1	AMERICAN WOMAN ON AIR ADVENTURE: COMING TO COLONY.
+page 1	REDS ARRESTED IN ATHENS.
+page 1	JAPAN RE-OPENS CONSULATE.
+page 1	"Tipperary's" Author, Jack Judge, Is Dead.
+page 1	Wrote Famous Song In Five Minutes.
+page 1	KINGSTON FEARS DISORDER.
+page 1	Chinese Launch Determined Counter-Offensive.
+page 1	REAR OF JAPANESE AT KIUKIANG NOW GRAVELY MENACED.
+page 1	Lion Hill Sector Still In Defenders' Hands Is Claim.
+page 1	Japan Combats Tendencies To Soclism.
+page 1	Two Killed In British Merchantman.
+page 1	Shrapnel Flew In Air Raid.
+page 1	INSURGENTS CHECK DRIVE.
+page 1	Suspect plot To Restore Hohenzollerns.
+page 1	LITTLE BOY FLUNG OUT OF CAR.
+page 5	DARING SHANCHAI ROBBERY.
+page 5	Chinese Gang Makes Haul Of Metal.
+page 5	RESCUE BY POLICEMAN.
+page 5	PRIEST STILL MISSING.
+page 5	Father Jacquinot's Mystery Deepens.
+page 5	DINNER IN HOTEL.
+page 7	WHAT IS THE JOY OF LIVING WORTH?
+page 7	Judge On Husbands Made More Valuable By Death.
+page 7	SENTENCE IS 'DEATH.'
+page 7	WOMAN DOCTOR OPERATES AT SEA.
+page 7	Saves Girl's Life.
+page 7	He Coped With Tongue-Twister, But Was Drunk.
+page 7	Old Foes Fly to Honour Comrades.
+page 7	Rosita Forbes Sues Travel Company.
+page 7	"CEREMONIAL VISITS."
+page 7	MEETING HELD.
+page 9	WHO IS RIGHTFUL CHAMPION?
+page 9	WOMEN'S COLF.
+page 9	Mrs. Holmes Wins Medal Play At Valley.
+page 9	BOWLS PLAYERS SELECTED.
+page 9	Carrier Pigeon Stops For Food.
+page 9	ATTEMPT TO SWIM BALTIC SEA.
+page 9	KNOTTY PROBLEM AT OVAL.
+page 9	"Run Out" Or "Stumped?"
+page 9	ARMY WATER POLO.
+page 9	Inter-Unit Competition Final And Semi-Finals.
+page 11	NEWS OF THE DAY IN PICTURES FROM FAR AND NEAR.
+page 11	PHOTONEWS.
+page 11	HAPPENINGS AS SEEN BY THE CAMERA'S EYE.
+page 12	Japan Ships Sunk Off Namoa Island.
+page 12	Chinese Newspapers Report.
+page 12	CHINESE STILL RESISTING.
+page 12	Government Holds Seat.
+page 12	But Majority Much Reduced.
+page 12	West Indies Commission Appointed.
+page 12	To Study Social And Economic Conditions.
+page 12	FLIERS MISSING 14 HOURS.
+page 12	Premier Of Ontario One Of Party.
+page 12	ON PLEASURE TRIP.
+page 12	Austrian "Krupps" For England.
+page 12	BRIDES FOR JAPANESE WOUNDED.
+page 12	WARNING AGAINST CHQLERA.
+page 12	Director Of Medical Service Gives Advice.
+page 12	London Girl Wins Diving Event Again.
+page 13	GUERILLAS VICTORIOUS IN EAST HOPEI.
+page 13	GRAVE FEAR FOR SAETY OF SETTLERS.
+page 13	10,000 Kereans in Area Over -Run by Raiders.
+page 13	Japanese Withdrawing.
+page 13	POISON GAS USED BY INVADERS.
+page 13	British Surgeon Confirms Report.
+page 13	NO MORE HANDSHAKES.
+page 13	FATHER JACQUINOT FOUND.
+page 13	But Mystery Of Disappearance Still Remains.
+page 13	STAYING WITH FRIEND.
+page 13	WEEK-OLD MYSTERY.
+page 13	Sweeping Reforms Planned For British Army.
+page 13	PROTESTS AGAINST REFUGEE CAMP SITES.
+page 13	Disease, Noise And Crime Prospects Worry Ratepayers.
+page 13	CHARITY MUST BE CONTROLLED.
+page 13	Drastic Reforms Necessary.
+page 13	No Statement On Arms Cost.
+page 13	ANGLO-JAPANESE RELATIONS HURT BY TALK OF CHINA AID.
+page 13	SHANGHAI LIVING COSTS SOARING.
+page 13	And Worse Is Yet To Come.
+page 13	TRYING TO AVOID INCIDENTS.
+page 13	PROMOTIONS SPEEDED BY NEW RULING.
+page 13	2,000 Officers To Get Higher Rank August 1.
+page 13	Private Means Unnecessary.
+page 13	LOYALIST ADVANCE UNCHECKED.
+page 13	Many Prisoners In Ebro Offensive.
+page 13	On the Ebro River Front,
+page 13	Leaving For Chungking.
+page 13	Three Years' Hard Labour.
+page 15	Chinese Launch Determined Counter-Offensive.
+page 15	REAR OF JAPANESE AT KIUKIANG NOW GRAVELY MENACED.
+page 15	Lion Hill Sector Still In Defenders' Hands Is Claim.
+page 15	Japanese Bomb Changshu.
+page 15	War on Guerillas.
+page 15	Intense Fighting Around Taihu.
+page 15	Japan Ships Sunk Off Namoa Island.
+page 15	Chinese Newspapers Report.
+page 15	CHINESE STILL RESISTING.
+page 15	London Girl Wins Diving Event Again.
+page 15	KING LEAVES FOR HOLIDAY.
+page 15	WARNING AGAINST CHOLERA.
+page 15	Director Of Medical Service Gives Advice.
+page 15	West Indies commission Appointed.
+page 15	To Study Social And Economic Conditions.
+page 15	FLIERS MISSING 14 HOURS.
+page 15	Premier Of Ontario One Of Party.
+page 15	ON PLEASURE TRIP.
+page 15	Anstrian "Krupps" For England.
+page 15	BRIDES FOR JAPANESE WOUDED.
+page 17	Two Killed In British Merchantman.
+page 17	Shrapnel Flew In Air Raid.
+page 17	INSURGENTS CHECK DRIVE.
+page 17	Raced With Another Car, Police Allege.
+page 17	EUROPEANS IN COURT.
+page 17	DIES UF BURNS.
+page 17	RANGOON RIOTING KILLS 40.
+page 17	British Regiment Called Out.
+page 17	Machine-Guns In Streets.
+page 17	40 NOW DEAD.
+page 17	RELIGIOUS QUARREL.
+page 17	KINGSTON FEARS DIDORDER.
+page 17	"Tipperary's" Author, Jack Judge, Is Dead.
+page 17	Wrote Famous Song In Five Minutes.
+page 17	Confectionery Store Robbed By Employee.
+page 17	Japan Combats Tendencies To Socialism.
+page 19	WHAT IS THE JOY OF LIVING WORTH?
+page 19	Judge On Husbands Made More Valuable By Death.
+page 19	DRIVERS FINED.
+page 19	Speeding In Areas Under Control.
+page 19	Prince Edward Road Raid For Opium Succeeds.
+page 19	Explorers Plan Flight Over Southern Pole.
+page 19	He Coped With Tongue-Twister, But Was Drunk.
+page 19	German Air Ace Sets New Speed Record.
+page 19	Reich Airmen Also Gain Altitude Records.
+page 19	NEW ALTITUDE RECORD.
+page 19	SWEEPING REFORMS PLANNED FOR BRITISH ARMY.
+page 19	12 Months' Warning.
+page 19	LITTLE BOY FLUNG OUT OF CAR.
+page 19	Plans Made To Evacuate In Wartime.
+page 19	Britain Studying Difficult Problem.
+page 19	Suspect Plot To Restore Hohenzollerns.
+page 19	STOCK MARKET DULL, RALLIES.
+page 19	FATHER JACQULUOT FOUND.
+page 19	REDS ARRESTED IN ATHENS.
+page 19	PRESIDENT DOUMER DUE.
+page 19	QUICK RECOVERY AFTER ILLNESS.
+page 19	FORGING LINK IN EMPIRE COMMUNICATION.
+page 19	FAILED TO TELL OF MOVING.
+page 20	BRADMAN HITS DOUBLE CENTURY AGAINST SOMERSET.
+page 20	TOURISTS IN A GOOD POSITION AT TAUNTON.
+page 20	BADCOCKHELPS CAPTAIN TO PUT UP FINE SCORE.
+page 20	COMPTON HAS A DECISION TO MAKE.
+page 20	Cricket Or Soccer For Young Athlete.
+page 20	JAPANESE ESTABLISH GOOD LEAD.
+page 20	Two Up In Davis cup Match.
+page 20	ONLY PROVEN ATHLETES WILL BE SELECTED.
+page 20	U. S. Departs From Olympics Tradition.
+page 20	NEW RULES.
+page 20	"BABE" DIDRIKSON TO MARRY WRESTLER.
+page 20	Oxford Makes Good Start In Annual University Match.
+page 20	But Last Seven Wickets Fall For 104 Runs.
+page 20	LOMAS' SLOW START.
+page 20	HEWAN'S SIX WICKETS.
+page 20	STEADY RUN-GETTING.
+page 20	LOMAS RDOPPED.
+page 20	TROUBLE STARTS.
+page 20	Primo Carnera Makes Artsitic Debut.
+page 20	EDDIE SIMMS SUSPENDED BY COMMISSION.
+page 20	HISTORY REVEALS HEAVYWEIGHTS NEVER COME BACK.
+page 20	But Jim Corbett Took A Long Time In Order To Be Convinced.
+page 20	New York, July 10.
+page 20	TOO FAST.
+page 20	THEN CAME THE END.
+page 20	DREAM SHATTERED.
+page 20	Benny Lynch May Fight As Featherweight.
+page 20	Lessons Of Bout With Jurich.
+page 20	AN INVESTIGATION.
+page 20	JURICH TO STAY HERE.
+page 21	KNOTTY PROBLEM AT OVAL.
+page 21	"Run Out" Or "Stumped?"
+page 21	fred Steed Retires From The Ring.
+page 21	WHO IS RIGHTFUL CHAMPION?
+page 21	POINTS DECISION.
+page 21	CRICKET SCORES.
+page 21	Chinese Found With Revolver.
+page 21	ATTEMPT TO SWIM BALTIC SEA.
+page 21	OUR GUIDE TO THE CINEMAS.
+page 23	NEWS OF THE DAY IN PICTURES FROM FAR AND NEAR.
+page 23	PHOTONEWS.
+page 23	HAPPENINGS AS SEEN BY THE CAMERA'S EYE.
+page 23	Government Holds Seat.
+page 23	But Majority Much Reduced.
+page 23	Japanese To Return To The Kimono.
+page 24	SENTENCE IS 'DEATH'.
+page 24	JAPANESE TRADE SET-BACK,
+page 24	QUARANTINE AGAINST CANTON.
+page 24	ANIMAL RABIES IN HONGKONG.
+page 24	AMERICAN WOMAN ON AIR ADVENTURE: COMING TO COLONY.
+page 24	FATE OF ITALIAN JEWS IN BALANCE.
+page 24	Rome To Preserve "Racial Purity."
+page 24	TWO STRUCK BY MOTOR CARS.
+page 24	Carrier Pigeon Stops For Food.
+page 24	PRAGUE'S REFORMS INCOMPLETE.
+page 24	Unfavorable Reaction Influences Cabinet.
+page 24	MAGISTRATE ON STAND.
+page 24	Testifies In Traffic Prosecution.
+page 24	JAPAN RE-OPENS CONSULATE.
+page 25	GUERILLAS VICTORIOUS IN EAST HOPEI.
+page 25	GRAVE FEAR FOR SAETY OF SETTLERS.
+page 25	10,000 koreans in Area Over-Run by Raiders.
+page 25	Japanese Withdrawing.
+page 25	POISON GAS USED BY INVADERS.
+page 25	British Surgeon Confirms Report.
+page 25	NO MORE HANDSHAKES.
+page 25	FATHER JACQUINOT FOUND.
+page 25	But Mystery Of Disappearance Still Remains.
+page 25	STAYING WITH FRIEND.
+page 25	WEEK-OLD MYSTERY.
+page 25	Sweeping Reforms Planned For British Army.
+page 25	PROTESTS AGAINST REFUGEE CAMP SITES.
+page 25	Disease Naise And Crime Prospects Worry Ratepayers.
+page 25	CHARITY MUST BE CONTROLLED.
+page 25	Drastic Reforms Necessary.
+page 25	No Statement On Arms Cost.
+page 25	ANGLO-JAPANESE RELATIONS HURT BY TALK OF CHINA AID.
+page 25	SHANGHAI LIVING COSTS SOARING.
+page 25	And Worse Is Yet To Come.
+page 25	TRYING TO AVOID INCIDENTS.
+page 25	PROMOTIONS SPEEDED BY NEW RULING.
+page 25	2,000 Officers To Get Higher Rank August 1.
+page 25	Private Means Unnecessary.
+page 25	LOYALIST ADVANCE UNCHECKED.
+page 25	Many Prisoners In Ebro Offensive.
+page 25	Leaving For Chungking.
+page 25	CHINESE CLAIM VICTORY.
+page 27	Chinese Launch Determined Counter-Offensive.
+page 27	REAR OF JAPANESE AT KIUKIANG NOW GRAVELY MENACED.
+page 27	Lion Hill Sector Still In Defenders' Hands Is Claim.
+page 27	Japanese Bomb Changshu.
+page 27	War on Guerillas.
+page 27	Intense Fighting Around Taihu.
+page 27	Japan Ships Sunk Off Namoa Island.
+page 27	Chinese Newspapers Report.
+page 27	CHINESE STILL RESISTING.
+page 27	London Girl Wins Diving Event Again.
+page 27	KING LEAVES FOR HOLIDAY.
+page 27	WARNING AGAINST CHOLERA.
+page 27	Director Of Medical Service Gives Advice.
+page 27	West Indies commission Appointed.
+page 27	To Study Social And Economic Conditions.
+page 27	FLIERS MISSING 14 HOURS.
+page 27	Premier Of Ontario One Of Party.
+page 27	ON PLEASURE TRIP.
+page 27	Anstrian "Krupps" For England.
+page 27	BRIDES FOR JAPANESE WOUDED.
+page 29	Two Killed In British Merchantman.
+page 29	Shrapnel Flew In Air Raid.
+page 29	INSURGENTS CHECK DRIVE.
+page 29	Raced With Another Car, Police Allege.
+page 29	EUROPEANS IN COURT.
+page 29	DIES UF BURNS.
+page 29	RANGOON RIOTING KILLS 40.
+page 29	British Regiment Called Out.
+page 29	Machine-Guns In Streets.
+page 29	40 NOW DEAD.
+page 29	RELIGIOUS QUARREL.
+page 29	KINGSTON FEARS DIDORDER.
+page 29	"Tipperary's" Author, Jack Judge, Is Dead.
+page 29	Wrote Famous Song In Five Minutes.
+page 29	Confectionery Store Robbed By Employee.
+page 29	Japan Combats Tendencies To Socialism.
+page 31	WHAT IS THE JOY OF LIVING WORTH?
+page 31	Judge On Husbands Made More Valuable By Death.
+page 31	DRIVERS FINED.
+page 31	Speeding In Areas Under Control.
+page 31	Prince Edward Road Raid For Opium Succeeds.
+page 31	Explorers Plan Flight Over Southern Pole.
+page 31	He Coped With Tongue-Twister, But Was Drunk.
+page 31	German Air Ace Sets New Speed Record.
+page 31	Reich Airmen Also Gain Altitude Records.
+page 31	NEW ALTITUDE RECORD.
+page 31	SWEEPING REFORMS PLANNED FOR BRITISH ARMY.
+page 31	12 Months' Warning.
+page 31	LITTLE BOY FLUNG OUT OF CAR.
+page 31	Plans Made To Evacuate In Wartime.
+page 31	Britain Studying Difficult Problem.
+page 31	Suspect Plot To Restore Hohenzollerns.
+page 31	STOCK MARKET DULL, RALLIES.
+page 31	FATHER JACQULUOT FOUND.
+page 31	REDS ARRESTED IN ATHENS.
+page 31	PRESIDENT DOUMER DUE.
+page 31	QUICK RECOVERY AFTER ILLNESS.
+page 31	FORGING LINK IN EMPIRE COMMUNICATION.
+page 31	FAILED TO TELL OF MOVING.
+page 32	BRADMAN HITS DOUBLE CENTURY AGAINST SOMERSET.
+page 32	TOURISTS IN A GOOD POSITION AT TAUNTON.
+page 32	BADCOCKHELPS CAPTAIN TO PUT UP FINE SCORE.
+page 32	COMPTON HAS A DECISION TO MAKE.
+page 32	Cricket Or Soccer For Young Athlete.
+page 32	JAPANESE ESTABLISH GOOD LEAD.
+page 32	Two Up In Davis cup Match.
+page 32	ONLY PROVEN ATHLETES WILL BE SELECTED.
+page 32	U. S. Departs From Olympics Tradition.
+page 32	NEW RULES.
+page 32	"BABE" DIDRIKSON TO MARRY WRESTLER.
+page 32	Oxford Makes Good Start In Annual University Match.
+page 32	But Last Seven Wickets Fall For 104 Runs.
+page 32	LOMAS' SLOW START.
+page 32	HEWAN'S SIX WICKETS.
+page 32	STEADY RUN-GETTING.
+page 32	LOMAS RDOPPED.
+page 32	TROUBLE STARTS.
+page 32	Primo Carnera Makes Artsitic Debut.
+page 32	EDDIE SIMMS SUSPENDED BY COMMISSION.
+page 32	HISTORY REVEALS HEAVYWEIGHTS NEVER COME BACK.
+page 32	But Jim Corbett Took A Long Time In Order To Be Convinced.
+page 32	New York, July 10.
+page 32	TOO FAST.
+page 32	THEN CAME THE END.
+page 32	DREAM SHATTERED.
+page 32	Benny Lynch May Fight As Featherweight.
+page 32	Lessons Of Bout With Jurich.
+page 32	AN INVESTIGATION.
+page 32	JURICH TO STAY HERE.
+page 33	KNOTTY PROBLEM AT OVAL.
+page 33	"Run Out" Or "Stumped?"
+page 33	fred Steed Retires From The Ring.
+page 33	WHO IS RIGHTFUL CHAMPION?
+page 33	POINTS DECISION.
+page 33	CRICKET SCORES.
+page 33	Chinese Found With Revolver.
+page 33	ATTEMPT TO SWIM BALTIC SEA.
+page 33	OUR GUIDE TO THE CINEMAS.
+page 35	NEWS OF THE DAY IN PICTURES FROM FAR AND NEAR.
+page 35	PHOTONEWS.
+page 35	HAPPENINGS AS SEEN BY THE CAMERA'S EYE.
+page 35	Government Holds Seat.
+page 35	But Majority Much Reduced.
+page 35	Japanese To Return To The Kimono.
+page 36	Three Years' Hard Labour.
+page 36	JAPANESE TRADE SET BACK.
+page 36	QUARANTINE AGAINST CANTON.
+page 36	ANIMAL RABIES IN HONGKONG.
+page 36	AMERICAN WONAN ON AIR ADVENTURE: COMING TO GOLONY.
+page 36	FATE OF ITALIAN JEWS IN BALANCE.
+page 36	Rome To Preserve "Racial Purity."
+page 36	TWO STRUCK BY MOTOR CARS.
+page 36	Carrier Pigeon Stops For Food.
+page 36	PRAGUE'S REFORMS INCOMPLETE.
+page 36	Unfavorable Reaction Influences Cabinet.
+page 36	MAGISTRATE ON STAND.
+page 36	Testifies In Traffic Prosecution.
+page 36	JAPAN RE-OPENS CONSULATE.

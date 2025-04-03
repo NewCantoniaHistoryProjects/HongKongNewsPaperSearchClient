@@ -1,0 +1,242 @@
+page 1	SHINGEMITSU DECLARES JAPAN WON'T ATTACK BITISH TERRITORY.
+page 1	BRITAIN'S FOOD PROBLEMS.
+page 1	Grave, But Not Insoluble.
+page 1	Japan Worries About Unity, Liberalism and Communism.
+page 1	Opposition To Lend & Lease Bill.
+page 1	Debate In Senate.
+page 1	SUEZ RAIDED.
+page 1	British Air Offensive.
+page 1	Germany Prepares For Ordeal.
+page 1	Ad. H. Stark On Warships For England.
+page 1	Raid Casualties.
+page 1	U.S. Closes Her Harbours To Foreign Ships and Aircraft.
+page 1	Admiral Darlan On Mission To Paris.
+page 1	Ethiopian Victory.
+page 1	British Shipping Situation; Mr Alexander Hits Optimistic Note.
+page 1	BOMBERS DOWN OVER ENGLAND.
+page 1	Tokyo Recognises Dutch Home Government in Great Britain.
+page 2	Y.M.C.A. PLAY READING.
+page 2	MOBILE CANTEENS.
+page 2	Cannot Be Obtained In England.
+page 2	INDEMNITY TO SWISS.
+page 2	Britain Accepts Blame For Incidents.
+page 2	Memorial Scholarship For Women.
+page 2	ENEMY SHIPS DESTROYED.
+page 2	Warship Damaged.
+page 2	TRAINS DERAILED.
+page 2	Price Of Firewood Fluctuates.
+page 2	DUTCH SHIPPING.
+page 3	TRUST IN GOD-AND AN ADMIRALTY CHART.
+page 3	How The British Navy Surveys The World's Seas For The World's Seamen.
+page 4	WHY PORTUGAL REMAINS NEUTRAL.
+page 5	SCOTLAND YARD SHIFTS SPIES.
+page 5	Cinema's Greatest Contributors.
+page 5	U.S. Pressmen And British Censorship.
+page 5	INFLATION.
+page 5	British Businessmen Express Concern.
+page 5	LATEST SAIGON RESTRICTIONS.
+page 5	$1,300,000,000 FOR WAR EFFORT.
+page 5	Fire Damage In Santander.
+page 5	Boy "Jehovah Witness" Refuses To Sing "God Save The King".
+page 5	Steward Falls Overboard.
+page 5	Shilling Stamp Forgery.
+page 5	Feches 9Pounds At Sale.
+page 5	HITLER AND "HOW TO SWIN".
+page 5	Japanese Baby Bonus Plan.
+page 5	FEW CHANGES IN NEW CAR MODELS.
+page 5	Fewer Refugees In Hongkong.
+page 5	Still More Planes For Britain.
+page 6	Around The Courses.
+page 6	Competitions Offer Problem.
+page 6	Lifting "Plugged" Balls: Misconceptions Of The Stymic Rule .
+page 6	Leading Owners And Jockeys.
+page 6	JOE WINS AGAIN.
+page 6	Dorazio Knocked.
+page 6	Out In 2nd Round.
+page 6	Rugger Washed Out.
+page 6	Seven-A-Side Tourney.
+page 6	Games Postponed.
+page 6	To-morrow's Programme.
+page 6	Softball Players Answer Wet Weekend With Fast Scoring.
+page 6	Canuckettes Still Head League With Weak Lineup Against Panthers.
+page 7	Gets D.C.M. After 26 Years.
+page 7	GIRL TYPIST HAS NO HANDS.
+page 7	COLONY'S BUDGET FOR 1941-42.
+page 7	Reductions Introduced.
+page 8	BRITAIN'S FOOD PROBLEMS.
+page 8	Tokyo Recognises Dutch Government.
+page 8	Japan Worries About Unity.
+page 8	U.S. Harbours Closed To Foreign Ships.
+page 8	Portugal's Cyclone Casualties.
+page 8	British Estimates For Coming Year are Higher.
+page 8	FILM UNCOVERS OUR SECRET WEAPON.
+page 8	PIERCE TO PICK UP EVACUEES?
+page 8	British Shipping Situation.
+page 8	Minesweeper Lost.
+page 8	C-in-C, India Sees Veterans.
+page 8	Springboks Congratulated.
+page 8	Chiang Kai-shek's Appeal To Chinese.
+page 8	Prince The On Visit To Tokyo.
+page 8	Lawlessness In S'hai To Be Committed.
+page 8	Japanese Casualties In South Honan.
+page 9	SHIGEMITSU DECLARES JAPAN WON'T ATTACK BRITISH TERRITORY.
+page 9	FATE OF BULGARIA.
+page 9	Nazis Responsible For Her Future.
+page 9	Japan Worries About Unity, Liberalism and Communism.
+page 9	Opposition To Lend & Lease Bill Debate In Senate.
+page 9	British Air Offensive.
+page 9	Germany Prepares For Ordeal.
+page 9	Raid Casualties.
+page 9	U.S. Closes Her Harbours To Foreign Ships and Aircraft.
+page 9	Admiral Darlan Or Mission To Paris.
+page 9	Ethiopian Victory.
+page 9	Pope's Blessing For Alphonso.
+page 9	Thousands Of Australians Land In Singapore: Scenes Described.
+page 9	BOMBERS DOWN OVER ENGLAND.
+page 9	Tokyo Recognises Dutch Home Government in Great Britain.
+page 10	Y.M.C.A. PLAY READING.
+page 10	MOBILE CANTEENS.
+page 10	Cannot Be Obtained In England.
+page 10	INDEMNITY TO SWISS.
+page 10	Britain Accepts Blame For Incidents.
+page 10	Chinese Continue Offensive Against Southern Invasion.
+page 10	Ad. H. Stark On Warships For England.
+page 10	Portugal's Cyclone Casualties.
+page 10	British Estimates For Coming Year are Higher.
+page 10	Springboks Congratulated.
+page 11	TRUST IN GOD-AND AN ADMIRALTY CHART.
+page 11	How The British Navy Sruveys The World's Seas For The World's Seamen.
+page 12	THAILAND.
+page 12	WHY PORTUGAL REMAINS NEUTRAL.
+page 13	SCOTLAND YARD SHIFTS SPIES.
+page 13	Dossiers Recall Old Cases.
+page 13	Cinema's Greatest Contributors.
+page 13	U.S. Pressmen And British Censorship.
+page 13	INFLATION.
+page 13	Businessmen Express Concern.
+page 13	LATEST SAIGON RESTRICTIONS.
+page 13	$1,300,000,000 FOR WAR EFFORT.
+page 13	Fir Damage In Santander.
+page 13	Boy "Jehovah Witness" Refuses To Sing "God Save The King".
+page 13	Stewadrd Falls Overboard.
+page 13	Shilling Stamp Forgery.
+page 13	Fetches 9Pounds At Sale.
+page 13	HITLER AND "HOW TO SWIN".
+page 13	Japanese Baby Bonus Plan.
+page 13	FEW CHANGES IN NEW CAR MODELS.
+page 13	Fewer Refugees In Hongkong.
+page 13	Still More Planes For Britain.
+page 14	Around The Courses.
+page 14	Competitions Offer Problem.
+page 14	Lifting "Plugged" Balls: Misconceptions Of The Stymie Rule.
+page 14	JOE WINS AGAIN.
+page 14	Dorazio Knocked Out In 2nd Round.
+page 14	Engineers Overcome Middlesex.
+page 14	To-day's Programme.
+page 14	Colony Chess Championship Results.
+page 14	Softball Players Answer Wet Weekend With Fast Scoring.
+page 14	Canuckettes Still Head League With Weak Lineup Against Panthers.
+page 15	British Shipping Situation; Mr Alexander Opimistic.
+page 15	N.Z.-U.S.A.. To Exchange Ministers.
+page 15	C-in-C, India Sees Veterans.
+page 15	Cricket Cancelled.
+page 15	COLONY'S BUDGET FOR 1941-42.
+page 15	Reductions Introduced.
+page 16	Australians Land In Singapore:
+page 16	Tokyo Recognises Dutch Government.
+page 16	Japan Worries About Unity.
+page 16	U.S. Harbours Closed To Foreign Ships.
+page 16	BOMBERS DOWN OVER ENGLAND.
+page 16	Minesweeper Lost.
+page 16	BRITAIN'S FOOD PROBLEMS.
+page 16	Grave But Not Insoluble.
+page 16	FILM UNCOVERS OUR SECRET WEAPON.
+page 16	PIERCE TO PICK UP EVACUEES?
+page 16	SUEZ RAIDED.
+page 16	U.S. Financier For England.
+page 16	Chinag Kai-shek's Appeal To Chinese.
+page 16	Prince The On Visit To Tokyo.
+page 16	Lawlessness In S'hai To Be Combated.
+page 17	SHIGEMITSU DECLARES JAPAN WON'T ATTACK BRITISH TERRITORY.
+page 17	FATE OF BULGARIA.
+page 17	Nazis Responsible For Her Future.
+page 17	Forced Labour In Shanghai.
+page 17	Senator's "No Need For Further Aid To Britain".
+page 17	Nazi Peace Overtures Reported.
+page 17	Applying Pressure On Greece.
+page 17	Shipping Losses Decline.
+page 17	British Air Offensive.
+page 17	Germany Prepares For Ordeal.
+page 17	Raid Casualties.
+page 17	U.S. Closes Her Harbours To Foreign Ships and Aircraft.
+page 17	Hongkong To Defend Herself If Attacked.
+page 17	Ethiopian Victory.
+page 17	Nazi, Italian Ships Sunk.
+page 17	Thousands Of Australinas Land In Singapore: Scenes Described.
+page 17	BOMBERS DOWN OVER ENGLAND.
+page 17	ITALY CALLS UP MORE MEN.
+page 17	Ratification Of Ships For Bases Measure.
+page 17	Japanese Warships Given Concession.
+page 18	Chinese Continue Offensive Against Southern Invasion.
+page 18	Japanese Casualties In South Honan.
+page 18	Prince The On Visit To Tokyo.
+page 18	Chiang Kai-shek's Appeal To Chinese.
+page 18	Portugal's Cyclone Casualties.
+page 18	Japan Worries About Unity, Liberalism and Communism.
+page 18	FILM UNCOVERS OUR SECRET WEAPON.
+page 18	U.S. Financier For England.
+page 18	Lawlessness In S'hai To Be Combated.
+page 18	BRITAIN'S FOOD PROBLEMS.
+page 18	Grave But Not Insoluble.
+page 19	TRUST IN GOD-AND AN ADMIRALTY CHART.
+page 19	How The British Navy Surveys The World's Seas For The World's Seamen.
+page 20	WHY PORTUGAL REMAINS NEUTRAL.
+page 21	Admiral Darlan On Mission To Paris.
+page 21	INFLATION.
+page 21	Businessmen Express Concern.
+page 21	LATEST SAIGON RESTRICTIONS.
+page 21	Minesweeper Lost.
+page 21	Tokyo Recognises Dutch Home Government in Great Britain.
+page 21	Opposition To Lend & Lease Bill.
+page 21	Debate In Senate.
+page 21	Story Of Piracy Told To Police.
+page 21	$1,300,000,000 FOR WAR EFFORT.
+page 21	Boy "Jehovah Witness" Refuses To Sing "God Save The King".
+page 21	Fire Damage In Santander.
+page 21	Pope's Blessing For Alphonse.
+page 21	Shilling Stamp Forgery.
+page 21	Fetches 9Pounds At Sale.
+page 21	Stole In Office.
+page 21	Unemployed Chinese.
+page 21	Doctor In tercedes For Chauffeur.
+page 21	Nanking Claim.
+page 21	Fewer Refugees In Hongkong.
+page 21	Still More Planes For Britain.
+page 22	Around The Courses.
+page 22	Competitions Offer Problem.
+page 22	Lifting "Plugged" Ball: Misconceptions Of The Stymie Rule.
+page 22	JOE WINS AGAIN.
+page 22	Dorazio Knocked Out In 2nd Round.
+page 22	Engineers Overcome Middlesex.
+page 22	To-day's Programme.
+page 22	Softball Players Answer Wet Weekend With Fast Scoring.
+page 22	Canuckettes Still Head League With Weak Lineup Against Panthers.
+page 23	British Shipping Situation; Mr Alexander Optimistic.
+page 23	N.Z.-U.S.A. To Exchange Minister.
+page 23	Cricket Cancelled.
+page 23	British Estimates For Coming Year are Higher.
+page 23	Ad. H. Stark On Warship For England.
+page 23	C.-in-C., India Sees Vetetans.
+page 23	Raising Of Recruits.
+page 23	PIERCE TO PICK UP EVACUEES?
+page 23	SUEZ RAIDED.
+page 24	U.S. Harbours Closed To Foreign Ships.
+page 24	Fate Of Bulgaria.
+page 24	BOMBERS DOWN OVER ENGLAND.
+page 24	Gem-Cutter Sues For Salary.
+page 24	Singapore Official To Testify Here.
+page 24	Removal Of Rice Charge.
+page 24	Australians Land In Singapore:
+page 24	Senator's "No Need For Further Aid".
+page 24	Nazi Peace Overtures Reported.
+page 24	H'kong To Defend If Attacked.

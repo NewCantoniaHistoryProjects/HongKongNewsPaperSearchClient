@@ -1,0 +1,354 @@
+page 1	NAZIS LOSE MANY PLANES IN AIR DUELS ON WEST FRONT.
+page 1	N.Z. PILOT BRINGS DOWN TWO RAIDERS.
+page 1	Canadian Elections.
+page 1	Govt. Sweeps The Board.
+page 1	Liberals Secure A Record Majority.
+page 1	Smashing Victory.
+page 1	All Communists.
+page 1	Seeking New Agreement.
+page 1	Franco-Japanese Talks To Be Started.
+page 1	LA RAILLEUSE.
+page 1	French Destroyer Lost In Terrific Explosion.
+page 1	NAZI "HELL-SHIP" REACHES KIEL.
+page 1	Dutch Ship Is Feared Lost.
+page 1	Believed Victim Of Nazi Operations.
+page 1	Trawlers Refuse To Sail.
+page 1	U.S. And Foreign War Propaganda.
+page 1	R.A.F. SINK NAZI SHIP.
+page 1	Patrol Vessel Is Caught Napping.
+page 1	Direct Hit On Deck.
+page 1	ALLIES IN NEAR EAST.
+page 1	N.Y. Paper Analyses Advantages Gained.
+page 1	Nazis Problem.
+page 1	Planes For Foreign Powers.
+page 1	U.S. Experts Solve Problem.
+page 1	No Secrets Disclosed.
+page 1	N. Zealand Ace Masters Nazi Messerschmitts.
+page 1	N. Zealander's Exploits.
+page 1	"This Is Heaven."
+page 1	Air Chief's Tribute.
+page 3	MAGAZINE PAGE.
+page 4	MAN LOVES HITLER.
+page 4	Conscientious Objector's Novel Excuse.
+page 7	OVERNIGHT NEWS PAGE.
+page 7	No Weakening In France.
+page 7	Press Reaction.
+page 7	Approval In London.
+page 7	Surprise To Germans.
+page 7	Scottish Regiments Move Up.
+page 7	Germans Take Prisoners.
+page 7	Award For Woman.
+page 7	Finnish Cabinet Unchanged.
+page 7	Plot Against Pres. Vargas.
+page 7	ALLIES IN NEAR EAST.
+page 7	Significant Loss Of Ore.
+page 7	Lord Samuel's Views.
+page 7	PLANES FOR FOREIGN.
+page 7	Britain To Ignore Wang Ching-wei.
+page 7	Vosges Activity.
+page 7	HITCH IN TALKS.
+page 7	Russo-German Obstacles.
+page 7	The Souritz Rumpus.
+page 7	Envoy Exceeds Privileges.
+page 7	Story Of Recall Of Ambassador.
+page 7	Envoys In Conference.
+page 7	Personal Affair.
+page 7	Dividing World Between Them.
+page 7	Count Teleki's Talk Mystery.
+page 7	Seen As Sequel To The Brenner Meeting.
+page 7	Hungary's Vital Interest.
+page 7	Throttling Trade.
+page 7	Danish Outcry Against Nazi Sea Warfare.
+page 7	FINNISH SPIRIT STILL ALIVE.
+page 7	Stirring Message By The President.
+page 7	The Foundation Stones.
+page 7	Indian Agitator Sent To Prison.
+page 7	CANADIAN ELECTIONS.
+page 7	Government Returns To Office.
+page 7	Social Credits Lose.
+page 7	Landslide Victory.
+page 7	Appeal To Rifle Association.
+page 8	"Pilgrim's" Hockey Notes.
+page 8	AFTER-THOUGHTS ON INTERPORT.
+page 8	Macao Forwards Fail To Shoot Accurately: Colony's Sound Defence.
+page 9	BRITAIN'S NEW 1pound NOTES.
+page 9	Tributes To Mr. Savage.
+page 9	Funeral Services In London On Monday.
+page 9	Newspapers' Tributes.
+page 9	Police Fire On Calcutta Mob.
+page 9	15,000 Scavengers Go On Strike.
+page 9	STOCK EXCHANGE EASES.
+page 9	MR. WELLES DUE HOME TO-DAY.
+page 9	Annual Rifle Meeting Attracts Large Crowd To Kowloon City.
+page 9	PROGRAMME TO-DAY.
+page 9	RESULTS.
+page 9	Correspondents, Please Note.
+page 9	Altmark Leaves For Kiel.
+page 9	Survivors Landed.
+page 9	SWISS GIFTS TO FINLAND.
+page 10	Recruits In Africa.
+page 10	HEROISM OF THE SEA.
+page 11	NAZIS LOSE MANY PLANES IN AIR DUELS ON WEST FRONT.
+page 11	King George World's Best Dressed Man.
+page 11	World's Best Eight.
+page 11	French Destroyer Lost In Terrific Explosion.
+page 11	Another Russian Vessel Detained.
+page 11	Near Japan.
+page 11	Selenga Detention.
+page 11	Germany Storing Up Oil Reserves.
+page 11	NAZIS PREPARE FOR DECISIVE BATTLE.
+page 11	Explosions And Fires.
+page 11	Thyssen Flees To Argentine.
+page 11	Nazi Magnate Who Broke With Hitler.
+page 11	NAZI PAMPHLET BOMBS.
+page 11	Pope Attacks Paganism.
+page 11	Sad And Worried While Addressing Pilgrims.
+page 11	Sad And Worried.
+page 11	New Post For M. Tanner.
+page 11	Minister Of Food In Revised Cabinet.
+page 11	N. Z. PILOT BRINGS DOWN TWO RAIDERS.
+page 11	DEADLY FIRE FROM SPITFIRES.
+page 11	FIGHT OVER METZ.
+page 11	Brazil Revolt Uncovered.
+page 11	Communist Agitators Are Blamed.
+page 11	China's Trade Figures.
+page 11	Adverse Balance During Last Month.
+page 11	N. Zealand Ace Masters Nazi Messerschmitts.
+page 11	N. Zealander's Exploits.
+page 11	"This Is Heaven."
+page 11	Air Chief's Tribute.
+page 11	Berlin Munition Plant In Flames.
+page 13	MAGAZINE PAGE.
+page 14	ALLIES IN NEAR EAST.
+page 14	N.Y. Paper Analyses Advantages Gained.
+page 14	Nazis Problem.
+page 14	Significant Loss Of Ore.
+page 14	Lord Samuel's Views.
+page 14	Dutch Ship Is Feared Lost.
+page 14	Believed Victim Of Nazi Operations.
+page 14	Trawlors Refuse To Sall.
+page 14	Britain To Ignore Wang Ching-wei.
+page 14	NAZI "HELL-SHIP" REACHES KIEL.
+page 14	Planes For Foreign Powers.
+page 14	U.S. Experts Solve Problem.
+page 14	No Secrets Disclosed.
+page 14	Indian Agitator Sent To Prison.
+page 14	R.A.F. SINK NAZI SHIP.
+page 14	Patrol Vessel Is Caught Napping.
+page 14	Direct Hit On Deck.
+page 14	Count Teleki's Talk Mystery.
+page 14	Seen As Sequel To The Brenner Meeting.
+page 14	Hungary's Vital Interest.
+page 14	FINNISH SPIRIT STILL ALIVE.
+page 14	Stirring Message By The President.
+page 14	The Foundation Stonce.
+page 14	Vosges Activity.
+page 14	Canadian Elections.
+page 14	Govt. Sweeps The Board.
+page 14	Liberals Secure A Record Majority.
+page 14	All Communists.
+page 15	A Look Through The "Telegraph".
+page 15	50 YEARS AGO.
+page 15	25 YEARS AGO. 
+page 15	10 YEARS AGO.
+page 15	5 YEARS AGO.
+page 17	OVERNIGHT NEWS PAGE.
+page 17	No Weakening In France.
+page 17	Press Reaction.
+page 17	Approval In London.
+page 17	Surprise To Germans.
+page 17	Seeking New Agreement.
+page 17	Franco-Japanese Talks To Be Started.
+page 17	U.S. And Foreign War Propaganda.
+page 17	Finnish Cabinet Unchanged.
+page 17	Plot Against Pres. Vargas.
+page 17	MOSCOW'S OVERTURES.
+page 17	Wants New Friendship With Britain.
+page 17	Hopes Unfounded.
+page 17	Scottish Regiments Move-Up.
+page 17	Germans Take Prisoners.
+page 17	Award For Woman.
+page 17	The Souritz Rumpus.
+page 17	Envoy Exceeds Privileges.
+page 17	Story Of Recall Of Ambassador.
+page 17	Envoys In Conference.
+page 17	Personal Affair.
+page 17	Throttling Trade.
+page 17	Danish Outcry Against Nazi Sea Warfare.
+page 17	12,000pounds GIFT TO WAR FUND.
+page 17	NAZI WESTERN FRONT CLAIMS.
+page 17	Dividing World Between Them.
+page 17	N. ZEALAND ACE MASTERS NAZI MESSERSVHMITTS.
+page 17	Appeal To Rifle Association.
+page 17	CANADIAN ELECTIONS.
+page 17	Government Returns To Office.
+page 17	Social Credits Lose.
+page 17	Landslide Vivtory.
+page 18	"Pilgrim's" Hockey Notes.
+page 18	AFTER-THOUGHTS ON INTERPORT.
+page 18	Macao Forwards Fail To Shoot Accurately: Colony's Sound Defence.
+page 19	BRITAIN'S NEW 1pound NOTES.
+page 19	Tributes To Mr. Savage.
+page 19	Funeral Services In London On Monday.
+page 19	Newspapers' Tributes.
+page 19	Police Fire On Calcutta Mob.
+page 19	15,000 Scavengers Go On Strike.
+page 19	STOCK EXCHANGE EASES.
+page 19	MR. WELLES DUE HOME TO-DAY.
+page 19	Annual Rifle Meeting Attracts Large Crowd To Kowloon City.
+page 19	PROGRAMME TO-DAY.
+page 19	RESULTS.
+page 19	Correspondents, Please Note.
+page 19	Altmark Leaves For Kiel.
+page 19	Survivors Landed.
+page 19	SWISS GIFTS TO FINLAND.
+page 20	Recruits In Africa.
+page 20	HEROISM OF THE SEA.
+page 21	INCREASED TENSION BETWEEN ALLIES AND RUSSIA REPORTED.
+page 21	King George World's Best Dressed Man.
+page 21	World's Best Eight.
+page 21	CHINESE TAIPAN WOUNDED.
+page 21	China Squadron Unit Detains Soviet Vessel.
+page 21	France May Recall Envoy, Report.
+page 21	Incident Settled?
+page 21	Situation In Pacific.
+page 21	Washington Opinion.
+page 21	Dramatic Rescue Of Crew Of Freighter.
+page 21	PIRATES FLEE AS WARSHIP APPEARS.
+page 21	SWEDEN SENDS SPIES TO GAOL.
+page 21	MUNITIONS ABLAZE.
+page 21	Berlin Armament Plant In Flames.
+page 21	WORLD'S FOURTH LARGEST CITY.
+page 21	N. Z. PILOT BRINGS DOWN TWO RAIDERS.
+page 21	DEADLY FIRE FROM SPITFIRES.
+page 21	FIGHT OVER METZ.
+page 21	N. Zealand Ace Masters Nazi Messerschmitts.
+page 21	N. Zealander's Exploits.
+page 21	TURKEY'S FULL ACCORD WITH THE ALLIES.
+page 21	MAY TRY TO RUN BLOCKADE.
+page 22	Japanese And S'hai Council.
+page 22	More Representation Being Sought.
+page 22	Pope Attacks Paganism.
+page 22	Sad And Worried While Addressing Pilgrims.
+page 22	Sad And Worried.
+page 22	N. ZEALAND ACE MASTERS NAZI MESSERSCHMITTS.
+page 22	Air Chief's Tribute.
+page 22	China's Trade Figures.
+page 22	Adverse Balance During Last Month.
+page 22	CHINA SQUADRON UNIT DETAINS SOVIET VESSEL.
+page 22	Selenga Detention.
+page 22	Silence About Selenga.
+page 22	Freighter's Cargo.
+page 22	London Report.
+page 22	Maisky's Protest.
+page 22	Orders To Pacific Fleat.
+page 22	Finnish Cabinet Unchanged.
+page 22	Survivors Landed.
+page 22	In 1,300 Years This Is All That Happened─
+page 22	NOW 7,000pounds CASE COMES TO TOWN.
+page 22	"Tyger Fierce."
+page 22	Making History.
+page 22	"Won't Pay Rates."
+page 22	GRAF SPEE MEN IN BOSTON?
+page 22	Urges Protest To Britain.
+page 22	MR. WELLES DUE HOME TO-DAY.
+page 22	Philippines Movie Man Killed.
+page 22	SWISS GIFTS TO FINLAND.
+page 23	MAGAZINE PAGE.
+page 24	ALLIES IN NEAR EAST.
+page 24	N.Y. Paper Analyses Advantages Gained.
+page 24	Nazis Problem.
+page 24	Significant Loss Of Ore.
+page 24	Lord Samuel's Views.
+page 24	Dutch Ship Is Feared Lost.
+page 24	Believed Victim Of Nazi Operations.
+page 24	Trawlers Refuse To Sall.
+page 24	Britain To Ignore Wang Ching-wei.
+page 24	NAZI "HELL-SHIP" REACHES KIEL.
+page 24	Planes For Foreign Powers.
+page 24	U.S. Experts Solve Problem.
+page 24	No Secrets Disclosed.
+page 24	Allies' Purchases.
+page 24	R.A.F. SINK NAZI SHIP.
+page 24	Patrol Vessel Is Caught Napping.
+page 24	Direct Hit On Deck.
+page 24	Count Teleki's Talk Mystery.
+page 24	Seen As Sequel To The Brenner Meeting.
+page 24	Hungary's Vital Intorest.
+page 24	FINNISH SPIRIT STILL ALIVE.
+page 24	Stirring Message By The President.
+page 24	The Foundation Stones.
+page 24	Vosges Activity.
+page 24	Throttling Trade.
+page 24	Danish Outcry Against Nazi Sea Warfare.
+page 24	U.S. And Foreign War Propaganda.
+page 24	12,000pounds GIFT TO WAR FUND.
+page 25	A Look Through The "Telegraph".
+page 25	50 YEARS AGO.
+page 25	25 YEARS AGO.
+page 25	10 YEARS AGO. 
+page 25	5 YEARS AGO.
+page 25	JAPANESE ADMISSION.
+page 25	Wuyuan City "Partially" Retaken By Chinese.
+page 25	PLENTY OF TEA FOR ENGLAND.
+page 27	Germany Storing Up Oil Reserves.
+page 27	NAZIS PREPARE FOR DECISIVE BATTLE.
+page 27	RESERVIST IN COURT.
+page 27	"Painful Business" Say Chief Justice.
+page 27	Constable Involved.
+page 27	Superintendent's Offer.
+page 27	Truth In Allegation.
+page 27	The Souritz Rumpus.
+page 27	Envoy Exceeds Privileges.
+page 27	Story Of Recall Of Ambassador.
+page 27	Envoys In Conference.
+page 27	Personal Affair.
+page 27	New Post For M. Tanner.
+page 27	Minister Of Food In Revised Cabinet.
+page 27	BRITAIN'S NEW 1pound NOTES.
+page 27	MOSCOW'S OVERTURES.
+page 27	Wants New Friendship With Britain.
+page 27	Hopes Unfounded.
+page 27	Russia's Contention.
+page 27	Trans-Pacific Film To Be Sereened.
+page 27	Brazil Revolt Uncovered.
+page 27	Communist Agitators Are Blamed.
+page 27	Appeal To Rifle Association.
+page 28	"Pilgrim's" Hockey Notes.
+page 28	AFTER-THOUGHTS ON INTERPORT.
+page 28	Macao Forwards Fail To Shoot Accurately: Colony's Sound Defence.
+page 29	CHINA PROVIDENT LOAN PROFITS.
+page 29	Successful Year's Working Reported By Chairman.
+page 29	Godowns Full Full To Capacity.
+page 29	NAZI PAMPHLET BOMBS.
+page 29	Dividend Recommended.
+page 29	French Destroyer Lost In Terrific Explosion.
+page 29	RAILLEUSE LOSS CONFIRMED.
+page 29	Tributes To Mr. Savage.
+page 29	Funeral Services In London On Monday.
+page 29	Newspapers' Tributes.
+page 29	Seeking New Agreement.
+page 29	Franco-Japanese Talks To Be Started.
+page 29	STOCK EXCHANGE EASES.
+page 29	Canadian Elections Govt. Sweeps The Board.
+page 29	Liberals Secure A Record Majorit y.
+page 29	Smashing Victory.
+page 29	All Communists.
+page 29	One Woman Elected.
+page 29	Indian Agitator Sent To Prison.
+page 29	Police Fire On Calcutta Mob.
+page 29	15,000 Scavengers Go On Strike.
+page 29	Correspondents, Please Note.
+page 30	LATE NEWS.
+page 30	TELEPHONE FRANCHISE.
+page 30	Now Bill Introduced In Council.
+page 30	Inside Germany.
+page 30	Hotel Meal Costs 30s. In B-r-r-rlin.
+page 30	Recruits In Africa.
+page 30	Had His Car Stolen Twice.
+page 30	Motoring Offemder's Plea To Court.
+page 30	Explanation Accepted.
+page 30	Learner-Driver Cartioned.
+page 30	Thyssen Flees To Argentine.
+page 30	Nazi Magnate Who Broke With Hitler.
+page 30	Altmark Leaves For Kiel.

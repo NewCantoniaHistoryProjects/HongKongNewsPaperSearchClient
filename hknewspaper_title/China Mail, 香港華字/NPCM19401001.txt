@@ -1,0 +1,310 @@
+page 1	BIG NAZI OIL PLANT DEVASTATED.
+page 1	SPAIN'S ROLE TO BE DISCUSSED.
+page 1	GRIS NEZ DRENCHED IN FLAMES.
+page 1	TANGIER MOVES.
+page 1	Relentless Attacks By R.A.F. Bombers.
+page 1	ITALY TO CLAIM THE PRICE.
+page 1	N.E.I. AND JAPAN'S LEBENSRAUM.
+page 1	U.S. NAVAL RUMOURS.
+page 1	Raiders Cover Wide Area of Reich.
+page 1	Gasworks Hit.
+page 1	Great Fire.
+page 1	Coastal Inferno.
+page 1	SUBMARINE CREW SAFE.
+page 1	CORRESPONDENT ASKED TO LEAVE.
+page 2	MR. CHURCHILL'S 'MUNICH' MESSAGE TO CZECHS.
+page 2	PILOT'S UNIQUE FEAT.
+page 2	DON'T PABK NEAR F H OR H.
+page 2	TRAINING FUTURE FARMING KEY MEN.
+page 2	Instinctive Defiance.
+page 2	Pride And Gratitude.
+page 2	Be Of Good Cheer.
+page 2	COTTON TO REPLACE POSTERS.
+page 2	ITALIAN RATIONING.
+page 2	CONGO'S ON THE AIR.
+page 2	DEPARTURE OF LONDON JAPANESE: THE EXPLANATION.
+page 2	Heard Nothing.
+page 2	GANDHI LEAVING WITHOUT AGREEMENT.
+page 2	Mr. Gandhi's Reply.
+page 2	Gandhi's Argument.
+page 2	LEFT 166,000pounds - WIFE IS WORRIED.
+page 2	She Fainted.
+page 2	TENTH HAIFA RAID.
+page 2	BRITISH PILOT INTERNED IN EIRE.
+page 3	LUFTWAFFE TRIES AGAIN.
+page 3	Big Raid Renewed For First Time Since Friday.
+page 3	Five "Alert" Warnings In London.
+page 3	Bexhill And Hastings.
+page 3	Wostern Suburbs.
+page 3	AGAIN OVER LONDON LAST NIGHT.
+page 3	Dorset Bombing.
+page 3	"BAG" JUMPS TO 47.
+page 3	JAPAN BLAMES ROOSEVELT.
+page 3	DIDN'T WANT TO DO IT!
+page 3	SOUTH AFRICAN AIR FORCE RAIDS.
+page 3	STARTLING MOVE BY U.S. GOVERNMENT.
+page 3	AUSTRALLAN AIRGRAFT OUTPUT.
+page 3	COALITION SOUGHT IN AUSTRALIA.
+page 3	BIG TIN DEPOSITS DISCOVERED.
+page 3	THAILAND MISSION IN INDIA.
+page 4	KUNMING RAIDED FROM INDO-CHINA.
+page 4	A PLAN FOR ACTION!
+page 4	3 PHOTOS - IN MEMORY.
+page 5	As Easy As Falling Off A Bicycle.
+page 5	SIR HUGH DOWDING AWARDED G.C.B.
+page 5	STOCK EXCHANGE "STEADY, QUIET".
+page 5	1,800 GIRLS CALL.
+page 6	COLONEL HERO OF LOST LEGION.
+page 6	"I DON'T KNOW MOSLEY".
+page 6	"I" NO FASCIST.
+page 6	THEIR WAR AID-FAIRY TALES.
+page 8	NO GAG ON THE BRITISH PRESS.
+page 8	BRITAIN WINS TOY TRADE WAR.
+page 8	Dolls The Biggest Line.
+page 8	RUMOUR COST 42pounds.
+page 8	CHURCH AID FOR COAST AREAS.
+page 8	EVACUEES STRANDED.
+page 9	SIDELIGHTS OF RAIDS ON BRITAIN.
+page 9	Rural Council Solemnity.
+page 9	Downed During Funeral.
+page 9	WOMAN BECOMES MAJOR.
+page 9	FUNNIEST STORY FROM ROME.
+page 9	FOUND LOVE AT A.R.T. TALKS.
+page 9	SHOT HIS MAJOR, GAOLED.
+page 9	TOWN LOST HALF ITS CHILDREN.
+page 9	L.D.V. TRAPS 3 NAZI AIRMEN.
+page 13	BROTHERS SAVE FAMILY.
+page 13	REPLACEMENT OF NISHIHARA.
+page 13	WED DAUGHTER OF A BARONET.
+page 13	MONTREAL INVITES OUR STUDENTS.
+page 16	Grave Blow To The Luftwaffe.
+page 16	Nazi Plan To Invade Britain Miscarries Badly.
+page 16	5,000 Men Lost In Two Months.
+page 16	Major Defeat.
+page 16	A Week's Figures.
+page 16	GERMAN WRECT FOR EXHIBIT.
+page 16	SIR SHENTON THOMAS'S TERM EXTENDED.
+page 16	BIG NAZI OIL PLANT DEVASTATED.
+page 16	Wide Area.
+page 16	Fokker Factory.
+page 16	COLOSSAL WAR COST FIGURES.
+page 16	MADRID ATTACK ON U.S.A.
+page 16	NEW SPANISH LINER.
+page 16	Amsterdam Havoc.
+page 17	BIG NAZI OIL PANT DEVASTATED.
+page 17	SPAIN'S ROLE TO BE DISCUSSED.
+page 17	GRIS NEA DRENCHED IN FLAMES.
+page 17	SUBMARINE CREW SAFE.
+page 17	ITALY TO CLAIM THE PRICE.
+page 17	LIGHTER EXPLOSION IN YAUMATI.
+page 17	Relentless Attacks By R.A.F. Bombers.
+page 17	Raiders Cover Wide Area of Reich.
+page 17	Gasworks Hit.
+page 17	Great Fire.
+page 17	Coastal Inferno.
+page 17	U.S. NAVAL RUMOURS.
+page 17	CORRESPONDENT ASKED TO LEAVE.
+page 18	MR. CHURCHILL'S 'MUNICH' MESSAGE TO CZECHS.
+page 18	PILOT'S UNIQUE FEAT.
+page 18	N.E.I. AND JAPAN'S LEBENSRAUM.
+page 18	BRITISH PILOT INTERNED IN EIRE.
+page 18	Instinctive Defiance.
+page 18	Pride And Gratitude.
+page 18	Be Of Good Cheer.
+page 18	COTTON TO REPLACE POSTERS.
+page 18	ITALIAN RATIONING.
+page 18	CONGO'S ON THE AIR.
+page 18	DEPARTURE OF LONDON JAPANESE: THE EXPLANATION.
+page 18	SPANISH VIEW OF AXIS PACT.
+page 18	Heard Nothing.
+page 18	GANDHI LEAVING WITHOUT AGREEMENT.
+page 18	Gandhi's Argument.
+page 18	LIVERPOOL RAID STOPPED.
+page 18	JUNDS IN MINEFIELD.
+page 19	LUFTWAFFE TRIES AGAIN.
+page 19	Big Raid Renewed For First Time Since Friday.
+page 19	Five "Alert" Warnings In London.
+page 19	Bexhill And Hastings.
+page 19	Wostern Suburbs.
+page 19	AGAIN OVER LONDON LAST NIGHT.
+page 19	Dorset Bombing.
+page 19	"BAG" JUMPS TO 47.
+page 19	JAPAN BLAMES ROOSEVELT.
+page 19	DIDN'T WANT TO DO IT!
+page 19	SOUTH AFRICAN AIR FORCE RAIDS.
+page 19	STARTLING MOVE BY U.S. GOVERNMENT.
+page 19	AUSTRALLAN AIRGRAFT OUTPUT.
+page 19	COALITION SOUGHT IN AUSTRALIA.
+page 19	BIG TIN DEPOSITS DISCOVERED.
+page 19	THAILAND MISSION IN INDIA.
+page 20	KUNMING RAIDED FROM INDO-CHINA.
+page 20	A PLAN FOR ACTION!
+page 20	TANGIER MOVES.
+page 20	TENTH HAIFA RAID.
+page 21	As Easy As Falling Off A Bicycle.
+page 21	SIR HUGH DOWDING AWARDED G.C.B.
+page 21	STOCK EXCHANGE "STEADY, QUIET".
+page 21	1,800 GIRLS CALL.
+page 22	COLONEL HERO OF LOST LEGION.
+page 22	"I DON'T KNOW MOSLEY".
+page 22	"I" NO FASCIST.
+page 22	THEIR WAR AID-FAIRY TALES.
+page 24	NO GAG ON THE BRITISH PRESS.
+page 24	BRITAIN WINS TOY TRADE WAR.
+page 24	Dolls The Biggest Line.
+page 24	RUMOUR COST 42pounds.
+page 24	CHURCH AID FOR COAST AREAS.
+page 24	EVACUEES STRANDED.
+page 25	SIDELIGHTS OF RAIDS ON BRITAIN.
+page 25	Rural Council Solemnity.
+page 25	Downed During Funeral.
+page 25	WOMAN BECOMES MAJOR.
+page 25	FUNNIEST STORY FROM ROME.
+page 25	FOUND LOVE AT A.R.T. TALKS.
+page 25	SHOT HIS MAJOR, GAOLED.
+page 25	TOWN LOST HALF ITS CHILDREN.
+page 25	L.D.V. TRAPS 3 NAZI AIRMEN.
+page 29	BROTHERS SAVE FAMILY.
+page 29	REPLACEMENT OF NISHIHARA.
+page 29	WED DAUGHTER OF A BARONET.
+page 29	MONTREAL INVITES OUR STUDENTS.
+page 30	Four New Records Established In Swimming Championships.
+page 30	Reflections On The Three-Day V.R.C. Festival.
+page 30	Ng Nin Over-Trained? Manila Interport Trials On Thursday.
+page 30	Over-Trained.
+page 30	Interport Trials On Thursday.
+page 30	South China A.A. Cltampionships.
+page 30	Miss Lee Po-luen Betters Her Own Record.
+page 30	Macao Win Water-Polo.
+page 32	Grave Blow To The Luftwaffe.
+page 32	Nazi Plan To Invade Britain Miscarries Badly.
+page 32	5,000 Men Lost In Two Months.
+page 32	Major Defeat.
+page 32	A Week's Figures.
+page 32	GERMAN WRECK FOR EXHIBIT.
+page 32	COLOSSAL WAR COST FIGURES.
+page 32	BIG NAZI OIL PLANT DEVASTATED.
+page 32	Wide Area.
+page 32	Fokker Factory.
+page 32	SIR SHENTON THOMAS'S TERM EXTENDED.
+page 32	MADRID ATTACK ON U.S.A.
+page 32	NEW SPANISH LINER.
+page 32	Amsterdam Havoc.
+page 32	SHIPPING FEDERATION BIRTHDAY.
+page 33	VICHY REFUTES ALLIANCE RUMOURS.
+page 33	CITY LAND PURCHASE REVEALED.
+page 33	BIG NAZI OIL PLANT DEVASTATED.
+page 33	LIGHTER EXPLOSION IN YAUMATI.
+page 33	FUGITIVE SHOT IN KOWLOON.
+page 33	Relentless Attacks By R.A.F. Bombers.
+page 33	Raiders Cover Wide Area of Reich.
+page 33	Gasworks Hit.
+page 33	Great Fire.
+page 33	Coastal Inferno.
+page 33	U.S. NAVAL RUMOURS.
+page 33	CORRESPONDENT ASKED TO LEAVE.
+page 34	MR. CHURCHILL'S 'MUNICH' MESSAGE TO CZECHS.
+page 34	Instinctive Defiance.
+page 34	Pride And Gratitude.
+page 34	PILOT'S UNIQUE FEAT.
+page 34	N.E.I. AND JAPAN'S LEBENSRAUM.
+page 34	BRITISH PILOT INTERNED IN EIRE.
+page 34	Be Of Good Cheer.
+page 34	COTTON TO REPLACE POSTERS.
+page 34	DEPARTURE OF LONDON JAPANESE: THE EXPLANTION.
+page 34	Heard Nothing.
+page 34	SPANISH VIEW OF AXIS PACT.
+page 34	GANDHI LEAVING WITHOUT AGREEMENT.
+page 34	Mr.Gandhi's Reply.
+page 34	Gandhi's Araument.
+page 34	LIVERPOOL RAID STOPPED.
+page 34	JUNKS IN MINEFIELD.
+page 35	LUFTWAFFE TRIES AGAIN.
+page 35	Big Raids Renewed For First Time Since Friday.
+page 35	Five "Alert" Warnings In London.
+page 35	Bexhill And Hastings.
+page 35	Western Suburbs.
+page 35	AGAIN OVER LONDON LAST NIGHT.
+page 35	Dorset Bombing.
+page 35	"BAG" JUMPS TO 47.
+page 35	GRIS NEZ DRENCHED IN FLAMES.
+page 35	SUBMARINE CREW SAFE.
+page 35	THAILAND MISSION IN INDIA.
+page 35	STARTLING MOVE BY U.S. GOVERNMENT.
+page 35	AUSTRALIAN AIRCREAFT OUTPUT.
+page 35	COALITION SOUGHT IN AUSTRALIA.
+page 35	HUNGARIAN TRIP CONCLUDED.
+page 35	BIG TIN DEPOSITS DISCOVERED.
+page 36	KUNMING RAIDED FROM INDO-CHINA.
+page 36	British Hospital Destroyed.
+page 36	A PLAN FOR ACTION!
+page 36	TANGIER MOVES.
+page 37	SIR HUGH DOWEDING AWAREDE G.C.B.
+page 37	STOCK EXCHANGE "STEADY, QUIET".
+page 37	As Easy As Falling Off A Bicycle.
+page 37	JAPAN BLAMES ROOSEVELT.
+page 37	DIDN'T WANT TO DO IT!
+page 37	TENTH HAIFA RAID.
+page 38	CHINA NOT MOVED BY AXIS-TOKYO PACT.
+page 38	Rights Of Third Powers.
+page 38	Conflict Inevitable.
+page 38	GERMAN WRECK FOR EXHIBIT.
+page 38	SOUTH AFRICAN AIR FORCE RAIDS.
+page 38	A.R.P. SANDBAGE STOLEN.
+page 38	SETS BURGLAR ALARM GOING.
+page 38	TWO ACCUSED IN BRUTAL PIRACY DISCHARGED.
+page 38	Other Pleas.
+page 38	Sin Shing's Story.
+page 38	SENT FOR TRIAL.
+page 38	GIRL'S ATTEMPT AT SUICIDE.
+page 40	Attempt to Panic United States.
+page 40	To Sooth Nazis.
+page 40	COLOSSAL WAR COST FIGURES.
+page 40	ITALY TO GLAIM THE PRICE.
+page 40	CRITICAL MONTH OF AIR WAR ANALYSED.
+page 40	Testimony of Truth.
+page 40	SPAIN'S ROLE TO BE DISCUSSED.
+page 41	SIDELIGHTS OF RAIDS ON BRITAIN.
+page 41	Rural Council Solemnity.
+page 41	Downed During Funeral.
+page 41	WOMAN BECOMES MAJOR.
+page 41	BEER SENT HIM TO GAOL.
+page 41	FUNNIEST STORY FROM ROME.
+page 41	RUMOUR COST 42pounds.
+page 41	PRINCE EDWARD ROAD BURGLARY.
+page 41	L.D.V. TRAPS 3 NAZI AIRMEN.
+page 41	IN FOREFRONT OF BATTLE.
+page 41	TOWN LOST HALF ITS CHILDREN.
+page 41	CHOLERSA'S WANE.
+page 42	PLIGHTS TROTH FIR DEAD SON.
+page 42	"I Shall Never Wed."
+page 42	GAT HAD KITTENS IN BABY'S GAS HELMET.
+page 42	WHAT STOMACH SUFFERERS CAN EAT.
+page 45	SHIPMENT WITHOUT PERMIT.
+page 45	TYPHOON IN FORMOSA CHANNEL.
+page 45	SEVEN BRITONS CONVICTED BY THE JAPANESE.
+page 45	Japanese Indicted.
+page 45	SHIPPING FEDERATION BIRTHDAY.
+page 45	REPLACEMENT OF NISHINHARA.
+page 45	NEW SPANISH LINER.
+page 46	Four New Records Established In Swimming Championships.
+page 46	Reflections On The Three-Day V.R.C. Festival.
+page 46	Ng Nin Over-Trained? Manila Interport Trials On Thursday.
+page 46	Over-Trained.
+page 46	Interport Trials On Thursday.
+page 46	South China A.A. Championships.
+page 46	Miss Lee Po-luen Betters Her Own Record.
+page 46	JOCKEY CLUB RULING.
+page 46	Macao Win Water-Polo.
+page 46	MISS HO WAI-KING EQUALS NATIONAL RECORD.
+page 48	Grave Blow To The Luftwaffe.
+page 48	Nazi Plan To Invade Britain Miscarries Badly.
+page 48	5,000 Men Lost In Two Months.
+page 48	Major Defeat.
+page 48	A Week's Figures.
+page 48	BIG NAZI OIL PLANT DEVASTATED.
+page 48	Wide Area.
+page 48	Fokker Factory.
+page 48	Amsterdam Havoc.
+page 48	SIR SHENTON THOMAS'S TERM EXTENDED.
+page 48	MADRID ATTACK ON U.S.A.

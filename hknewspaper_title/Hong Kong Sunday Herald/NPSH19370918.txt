@@ -1,0 +1,201 @@
+page 1	CANTON RIVER CHANNEL MINED.
+page 1	Precaution Taken To Prevent Surprises By Japanese Raiders.
+page 1	CHINESE APPREHENSIVE OF BIAS BAY OR MIRS BAY LANDING ATTEMPTS.
+page 1	JAPANESE BOMBED HEAVILY.
+page 1	Claim Choehow Taken.
+page 1	Liner Fails To Arrive.
+page 1	New Field Hospital.
+page 1	Search For Endeavour Unavailing.
+page 1	Attempt To Re-take Lotien.
+page 1	PRINCE SAIONJI STRICKEN.
+page 1	DERELICT JUNK TOWED TO PORT.
+page 1	CHINESE TROOPS ON THE ALERT.
+page 1	SHANGHAI FEARS RTOTS AS FOOD SUPPLY CUT OFF.
+page 1	Japanese Keep Full Hongkew Warehouses Closed to Starving.
+page 1	THOUSANDS IN STREETS.
+page 1	STORIES OF ANGUISH.
+page 1	SHRAPNEL CAUSING HEAVIEST LOSSES.
+page 1	Chinese Bemoan Lack Of Modern Equipment.
+page 1	ITALO-GERMAN CIRCLES SHOW NEW ANIMOSITY.
+page 1	Claim Anti-Piracy Patrol Detrimental To Their Interests.
+page 1	ITALY AND BRITAIN AGAIN AT CRISIS SAYS ROME PRESS.
+page 1	Resentment In Italy.
+page 1	Complete Agreement.
+page 1	Exploring Lost World Of Arizona.
+page 1	CHINESE LODGE PROTEST WITH U. S.
+page 1	Partial Embargo Causes Nanking Consternation.
+page 3	RUSSIA MASSES FRONTIER ARMY.
+page 3	Huge Forces Stationed at Viadivostok.
+page 3	SUBMARINES LAUNCHED IN SEA OF JAPAN.
+page 3	Latest Liner's Maiden Voyage.
+page 3	AIR.CONDITIONENG IN THE ORCADES.
+page 3	"Flats" With Windows, Not Portholes.
+page 3	Telegram Prevents Wedding.
+page 3	Chief Scout To Carry On.
+page 3	B. P.'S ENGAGEMENTS FOR 1939.
+page 3	PLOT TO BLOW UP STADIUM.
+page 3	Machine-Guns Trained On Irish Arena.
+page 3	TO STOP THE SPREAD OF SLEEPING SICKNESS.
+page 3	Doctor's Experiment On Himself.
+page 3	TRANSMISSION FROM ANIMALS.
+page 3	FOOD FAMINE AHEAD OF MADRID NOW.
+page 4	SHANGHAI FEARS RIOTS AS FOOD SUPPLY CUT OFF.
+page 4	DANCER OF RIOTS.
+page 4	DISCUSS TRADE AGREEMENT.
+page 4	THE COLONY'S BUDGET.
+page 4	EXPENDITURE FOR NEXT YEAR.
+page 6	The Mother Of Seven.
+page 6	Town Fears Poison: woman And Boy Die.
+page 6	MONS VETERAN.
+page 6	KILLED BY WASPS.
+page 6	Sabre Duel Lasts For 21/2 Hours.
+page 13	200 BAGS OF BATAVIA MAILS LOST IN SHIP BLAZE.
+page 13	TONS OF DYNAMITE DUMPED OVERBOARD.
+page 13	Freighter With Blazing Hatch Races To Colombo.
+page 13	ASSISTANCE OFFERED.
+page 13	WOMAN HUGS BACHELOR N. Z. PREMIER.
+page 13	WELLINGTON GIVES WARM WELCOME.
+page 13	LIVING STANDARD.
+page 13	Robert Taylor Sails.
+page 13	TWELVE GIRLS FAINT.
+page 13	Two Under His Bed.
+page 13	AID FOR REFUGEES.
+page 13	SALARY CONTRIBUTIONS TO BE MADE.
+page 13	Jean Harlow Leaves Only 8,200 pounds.
+page 13	Shocking Allegtions In Mui-tsai Case.
+page 13	BRUTAL TREATMENT DISCLOSECD BY MEDICAL EVIDENCE.
+page 13	Dreadful Condition.
+page 13	What Inspector Saw.
+page 13	Girl Taken Away.
+page 13	Girl's Evidence.
+page 13	Tied Up And Bumt.
+page 15	"SHE USED TO BE SO SLIM."
+page 15	Chance Remark Which Opened Nurse's Eyes.
+page 15	AMERICA'S GIANT AIR BOMBER.
+page 15	MANY DEAD IN U. S. FOREST BLAZE.
+page 15	Fire Fighters Cut Off By Flames.
+page 15	BLACKSHIRTS ARREST AUSTRALIAN.
+page 15	Camera Broken, Field Glasses "Lost."
+page 15	New "People's Gas Mask" For Germany.
+page 17	BOXING TITLE.
+page 17	Garcia Preparing For Bout With Ross.
+page 17	NEGRO WINS AGAIN.
+page 17	The Yankees Oppose A Livelier Ball.
+page 17	LAWN BOWLS.
+page 17	Taikoo To Play Civil Serice.
+page 17	CANTON RIVER CHANNEL MINED.
+page 17	Warships Shell Pootung Again.
+page 17	Rain Prevents Serious Fighting.
+page 17	Batteries Shell Warships.
+page 17	4,000 Japanese Reinforcements.
+page 17	Eight Japanese Divisions.
+page 17	Japanese Airbase Off Kiangsu.
+page 19	NEWS IN PHOTOGRAPHS.
+page 20	PREVENTION OF DISEASE.
+page 20	NEW REGULATIONS ON WATER SUPPLY.
+page 20	Leaders All Win Games.
+page 20	SAYS BOMBS CRINESE.
+page 20	QUEEN MARY.
+page 20	Naval Police Powers.
+page 20	Local Law Being Amended.
+page 20	LIFE OF QUEEN VICTORIA.
+page 20	NEW FILM SHOWN IN LONDON.
+page 20	SCHOOL BROADCASTS.
+page 20	OLYMFIC TO BE BROKEN UP.
+page 20	ANGLO-U.S. PARLEYS.
+page 20	SILVER'S FUTURE DISCUSSED.
+page 20	CHINESE LODGE PROTEST WITH U. S.
+page 20	WIDESPREAD INDIGNATION.
+page 21	CANTON RIVER CHANNEL MINED.
+page 21	Precaution Taken To Prevent Surprises By Japanese Raiders.
+page 21	CHINESE APPREHENSIVE OF BIAS BAY OR MIRS BAY LANDING ATTEMPTS.
+page 21	JAPANESE BOMBED HEAVILY.
+page 21	Claim Choehow Taken.
+page 21	Liner Fails To Arrive.
+page 21	Now Field Hospital.
+page 21	Search For Endeavour Unavailing.
+page 21	Attempt To Re-take Lotien.
+page 21	PRINCE SAIONJI STRICKEN.
+page 21	DERELICT JUNK TOWED TO PORT.
+page 21	HAINAN FORTS BOMBARDED.
+page 21	CHINESE TROOPS ON THE ALERT.
+page 21	SHANGHAI FEARS RIOTS AS FOOD SUPPLY CUT OFF.
+page 21	Japanese Keep Full Hongkew Warehouses Closed to Starving.
+page 21	THOUSANDS IN TREETS.
+page 21	STORIES OF ANGUISH.
+page 21	SHRAPNEL CAUSING HEAVIEST LOSSES.
+page 21	Chinese Bemoan Lack Of Modem Equipment.
+page 21	ITALO-GERMAN CIRCLES SHOW NEW ANIMOSITY.
+page 21	Claim Anti-Piracy Patrol Detrimental To Their Interests.
+page 21	ITALY AND BRITAIN AGAIN AT CRISIS SAYS ROME PRESS.
+page 21	Resentment In Italy.
+page 21	Complete Agrccment.
+page 21	Exploring Lost World Of Arizona.
+page 21	CHINESE LODGE PROTEST WITH U. S.
+page 21	Partial Embargo Causes Nanking Consternation.
+page 23	RUSSIA MASSES FRONTIER ARMY.
+page 23	Huge Forces Stationed at Vladivostok.
+page 23	SUBMARINES LAUNCHED IN SEA OF JAPAN.
+page 23	CHINA'S "SECRET PACT."
+page 23	MECHANICAL ARMY.
+page 23	Latest Liner's Maiden Voyage.
+page 23	AIR-CONDITIONING IN THE ORCADES.
+page 23	"Flats" with Windows, Not Portholes.
+page 23	ALWAYS COOL.
+page 23	Telegram Prevents Wedding.
+page 23	Chief Scout To Carry On.
+page 23	B. P.'S ENGAGEMENTS FOR 1939.
+page 23	PLOT TO BLOW UP STADIUM.
+page 23	Machine-Guns Trained On Irish Arena.
+page 23	TO STOP THE SPREAD OF SLEEPING SICKNESS.
+page 23	Doctor's Experiment On Himself.
+page 23	TRANSMISSION FROM ANIMALS.
+page 23	FOOD FAMINE AHEAD OF MADRID NOW.
+page 27	200 BAGS OF BATAVIA MAILS LOST IN SHIP BLAZE.
+page 27	TONS OF DYNAMITE DUMPED OVERBOARD.
+page 27	Freighter With Blazing hatch Raees To Colombo.
+page 27	WOMAN HUGS BACHELOR N. Z. PREMIER.
+page 27	WELLINGTON GIVES WARM WELCOME.
+page 27	LIVING STANDARD.
+page 27	Robert Taylor Sails.
+page 27	TWELVE GIRLS FAINT.
+page 27	Two Under His Bed.
+page 27	AID FOR REFUGEES.
+page 27	SALARY CONTRIBUTIONS TO BE MADE.
+page 27	Jean Harlow Leaves Only 8,200 pounds.
+page 27	Shocking Allegations In Mui-tsai Case.
+page 27	BRUTAL TREATMENT DISCLOSED BY MEDICAL EVIDENCE.
+page 27	Dreadful Condition.
+page 27	What Inspector Saw.
+page 27	Girl Taken Away.
+page 27	Girl's Evidence.
+page 27	Tied Up And Burnt.
+page 29	The Yankees Oppose A Livelier Ball.
+page 29	LAWN BOWLS.
+page 29	Taikoo To Play Civil Service.
+page 29	CANTON RIVER CHANNEL MINED.
+page 29	Warships Shell Pootung Again.
+page 29	Rain Prevents Serious Fighting.
+page 29	Batteries Shell Warsips.
+page 29	4,000 Japanese Reinforcements.
+page 29	Eight Japanese Divisions.
+page 29	Japanese Airbase Off Kiangsu.
+page 31	NEWS IN PHOTOGRAPHS.
+page 32	PREVENTION OF DISEASE. 
+page 32	NEW REGLATIONS ON WATER SUPPLY.
+page 32	Leaders All Win Games.
+page 32	SAYS BOMNS CHINESE.
+page 32	QUEEN AMRY.
+page 32	Naval Police Powers.
+page 32	Local Law Being Amended.
+page 32	PICTORIAL SUPPLEMENT.
+page 32	LIFE OF QUEEN VIGTORIA.
+page 32	NEW FILM SHOWN IN LONDON.
+page 32	SCHOOL BROADCASTS.
+page 32	ANGLO-U.S. PARLEYS.
+page 32	SILVERS FUTURE DISCUSSED.
+page 32	ANGLO-U. S. PARLEYS.
+page 32	SILVER'S FUTURE DISCUSSED.
+page 32	CHINESE LODGE PROTEST WITH U. S.
+page 32	DR. WANG PROTESTS.
+page 32	WIDESPREAD INDIGNATION.

@@ -1,0 +1,240 @@
+page 1	PRISONERS ADMIT JAPANESE DEFEAT.
+page 1	HEAVY LOSS SUFFERED IN SHANTUNG.
+page 1	Survivor Says Troops Fear Court Martial If They Retreat.
+page 1	Heavy Loss Inflicted.
+page 1	Japanese Drive Spent.
+page 1	No Information On Plan For S'hai Censorship.
+page 1	FOREIGN SQUADRON DISBANDS.
+page 1	Filers To Be Used As Instructors Of Chinese.
+page 1	MEXICAN CURRENCY COLLAPSE.
+page 1	SURRENDER ONLY WAY TO PEACE.
+page 1	Insurgents Won't Compromise.
+page 1	BRITISH CRUISER FOR BARCELONA.
+page 1	Asks Vatican To Protest.
+page 1	Cordell Hell Denounces Air Attacks.
+page 1	SPECIAL CABINET MEETING CALLED.
+page 1	Considering Soviet Invitation.
+page 1	U.S. Government Kept Informed.
+page 1	AMERICA'S BID FOR SUPREMACY IN AIR.
+page 1	Nazi Methods Bring Protest From Jews.
+page 1	Brutal Treatment Reported From Austria.
+page 1	JEWISH PLAYWRIGHT COMMITS SUICIED.
+page 1	No Salute To Japanese Sentries Asked.
+page 1	Millions To Revive Japan Trade.
+page 1	1,611,520 pounds AWAITING CLAIMANTS IN IRISH HOSPITAL SWEEPSTAKE.
+page 1	Oil Companies Willing to Gove Wageincreases.
+page 1	SWISS TO DEFEND FREEDOM.
+page 1	Want Complete Neutrality Recognised.
+page 1	Sun Fo Visits Paris on Way To Homeland.
+page 1	Chamberlain May Explain His Policies.
+page 1	Important Statement In Commons Expected.
+page 1	Indiscreat Words Cause Consternation In Czecho-Slovakis.
+page 1	LITHUANIA CABINET RESIGNS.
+page 1	May Stay In Office Till Leader Returns.
+page 3	Britain To Poll On Japan Boycott.
+page 3	LORD CEEIL LEADS APPEAL TO EVERY ADULT.
+page 3	TRAIL OF DEATH MARKS VOYAGE OF QUEEN BEEWS.
+page 3	FIRED WITH ENTHUSIANSM.
+page 3	EGYPTS ARMY.
+page 3	Abducted White Woman Rules 6,000 Blacks.
+page 4	DESCRIBES PROGRESS OF CHINA'S AVIATION; AND GLIMPSES FUTURE.
+page 4	MANY PROBLEMS.
+page 4	TYPE OF AIRCRAFT.
+page 4	GROUND ORGANISATION.
+page 4	WHAT OF THE FUTURE?
+page 5	DESCRBES PROGRESS OF CHINA'S AVIATION; AND GLIMPSES FUTURE.
+page 5	EARLY STRGGLES.
+page 5	FIRST STEP.
+page 5	FOUR SERVICES.
+page 5	DIFFICULTIES FACED.
+page 7	Test-tube Horse May Win Derby.
+page 7	Amazing Breeding Method Planned At Home.
+page 7	Offer Made By Owner.
+page 7	"SYNTHETIC" PEDIGREE STOCK.
+page 7	BREEDERS' VIEW.
+page 7	Flesh Turning To Leather.
+page 7	Grave Diggers Declare First Job Is Hardest.
+page 7	SCHOOLMASTERS FOR THE NAVY.
+page 7	Franchot's Tone Is Good.
+page 7	Chinese Plans For War Refugees.
+page 7	BIG COLONISATION SCHEME.
+page 7	EMPIRE NEWS.
+page 7	AUSTRALIA AND TRADE PACT.
+page 7	Canada.
+page 7	STATE INSURANCE.
+page 7	More Legal Clouds For Laurel.
+page 7	India.
+page 7	HUNGER STRIKE ENDS.
+page 7	80,000 pounds MAN SOLD BREAD TO WIFE.
+page 7	Scientists Search For Absolute Nothing.
+page 7	Kidnao Threats To Harold Lloyd.
+page 9	MOTOR VESSEL LAUNCHED.
+page 9	Built At Taikoo Docks for Burns Philp.
+page 9	JAPANESE REQUESTS REFUSED.
+page 9	Appeal For Help In Restoring Order In Shanghai.
+page 9	Big Aircraft Carrier Back.
+page 9	AMBULANCE CUP.
+page 9	Life Saving Classes To Be Resumed.
+page 9	Local Preparations For Society's Examinations.
+page 9	OUR GUIDE TO THE CINEMAS.
+page 9	INNINGS VICTORY.
+page 9	Bradman And McCabe Score Centuries.
+page 9	ICE HOCKEY LEAGUE.
+page 9	Canadiens Established As Runners-Up.
+page 9	ARMY BOXING
+page 9	Championship Finals To Commence On Thursday.
+page 9	LIGHTWEIGHT BOUT.
+page 9	SPORTS POSTPONED.
+page 9	Ground Waterlogged By Sudden Rainfall.
+page 9	WAH YAN COLLEGE.
+page 9	INTER-HONG SOCCER.
+page 9	Gibb, Livingston Trounce Hongkong Electric.
+page 9	LEAGUE TEAM CHOSEN.
+page 9	TABLE TENNIS.
+page 9	Shu Shiu-Kau Retains Singles Title.
+page 11	NEWS OF THE DAY IN PICTURES FROM FAR AND NEAR.
+page 11	HAPPENINGS AS SEEN BY THE CAMERA'S EYE.
+page 12	FREAKISH MARCH WEATHER.
+page 12	JAPANESE SOLDIERS UNWANTED.
+page 12	Britain Seeking To Prevent Entry Into S'hai Settlement.
+page 12	Step To Avoid Incidents.
+page 12	Another Fine Photographic Contest Prize.
+page 12	U.S. TRADE PACT WITH TURKEY.
+page 12	BRITISH GOVERNMENT AIDS MEDICAL RELIEF.
+page 12	SHIPS IN WINELESS COMMUNICATION.
+page 12	GOING ON LEAVE.
+page 12	AQUARIUM SOCIETY TO MEET.
+page 12	FURIOUS MORNING STORM OVER H.K.
+page 12	Soviet Closes Down Chamber Of Commerce.
+page 12	MERELY SHIFTING OFFICES.
+page 12	ANCHI AGAIN TAKEN BY JAPANESE.
+page 12	DESPERATE FIGHTING.
+page 12	PINGLU RECAPTURED BY CHINESE.
+page 12	CLOUSTON LEAVES SYDNEY.
+page 12	GOVERNORS TO LUNCH WITH SIR V. GRAYBURN.
+page 12	CHINESE ATTACK CHANGHING.
+page 12	AUSTRIA OUTSIDE LEAGUE NOW.
+page 12	U.S. NAVAL BILL PASSED.
+page 12	JAPANESE ATTACK REPULSED.
+page 12	ANOTHER HONAN TOWN CAPTURED.
+page 13	JAPANESE FIEE AFTER HEAVY DEFEAT.
+page 13	SEVERE LOSS ON BLOODY LINYI SECTOR.
+page 13	Desperate Fighting For Road to Hsuchow Still Proceeding.
+page 13	Pinglu Recaptured By Chinese.
+page 13	Chinese Attack Chinghing.
+page 13	Desperate Fighting.
+page 13	JAPANESE DECLARE RESISTANCE SMASHED.
+page 13	Now Driving On Hsuchow.
+page 13	JAPANESE RETAKE KWANGTEH.
+page 13	ANCHI, AGAIN TAKEN BY JAPANESE.
+page 13	Chamberlain Prepared To Disclose Policy.
+page 13	CABINET WUMMONED FOR CONSIDERATION OF VITAL PROBLEM.
+page 13	Soviet Invitation To Peace Quest To Be Discussed.
+page 13	Clouston Hops For Home.
+page 13	MEXICANS SEIZE AMERICANS.
+page 13	Workers Becoming Dangerous.
+page 13	SETTLEMENT LOOKS HOPEFUL.
+page 13	WORKERS RESCUE PARTY LEADER.
+page 13	WILLING TO GIVE WAGE INCREASES.
+page 13	1,611,520 AWAITING CLAIMANTS IN IRISH HOSPITAL SWEEPSTAKE.
+page 13	LITHUANIA LAMENTS LOSSES.
+page 13	March On President's Home Dispersed.
+page 13	KILLED IN FALL FROM WALL.
+page 13	CABINET SUMMONED FOR CONSIDERATION OF VITAL PROBLEM.
+page 13	Soviet Invitation to peace Quest To Be Discussed.
+page 13	U.S. Increases Pensions To Veterans' Kin.
+page 13	Considering Soviet Invitation.
+page 13	U.S. Government Kept Informed.
+page 13	Chamberlain May Explain.
+page 13	U.S. Soldier Faces Grave Accustaion.
+page 13	Allegedly Participated In Peiping Legation Robbery.
+page 13	SMALLPOX DECLINES.
+page 15	Millions To Revive Japan Trade.
+page 15	FREAKISH MARCH WEATHER.
+page 15	FURIOUS MORNING STORM OVER H.K.
+page 15	Another Fine Photographic Contest Prize.
+page 15	WILL DISCUSS TRANS-ATLANTIC AIR SERVICES.
+page 15	NINE KILLED BY FALLING ROCK.
+page 15	Soviet Closes Down Chamber Of Commerce.
+page 15	MERELY SHIFTING OFFICES.
+page 15	GERMANY ABSORBS POSTAL SYSTEM IN AUSTRIA.
+page 15	U.S. TRADE PACT WITH TURKEY.
+page 15	AQUARIUM SOCIETY TO MEET.
+page 16	JAPANESE FLEE AFTER HEAVY DEFEAT.
+page 16	Another Honan Town Captured.
+page 16	Many Prisoners.
+page 16	Heavy Loss Inflicted.
+page 16	Japanese Drive Spent.
+page 16	Chinese Troop Escape.
+page 16	CHAMBERLAIN PREPARED TO DISCLOSE POLICY.
+page 16	Indiscreet Words Cause Consternation In Czcho-Slovakia.
+page 16	JAPANESE DECLARE RESISTANCE SMASHED.
+page 16	New Commitments Are Unlikely.
+page 17	Nazi Methods Bring Protest From Jews.
+page 17	Brutal Treatment Reported From Austria.
+page 17	Jewish Playwright Commits Suicide.
+page 17	Freud's Passport Confiscated.
+page 17	AUSTRIA OUTSIED LEAGUE NOW.
+page 17	CARELESS DRIVER FINED $20.
+page 17	ADMITS THEFT.
+page 17	U.S. NAVAL BILL PASSED.
+page 17	CARRIED GUNS ON STEAMER.
+page 17	CONTRACTOR GIVEN NOMINAL FINE.
+page 17	TWO MUI TSAI CASE BOOKED.
+page 19	AMERICAN POLICY CLARIFIED.
+page 19	Mr. Cordell Hull's Speech Delights Official Cirles.
+page 19	NEW DETERMINATION.
+page 19	ROAD TO CHAOS.
+page 19	HEAVY MILITARY AMBULANCE UPSET IN COLLISION.
+page 19	OVERCROWDING CAUTION.
+page 19	WAR CUTS PROFITS OF H.K. FIRM.
+page 19	But A.S. Watson And Co. Pays Dividend.
+page 19	STABLE EXCHANGE.
+page 19	DIVIDEND PROPOSED.
+page 19	SHUREHOLDERS PLEASED.
+page 19	SURRENDER ONLY WAY TO PEACE.
+page 19	Insurgents Won't Compromise.
+page 19	British Cruiser For Barcelona.
+page 19	Britons Urged To Leave.
+page 19	Asks Vatican To Protest.
+page 19	Condemns Bombings.
+page 19	Cordell hull Denounces Air Attacks.
+page 19	FORTHCOMING WEDDINGS.
+page 19	FORGERS SENT TO PRISON.
+page 19	Chief Justice Points Out Unpatriotic Angle Of Crime.
+page 19	HAD LARGE STOCK.
+page 19	SIMULTANEOUW ARRESTS.
+page 19	LED TO FOURTH ACCUSED.
+page 21	Life Saving Classes To Be Resumed.
+page 21	Local Preparations For Society's Examinations.
+page 21	OUR GUIDE TO THE CINEMAS.
+page 21	INNINGS VICTORY.
+page 21	Bradman And McCabe Score Centruies.
+page 21	ICE HOCKEY LEATUE.
+page 21	Canadiens Established As Runnners-Up.
+page 21	ARMY BOXING.
+page 21	Championship Finals To Commeuce On Thursday.
+page 21	INTER-HONG SOCCER.
+page 21	Gibb, Livingston Trounce Hongkong Electric.
+page 21	LIGHTWELGHT BOUT.
+page 21	SPORTS POSTPONED.
+page 21	Ground Waterlogged By Sudden Rainfall.
+page 21	TABLE TENNIS.
+page 21	Shu Shiu-Kau Retains Singles Title.
+page 23	NEWS OF THE DAY IN PICTURES FROM FAR AND NEAR.
+page 23	HAPPENINGS AS SEEN BY THE CAMERA'S EYE.
+page 24	FOREIGN SQUADRON DISBANDS.
+page 24	Fliers To Be Used As Instructors Of Chinese.
+page 24	No Information On Plan For S'hai Censorship.
+page 24	DRUNKEN MAN TIED BY FOKIS.
+page 24	THIEF CAUGHT AT PAWNSHOP DOOR.
+page 24	THEFTS REPORTED.
+page 24	GOVERNORS TO LUNCH WITH SIR V. GRAYBURN.
+page 24	JAPANESE SOLDIERS UNWANTED.
+page 24	Britain Seeking To Prevent Entry Into S'hai Settlement.
+page 24	Step To Avoid In Cidents.
+page 24	SWISS TO DEFEND FREEDOM.
+page 24	Want Complete Neutrality Recoginsed.
+page 24	Sun Fo Visits Paris on Way To Homeland.
+page 24	NEW ARGENTINE ENVOX FETED.
+page 24	BRITISH GOVERNMENT AIDS MEDICAL BELIEF.

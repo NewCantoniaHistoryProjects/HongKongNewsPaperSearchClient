@@ -1,0 +1,133 @@
+page 1	SHANGHAI INFERNO RAGES.
+page 1	Chinese Air Raids On Japanese Flagship Idzumo.
+page 1	CRUISER,UNSCATHED, REPLIES WITH ANTI-AIRCRAFT GUNS.
+page 1	Briton Injured: Jardine Warehouses On Fire.
+page 1	MISSED MARK.
+page 1	CHINESE PANIC.
+page 1	BRITON WOUNDED.
+page 1	MILLS BOMBED.
+page 1	Japan Naval Threat.
+page 1	20 Warships May Make Wholseale Bombardment.
+page 1	Germans In Soviet Gaols.
+page 1	Strong Protest Being Made.
+page 1	JAPANESE FLAGSHIP ATTACKED.
+page 1	FAR EAST CRISIS MAY SPREAD.
+page 1	BRITISH PRESS FORESEES DANGER .
+page 1	POWERS ON THE ALERT.
+page 1	Wholesale Captures.
+page 1	Spanish Insurgent Successes.
+page 1	TRADE UNION CONGRESS.
+page 1	May Split On Arms Issue.
+page 1	WEATHER REPORT.
+page 1	BRITISH WOMEN AND CHILDREN IN SHANGHAI MAY BE EVACUATED.
+page 1	PITEOUS WAILING.
+page 1	Chinese Claim Steady Advance Around Chapei.
+page 1	North Station Bombed By Japanese Planes.
+page 1	CHINESE ADVANCE.
+page 1	HALF-MILE FRONT.
+page 1	REEUGEES'S PLIGHT.
+page 1	JAPANESE BOMBING.
+page 1	Shanghai University Said To Be Doomed.
+page 1	HONGKONG LOOTING.
+page 1	JUNK BARRAGE.
+page 1	CRUISERS ACTIVE.
+page 1	DEFENCE PRECAUTION.
+page 3	CHINESE LAUNCH OFFENSIVE.
+page 3	Gun's Thunder Wakes Shanghai to Second Day of Chapei Battle.
+page 3	CITY'S DEFENDERS ANNOUNCE ADVANCE AGAINST JAPANESE.
+page 3	Infantry Thrust Accompanied By Intensive Bombardment.
+page 3	CHINESE CLAIM ADVANCE.
+page 3	CHINESE ADVANCE.
+page 3	KUNG SIGNS FOR CREDITS.
+page 3	LYNCHING BILL.
+page 3	CHINA DRIVE OPENS.
+page 3	Nanking Troops Hope to Ease Nankow Crisis.
+page 3	ALSO AIM AT TIENTSIN.
+page 3	RENEWED GUNFIRE.
+page 3	ON GUARD IN S'HAI.
+page 3	JAPANESE STILL IN SEARCH OF ASIAN HEGEMONY.
+page 3	Tricked Chinese Army Into Belief Local Settlement Aim.
+page 3	U.S. -JAPANESE EXCHANGE.
+page 3	MALICIOUS INVENTIONS.
+page 3	NANKOW IN HANDS OF JAPANESE.
+page 3	EYE-WITNESSES TELL STORY OF CHAPEI BATTLE.
+page 3	Correspondents Brave Gunfire To Obtain First-Hand News.
+page 3	BUILDINGS ABLAZE.
+page 3	HEAVY REINFORCEMENT.
+page 3	FIRING AT SNIPERS.
+page 3	STUBBORN RESISTANCE.
+page 3	Eight Burn To Death In Plane.
+page 3	Pressing Forward Swiftly.
+page 3	Dreadful Sights.
+page 4	ANTI-CHOLERA VACCINE SUPPLIES IN COLONY FAST DWINDLING.
+page 4	Medical Authorities Faced With New Problem.
+page 4	MEANWHILE CHOLERA INCIDENCE MOUNTS.
+page 4	45,000 INOCULATIONS.
+page 4	SHELL FALLS IN SETTLEMENT.
+page 4	U.S. Protects Her Rights Assurances Asked From Britain.
+page 4	SHANGHAI INFERNO RAGES.
+page 4	"NOW IT IS WAR."
+page 4	ANOTHER VISIT.
+page 4	CONSULATE CLOSED.
+page 5	CHINESE LAUNCH OFFESIVE.
+page 5	Guns' Thunder Wakes Shanghai to Second Day Of Chapei Battle.
+page 5	CITY'S DEFENDERS ANNOUNCE ADVANCE AGAINST JAPANESE.
+page 5	Infantry Thrust Accompanied By Intensive Bombardment.
+page 5	CHINESE CLAIM ADVANCE.
+page 5	CHINESE ADVANCE.
+page 5	CHINA DRIVE OPENS.
+page 5	Nanking Troops Hope to Ease Nankow Crisis.
+page 5	ALSO AIM AT TIENTSIN.
+page 5	RENEWED GUNFIRE.
+page 5	ON GUARDK IN S'HAI.
+page 5	JAPANESE STILL IN SEARCH OF ASIAN HEGEMONY.
+page 5	Tricked Chinese Army Into Belief Local Settlement Aim.
+page 5	U.S.-JAPANESE EXCHANGE.
+page 5	MALICIOUS INVENTIONS.
+page 5	KUNG SIGNS FOR CREDITS.
+page 5	EYE-WITNESSES TELL STORY OF CHAPEI BATTLE.
+page 5	Correspondents Brave Gunfire to Obtain First-Hand News.
+page 5	BUILDINGS ABLAZE.
+page 5	HEAVY REINFORCEMENT.
+page 5	FIRING AT SNIPERS.
+page 5	CHINESE PLANES BOMB IDXZUMO.
+page 5	PRESSING STRONGLY.
+page 5	HOGNGKEW LOOTING.
+page 5	SHELL FALLS IN SETTLEMENT.
+page 13	The Ritual Of The Seventh Moon Festival.
+page 13	ROMANTIC FABLE OF THE SPINNING DAMSEL AND THE HERD BOY.
+page 15	EUROPE AND AMERICA SUPPLY CHINA WITH THE SINEWS OF WAR.
+page 15	WITH CREDITS & LOAN FOR CONSTRUCTION OF RAILWAY.
+page 15	SECRETS JOF R.A.F.'PLANES.
+page 15	INVENTOR'S COURT APPLICATION.
+page 15	SYDNEY MAKES ITS GIANT BRIEGE PAY.
+page 15	Million Pounds In Tolls.
+page 15	BILLION DOLLARS FROM TAXES ON ALCOHOL.
+page 15	Woman Falls From Roof On Boy: Both Die.
+page 17	McCAHON RELEASED.
+page 17	INTENDS WRITING TO THE DUKE OF WINDSOR.
+page 17	U.S. SUPREME COURT.
+page 17	CHINA DRIVE OPENS.
+page 17	JAPANESE DISLODGED.
+page 17	NANKOW IN HANDS OF JAPANESE.
+page 17	ATLANTIC FLIGHT.
+page 18	DEATH OF LORD RUNCIMAN.
+page 18	CABIN BOY WHO BECAME MAGNATE.
+page 22	SEA FIGHT OFF SPAIN.
+page 22	KOWLOON MATTERS DISCUSSED.
+page 22	K.R.A. Deals With Many Subjects.
+page 22	BUS ROUTES.
+page 22	STREET LIGHTING.
+page 22	TROPICAL STORM IN LONDON.
+page 22	Floods Interfere With Traffic.
+page 22	U.S. Protects Her Rights.
+page 22	Assurances Asked From Britain.
+page 22	THE PALESTINE PROBLEM.
+page 22	BRITISH PLAN TOO VAGUE.
+page 22	LYHNCHING BILL.
+page 22	DELAYED BY POLE STORMS.
+page 22	Soviet Airmen Across Top Of World.
+page 22	PLANE OVERDUE.
+page 22	REGULAR SERVICE.
+page 22	ARGENTINGE UP IN ARMS.
+page 22	OVER U.S. WARSHIP DEAL.

@@ -1,0 +1,9 @@
+page 2	HONGKONG.
+page 2	SHANGHAI.
+page 2	TIENTSIN.
+page 2	YOKOHAMA.
+page 2	HIOGO.
+page 2	NAGASAKI.
+page 3	THE DISTRESS AT TIENTSIN.
+page 3	Through the courtesy of Mr. Gavey, Super-intendent of the China Submarine Telegraph Company.
+page 3	THE NORTH CHINA BRANCH OF THE ASIATIC SOCIETY.

@@ -1,0 +1,4 @@
+page 3	POSTAL BATES.
+page 3	Hongkong Bates of Postage.
+page 3	Miscellaneous Notlcea.
+page 3	In the following Statements and Tables the Rates are given in cents, and are, for Letters, per half ounce, for Books and Patterns, per two ounces.

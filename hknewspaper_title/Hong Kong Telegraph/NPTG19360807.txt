@@ -1,0 +1,279 @@
+page 1	LOYALISTS CLAIM CADIZ CAPTURED.
+page 1	MASSING FOR BIG BATTLE.
+page 1	Rebel Successes In South Reported.
+page 1	AIRCRAFT SINK LOYAL GUNBOAT NEAR GIB.
+page 1	STARTING BIG "PUSH."
+page 1	Loyailsts Routed?
+page 1	Decisive Fight Near.
+page 1	Tacticians For Front.
+page 1	Rebel Aircraft Prepared For Decisive Fight.
+page 1	M.P.S. SUDDEN DEATH.
+page 1	CAUSES VACANCY IN BIRMINGHAM.
+page 1	Conflicting Reports.
+page 1	FEARFUL TOLL IN COLLIERY DISASTER.
+page 1	21 KNOWN DEAD: MANY STILL MISSING.
+page 1	ONLY RESCUED MAN DIES.
+page 1	ONLY SLIM HOPE.
+page 1	EMPIRE'S ATHLETES DO WELL.
+page 1	LOVELOCK VICTOR IN CLASSIC RACE.
+page 1	FINLAY GETS A PLACE.
+page 1	PALESTINE PEACE NOT ACHIEVED.
+page 1	SABOTAGE AGAIN BREAKS OUT.
+page 1	HUNT GANGS IN HAIFA.
+page 1	SIM MAY WRECK ITS TIN MINES.
+page 1	UNLESS IT STANDS BY CONTROL.
+page 1	OVER-LIBERAL TREATMENT.
+page 1	ST. LOUIS DRIVING AHEAD.
+page 1	AGAIN DEFEATS CHICAGO.
+page 1	TIGERS BLANK CLEVELAND.
+page 1	AIR MAILS SUSPENDED.
+page 1	NO ARMS FOR SPAIN?
+page 1	Neutrality Scheme In Preparation.
+page 1	NATIONS ANXIOUS TO AVOID COMPLICATION.
+page 1	Revolution Will Cause Many Deaths.
+page 1	AMERICAN WARNING TO SPAIN.
+page 1	INDEMNITIES FOR LOSS DEMANDED.
+page 1	GERMANY'S PROTEST.
+page 1	German Protest.
+page 1	PROVOST'S ESTATE.
+page 1	Belgium Adheres.
+page 1	Money For Leftists.
+page 1	Offcial Acceptance.
+page 1	Accepts In Principle.
+page 1	Britons Warned.
+page 1	TYPHOON WARNING.
+page 3	SHOT BLONDE'S AMAZING DIARY SECRETS.
+page 3	Desperately In Love With Al Capone's Aide- de- Camp.
+page 3	WIFE THREATENS "I'LL GET YOU."
+page 3	Chicago Society Fears "Shocking" Revelations.
+page 3	NIGHT CLUB ROUNDS.
+page 3	OTHER WOMAN'S VOICE.
+page 3	U.S.A. Film Censor and the Pope's Eneyclical.
+page 3	FELL FOUR STORDEYS --- LIVES!
+page 3	A Schoolmaster's Danghter Becomes "Princess of the Don."
+page 3	Girl's "Arise And Walk" Vision.
+page 3	DEFIED TEAR GAS --- GAVE IN TO HUNGER.
+page 3	Titanic Fund Still Growing.
+page 3	Shot Himself in League Hall as a protest.
+page 3	OXFORD ENJOYS A HOAX.
+page 3	JEW EXILED BY THE NAZIS.
+page 3	Death After Pistol Crack Alarmed the Assembly.
+page 3	ASKED FORGIVENESS.
+page 3	A WAR BULLET TOO.
+page 3	"ALL I COULD DO."
+page 3	20 YEARS IN GERMANY.
+page 3	"Dead" Son Asks For Lodging.
+page 4	RADIO BROADCAST.
+page 4	WATER LEVELS.
+page 4	STATE OF RIVERS IN KWANGTUNG.
+page 4	LOCAL WEDDINGS.
+page 4	MR. W. A. STEWART AND MISS BROWNING.
+page 4	Registry Weddings.
+page 4	AQUARIUM SOCIETY.
+page 4	FISHES FROM SINGAPORE TO BE DISTRIBUTED.
+page 4	FUNERAL OF TOURIST.
+page 4	LATE MR. STANLEY COBHAM LAID TO REST.
+page 5	Radio Competition.
+page 5	HAVE YOU SENT IN YOUR ENTRY YET?
+page 5	NEW YORK STOCK EXCHANGE.
+page 5	MARKET UPWARD YESTERDAY.
+page 5	"TELEGRAPH" ART SUPPLEMENT.
+page 7	"MAGIC GAS" THAT MAY REVOLUTIONISE TRANSPORT.
+page 7	Accident Leads to Secret Fuel Discovery that has Baffled the World's Seientists.
+page 7	SILENT POWER AT TRIFLING COST.SILENT POWER AT TRIFLING COST.
+page 7	PROBLEM STUDIED FOR YEARS.
+page 7	Why Some Marriages Fail.
+page 7	INTEREST FLOPS AFTER THE HONEYMOON.
+page 7	ONLY 9 PER CENT KNOW.
+page 7	"BOY MEETS GIRL."
+page 7	NON-EXPLOSIVE GAS.
+page 7	LORD AND MASTER.
+page 7	WRITER BARRED BY JAPAN.
+page 7	"UNDESIRABLE."
+page 7	BLUE SHIRTS.
+page 7	AT OWN RISK.
+page 7	LONDON'S TRANSPORT.
+page 7	WORK BEGUN ON SCHEME COSTING 40,000,000 Pounds.
+page 7	NEW AMBASSADOR.
+page 7	SIR H. KNATCHBULL HUGESSEN STARTING FOR CHINA.
+page 7	TWO NEW ELEMENTS FOUND.
+page 7	STAGE IN SIEGE OF THE ATOM.
+page 7	FIRST BOMMBARDMENS.
+page 7	A SHORT LIFE.
+page 7	CLAIMS CHALLENGED.
+page 11	Change of Fleet Changes Hands.
+page 12	G- Men Films Are First Choice of Children.
+page 12	MAE WEST? --- NEVER!
+page 12	Love Stories Leave Them Cold: They Hate Music.
+page 12	THEY LAUGH AT LOVE.
+page 12	RIGHT AND WRONG.
+page 12	BANK NOTE CIRCULATION.
+page 12	NEW HIGH RECORD AT HOME.
+page 12	ENGLISH WATER RESOURCES.
+page 12	Goldwyn's Beauty Parade.
+page 12	SERVICE ATTACHES.
+page 12	WING COMMANDER KERBY TO GO TO PEIPING.
+page 12	Captain R. H. Povan.
+page 13	VITORY CLAIMS UNFOUNDED.
+page 13	REBELS STILL HOLD CADIZ.
+page 13	Insurgent Armies Prepare For Push.
+page 13	DECISIVE ENGAGEMENTS NOW NEAR AT HAND.
+page 13	ON MADRID OUTSKIRTS.
+page 13	Early Report.
+page 13	Franco In Spain.
+page 13	Loyalists Routed?
+page 13	Rebel Aircraft Prepared For Decisive Fight.
+page 13	Decisive Fight Near.
+page 13	BRITAIN DEFEATS CHINA XI CLOSE CLASH.
+page 13	CHINESE TO GO ON TOUR.
+page 13	FINE SHOWING.
+page 13	TEAM NOT KNOWN.
+page 13	GOING ON TOUR.
+page 13	Passengers Soon To Fly Over Pacific.
+page 13	Fear Of Fighting At Wuchow.
+page 13	Foreigners Warned To Evacuate.
+page 13	LAST VIEW OF OUTER WORLD.
+page 13	KIDNAPPER GOES TO ALCATREZ.
+page 13	Chinese Girl Held In Big Heroin Haul.
+page 13	M. P.'S SUDDEN DEATH.
+page 13	$100,000 FIRE DAMAGE IN FIRE-PROOF ROOM.
+page 13	ANDOTHER BLAZE.
+page 13	NO ARMS FOR SPAIN?
+page 13	Neutrality Scheme In Preparation.
+page 13	NATIONS ANXIOUS TO AVOID COMPLICATION.
+page 13	Belgium Adheres.
+page 13	Money For Leftists.
+page 13	Official Acceptance.
+page 13	Accepts In Principle.
+page 13	Britons Warned.
+page 13	Leftist Strike Crushed.
+page 13	MODERATE CONTROL GREECE STILL.
+page 13	Revolution Will Cause Many Deaths.
+page 13	AMENICAN WARNING TO SPAIN.
+page 13	INDEMNITIES FOR LOSS DEMANDED.
+page 13	GERMANY'S PROTEST.
+page 13	German Protest.
+page 13	PROVOSTS ESTATE.
+page 15	SHOT BLONDE'S AMAZING DIARY SECRETS.
+page 15	Desperately In Love With Al Capone's Aide- de- Camp.
+page 15	WIFE THREATENS "I'LL GET YOU."
+page 15	Chicago Society Fears "Shocking" Revelations.
+page 15	NIGHT CLUB ROUNDS.
+page 15	OTHER WOMAN'S VOICE.
+page 15	U.S.A. Film Censor and the Pope's Eneyclical.
+page 15	FELL FOUR STORDEYS --- LIVES!
+page 15	A Schoolmaster's Danghter Becomes "Princess of the Don."
+page 15	Girl's "Arise And Walk" Vision.
+page 15	DEFIED TEAR GAS --- GAVE IN TO HUNGER.
+page 15	Titanic Fund Still Growing.
+page 15	Shot Himself in League Hall as a protest.
+page 15	OXFORD ENJOYS A HOAX.
+page 15	JEW EXILED BY THE NAZIS.
+page 15	Death After Pistol Crack Alarmed the Assembly.
+page 15	ASKED FORGIVENESS.
+page 15	A WAR BULLET TOO.
+page 15	"ALL I COULD DO."
+page 15	20 YEARS IN GERMANY.
+page 15	"Dead" Son Asks For Lodging.
+page 16	PALESTINE PEACE NOT ACHIEVED.
+page 16	SABOTAGE AGAIN BREAKS OUT.
+page 16	HUNT GANGS IN HAIFA.
+page 16	KOWLOON TRAFFIC SUMMONSES.
+page 16	CASTLE PEAK ROAD SPEEDING.
+page 16	AMERICAN FINED.
+page 16	ANOTHER CASE.
+page 17	Radio Competition.
+page 17	HAVE YOU SENT IN YOUR ENTRY YET?
+page 19	"MAGIC GAS" THAT MAY REVOLUTIONISE TRANSPORT.
+page 19	Accident Leads to Secret Fuel Discovery that has Baffled the World's Seientists.
+page 19	SILENT POWER AT TRIFLING COST.
+page 19	PROBLEM STUDIED FOR YEARS.
+page 19	NON-EXPLOSIVE GAS.
+page 19	LORD AND MASTER.
+page 19	OLYMPIC ATHLETES' STANDING.
+page 19	AMERICAN TEAMS FAR AHEAD.
+page 19	BRITAIN NOW FIFTH.
+page 19	STOLE DRINKS AND SMOKES.
+page 19	MR K.F. NOBLE'S SENTENCED.
+page 19	21 YEARS AGO.
+page 19	Extracts From The "Telegraph" Files.
+page 19	FLIERS AT SEATTLE.
+page 19	Why Some Marriages Fail.
+page 19	INTEREST FLOPS AFTER THE HONEYMOON.
+page 19	ONLY 9 PER CENT KNOW.
+page 19	"BOY MEETS GIRL."
+page 19	U.S. NAVY BRIDGING PACIFIC.
+page 19	PATROLLONG WIDE OCEAN STRETCH.
+page 19	WITH NEW AIR FLEET.
+page 19	UNEXPECTED TRIP TO HONGKONG.
+page 19	AMERICAN SOLDIERS ESCAPADE. 
+page 22	WHAT I SAW IN RUSSIA-4.
+page 22	Homes of the People by Sir Walter Citrine.
+page 23	Charge of Fleet Changes Hands.
+page 23	VICTIM OF ASSAILANT.
+page 23	CAR PULLED OUT OF THE WHANGPOO.
+page 24	SIAM MAY WRECK ITS TIN MINES.
+page 24	UNLESS IT STANDS BYB CONTROL.
+page 24	OVER-LIBERAL TREATMENT.
+page 24	SHANGHAI AREA COMMANDER.
+page 24	ARRIVES ON WAY TO POST.
+page 24	VICTORRY CLAIMS UNFOUNDED.
+page 24	Tacticians For Front.
+page 24	Conflicting Reports.
+page 24	BANK NOTE CIRCULATION.
+page 24	NEW HIGH RECORD AT HOME.
+page 24	ENGLISH WATER RESOURCES.
+page 24	FEARFUL TOLL IN COLLIERY DISASTER.
+page 24	21 KNOWN DEAD: MANY STILL MISSING.
+page 24	ONLY RESCUED MAN DIES.
+page 24	EVEREST CAN BE SCALED.
+page 24	ST. LOUIS DRIVING AHEAD.
+page 24	AGAIN DEFEATS CHICOGO.
+page 24	TIGERS BLANK CLEVELAND.
+page 24	TYPHOON WARNING.
+page 24	ONLY SLIM HOPE.
+page 24	POWERS SHOW SYMPATHIES.
+page 24	WARNING TO SPAIN.
+page 24	Germany Angered At Nationals' Deaths.
+page 24	ITALY SEES CIVIL WAR AS TEST OF FASCISM.
+page 24	Three More Deaths.
+page 24	Test of Strength.
+page 24	Leftist Anger.
+page 24	Allegation Denied.
+page 24	HONGKONG MAY BE AIRWARYS' TERMINUS.
+page 24	NEGOTIANTIONS WITH NANKING.
+page 24	MR. R. A. C. NORTH HOPEFUL.
+page 24	ANTI-AIRCRAFT COMMNAD.
+page 24	WAR OFFICE APPOINTMENT.
+page 24	FRENCH FORMULA CAMPAIGN.
+page 24	NEUTRALITY PLAN BEFORE POWERS.
+page 24	NO TIME TO LOSE.
+page 24	ROYALIST CHIEF IN CONTROL.
+page 24	GEN METAXAS HEADS GREEK CABINET.
+page 24	KING GOING ON HOLIDAY.
+page 24	SITUATION QUIET.
+page 24	FRENCH SHIP ASHORE.
+page 24	CROMER LIFEBOAT TO RESCUE.
+page 24	NO HOPE FOR MINERS ENTOMBED BY BLAST.
+page 24	IN SIGHT OF MADRID.'HEAVY FIGHTING IN SEVERAL AREAS.
+page 24	OFFICIAL REPORT.
+page 24	REPORT PREMATURE.
+page 24	Advance On Madrid.
+page 24	Fierce Air Attack.
+page 24	Terrible Threat.
+page 24	BRITIHSH TROOPS ENGAGED.
+page 24	SHARP CLASHES IN PALESTINE.
+page 24	ARABNS SUFFFER SEVERELY.
+page 24	THREAT OF FIGHTING.
+page 24	COMET VISIBLE.
+page 24	NEW CANTON OFFICIALS.
+page 24	SOUTH PORTS BOMBARDED.
+page 24	British Woman In Algeciras Hurt.
+page 24	REBRALTAR REFUGE.
+page 24	Watch Bombardment.
+page 24	Consulate Damaged.
+page 24	French Steamer Bombed.
+page 24	China Loses Basketball To Japanese.
+page 24	CLOSE GAME FOR FIRST HALF.
+page 24	ARGENTINE RETAINS POLD TIELE.
+page 24	TYPIIOON WARNING.

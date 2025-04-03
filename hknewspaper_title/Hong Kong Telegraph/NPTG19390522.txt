@@ -1,0 +1,310 @@
+page 1	Poles Barricaded In Customs House, Call For Help.
+page 1	NAZI STORM-TROOPERS IN BORDER INCIDENTS.
+page 1	POLAND SEEKS SAFEGUARDS.
+page 1	Pan-American Airways Make AIR History With Inaugural Flight.
+page 1	DIPLOMAT ACTIVITY
+page 1	Halifax Confers Paris, Geneva
+page 1	SOVIET RUSSIA WON'T ABANDON DEMOCRACY.
+page 1	WISH FOR PEACE
+page 1	Guarantees As Best System.
+page 1	Canadian Memorial Unveiled.
+page 1	Hupeh Front Gains
+page 1	Chinese Claim Successes.
+page 1	THE RAIN
+page 1	IN LIVING TOMB.
+page 1	Six Rescued In Kennedy Road.
+page 1	LATEST
+page 1	ANGLO-SOVIET ALLIANCE.
+page 1	DEMOCRACY LEADS IN AMERICAN APPRAISAL.
+page 2	"HER FATHER SAED: WED HER-OR DIE"
+page 2	Man Accuses Five Of Conspiracy To Make Him Marry.
+page 2	NIGHT RAID ON CARD PARTY.
+page 2	Bride Gets Divorce .
+page 2	After Civil Ceremony.
+page 2	Zog's Queen Rejects Film Offer.
+page 2	EMPIRE MEWS.
+page 2	'GUNGA DIN' BANNED IN BOMBAY. 
+page 2	AUSTRALIA
+page 2	REFUGEES APPLY TO JOIN THE ARMY.
+page 2	DENYA 
+page 2	IMMIGRATON LAW AMENDED.
+page 2	NEW ZEALAND.
+page 2	FRUIT EZPORTS HIT BY DRY WEATHER.
+page 2	GIRL 'MIRACLE WORKER'TRIED.
+page 2	Interference With British Trade.
+page 2	British Concession At Tievtsin.
+page 2	Heroism mantle won.
+page 3	HER HUSBAND WAS A LUSITANIA HERO.
+page 3	Shanghai-Nanking Railway
+page 3	Founded a Church To His Memory.
+page 3	Edgar Wallace's 'Little Pal'
+page 3	FIGHTS ON FOR HIS HOME.
+page 3	Dynamite Threat To Niagara.
+page 3	MOSQUITO FLEET BUILT.
+page 3	Lulworth Protest Fails.
+page 3	Attack On Shanghai Hospital.
+page 4	A.R.P. IN HOMGKONG.
+page 4	What To Do In An Air Raid.
+page 4	DANCING GIMAL HELD 
+page 4	Mr. T. Lee and Miss L. Wong Win Competition.
+page 4	STOLEN CARS 
+page 4	Police Recover Half Dozen At Weed-End.
+page 4	FOOTBALLER'S SISTER 
+page 4	Miss M. Leung Marries Mr.Samucl K. Szeto.
+page 4	Glands Made Young-Vigour Renewed Without Operation.
+page 5	MADRID SURREMDERS
+page 5	B.B.C. Plan All Britain Television.
+page 7	JAPAN AND THE AXIS.
+page 7	BRITISH CONCESSIONS TO RUSSIA POSSIBLE
+page 7	Important Talks By Halifax In Paris.
+page 7	BALDWIN APPROVES POLICY
+page 7	New Free Port For Lithuania.
+page 7	Vermont Safety Conscious.
+page 7	Kulangsu Settlement Announced.
+page 7	Mr. Nelson Johnson Returning.
+page 7	China's Appeal To Geneva.
+page 7	Polish Border Situation ls Tense.
+page 9	SWISS SET DATES FOR OINTER OLYMPICS .
+page 9	EREVTS CONFUSENG THE PROBLEMS OF U.S. COMMITTEE.
+page 9	SPORT ADRTS.
+page 9	THE HONG KONG JOCDEY CLUB.
+page 9	OUR GREDE TO THE CINEMAS.
+page 9	INCIDENT ON BUS.
+page 9	Theft Of Wallet Leads To Arrest.
+page 9	Chinese Soccer XI
+page 9	For Olympics
+page 9	Davis Cup 
+page 9	Poles Object Strongly To German Action.
+page 10	P & O-BRITISH INDIA (APCAR) AND EASTERN & AUSTRALIAN LINES.
+page 10	Strong Muscles Essential to Good Figure.
+page 10	Long Life For Home Plants.
+page 10	I'll Dance No More...
+page 12	RAIN IN PLENTY 
+page 12	Colony Reservoirs Replenished.
+page 12	Jews Planning Resistance.
+page 12	NAZE STORM 
+page 12	TROOPERS IN BORDER INCIDENTS.
+page 12	AFGHAN ENVOY
+page 12	Zul Fakar Khan En Route To Japan.
+page 13	Mutual Defcnce pact Reached By Britain, France, Russia
+page 13	COMPLETE ALLEANCE WITH U.S.S.R..-OFFICIAL
+page 13	TURKEY WILL ALSO JOIN
+page 13	Pan-American Airways Make Air History With Inaugural Flight.
+page 13	DIPLOMAT ACTIVETY
+page 13	Halifax Confers Paris, Geneva.
+page 13	SOVIET RUSSEA WON'T ABANDON DEMOCRACY 
+page 13	"CAR MAD" STUDENT 
+page 13	Two Vietims Pay Bail And Fime!
+page 13	Troop Train Disaster.
+page 13	Guerillas Explode Mine In North.
+page 13	Japanese Raid S. China Towns.
+page 13	Big Fire Rages In Tokyo Suburb.
+page 13	Canadian Memorial Unveiled.
+page 13	THE RAIN.
+page 13	IN LIVING TOMB .
+page 13	Six Rescued In Kennedy Road.
+page 13	Poles In Clash.
+page 13	12 Arrested In Shanghai.
+page 13	DEMOCRACY LEADS IN AMERICAN APPRAISAL.
+page 14	"HER FATHER SAED: WED HER-OR DIE"
+page 14	Man ACCUSES Five Of Conspiracy To Make Him Marry.
+page 14	NIGHT RAID ON CARD PARTY.
+page 14	Bride Gets Divorce After Civil Ceremony.
+page 14	EMPIRE NEWS
+page 14	GUVGA DIN BANNED IN BOMBAY.
+page 14	AUSTRALIA.
+page 14	REFUGEES APPLY TO JOIN THE ARMY.
+page 14	KENYA.
+page 14	IMMIGRATION LAW AMENDED.
+page 14	NEW ZEALAND.
+page 14	FRUET EXPORTS HIT BY DRY WEATHER.
+page 14	GIRL 'MIRACLE WORDER'TRIED.
+page 14	TROUBLE AGAIN.
+page 14	Interference With British Trade.
+page 14	British Concession At Tientsin.
+page 14	Heroism Mantle Won.
+page 15	HER HUSBAND WAS A LUSETANIA HERO.
+page 15	Shanghai-Nanking Railway.
+page 15	Founded A Church To His Memory.
+page 15	Attack On Shanghai Hospital.
+page 18	DIRDAM.
+page 18	SURRINDERS.
+page 18	B.B.C. Plan. All.
+page 18	Britain Television.
+page 19	Hupeh Front Gains.
+page 19	Chinese Claim.
+page 19	Kulangsu Settlement Announced.
+page 19	MR. PEPYS IN HONGKONG.
+page 19	Mr. Nelson Johnson Returning.
+page 19	BALDWIN APPROVES POLICY.
+page 19	China's Appeal To Geneva.
+page 19	Jews Planuing Resistance.
+page 19	WISH FOR PEACE.
+page 19	Guarantees As Best System.
+page 21	SWISS SET DATES FOR WINTER OLYMPICS.
+page 21	EVENTS CONFUSING THE PROBLEMS OF U.S. COMMITTEE.
+page 21	SPORT ADVTS.
+page 21	THE HONG DONG JOCKEY CLUB.
+page 21	OUR GUIDE TO THE CLNEMAS.
+page 21	Chinese Soccer XI For Olympics.
+page 21	ARMSTRONG TODEFEND WELTEROEIGHT TITLE IN ENGLAND TO-NIGHT.
+page 21	Little Likelihood Of Tennis.
+page 21	YAMAGESHI NOW IN THE NAVY.
+page 21	TRAINING YOUTH 
+page 21	National Athletic Meets Arranged In Japan.
+page 21	Davis Cup.
+page 21	Poles Object Strongly To German Action.
+page 21	CHINA ELIMINATED.
+page 21	Kho Sin-Kie Defeats Yvon Petra To Register Solitary Win.
+page 21	SWEDEN-DENMARK TIE.
+page 21	BELGIUM LEADS INDIA.
+page 22	Strong Muscles Essential to Good Figure.
+page 22	KEEP BODY BALANCED.
+page 22	MAKE MUSCLES WORK.
+page 22	Long Life For Home Plants.
+page 22	I'll Dance No More...
+page 23	PHOTONEWS.
+page 24	RAIN IN PLENTY.
+page 24	Colony Reservoirs Replenished.
+page 24	LANDSLIDE BURIES HUT IN QUARRY BAY.
+page 24	SHEK-O ROAD EROSION.
+page 24	New Free Port For Lithuania.
+page 24	Iron Ore Exports To Japan End.
+page 24	LATE NEWS.
+page 24	AFGHAN ENVOY.
+page 24	Zul Faker Khan En Route TO Japan.
+page 25	Mutual Defencc Pact Reached BY Britain,France,Russia.
+page 25	COMPLETE ALLIANCE WITH U.S.S.R.-OFFICIAL.
+page 25	TURKEY WILL ALSO JOIN.
+page 25	JAPANESE C. IN C.ARRIVES AT KULANGSU.
+page 25	Three-Power Protest Alleges Japanese Landing Was Pretext.
+page 25	SOLICITOR ASKS FOR TROTECTION.
+page 25	Magistrate Warns 'Don't Interfere with Order'.
+page 25	Judgment For Wifo.
+page 25	Custody Of Children.
+page 25	"CAR MAD"STUDENT.
+page 25	Two Victims Pay Bail And Fine!
+page 25	"Serious Problem"
+page 25	Text Of Protest.
+page 25	Counter-Action.
+page 25	Japanoso Reply.
+page 25	Loyalist Air Ace In Colony.
+page 25	Believes Franco Faces Insurrection.
+page 25	Wounded Prido.
+page 25	Defended Madrid.
+page 25	Soviet Supremacy.
+page 25	Boatcn By Starvation.
+page 25	NO MORE WATER.
+page 25	RESTRICTION Colony Storage Reaches Record.
+page 25	1,000 Milllon Gallon Increase.
+page 25	Six Rcicucd From Living Tomb.
+page 25	Europoons Assist.
+page 25	Roblnson Rd, Blocked.
+page 25	Poles In Clash.
+page 25	Storm-Troops Start Trouble.
+page 25	Scparations Dcmand. 
+page 25	Gcrman Vcrsion.
+page 25	Danzig Protection.
+page 26	"HER FATHER SAID:WED HER-OR DIE".
+page 26	Man Accuses Five of Conspiracy TO Make Him Marry.
+page 26	NIGHT RAID ON CARD PARTY.
+page 26	Bride Gets Divorce After Civil Ceremony.
+page 26	Zog's Queen Rejects Film Offer.
+page 26	A Look Through The "Telegraph".
+page 26	50 YEARS AGO.
+page 26	25 YEARS AGO.
+page 26	DEMOCRACY LEADS IN AMERICAN APPRAISAL.
+page 26	WASHINGTON, May 21.
+page 26	WHICH OF Europe's two great combinations of powers is the stronger?
+page 26	10 YEARS AGO.
+page 26	5 YEARS AGO.
+page 26	Must Remain In Prison.
+page 26	Unhapy Husband Appeals In Vain.
+page 27	Pan-American Airways Make Air History With Inaugural Flight.
+page 27	MR, PEPYIN HONGKONG.
+page 27	Cash Awards For China's War Wounded.
+page 27	Maintaining Morale.
+page 27	Jews Planning Resistance.
+page 27	DIPLOMAT ACTIVITY.
+page 27	Halifax Confers Paris, Geneva.
+page 27	Rcport To Goycrnmcnts.
+page 27	CIANO IN BERLIN.
+page 27	Manchoukuo Border Tension.
+page 27	C.-in-C. Still At Amoy.
+page 29	What To Do In An Air Raid.
+page 29	Trcnches.
+page 29	Extra Procautions.
+page 29	First Aid Supplies.
+page 29	Ambassador to Arrive To-day.
+page 29	Envoy Coming In H.M.S Delight.
+page 29	WISH FOR PEACE.
+page 29	Guarantees As Best System.
+page 29	Frcnch Problcms.
+page 29	STOCK MARKET REPORT.
+page 29	RADIO.
+page 29	Hour of Latest Dance Music and Varicty.
+page 29	BEETHOVEN CONCERTO.
+page 29	Glands Made Young-Vigour Renewed Without Operation.
+page 30	MADRID SURRENDER.
+page 30	B.B.C. Plan All Britain Television.
+page 31	CHINESE SCORE ON MANY FRONTS.
+page 31	Japanese Retreat in North Hupeh.
+page 31	TAOSHIH RETAKEN.
+page 31	PUPPER UNIT WIPED OUT.
+page 31	FIGHTING IN SHANSI.
+page 31	GUERILLAS AVTIVE NEAR HANGCHOW.
+page 31	FIERCE FIGHTING NEAR PENGTSEH.
+page 31	CHINESE ADVANCE.
+page 31	Hupch Front Gains.
+page 31	Tronsport Hit.
+page 31	Japanese Raid S, China Towns.
+page 31	New Officers For China Warships.
+page 31	Threat To Stab Father.
+page 31	B.B.C Broadcasts To Empire.
+page 31	Nineteen Bulletins Per day.
+page 31	A New Call-Sign.
+page 31	"Put It There Your Majesty".
+page 31	British Goods Made Into Bonfires.
+page 31	Japanese Campaign In Shanghai.
+page 31	British Sailors Land AT Pootung To Stop Riot.
+page 31	Iron Ore Exports To Japan End.
+page 31	KING HONNOURS CANADA DEAD.
+page 31	No Peace Without Freedom.
+page 31	"The Rcsponso"
+page 31	 20,000 Sco King.
+page 31	Wild Enthusiosm.
+page 31	Speak To Princesses.
+page 31	Trooping The Colours.
+page 33	SWISS SET DATES FOR WINTER OLYMPICS.
+page 33	EVENTS CONFUSING THE PROBLEMS OF U.S COMMLTTEE.
+page 33	SPORT ADVTS.
+page 33	THE HONG KONG JOCKEY CLUB.
+page 33	PUBLIC ENCLOSURE.
+page 33	OUR GUIDE TO THE CINEMAS.
+page 33	Chinese Soccer XI For Olympics.
+page 33	AEMSTRONG TO DEFEND WELTER WEIGHT TITLE IN ENGLAND TO-NIGHT.
+page 33	FLOWERY LANCUACE.
+page 33	Little Likelihood Of Tennis.
+page 33	YAMAGISHI NOW IN THE NAVY.
+page 33	TRAINING YOUTH.
+page 33	National Athletic Meets Arranged In Japan.]
+page 33	Davis Cup.
+page 33	Poles Object Strongly To German Action.
+page 33	Pollah Protcst.
+page 33	CHINA ELIMINATED.
+page 33	Kho Sin-kie Defcats Yvon Petrn To Register Solitary Win.
+page 33	SWEDEN-DENMARK TIE.
+page 33	BELGIUM LEADS INDIA.
+page 34	Strong Muscles Essential to Good Figure.
+page 34	KEEP BODY BALANCED.
+page 34	MAKE MUSCLES WORK.
+page 34	Long Life For Home Plants.
+page 34	I'll Dance No More...
+page 36	LATE NEWS.
+page 36	Pact Will Aid Peace, Says U.S..
+page 36	Japanese Yen Slides Down.
+page 36	Japan Rejects Axis Overtures.
+page 36	French Naval Move.
+page 36	TALCUM POWDER OR HEROIN DUST?
+page 36	Interesting Point Raised In Remarkable Court Case.
+page 36	Chinese Students For England.

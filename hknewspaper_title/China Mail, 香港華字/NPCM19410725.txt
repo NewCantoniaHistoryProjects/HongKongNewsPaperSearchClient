@@ -1,0 +1,372 @@
+page 1	AMERICA TAKES FIRM LINE.
+page 1	Japanese Aggression Denounced.
+page 1	STRONG WILLKIE SPEECH.
+page 1	PERUVIAN FRONTIER FIGHTING.
+page 1	FORTY JAPANESE SHIPS PAUSE.
+page 1	D.E.L. READY FOR SQUALLS.
+page 1	THAILAND POLICY AFFIRMED.
+page 1	Mr. Welles Says National Security Now Invoived.
+page 1	In No Position Aim Of Conquest .
+page 1	BOMBS ON EIRE.
+page 2	Germans Compelled To Admit Failure Of Blitzkrieg.
+page 2	RATE OF ADVANCE CUT IN HALF.
+page 2	Promised Sweep.
+page 2	DOCTORS RESIGN IN NORWAY.
+page 2	MOSCOW DEFETS RIDERS.
+page 2	Random Bombs.
+page 2	In Our 7-League Boots.
+page 2	AIR RAID IN FINLAND.
+page 2	SENATOR WHEELER ASKING FOR SERIOUS TROUBLE.
+page 2	SHANGHAI BOY WAR VICTIM.
+page 2	TURKISH A.A GUNS DESTROY NAZI 'PLANE.
+page 2	MOBILISHING INDIA'S INDUSTRY.
+page 2	Libya Activity.
+page 2	HITLER VERY BAD PSYCHOLOGIST.
+page 2	England Now Eulogized.
+page 2	Wise, Tenacious valiant.
+page 3	All Day Attacks On Targets In N. France.
+page 3	Big Formations Establish "Ferry" Service.
+page 3	Direct Hit.
+page 3	Mannheim Raid.
+page 3	In Three Minutes.
+page 3	NANKING MEN TAKE OVER.
+page 3	R.A.F. CATCHES BIG ITALIAN CONVOY.
+page 3	Destroyer Hit.
+page 3	NAZI RAIDERS OVER ULSTER.
+page 3	KIDNAPPED,SENT TO NANKING.
+page 3	BIRTHDAY RACKET FORBIDDEN.
+page 4	THREE MILIONS TO REGISTER FOR INDUSTRIAL SERVICE.
+page 4	ORTHOPAEDIC HOSPITAL CAMPAIGN.
+page 4	M. MAISKY SEES DR.KLFFENS.
+page 4	Wholly Inadequate Woman's Work.
+page 4	TWELVE NAZI FIGHTERS SHOT DOWN.
+page 4	JAPAN AND MALAYA REPORTS .
+page 5	Free Freech Give Warning About Indo-China.
+page 5	Instrument Of Axis.
+page 5	Soviet Air Hero.
+page 5	FEEBLE VICHY EXCUSE.
+page 6	ESCAPE FROM DEATH AT SEA STORY.
+page 6	Ship Abandoned.
+page 6	A Great Welcome.
+page 6	Services On Life-Boat.
+page 6	FOUND: ONE LEG- WANTED: ONE BODY.
+page 6	RIVER OF BLOOD IN LIBAU.
+page 6	Flame Throwers.
+page 6	SHANGHAI BUYS K.M.A. COAL.
+page 6	DRANK PETROL BY MISTAKE.
+page 7	STOBM CLOUDS.
+page 7	America In Her Own Right.
+page 7	By Waiter Lippmann.
+page 8	AIR STRENGTH OF BRITAIN & GERMANY.
+page 8	Leaps And Bounds.
+page 8	Better Machines.
+page 8	BRITAIN URGED TO ATTACK.
+page 8	Naval Offensive Urged.
+page 8	Economic Bloc Possible.
+page 8	GERMAN ADVANCES SLOWED DOWN.
+page 8	U.S. DEVELOPING NEW WEAPON.
+page 9	STORIES OF RED ARMY AND CIVILIAN DEEDS.
+page 9	Airmen's Feat.
+page 9	Retreat Cut Off.
+page 9	DEAD MAN'GLAND GRAFTED.
+page 9	POPULATION OF SHANGHAI.
+page 9	SHANGHAI MYSTERY SHOOTING.
+page 9	Motive Unknown.
+page 10	RADIO SETS TO BE REGISTERED.
+page 10	In General Demand.
+page 10	PINKETTES.
+page 10	TUITION GIVEN.
+page 12	HUSBANDS' BROADCAST TO AUSTRALIA.
+page 12	AMERICAN SEAMAN ROBBED.
+page 13	WILLIE HARRIS GOOD FIND FOR SCOTLAND'S RINK ON PRESENT FROM.
+page 13	"Jock Fender's Four Bowling Really Well.
+page 13	Cullen's Spectacular pile-Drivers.
+page 13	Holloway's Promise In Emergency.
+page 13	Eddie Souza Wins Match For Recreio.
+page 13	Bradbury Has Two Unexpected Counts.
+page 13	OGDEN ESTABLISES A WINNING OF 20-3.
+page 13	Rumjahn Registers Meritorious Win.
+page 13	Yvanovich Decides The Issue .
+page 13	Tarbuck Leads Well For Lunny.
+page 13	Chalk Mark Was Not Removed.
+page 13	COSTELLO AND DAVIES PROMINENT.
+page 13	Dazzling Shots By Jimmy Jack.
+page 13	AITKENHEAD AGAIN CAUSES BOWLS UPSET.
+page 14	CRAIGENGOWER ARE MAKING DRASTIC CHANGES THIS WEEK.
+page 14	Randall Skipping.
+page 14	Franks As Skip.
+page 14	P.O.C. Changes.
+page 14	Field Back Again.
+page 14	DID YOU KNOW?
+page 14	TRAINING BEGINS AT THE VALLEY.
+page 14	REVENUE DEPARTMENT GOLFERS.
+page 14	"WAPPINSHAW" AT K.C.C.
+page 14	PRISON OFFICERS' PAIR CAUSE FIRST BIG UPSET IN PAIRS.
+page 14	Spong And Levett Win By 8 Shots.
+page 14	K.C.C. Pair Have Easy Win.
+page 14	Start With Five And Win By 22.
+page 14	S.C.A.A. AQUATIC CARNIVAL.
+page 16	NAZI BATTLESHIPS GIVEN A BATTERING.
+page 16	Scharnhorst Caught After Leaving Brest.
+page 16	GNEISENAU ALSO GETS ANOTHER SEVRE HAMMERING.
+page 16	JAPANSE TRANSPORTS AT SAIGON.
+page 16	AMERICANS BOUND FOR HOME.
+page 16	AMERICA TAKES FIRM LINE.
+page 16	Security Involved.
+page 17	AMERICA TAKES FIRM LINE,.
+page 17	Japanese Aggression Denounced.
+page 17	D.E.I. READY FOR SQUALLS.
+page 17	TO TAKE EFFECT NEXT WEEK.
+page 17	BATTLEIN STRAITS OF DOVER.
+page 17	FORTY JAPANESE SHIPS PAUSE.
+page 17	THAILAND POLICY AFFIRMED.
+page 17	GLIDES FROM FRANCE TO ENGLAND.
+page 17	Mr. Welles Says National Security Now Involved.
+page 17	In No Position.
+page 17	Aim Of Conquest.
+page 17	BOMBS ON EIRE.
+page 18	Germans Compelled TO Admit Failure Of Blitzkrieg.
+page 18	RATE OF ADVANCE CUT IN HALF.
+page 18	MOSCOW DEFEATS RAIDERS.
+page 18	Random Bombs.
+page 18	In Our 7-League Boots.
+page 18	Promised sweep.
+page 18	DOCTORS RESIGN IN NORWAY.
+page 18	AIR RAID IN FINLAND.
+page 18	SENATOR WHEELER ASKING FOR SERIOUS TROUBLE.
+page 18	SHANGHAI BOY WAR VICTIM.
+page 18	TURKISH A.A. GUNS DESTROY NAZI 'PLANE.
+page 18	PERUVIAN FRONTIER FIGHTING.
+page 18	LANDED ON CLIFFS.
+page 18	JAP. WARSHIPS SIGHTED.
+page 18	HITLER VERY BAD PSYCHOLOGIST.
+page 18	England Now Eulogized.
+page 18	Wise, Tenaclous Valiant.
+page 19	INTENSE R.A.F. OFFENSIVE.
+page 19	All Day Attacks On Targets In N.France.
+page 19	Big Formations Establish "Ferry" Service.
+page 19	Direct Hit.
+page 19	Mannheim Raid.
+page 19	In Three Minutes.
+page 19	RAMC MEN ON GRAVE CHARGE.
+page 19	KOWLOON DOCKS DISCOVETY.
+page 19	R.A.F. CATCHES BIG ITALIAN CONVOY.
+page 19	Destroyer Hit.
+page 19	TWELVE NAZI FIGHTERS SHOT DOWN.
+page 19	TOKYO MARKET WEAKENS.
+page 19	LABOUR RETURNED UNOPPOSED.
+page 19	STRONG WILLKIE SPEECH.
+page 19	SHANGHAI FLOODED.
+page 20	THREE MILLIONS TO REGISTER FOR INDUSTRIAL SERVICE.
+page 20	ORTHOPAEDIC HOSPITAL CAMPAIGN.
+page 20	M.MAISKY SEES DR. KLEFFENS.
+page 20	Wholly Inadequate.
+page 20	Woman's Work.
+page 20	NAZI RAIDERS OVER ULSTER.
+page 20	JAPANAND MALAYA REPORTS.
+page 21	Free French Give Warning About Indo-China.
+page 21	FEEBLE VIGHY EXCUSE.
+page 21	Instrument Of Axis.
+page 21	Soviet Air Hero.
+page 22	HOW ITALIANS WERE BEGUILED.
+page 22	Agents Caught.
+page 22	Libya Activity.
+page 22	DEAD MAN'S GLAND GRAFTED.
+page 22	POPULATION OF SHANGHAI.
+page 22	SHANGHAI MYSTERY SHOOTING.
+page 22	Motive Unknown.
+page 22	FOUND: ONE LEG WANTED: ONE BODY.
+page 22	RIVER OF BLOOD IN LIBAU.
+page 22	Flame Throwers.
+page 22	SHANGHAI BUYS K.MA. COAL.
+page 22	DRANK PETROL BY MISTAKE.
+page 24	PRES. ROOSEVELT GIVES PLAIN HINT OF OIL EMBARGO.
+page 24	BRITAIN URGED TO ATTACK.
+page 24	Naval Offensive Urged.
+page 24	Economic Bloc Possible.
+page 24	JAPANESE BAN.
+page 24	Most Essential.
+page 24	Brutal Tai-O Outrage.
+page 24	BURNING JUNKS.
+page 24	IF JAPAN GOES ON U.S. WILL TAKE ACTION.
+page 24	Farallel Measures?
+page 25	ASTOUNDING FRENCH ADMISSION OF PURPOSE OF VICHY SURRENDER.
+page 25	AMERICAN SEAMAN ROBBED.
+page 25	GERMAN ADVANCES SLOWED DOWN.
+page 25	TOKYO VIEW OF EVENTS.
+page 25	U.S. DEVELOPING NEW WEAPON.
+page 28	HUSBANDS' BROADCAST TO AUSTRALIA.
+page 28	MOBILISING INDIA'S INDUSTRY.
+page 29	WILLIE HARRIS GOOD FIND FOR SCOTLAND'S RINK ON PRESENT FORM.
+page 29	"Jock" Fender's Four Bowling Really Well.
+page 29	Cullen's Spectacular Pile-Drivers.
+page 29	Holloway's Promise In Emergency.
+page 29	Eddie Souza Wins Match For Recreio.
+page 29	Bradbury Has Two Unexpected Counts.
+page 29	OGDEN ESTABLISHES WINNINGLEADOF 20-3.
+page 29	Rumjahn Registers Meritorious Win.
+page 29	Yvanovich Decides The Issue.
+page 29	Tarbuck Leads Well For Lunny.
+page 29	Chalk Mark Was Not Removed---
+page 29	COSTELLO AND DAVIES PROMINENT.
+page 29	Dazzling Shots By Jimmy Jack.
+page 29	AITKENHEAD AGAIN CAUSES BOWLS UPSET.
+page 29	"WAPPINSHAW" AT K.C.C.
+page 30	CRAIGENGOWER ARE MAKING DRASTIC CHANGES THIS WEEK.
+page 30	Randall Skipping.
+page 30	Franks As Skip.
+page 30	P.O.C. Changes.
+page 30	Field Back Again.
+page 30	Selected Teams.
+page 30	SAPPER SOLD FOR $5,500.
+page 30	TRAINING BEGINS AT THE VALLEY.
+page 30	LT. COL, WALKER AGAIN RIFLE ASSN. PRESIDENT.
+page 30	Amendment Of Rules.
+page 30	WATER-POLO RESULTS.
+page 30	PRISON OFFIGERS' PAIR CAUSE FIRST BIG UPSET IN PAIRS.
+page 30	Spong And Levett Win By 8 Shots.
+page 30	K.C.C. Pair Have Easy Win.
+page 30	S.C.A.A. AQUATIC CARNIVAL.
+page 30	Start With Five And Win By 22.
+page 32	NAZI BATTLESHIPS GIVEN BATTERING.
+page 32	Scharnhorst Caught After Leaving Brest.
+page 32	GNEISENAU ALSO GETS ANOTHER SEVERE HAMMERING.
+page 32	Several Direct Hits.
+page 32	JAPANESE TRANSPORTS AT SAIGON.
+page 32	AMERICANS BOUND FOR HOME.
+page 32	AMERICA TAKES FIRM LINE.
+page 32	Security Involved.
+page 33	SECRET OFFER TO DECOUX.
+page 33	Democratic Guarantee Ignored Astounding Hanoi Admission Of Japanese Aime.
+page 33	BRITISH VIEW OF EVENTS.
+page 33	NAZI SALIENT BLUNTED IN THE SMOLENSK AREA.
+page 33	"Careful Plan".
+page 33	Fulfilling A Bargain.
+page 33	Salient Blunted.
+page 33	Intense Fighting.
+page 33	Significant Comment.
+page 33	TATUTA WAITS.
+page 33	SHANGHAL RUMOUR DISPELLED.
+page 33	U.S. CABLE CENSORSHIP.
+page 33	POSITION CLEAR TO FAPAN.
+page 34	SENATOR WHEELER ASKING FOR SERIOUS TROUBLE.
+page 34	Wheeler's Argument.
+page 34	AIR RAID IN FINLAND.
+page 34	MOSCOW DEFEATS RAIDERS.
+page 34	Random Bombs.
+page 34	M.MAISKY SEES DR. KLEFFENS.
+page 34	HOW ITALIANS WERE BEGUILED.
+page 34	Agents Caught.
+page 34	Germans Compelled To Admit Failure Of Blitzkrieg.
+page 34	RATE OF ADVANCE CUT IN HALF.
+page 34	BRITAIN'S FOOD OURPUT.
+page 34	Milk Supply.
+page 34	Promised Sweep.
+page 34	PERUVIAN FRONTIER FIGHTING.
+page 34	BATTLEIN STRAITS OF DOVER.
+page 34	TURKISH A.A. GUNS DESTROY NAZI'PLANE.
+page 35	INTENSE R.A.F. OFFENSIVE.
+page 35	All Day Attacks On Targets In N. France.
+page 35	Big Formations Establish "Ferry" Service.
+page 35	Direct Hit.
+page 35	Mannheim Raid.
+page 35	In Three Minutes.
+page 35	FAR EAST INDIAN BROADCAST.
+page 35	RAMC MEN ON GRAVE CHARGE.
+page 35	FAKIR OF IPI STILL ACTIVE.
+page 35	R.A.F. CATCHES BIG IFTALIAN CONVOY.
+page 35	Destroyer Hit.
+page 35	TWELVE NAZI FIGHTERS SHOT DOWN.
+page 35	In Our 7-League Boots.
+page 35	STRONG WILLKIE SPEECH.
+page 35	YILLOW RIVER EXPERT PASSES.
+page 36	THREE MILLIONS TO REGISTER FOR INDUSTRIAL SERVICE.
+page 36	D.E.I. READY FOR SQUALLS.
+page 36	BOMBS ON EIRE.
+page 36	DRANK PETROL BY MISTAKE.
+page 36	Wholly Inadequate.
+page 36	Woman's Work.
+page 36	NAZI RAIDERS OVER ULSTER.
+page 36	GLIDES FROM FRANCE TO ENGLAND.
+page 37	A FEW BILLIONS MORE FOR DEFENCE IN U.S.
+page 37	Ships For Charter.
+page 37	Tonnage Increase.
+page 37	Central Pool.
+page 37	Electrical Torpedo.
+page 38	HOPE THAT COUNSELS OF SANITY WILL VET PREVAIL.
+page 38	Potent Weapons.
+page 38	Woeful Error.
+page 38	U.S. Warning.
+page 38	CREDITOR OBTAINS JUDGMENT.
+page 38	FEEBLE BICHY EXCUSE.
+page 38	Libya Activity.
+page 38	FREE FRENCH GIVE WARNING.
+page 38	Instrument Of Axis.
+page 40	PRES. ROOSEVELT GIVES PLAIN HINT OF OIL EMBARGO.
+page 40	Most Essential.
+page 40	THAILAND POLICY AFFIRMED.
+page 40	JAPANESE BAN.
+page 40	TO TAKE EFFECT NEXT WEEK.
+page 40	TOKYO VIEW OF EVENTS.
+page 40	IF JAPAN GOES ON U.S. WILL TAKE ACTION.
+page 40	Farallel Measures?
+page 41	Mr. Welles Says National Security Now Involved.
+page 41	In No Position.
+page 41	Aim Of Conquest.
+page 41	Security Involved.
+page 41	JAP.WARSHIPS SIGHTED.
+page 41	CHURCH AND AID TO RUSSIA.
+page 41	FORTY JAPANSE SHIPS PAUSE.
+page 42	WAKEUPYOUR LIVER BILE.
+page 42	ALLEGED BRIBE CONSPIRACY.
+page 42	NO HINT OF HALF MEASURES.
+page 42	ANTI-CHOLERA LAW.
+page 43	TOKYO MARKET WEAKENS.
+page 43	Brutal Tai-O Outrage.
+page 43	Soviet Aie Hero.
+page 43	AMERICANS BOUND FOR HOME.
+page 43	LABOUR RETURNED UNOPPOSED.
+page 44	ORTHOPAEDIC HOSPITAL CAMPAIGN.
+page 44	PRINTING MANAGERS ARRESTED.
+page 45	WILLIE HARRIS GOOD FIND FOR DCOTLAND'S RINK ON PRESENT FORM.
+page 45	"Jock" Fender's Four Bowling Really Well.
+page 45	Cullen's Spectacular Pile-Drivers.
+page 45	Holloway's Promise In Emergency.
+page 45	Eddie Souza Wins Match Recreio.
+page 45	Bradbury Has Two Unexpected Counts.
+page 45	OGDEN ESTABLISHES WINNINGLEAD OF 20-3.
+page 45	Rumjahn Registers Meritorious Win.
+page 45	Yvanovich Decides The Issue.
+page 45	Tarbuck Leads Well For Lunny.
+page 45	Chalk Mark Was Not Removed---
+page 45	COSTELLO AND DAVIES PROMINENT.
+page 45	Dazzling Shots By Jimmy Jack.
+page 45	AITKENHEAD AGAIN CAUSES BOWLS UPSET.
+page 46	CRAIGENGOWER ARE MAKING DRASTIC CHANGES THIS WEEK.
+page 46	Randall Skipping.
+page 46	Franks As Skip.
+page 46	P.O.C. Changes.
+page 46	Fleld Back Again.
+page 46	Selected Teams.
+page 46	SAPPER SOLD FOR $5,500.
+page 46	TRAINING BEGINS AT THE VALLEY.
+page 46	LT. COL, WALKER AGAIN RIFLE ASSN, PRESIDENT.
+page 46	Amendment Of Rules.
+page 46	WATER-POLO RESULTS.
+page 46	PRISON OFFICERS' PAIR CAUSE FIRST BIG UPSET IN PAIRS.
+page 46	Spong And Levett Win By 8 Shots.
+page 46	K.C.C. Pair Have Easy Win.
+page 46	"WAPPINSHAW" AT K.C.C.
+page 46	Start With Five And Win By 22.
+page 48	NAZI BATTLESHIPS GIVEN A BATTERING.
+page 48	Scharnhorst Caught After Leaving Brest.
+page 48	GNEISENAU ALSO GETS ANOTHER SEVERE HAMMERING.
+page 48	Several Direct Hits.
+page 48	46'Planes Shot Down In Grim Duel.
+page 48	SECRET OFFER TO DECOUX.
+page 48	Third Humiliation.
+page 48	Offer Ignored.
+page 48	JAPANESE TRANSPORTS AT SAIGON.
+page 48	BUENOS AIRES SWOOP.
+page 48	Years Of Work.
+page 48	SIGNATURE OF AGREEMENT DENIED.

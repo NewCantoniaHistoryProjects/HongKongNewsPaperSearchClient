@@ -1,0 +1,454 @@
+page 1	German Fleet moves as Allies Complete Blockade of Norway.
+page 1	NAVAL BATTLE IMMINENT OFF NORWAY?
+page 1	Armada of Nazi Warships Proceeding Up Coast.
+page 1	Norway forwards "Serious and solemn" protest.
+page 1	Agreement Cited.
+page 1	Foreign Minister's Statement.
+page 1	Appropriate Steps Necessary.
+page 1	SCANDINAVIANS IN CONFERENCE.
+page 1	Swedish Reaction.
+page 1	Premier's Statement.
+page 1	"DASTARDLY" PLOT!
+page 1	Gobbets Discovers New Machinations.
+page 1	Passage For Warships.
+page 1	LONDON.
+page 1	STOCKHOLM.
+page 1	OSLO.
+page 1	COPENHAGEN.
+page 1	ROME.
+page 1	NEW YORK.
+page 1	NAZIS LOSE THREE SHIPS AS BLOCKADE INTENSIFIES.
+page 1	150 Lives Lost.
+page 1	Survivors Land.
+page 1	MINISTERS CONFER.
+page 1	Important Meeting In London. 
+page 1	Hot Reception For Goering's Sky Raiders.
+page 1	Another Fight Ends In Allies's Farceur
+page 1	Making Them Think hard.
+page 1	MINISTERS CONFER.
+page 1	Important Meeting In London.
+page 1	NEW RAID ON SCAPA FLOW.
+page 1	ALLIES BUY FROM U.S.
+page 1	But Export To Reich Fall Rapidly.
+page 1	Fear British Propaganda.
+page 1	American Newspapers Chary Of Articles.
+page 1	Kenya's War Effort.
+page 1	Nazi Plane Over Shetlands.
+page 1	MAUNALOA ERUPTING.
+page 1	Hawaiian Volcano Spouts Lava.
+page 2	A Look Through The "telegraph"
+page 2	50 YEARS AGO.
+page 2	25 YEARS AGO.
+page 2	10 YEARS AGO.
+page 2	5 YEARS AGO.
+page 5	ON THE LOOK-OUT FOR GERMAN TANKS.
+page 5	NAZIS FABBUBG 1859 DUSOYTE.
+page 5	THEY FOUGHT FOR THE BED.
+page 7	Greater Activity On Western Front.
+page 7	Shanghai Commentator Driven Off Air
+page 7	ELECTIONCAMPAIGN BECOMES BITTER.
+page 7	XMHA Interference.
+page 7	Important Vote.
+page 7	Germans Split.
+page 7	Claim Old Order Dead.
+page 7	GOEBBELS' DIFFICULTY.
+page 7	Flock Of Rumours In Germany.
+page 7	Allied Blockade In Pacific.
+page 7	BREACH OF NEUTRALITY.
+page 7	Technically Admitted By Allies.
+page 7	Breach Of Neutrality.
+page 7	Will Act Swiftly.
+page 7	WANG IN PEIPING.
+page 7	Sudden Visit Takes City By Surprise.
+page 7	same Old Formula.
+page 7	Cease Fire Order.
+page 7	Wang Tells Chinese To End Hostilities.
+page 7	Japanese Leave Nanking.
+page 7	WHAT THEY SAY ABOUT US.
+page 7	South Africa Responds.
+page 7	Already 60,000 Have Joined Colours.
+page 7	Quiet Western Front.
+page 7	JOURNALIST DEPARTING.
+page 7	NORWAY FORWARDS "SERIOUS AND SOLEMN" PROTEST.
+page 7	New Situation Created.
+page 7	CUSTOMS CONTROL.
+page 7	Nanking Appointee May Be Replaced.
+page 11	Big British Naval Victory at Skager Rak is Announced.
+page 11	NAZIS LOSE WARSHIP, U-BOATS AND PLANES SAYS' REPORT.
+page 11	LONDON.
+page 11	SWIFT ACTION: FOUR NAZI SHIPS SUNK.
+page 11	Other Losses Reported.
+page 11	Transport Torpedoed.
+page 11	Hot Reception For Goering's Sky Raiders.
+page 11	Another Fight Ends In Allies' Favour.
+page 11	Making Them Think Hard.
+page 11	Belligerents May Fight On Norway's Soil.
+page 11	BRITISH PLAN TO DYNAMITE DANUBE.
+page 11	Amazing Sabotage plot Is Alleged By German News Agency.
+page 11	Alleged Plot Discovered.
+page 11	Specialists Disguised As Crew.
+page 11	Officially Denied.
+page 11	Hot Reception For Gringo's Sky Raiders.
+page 11	Another Fight Ends In Allis' Favor.
+page 11	Making Them Think Hard.
+page 11	"DASTARDLY" PLOT!
+page 11	Goebbels Discovers New Machinations.
+page 11	Passage For Warships.
+page 11	"Rape Of Neutrally".
+page 11	Village Near H.K. Bombed.
+page 11	Japanese Air Raid On Mirs Bay.
+page 11	Wounded Brought To H.K.
+page 11	STOCKHOLM.
+page 11	OSLO.
+page 11	COPENHAGEN.
+page 11	ROME.
+page 11	NEW YORK.
+page 11	Fear British Propaganda.
+page 11	American Newspapers Chary Of ArtiCles.
+page 11	MAUNALOA ERUPTING.
+page 11	Hawaiian Volcano.
+page 11	ALLIES BUY FROM U.S.
+page 11	But Exports To Reich Fall Rapidly.
+page 11	MINISTERS CONFER.
+page 11	Important Meeting In London.
+page 11	NEW RAID ON SCAPA Flow.
+page 11	SWEDES RUSH TO MAN DEFENCES.
+page 11	Kenya's War Effort.
+page 11	FRENCH "REDS" ARRESTED.
+page 11	GREEK STEAMER IS SUNK.
+page 12	NEW ADVERTISEMENTS,
+page 12	DOUGLAS STEAMSHIP COMPANY, LTD.
+page 12	A Look Through The "telegraph"
+page 12	50 YEARS AGO.
+page 12	25 YEARS AGO.
+page 12	10 YEARS AGO.
+page 12	5 YEARS AGO.
+page 12	Whisky Output.
+page 12	No REDUCTION OF BEER.
+page 14	John Barrymore Kisses Wife, Puts War Off Front Page.
+page 14	BREACH OF NEUTRALITY.
+page 14	Technically Admitted By Allies.
+page 14	Broach Of Neutrality.
+page 14	South Africa Responds.
+page 14	Already 60,000 Have Joined Colours.
+page 14	Nazi Plane Over Shetlands.
+page 15	WANG IN PEIPING.
+page 15	Sudden Visit Takes City By Surprise.
+page 15	Same Old Formula.
+page 15	GOEBBELS' DIFFICULTY.
+page 15	Flock Of Rumors In Germany.
+page 15	Shanghai commentator Driven Off Air.
+page 15	ELECTIONCAMPAIGN BECOMES BITTER.
+page 15	XMHA Interference.
+page 15	Important Vote.
+page 15	Germans Slit.
+page 15	Claim Old Order Dead.
+page 15	THEY FOUGHT FOR THE BED.
+page 17	WHAT THEY SAY ABOUT US.
+page 17	LONDON.
+page 17	Outspoken Comment.
+page 17	ON THE LOOK-OUT FOR GERMAN TANKS.
+page 17	SWIFT ACTION: FOUR NAZI SHIPS SUNK.
+page 17	Freighter Unmolested.
+page 17	Outside Territorial Waters.
+page 17	Nazis Lose Three Ships.
+page 17	150 Lives lost.
+page 17	Survivors Land.
+page 17	Norway forwards "Serious and Solemn" protest.
+page 17	Agreement Cited.
+page 17	Foreign Minister's Statement.
+page 17	Appropriate Steps Necessary.
+page 17	SCANDINAVIANS IN CONFERENCE.
+page 17	New Situation Created.
+page 17	Will Reject Protest.
+page 17	JOURNALIST DEPARTING.
+page 17	Swedish Reaction.
+page 17	Premier's Statement.
+page 20	SHOULD HANS LINDL FIGHT HIS BROTHER?
+page 20	Left Germany to Avoid Army.
+page 20	DORN IN ENGLAND.
+page 20	Judge's Question.
+page 20	What Do You Think.
+page 21	Former H.K. Commander-In-Chief Utters Solemn Warning.
+page 21	IMMEDIATE EXTENSION OF WAR TO INVOLVE ALL EUROPE.
+page 21	FORECASTS RUSSO-GERMAN MILITARY ALLIANCE.
+page 21	NEW BATTLEFIELD EXPECTED.
+page 21	Norway's Precautions.
+page 21	Shanghai Ready To Go To The Polls.
+page 21	JAPANESE CONFIDENT WILL WIN ELECTIONS.
+page 21	SPECIL TO THE "TELEGRAPH".
+page 21	Military Exercises.
+page 21	Hongkong Forces Take Up Positions.
+page 21	NAZI NAVY ON MOVE.
+page 21	Four Squadrons On Way Noth.
+page 21	London Speculations.
+page 21	New Threat By Wang.
+page 21	Nanking May Seize Concessions.
+page 21	Admiral Sir Howard Kelly.
+page 21	Scapa Flow Raid Fails.
+page 21	Exorbitant Claims.
+page 21	Two Enemy Planes Down.
+page 21	ADRIATIC MINED.
+page 21	New Allied Action Is Reported.
+page 21	Italy's Position.
+page 21	Kenya's War Effort.
+page 21	Nazis Lose Warship, U-Boats And Planes Says Report.
+page 21	Nazi Fleet Off Norway.
+page 21	Battleships To Return.
+page 21	Italians Decommission Two Vessels.
+page 21	NAZIS INVADE DENMARK.
+page 21	OLD, OLD STORY AGAIN DENIED.
+page 21	FRENCH "REDS" ARRESTED.
+page 21	SWIFT ACTION: FOUR NAZI SHIPS SUNK.
+page 21	SWEDES RUSH TO MAN DEFENCES.
+page 21	NORWAY AT WAR.
+page 21	COPENHAGEN SAID OCCUPIED.
+page 22	JAPANESE CONFIDENT WILL WIN ELECTIONS.
+page 22	BADMINTON PLAY-OFF.
+page 22	Chinese "Y" G Varsity Meeting To-morrow.
+page 22	SWIFT ACTIOION: FOUR NAZI SHIPS SUNK.
+page 22	Other losses Reported.
+page 22	Transport Torpedoed.
+page 22	Freighter Unmolested.
+page 22	SPECIAL TO THE "TELEGRAPH".
+page 22	Outside Territorial Waters.
+page 22	Nazis Lose Three Ships.
+page 22	150 Lives lost.
+page 22	South Africa Responds.
+page 22	Already 60,000 Have Joined Colours.
+page 22	NAZIS LOSE WARHIP, U-BOATS AND PLANES SAYS REPORT.
+page 22	Armada Proceeding Up Coast.
+page 22	TURKEY'S PART IN CHAMPIONING TIIE INTEGRITY OF THE BALKANS.
+page 22	TURKEY AND ITALY.
+page 22	MAUNALOA ERUPTING.
+page 22	Hawaiian Volcano Spouts Lava.
+page 22	IMMEDIATE EXTEN SION OF WAR TO INVOLVE ALL EUROPE.
+page 22	No Protest likely.
+page 22	Japanese Troops Use Parachutes.
+page 22	POLICEMAN IN THE DOCK.
+page 22	Cuba Recognizes Chiang Kai-shek.
+page 22	"RARREL OF FUN".
+page 22	NAZIS REFUSE PERMISSION.
+page 22	JAPANESE ORDER FOR GERMAN
+page 22	New U.S. Consul In Shanghai.
+page 22	PROPERTY DISPUTE.
+page 22	Expert Evidence To Be Called.
+page 22	Cross-Examination.
+page 22	Ex-Amah's Evidence.
+page 22	Quarrel Described.
+page 22	FIRE BRIGADE INSPECTION.
+page 22	Mexico Prepared For Eventuality.
+page 24	BREACH OF NEUTRALITY.
+page 24	Technically Admitted By Allies.
+page 24	Breach Of Neutrality.
+page 24	Will Act Swiftly.
+page 24	ON THE LOOX-OUT FOR GERMAN TANKS.
+page 24	TELL-TALE FIGURES.
+page 24	How the Blockade Is Hurting Germany.
+page 24	Bog Swedish Exports.
+page 24	A Look Through The "telegraph"
+page 24	50 YEARS AGO.
+page 24	25 YEARS AGO.
+page 24	10 YEARS AGO.
+page 24	5 YEARS AGO.
+page 24	Norway forwards "Serious and solemn" Protest.
+page 24	Agreement Cited.
+page 24	Appropriate Steps Necessary.
+page 24	SCANDINAVIANS IN CONFERENCE.
+page 24	Swedish Reaction.
+page 24	Premier's Statement.
+page 25	GOEBBELS'S DIFFICULTY.
+page 25	Flock Of Rumors In Germany.
+page 25	BRITISH PLAN TO DYNAMITE DANUBE.
+page 25	Amazing Sabotage Plot Is Alleged By German News Agency.
+page 25	Alleged Plot Discovered.
+page 25	Specialists Disguised As Crew.
+page 25	Officially Denied.
+page 25	"DASTARDKT" PLOT!
+page 25	Goebbels Discovers New Machinations.
+page 25	Passage For Warships.
+page 25	"Rape Of Nautrality".
+page 25	Nazi Plane Over Shetlands.
+page 25	ALLIES BUY FROM U.S.
+page 25	But Exports To Reich Fall Rapidly.
+page 25	Quiet Western Front.
+page 25	Village Near H.k. Bombed.
+page 25	Japanese Air Raid On Mlrs Bay.
+page 25	Wounded Brought To H.k.
+page 25	WEAKNESS AFTER FEVER.
+page 27	LONDON.
+page 27	STOCKHOLM.
+page 27	OSLO.
+page 27	COPENHAGEN
+page 27	ROM
+page 27	NEW YORK.
+page 27	LONDON.
+page 27	IANG IN PEIPNG.
+page 27	Sudden Visit Takes City By Surprise.
+page 27	Same Old Formula.
+page 27	Shanghai Commentator Driven Off Air.
+page 27	ELECTIONCAMPAIGN BECOMES BITTER.
+page 27	XMA Interference.
+page 27	Important Vote.
+page 27	Germans Split.
+page 27	Claim Old Order Dead
+page 27	Feet Of Cars.
+page 27	Newspapers Seized.
+page 27	DARING ATTACK ON DORNIER.
+page 27	British Pilot's Skill Described.
+page 27	Broadside Action.
+page 27	Nazi Guns Silent.
+page 27	The Last Dive.
+page 27	Belligerents May Fight On Norway's Soil.
+page 27	Woman Driver Fined.
+page 27	Motoring Offences By Europeans.
+page 27	Sounded Horn In Silent Zone.
+page 27	The War in China.
+page 27	Chinese Converging On Nanning.
+page 27	Japanese Losses.
+page 27	Small Wage Earners Own The Cars.
+page 27	Interesting Statistics From America.
+page 27	GREEK STEAMER IS SUNK.
+page 27	Outspoken Comment.
+page 27	H.E. The Governor Indisposed.
+page 27	Intense Public Interest.
+page 27	The Main Question.
+page 30	New Move In Shanghai Election.
+page 30	New Threat.
+page 30	Hot Reception For Gringo's Sky Raiders.
+page 30	Another Fight Ends In Allies' Favour.
+page 30	Making Them Think Hard.
+page 30	MNINISTERS CONFER.
+page 30	Important Meeting In London.
+page 30	Fear British Propaganda.
+page 30	American Newspapers Chary Of Articles.
+page 30	HOLLANDERS IN COURT.
+page 30	NEW RAID ON SCAPA FLOW.
+page 30	Big Toll Of Life.
+page 30	Graf Spee Officers Escape.
+page 30	NO RESIS TANCE.
+page 30	STOCKHOLM'S RAID ALARM.
+page 31	The Hounds Of War Are Unleashed In Scandinavian As －
+page 31	NAZIS INVADE DENMARK, NORWAY GOES TO WAR WITH REICH.
+page 31	Early Morning Drama On Danish Frontier.
+page 31	NORWAY DECLARES WAR.
+page 31	CROSSED SLESVIG FRONTIER.
+page 31	NORWEGIANS FIRE ON WARSH1PS.
+page 31	OFFICIAL NORWEGIAN STATEMENT.
+page 31	DANISH TROOPS WITHDRAW.
+page 31	Shanghai Now Ready To Go To The Polls.
+page 31	JAPANESE CONFIDENT WILL WIN ELECTIONS.
+page 31	XMHA Interference.
+page 31	Military Exercises.
+page 31	Hongkong Forces Take Up Position.
+page 31	"TELEGRAPHS" SOLD OUT.
+page 31	New Threat By Wang.
+page 31	Nanking May Seize Concessions.
+page 31	Kenya's War Effort.
+page 31	NAZI NAVY ON MOVE.
+page 31	Four Squadrons On Way North.
+page 31	Nazis Lose Warship, U-Boats And Planes Says Report.
+page 31	Nazi Fleet Off Norway.
+page 31	NORWAY'S PORTS INVADED.
+page 31	SWIFT ACTION: FOUR NAZI SHIPS SUNK.
+page 31	NAZIS CONFIRM REPORTS.
+page 32	GOEBBELS'S DIFFICULTY.
+page 32	Flock Of Rumors In Germany.
+page 32	BADMINTON PLAY-OFF.
+page 32	Chinese "Y" "G Varsity Meeting To-morrow.
+page 32	"DASTARDLY" PLOT!
+page 32	Goebbels Discovers Now Machinations.
+page 32	Passage For Warships.
+page 32	"Rape Of Neutrality".
+page 32	PROPERTY DISPUTE.
+page 32	Expert Evidence To Be Called.
+page 32	Cross-Examinations.
+page 32	Ex-Amah's Evidence.
+page 32	Quarrel Described.
+page 32	South Africa Responds.
+page 32	Already6 60,000 Have Joined Colours.
+page 32	Village Near H.K. Bombed.
+page 32	Japanese Air Raid On Mirs Bay.
+page 32	Wounded Brought To H.K.
+page 32	MAUNALOA ERUPTING.
+page 32	Hawaiian Volcano Spouts Lava.
+page 32	BREACH OF NEUTRALITY.
+page 32	Technically Admitted By Allies.
+page 32	Breach Of Ncutrality.
+page 32	Will Act Swiftly.
+page 32	Woman Driver Fined.
+page 32	Motoring Offences By Europeans.
+page 32	Sounded Horn In Silent Zone.
+page 32	TELL-TALE FIGURES.
+page 32	How The Blockade Is Hurting Germany.
+page 32	Big Swedish Experts.
+page 32	Japanese Troops Use Parachutes.
+page 32	JAPANESE ORDER FOR GERMAN.
+page 32	Cuba Recognizes Chiang Kai-shek.
+page 32	DOG OWNERS FINED.
+page 32	NAZIS REFUSE PERMISSION.
+page 32	GREEK STEAMER IS SUNK.
+page 32	ALLIES BUY FROM U.S.
+page 32	But Exports To Reich Fall Rapidly.
+page 32	FIRE BRIGADE INSPECTION.
+page 32	Mexico Prepared For Eventuality.
+page 33	Former H.K. Commander-In-Chief Utters Solemn Warning.
+page 33	IMMEDIATE EXTENSION OF WAR TO INVOLVE ALL EUROPE.
+page 33	NEW BATTLEFIELD EXPECTED.
+page 33	Norway's Precautions.
+page 33	Armada proceeding Up Coast.
+page 33	SWIFT ACTION: FOUR NAZI SHIPS SUNK.
+page 33	Other Losses Reported.
+page 33	Transport Torpedoed.
+page 33	Freighter Unmolested.
+page 33	Outside Territorial Waters.
+page 33	Nazis Lose Three Ships.
+page 33	150 Lives Lost.
+page 33	New Move In Shanghai Election.
+page 33	New Threat.
+page 33	Admiral Sir Howard Kelly.
+page 33	Scapa Flow Raid Fails.
+page 33	No Damage, But Nazis Lose One Plane.
+page 33	Exorbitant Claims.
+page 33	Two Enemy Planes Down.
+page 33	ADRIATIC MINED.
+page 33	New Allied Action Is Reported.
+page 33	Italy's Position.
+page 33	BRITISH PLAN TO DYNAMITE DANUBE.
+page 33	Amazing Sabotage Plot Is Alleged By German News Agency.
+page 33	Alleged Plot Discovered.
+page 33	Specialists Disguised As Crew.
+page 33	Officially Denied.
+page 33	 IMMEDIATE EXTEN SION OF WAR TO INVOLVE ALL EUROPE.
+page 33	America Concerned.
+page 33	No Protest Likely.
+page 33	JAPANESE CONFIDENT WILL WIN ELECTIONS.
+page 33	Representations Made.
+page 33	NAZI NAVY ON MOVE.
+page 33	London Speculations.
+page 33	Battles hips To Return.
+page 33	Italians Recommission Two vessels.
+page 33	OLD, OLD STORY AGAIN DENIED.
+page 33	SWEDES RUSH TO MAN DEFENCES.
+page 33	H.E. The Governor Indisposed.
+page 33	Nazi Plane Over Shetlands.
+page 33	Quiet Western Front.
+page 33	Big Toll Of Life.
+page 33	Graf Spee Officers Excape.
+page 33	SWEDES RUSH TO MAN DEFENCES.
+page 33	New U.S. Consul In Shanghai.
+page 33	POLICEMAN IN THE DOCK.
+page 34	DARING ATTACK ON DORNIER.
+page 34	British pilot's Skill Described.
+page 34	Broadside Action.
+page 34	Nazi Guns Silent.
+page 34	The Last Dive.
+page 34	Hot Reception For Goering's Sky Baiders.
+page 34	Another Fight Ends In Allies' Favour.
+page 34	Making Them Think Hard.
+page 34	MINISTERS CONFER.
+page 34	Important Meeting In London.
+page 34	Fear British Propaganda.
+page 34	ORCHESTRAL CONCERTS.
+page 34	HOLLANDERS IN COURT.
+page 34	UEW RAID ON SCAPA FLOW.

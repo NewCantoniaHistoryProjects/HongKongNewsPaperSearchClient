@@ -1,0 +1,237 @@
+page 1	JAPANESE RAIDER REPORTED SHOP DOWN.
+page 1	FOREIGNERS SEE RUNNING FIGHT ABOVE HANKOW.
+page 1	5,000 Students Narrowly Escape Death From Bombs.
+page 1	5,000 Students Endangered.
+page 1	Hankow Raided.
+page 1	FOREIGH POLICY IS UNAFFECTED.
+page 1	German Assurances To France.
+page 1	Japanese Defends Bombing Incidents In China.
+page 1	LONDON SUDIENCE TOLD REPORTS EXAGGERATED.
+page 1	British Mediation In Far East Unlikely, Says Baron Tomii.
+page 1	WINE AFTER BATTLE.
+page 1	CHINESE CLOSING ON WUHU.
+page 1	Official Reports Put Attackers Three Miles Away.
+page 1	SURPRISE ATTACK.
+page 1	NO MAJOR CHANGE.
+page 1	NO NAVY ALLIANCE FOR U.S.
+page 1	OFFICIAL DENIAL IN SENATE.
+page 1	Senator Warns Democracies.
+page 1	DICTATORS CONDEMNED.
+page 1	MR. HULL'S DENIAL.
+page 1	CHINESE GENERAL GIVES OUTLINE OF.
+page 1	CHINA'S NEW WAR STRATEGIES.
+page 1	88 Smallpox Deaths In Week Here.
+page 1	Out Of 101 Cases Reported.
+page 1	DIPLOMATS' RECEPTION IS CANCELLED.
+page 1	NON-INTERVENTION WORK SPEED-UP.
+page 1	SHAMEEN HEARS EXPLOSION OF BOMBS.
+page 1	Singapore Naval Base Satisfies.
+page 1	Accommodation Is Sufficient.
+page 1	Japanese Win Flour Monopoly.
+page 1	Big Commercial Coup Effected In Shantung.
+page 1	FRANCE ANXIOUS ABOUT BATTLESHIPS.
+page 1	KING AND QUEEN TO SEE PARIS.
+page 1	Accept Invitation For Mid-Sumer.
+page 1	"GOOD LUCK" WISH BY OPPOSITION TO EIRE GOVERNMENT.
+page 1	1,400 FOREIGNERS IN THREE YANGTSE CITIES. 
+page 3	LAUREL'S EX-WIFE TURNS UP FOR THE HONEY MOON.
+page 3	Caught After 18 Years.
+page 3	THIS WARPLANE MADE AIR HISTORY.
+page 3	Trophies Returned To Inniskillings.
+page 3	UNIQUE COLLECTION.
+page 3	WON IN 1879.
+page 3	Legion Hero Was An English Girl.
+page 3	IN DANGER ZONE.
+page 4	ADVENTURE OF EX-OFFICER OF MAURETANIA.
+page 4	FIGHT WITH BURGLAR IN U.S. HOTEL.
+page 4	WIFE ATTACKED BY MAN WITH A CLUB.
+page 4	"KNOCK-AND-TUMBLE".
+page 4	EMPIRE NEWS.
+page 4	CHARGES AGAINST EX-MINISTER.
+page 4	A NAVY JOKE.
+page 4	Battleships Of "Cherry Tree" Class.
+page 4	Noted London Correspondent In Hongkong.
+page 4	Mr. Vernon Bartlett On Peace Mission.
+page 4	PEACE BY BOYCOTT.
+page 4	NEWLY-WEDS TO COME TO COLONY.
+page 4	U.S. CRUISER TO VISIT HONGKONG.
+page 4	GIVING HELP TO CHINA.
+page 4	Russians, Strengthen Naval Force.
+page 4	Stimulated Building Admitted.
+page 4	Cruisers For Far East.
+page 4	GIGANTIC KDOCK BUILT.
+page 4	AVIATION PROGRESS.
+page 4	NEW YORK STOCK EXCHANGE.
+page 4	SWAN, CULBERTSON & FRITZ LATEST REPORTS.
+page 4	S. AFRICA BANS AIR SERVICES.
+page 5	MEDIATION MOVES.
+page 5	China Puts Proposals To Britain, Says Tokyo Report.
+page 5	Soviet Minister Missing.
+page 5	Suddenly Disappears In Bucharest.
+page 5	River Forts Drive Off War Craft.
+page 5	Japanese Destroyer Near Disaster.
+page 5	CHUNGSHAN LANDING.
+page 5	QUIET RESTORED.
+page 5	WARSHIPS REMAIN.
+page 5	PR-INCE NICHOLAS PASSES.
+page 5	Father Of Duchess Of Kent Was66 Years Of Age.
+page 5	Trained As Soldier. 
+page 7	Personalities of Old Hongkong.
+page 7	CHIEF JUSTICE WHO FOUGHT THE "THREE EVILS" OF OLD HONGKONG.
+page 7	15 YEARS ON BENCH MADE HIM IRASCIBLE OLD MAN.
+page 7	Greed Ages A Man, Fear A Woman.
+page 7	DOCTOR FLAYS GLUTTONS IN GER-FAT FIFTIES.
+page 7	BLAMELESS WOMAN.
+page 9	LEAGUE CRICKET.
+page 9	Craigengower And Army Teams Selected.
+page 9	Army Selections.
+page 9	COMBINED SCHOOLS XI.
+page 9	N.S.W. WINS SHIELD.
+page 9	NEW ZEALAND TENNIS.
+page 9	BRITAIN'S TOP 20 TENNIS STARS.
+page 9	Many Young Players Coming On.
+page 9	PERSEVERE.
+page 9	EMPIRE GAMES.
+page 9	Australian Victories In Cycling Events.
+page 9	BILLIARDS TITLE.
+page 9	Only Davis Enters For World Tourney.
+page 9	Tickets For The Tests On Sale For Oval Game.
+page 9	WHERE MONEY GOES.
+page 11	NEWS IN PHOTOGRAPHS.
+page 12	BRITISH AMBASSADOR STOPS MASSACRE IN SPAIN.
+page 12	Sir Henry Chilton Saves 2,000 Lives.
+page 12	CLOUSTON CRASHES AT CYPRUS.
+page 12	Attempt On Record Ends Dismally.
+page 12	Joint Defence Measures By Japan And Germany.
+page 12	Garbo Might Have Been a Cook.
+page 12	REINFORCEMENTS MOVING.
+page 12	HER "STRANGE IDEAS".
+page 12	THE LAST STRAW.
+page 12	Canada.
+page 12	SURPLUS POWER FOR U.S.?
+page 12	New Zealand.
+page 12	CLOSER RELATIONS WITH AUSTRALIA.
+page 12	Straits Settlements.
+page 12	INCREASED MILITARY EXPENDITURE.
+page 12	POLICEMAN AIDS IN BIRTH.
+page 12	JAPANESE RAIDER REPORTED.
+page 12	One Plane Officially Reported Downed.
+page 12	Russian Mechanic Killed.
+page 12	Building Big New Clippers.
+page 12	Pan-American Line's Plans Diselosed.
+page 13	JAPAN TO REJECT POWERS' DEMANDS.
+page 13	WON'T DISCLOSE NAVY PROGRAMME PRESS DECLARES.
+page 13	Invocation of Escalator Clause Considered "Act of Arrogance".
+page 13	EARLIER OPTIMISM.
+page 13	NO FORECAST POSSIBLE.
+page 13	TO TACKLE PALESTINE PROBLEMS.
+page 13	Commission Soon To Be Announced.
+page 13	Chinese Capture Wuhu, Hankow Report Asserts.
+page 13	EARLIER DESPATCHES TOLD OF STEADILY ADVANCING COLUMNS.
+page 13	Mobile Units Fire Fuel Tanks At Airport; Very Severe Fighting.
+page 13	EARLIER DESPATCHES.
+page 13	ADVANCE CONTINUES.
+page 13	YUANPING AGAIN SURROUNDED.
+page 13	SURPRISE ATTACK.
+page 13	NO MAJOR CHANGE.
+page 13	WINE AFTER BATTLE.
+page 13	Munitions Ship On Way To Hongkong.
+page 13	Battleships Best Weapon Of Defence.
+page 13	But Are Vulnerable Admits Expert.
+page 13	NO REPORT OF LANDING.
+page 13	Britain Pleased With Italy.
+page 13	Mediterranean Aid May Lead To Improved Relations.
+page 13	Dr. R. B. Gray Robbed Of Large Sum.
+page 13	New Dictator Of Economics For Germany.
+page 13	FILLIP TO PRIVATE CAPITAL.
+page 13	NEW U.S. SCHEME HINTED.
+page 13	G$100,000,000 TO AID INDUSTRY.
+page 13	RAIDERS ALARM CANTON.
+page 13	Shameen Hears Crash Of Bombs But Sees No Planes.
+page 13	NINE PLANES ATTACK RAILWAY.
+page 13	RENEWED ATTACKS.
+page 13	Koreans Aid Chinese.
+page 13	DEATH OF GREEK CABINET MINISTER.
+page 13	ITALY MAY CLEAR OUT OF SPAIN.
+page 13	Remarkable Article Says She Wants Peace With Britain.
+page 13	Englishmen Prefer To Suffer.
+page 15	Japanese Raider Reported Shot Down.
+page 15	FOREIGNERS SEE RUNNING FIGHT ABOVE HANKOW.
+page 15	5,000 Students Narrowly Escape Death From Bombs.
+page 15	5,000 Students Endangered.
+page 15	Hankow Raided.
+page 15	One Plane Officially Reported Downed.
+page 15	Russian Mechanic Killed.
+page 15	Japanese Version.
+page 15	CLOUSTON CRASHES AT CYPRUS.
+page 15	Attempt On Record Ends Dismally.
+page 15	Joint Defence Measures By Japan And Germany.
+page 15	U.S. CRUISER TO VISIT HONGKONG.
+page 15	S. AFRICA BANS AIR SERVICES.
+page 16	GIVING HELP TO CHINA.
+page 16	STOCK MARKET REPORT.
+page 16	POLICE GATHERING GAMBLERS.
+page 16	Bad Character In Custody.
+page 16	Recommended For Banishment.
+page 16	CHINESE CAPTURE WUHU, HANKOW REPORT ASSERTS.
+page 16	REINFORCEMENTS MOVING.
+page 16	CHINESE LAUNCH SURPRISE ATTACK RECAPTURE TOWN.
+page 16	CHINA APPEALS FOR OLYMPIC BOYCOTT.
+page 16	OFFICERS ABOARD H.M.S. BIRMINGHAM COMING TO COLONY.
+page 16	MAY BE FIT TO BE CANED.
+page 16	ADMIRALTY LORD IN SINGAPORE.
+page 16	FRANCE ANXIOUS ABOUT BATTLESHIPS.
+page 16	KING AND QUEEN TO SEE PARIS.
+page 16	Accept Invitation For Mid-Summer.
+page 16	FEW CARS BEING MADE IN U.S.
+page 16	MORE MEN JOIN ARMY.
+page 16	BRITAIN'S BALANCE OF TRADE UNFAVOURABLE.
+page 16	MANY LIVES SAVED ON BRITAIN'S COASTS.
+page 16	THE LAST STRAW.
+page 16	POLICEMAN AIDS IN DIRTH.
+page 17	Japanese Defends Bombing Incidents In China.
+page 17	LONDON AUDIENCE TOLD REPORTS EXAGGERATED.
+page 17	British Mediation In Far East Unlikely, Says Baron Tomii.
+page 17	SHIPS IN WIRELESS COMMUNICATIONS.
+page 17	NEWLY-WEDS TOCOME TO COLONY.
+page 17	1,400 FOREIGNERS IN THREE YANGTSE CITIES.
+page 17	Japanese Win Flour Monopoly.
+page 17	Big Commercial Coup Effected In Shantung.
+page 17	Building Big New Clippers.
+page 17	Pan-American Line's Plans Disclosed.
+page 17	CONDOLENCES FROM KING AND QUEEN.
+page 19	Personalities of Old Hongkong.
+page 19	CHIEF JUSTICE WHO FOUGHT THE "THREE EVILS" OF OLD HONGKONG.
+page 19	15 YEARS ON BENCH MADE HIM IRASCIBLE OLR MAN.
+page 19	Greed Ages A Man, Fear A Woman.
+page 19	DOCTOR FLAYS GLUTTONS IN GET-FAT FIFTIES.
+page 21	Baseballers Want Higher Salaries.
+page 21	Lou Gehrig Now Holding Out.
+page 21	NEW ZEALAND TENNIS.
+page 21	BRITAIN'S TOP 20 TENNIS STARS.
+page 21	Many Young Players Coming On.
+page 21	SHIPPING FOOTBALL RIVALRY.
+page 21	Cup Donated By Thornycrofts.
+page 21	Tickets For The Tests On Sale For Oval Game.
+page 23	NEWS IN PHOTOGRAPHS.
+page 24	NO NAVY ALLIANCE FOR U.S.
+page 24	OFFICIAL DENIAL IN SENATE.
+page 24	Senator Warns Democracies.
+page 24	DICTATORS CONDEMNED.
+page 24	MR. HULL'S DENIAL.
+page 24	Singapore Naval Base Satisfies.
+page 24	Accommodation Is Sufficient.
+page 24	DIPLOMATS' RECEPTION IS CANCELLED.
+page 24	NON-INTERVENTION WORK SPEED-UP.
+page 24	CHINESE GENERAL GIVES OUTLINE OF CHINA'S NEW WAR STRATEGIES.
+page 24	FOREIGN POLICY IS UNAFFECTED.
+page 24	EXPECTS ANOTHER MEDIATION ATTEMPT.
+page 24	German Assurances To France.
+page 24	88 Smallpox Deaths In Week Here.
+page 24	Out Of 101 Cases Reported.
+page 24	28 CASES YESTERDAY.
+page 24	"GOOD LUCK" WISH BY OPPOSITION TO EIRE GOVERNMENT.
+page 24	LOTTERY TICKETS BRING FINE.
+page 24	THANKLESS THIEF GOES TO GAOL.
+page 24	NEW GOVERNOR OF GUAM.
+page 24	U.S. UNION LEADER BRANDED COMMUNIST MAY BE DEPORTED.

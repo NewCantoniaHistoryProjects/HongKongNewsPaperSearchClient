@@ -1,0 +1,159 @@
+page 1	BOTH SIDES RUSH TROOPS TO LINYI.
+page 1	CRISIS PAST FOR CHINESE DEFENDERS.
+page 1	Reinforcements Keep Japanese From City After Walls Breached.
+page 1	Conflicting Reports.
+page 1	Estimates Astray.
+page 1	Chinese Give Up Linyi.
+page 1	600,000 Nazis Swear Allegiance To Hitler.
+page 1	Broadbent In Sight Of Record.
+page 1	Long Non-Stop Hop Planned.
+page 1	RUSSIANS FORTIFY INTERIOR.
+page 1	Vast Defence Belt From Baltic To Black Sea.
+page 1	MOBILISING JAPANESE INDUSTRY.
+page 1	Financial Experts Go Campaigning.
+page 1	Quiet Day On London Exchanges.
+page 1	U.S. Willing to Sell Aircraft to Britain.
+page 1	DISGUSTED CAPTIVES.
+page 1	BRITISH ARMY ORDERS ABANDONMENT OF MANY INTER-UNIT CONTESTS.
+page 1	Insurgent Air Raid On Gerona.
+page 1	Barcelona Killing Off Rightists.
+page 1	Italian War Correspondent Given Freedom.
+page 1	BUT ISOLATIONISTS BOUND TO ATTACK GOVERNMENT POLICY.
+page 1	Strong Blocs Fear Country Being Involved in Anti-Fascist Alignment.
+page 1	Five French Fliers Burned To Death.
+page 1	BRITAIN PURCHASES AMERICAN AIRLINERS.
+page 1	Surprise Move By British Airways.
+page 1	NEED FOR EXPANSION.
+page 1	WATCHING JAPAN'S CHINA POLICY.
+page 1	ATTACKS AMERICAN ARMS SALE.
+page 1	Must Stop Arming Rest Of World, Declares Nye.
+page 1	MORE UNREST IN MOTOR PLANTS.
+page 4	BOMBING DELAYS KOWLOON TRAIN.
+page 4	BOTH SIDES RUSH TROOPS TO LINYI.
+page 4	Yungho Japanese Surrounded.
+page 4	Japanese Repulsed. 
+page 5	BREACH IN WALL HEALED.
+page 5	Chinese Still Hold Linyi City.
+page 5	Earthquake Takes Huge Toll.
+page 5	Hundreds Killed In Anatolia.
+page 5	MISSING AIRMEN FOUND.
+page 5	All On Board Ship In Air Attack.
+page 5	FANLING RESIDENT PASSES ON.
+page 5	FOREIGNERS HURT IN KAILAN.
+page 5	Miners Again Down Tools.
+page 5	FLOODING ATTEMPT.
+page 7	GEISHA GIRL GAVE UP ALL FOR LOVE.
+page 7	She Defied Her Nation To Marry Millionaire American Banker.
+page 7	PASSES THROUGH HONGKONG ON RETURN TO EAST.
+page 7	LIVED IN PARIS.
+page 7	SISTER DYING.
+page 7	EMPIRE NEWS.
+page 7	INDIAN COLLIERY EXPLOSION.
+page 9	AUSTRALIAN CRICKETERS ARRIVE.
+page 9	Whole Team Feeling Fit And Well.
+page 9	Must Field Best Side.
+page 9	Escobar Outpointed By Morgan.
+page 11	PHOTONEWS.
+page 12	Husband And Wife Hurt In Crash.
+page 12	Mr. And Mrs. J.N. Sweeney In Hospital.
+page 12	Strict Watch Of Foreigners.
+page 12	Mine Wagons Break Loose; 24 Injured.
+page 12	IMMIGRATION RESTRICTIONS ARE OPPOSED.
+page 12	HITLER GIVEN MANY GIFTS ON BIRTHDAY.
+page 12	Terrorists Slain By Policemen.
+page 12	Following Murder Of Constable.
+page 13	SEVERE FIGHTING AROUND SHANGHAI.
+page 13	LINYI TAKEN AFTER DAYS OF FIGHTING.
+page 13	Chinese Admit City Now Evacuated.
+page 13	CHINESE NOT PERTURBED.
+page 13	Yellow River Attack Just Beginning.
+page 13	Linyi Fell On April 19.
+page 13	Railways Ready For Glasgow Exhibition.
+page 13	GUERILLAS RAID INTO POOTUNG.
+page 13	Attempt To Kidnap Officials Almost Successful.
+page 13	Peiping Ministry Functions.
+page 13	JAPANESE WOUNDED POURING INTO CITY.
+page 13	Guerillas Believed Aiming At Nanking.
+page 13	Japan Command Needs Help.
+page 13	Aiming At Nanking.
+page 13	China Must Co-operate With Japan.
+page 13	Mass Suicide In Protest Against War.
+page 13	JAPANESE VOLCANO ERUPTS.
+page 13	Lava Flows Close To Villages; Sets Forest Afire.
+page 13	Japanese Kidnapped By Guerillas.
+page 13	Insurgents Taking Air Offensive.
+page 13	EXTENSIVE RAIDING LIKELY TO RESULT FROM NEW ADVANCES.
+page 13	Fighting Lines Shorter Since Franco Smashed His Way To Coast.
+page 13	Japan Does Not Disavow Responsibility.
+page 13	EMBASSY SPOKESMAN AND WAR DAMAGE.
+page 13	Royalty On Visit To Hampshire.
+page 13	ANGLO-ITALIAN PACT WELCOMED. 
+page 15	U.S. Willing to Sell Aircruft to Britain.
+page 15	BUT ISOLATIONISTS BOUND TO ATTACK GOVERNMENT POLICY.
+page 15	Strong Blocs Fear Country Being Involved in Anti-Fascist Alignment.
+page 15	Mine Wagons Break Loose; 24 Injured.
+page 15	BRITAIN PURCHASES AMERICAN AIRLINERS.
+page 15	Surprise Move By British Airways.
+page 15	NEED FOR EXPANSION.
+page 15	Husband And Wife Hurt In Crash.
+page 15	Mr. And Mrs. J.N. Sweeney In Hospital.
+page 15	Strict Watch Of Foreigners.
+page 15	RUSSIANS FORTIFY INTERIOR.
+page 15	Vast Defence Belt From Baltic To Black Sea.
+page 15	ATTACKS AMERICAN ARMS SALE.
+page 15	Must Stop Mrming Rest Of Worlds Declares Nye.
+page 15	BRITISH ARMY ORDERS ABANDONMENT OF MANY INTER-UNIT CONTESTS.
+page 15	MOBILISING JAPANESE INDUSTRY.
+page 15	Financial Experts Go Campaigning.
+page 15	More Work For Special Areas.
+page 15	600,000 Nazis Swear Allegiance To Hitler.
+page 15	Italian War Correspondent Given Freedom.
+page 16	Drowned When Hulk Bombed.
+page 16	JAPANESE SHIP RUNS ASHORE.
+page 16	BRITISH WAGES RISE.
+page 16	MANCHUKUO'S FIST PREMIER HONOURED.
+page 16	P.I. EXECUTIVE CRITICALLY ILL.
+page 16	ADVISER FOR SHANTUNG.
+page 16	MAN DADLY SCALDED.
+page 16	DIVAN HEEPER CONVICTED.DIVAN HEEPER CONVICTED.
+page 17	Big Opium Haul On Hongkong Ship.
+page 17	SEVERE FIGHTING AROUND SHANGAI.
+page 17	Claim Guerillas Routed.
+page 17	NEW C. J. FOR CYPRUS.
+page 17	NEW APPOINTMENT.
+page 17	NEW CHINESE NOTES.
+page 17	LINYI TAKEN AFTER DAYS OF FIGHTING.
+page 17	Reinforcements Arrive.
+page 17	Conflicting Reports.
+page 17	Estimates Astray. 
+page 17	Yungho Japanese Surrounded.
+page 17	Japanese Repulsed.
+page 17	Japanese At Tsaochwang Renew Attack.
+page 19	GALLIPOLI HEROISM RECALLED.
+page 19	Ceremonies Planned For London.
+page 19	Japan Worried By Anglo-Italian Treaty.
+page 19	Fears Great Britain Much Strengthened.
+page 19	NARCOTIC DEALERS CONVICTED.
+page 19	POLICE HUNTING MAN WHO TRIED TO SAVE COOLIE.
+page 19	ADMITS KEEPING OPIUM DIVAN.
+page 21	DEAN HELPS CHICAGO TO BEAT REDS.
+page 21	Giants' Batting Fails Team.
+page 21	GYMKHANA ARRANGED FOR SUNDAY.
+page 21	Faces Long Charge List.
+page 21	RECEPTION FOR EDUCATIONIST.
+page 21	Forthcoming Marriages Announced.
+page 21	Barcelona Killing Off Rightists.
+page 21	UNDERGRADS DEFEATED BY VISITING XI.
+page 21	Chinese Crew Get Bail In Opium Case.
+page 21	Big Seizure At Aberdeen Recalled.
+page 24	Broadbent In Sight Of Record.
+page 24	Long Non-Stop Hop Planned.
+page 24	Quiet Day On London Exchanges.
+page 24	HITLER GIVEN MANY GIFTS ON BIRTHDAY.
+page 24	MORE UNREDT IN MOTOR PLANTS.
+page 24	IMMIGRATION RESTRICTIONS ARE OPPOSED.
+page 24	Five French Fliers Burned To Death.
+page 24	Armed Gang Boards Junk, Robs Master.
+page 24	Terrorists Slain By Policemen.
+page 24	Following Murder Of Constable.
+page 24	Insurgent Air Raid On Gerona.

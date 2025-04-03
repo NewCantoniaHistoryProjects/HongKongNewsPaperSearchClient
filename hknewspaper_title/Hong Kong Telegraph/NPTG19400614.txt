@@ -1,0 +1,549 @@
+page 1	PARIS FATE SEALED?
+page 1	FRANCE DECLARES CAPITAI AN OPEN CITY IN EFFORT TO SAVE IT FROM CARNAGE: DEFENDERS WITHDRAWN.
+page 1	FRECH WILL NOT OFFER RESISTANCE IF SUBURBAN DEFENCES ARE PIERCED.
+page 1	Germany Notified.
+page 1	Defenders Outnumbered.
+page 1	Onus on Germans.
+page 1	Trains Still Running.
+page 1	VIVID STORY OF RETREAT.
+page 1	Italinans' Air Attack On Nairobi.
+page 1	ASMARA AND GURA BOMBED BY R.A.F.
+page 1	Macaca Also Raided.
+page 1	Air raids In Africa.
+page 1	Active Reconnaissance.
+page 1	Italian Ships Take Refuge.
+page 1	No Bells For Church-Goers.
+page 1	Square Formation To Protect All Sides.
+page 1	Old Defence Technique As Answer to Germans.
+page 1	Officer's Description.
+page 1	Attack From Rear.
+page 1	NON STOP RAIDS.
+page 1	Fires Rage In Towns Over Wide Belt.
+page 1	FRANCE DEFIANT.
+page 1	'No Surrender' Decision After Vital Meetings.
+page 2	A Look Through The "Telegraph".
+page 2	50 YEARS AGO.
+page 2	25 YEARS AGO.
+page 2	10 YEARS AGO.
+page 2	5 YEARS AGO.
+page 2	Non-Belligerent Spanish Policy.
+page 2	Communique From Rome.
+page 2	STOCK EXCHANGE EASIER.
+page 2	LONDON REVIEW.
+page 5	Eton Boy's Academy Pictures.
+page 5	Nurse's Success.
+page 5	Preparing For Victory Dance.
+page 5	Only One Man Left Down on the (1,00-Acre) Farm.
+page 5	4 Pounds - A - Week At 17.
+page 5	VATICAN PAPER STOPS.
+page 5	SOVIET STILL SILENT.
+page 5	KOVNO RESIGNATIONS.
+page 5	Sacked A.F.S. Man Refused To Salute.
+page 5	"UNITED STATES OF ENGLAND" SUGGESTED.
+page 7	BUSY DAY FOR R.A.F.
+page 7	Great Activity On Many Fronts.
+page 7	Ethiopian Town Attacked.
+page 7	Workers Give Up Holidays.
+page 7	Magnificent Response By British Labour.
+page 7	Must Not Slacken.
+page 7	Malta is Not Evacuated.
+page 7	REPATRIATION FROM ITALY.
+page 7	700 Italians Leave Great Britain.
+page 7	Port Said Arrests.
+page 7	Counter-Attack By Chinese.
+page 7	Restrictions Lifted.
+page 7	New Barons Created.
+page 7	King's Birthday Announcement.
+page 7	Labour M.P Honoured.
+page 7	Frenchmen Exempted From Curfew.
+page 7	"THE TIMES" ON THE WAR.
+page 7	Says Essentials Have Not Changed.
+page 7	Effective Blockade.
+page 7	Canadian Defence Minister Named.
+page 7	France Purchases 10,000 Lorries.
+page 7	Natives In South Africa To Fight.
+page 7	Evacustion Precaution.
+page 7	Necessity Emphasised In The Commons.
+page 7	Opposed To Compensation.
+page 7	VIVID STORY OF RETREAT.
+page 7	Inexhaustible Patience.
+page 7	Few Tears.
+page 7	MINES OFF MALTA.
+page 7	Italy Lays Fields In The Mediterranean.
+page 7	Refuge In Spain.
+page 7	HARBOUR RESCUE.
+page 7	Photo Exhibition.
+page 7	NON STOP RAIDS.
+page 7	Odds OF 10 To 1.
+page 7	All Bridges Destroyed.
+page 7	Bad Weather Conditions.
+page 7	ASMARA AND GURA.
+page 7	Egypt's Defensive Policy.
+page 7	Vatican Paper Ceases.
+page 7	Frontier Skirmish.
+page 7	Thanks From Dutch Queen.
+page 7	TURKEY'S POSITION.
+page 7	Clarification In A Few Days Time.
+page 7	Diplomatic Activity.
+page 7	Explosion On Ship Sequel.
+page 7	Buenos Aires Police Arrest 43 People.
+page 7	ROOSEVELT'S RESPONSE.
+page 7	SECRET SESSION ON JUNE 20.
+page 7	PROHIBITION OF EXPORT.
+page 7	DAY OF PRAYER FOR FRANCE.
+page 7	CHUNGKING'S WORST RAID.
+page 7	Ranchers' Gift To British Soldiers.
+page 9	Two New Moves on the Home Front.
+page 9	Checking the Food Ration Racketeers.
+page 9	Black-Out Watch To Be Tighted Up.
+page 9	More and more Prasecutions.
+page 9	Lights are Worst In the West End.
+page 9	U.S. Plan Swap Sea Routes.
+page 9	Blind Men Make Nets For Camouflage.
+page 9	DIPLOMAT OUT OF FAVOUR.
+page 9	Surtax Payer Sued, Offers 10s. A Month.
+page 9	Overdraft of 9.600 Pounds.
+page 9	Naval Appointment.
+page 9	New Superintendent Of Dockyard Police.
+page 9	WHY ITALY WENT TO WAR.
+page 10	SIXTEEN SHORTHAND EXPERTS IN PARK.
+page 10	Yard Collects Fifth Column Evidence.
+page 10	Miserable Mission.
+page 10	Danger.
+page 10	German Contributes To British War Effort.
+page 10	Woman In The House Had M.P.s. Guessing.
+page 10	FIRE VICTIM DIES.
+page 10	Tragic Sequel To Jordan Road Blaze.
+page 10	To-day's Strangest Story.
+page 10	Two Sailors.
+page 10	Same Names, Same Ship, Same Age, Same Town.
+page 10	Not Related.
+page 10	RESISTANCE TO CONTINUE.
+page 10	BRITISH AID.
+page 11	PARIS FATE SEALED?
+page 11	FRANCE DECLARES CAPITAI AN OPEN CITY IN EFFORT TO SAVE IT FROM CARNAGE: DEFENDERS WITHDRAWN.
+page 11	FRECH WILL NOT OFFER RESISTANCE IF SUBURBAN DEFENCES ARE PIERCED.
+page 11	Germany Notified.
+page 11	Defenders Outnumbered.
+page 11	Onus on Germans.
+page 11	Trains Still Running.
+page 11	VIVID STORY OF RETREAT.
+page 11	Britain Calls Up More Men.
+page 11	MOSCOW ACTIVITY.
+page 11	Diplomats Rush To Soviet Capital.
+page 11	Reaction To Italian Move.
+page 11	WAR CASUALTY LISTS.
+page 11	Nazis Refuse To Accept French Assurance.
+page 11	MAY DEMAND IMMEDIATE CAPITULATION OF PARIS.
+page 11	No Traaps Left In City.
+page 11	Capture Imminent Claim.
+page 11	FORD TO BUILD ROLLS ROYCE PLANE ENGINES.
+page 11	CANADA'S BIG WAR EFFORT.
+page 11	Factories At Full Blast.
+page 11	ULTIMATUM BY RADIO.
+page 12	A Look Through The "Telegraph".
+page 12	50 YEARS AGO.
+page 12	25 YEARS AGO.
+page 12	10 YEARS AGO.
+page 12	5 YEARS AGO.
+page 12	Non-Belligerent Spanish Policy.
+page 12	"THE TIMES" ON THE WAR.
+page 12	Says Essentials Have Not Changed.
+page 12	Effective Blockade.
+page 12	EIRE WILL STAY NEUTRAL.
+page 15	Eton Boy's Academy Pictures.
+page 15	Nurse's Success.
+page 15	Preparing For Victory Dance.
+page 15	Only One Man Left Down on the (1,00-Acre) Farm.
+page 15	4 Pounds - A - Week At 17.
+page 15	VATICAN PAPER STOPS.
+page 15	SOVIET STILL SILENT.
+page 15	KOVNO RESIGNATIONS.
+page 15	Sacked A.F.S. Man Refused To Salute.
+page 15	"UNITED STATES OF ENGLAND" SUGGESTED.
+page 17	Why Italy Will Lose In The Air.
+page 17	Our Pilots & Planes Are Superier.
+page 17	Free To Act.
+page 17	Schneider Cup History.
+page 17	Canadian Defence Minister Named.
+page 17	Natives In South Africa To Fight.
+page 17	REICH-TURKEY AGREEMENT.
+page 17	France Purchases 10,000 Lorries.
+page 17	WHY ITALY WENT TO WAR?
+page 17	VIVID STORY OF RETREAT.
+page 17	Utmost Resistance.
+page 17	Inexhaustible Patience.
+page 17	Few Tears.
+page 17	France Defiant.
+page 17	Resistance To Continue.
+page 17	British Aid.
+page 17	MAY DEMAND CAPITULATION.
+page 17	Exhausting Effort.
+page 17	Naval Appointment.
+page 17	New Superintendent Of Dockyard Police.
+page 17	CHUNGKING RAIDS ANGER U.S.
+page 17	Cordell Hull's Plain Hint To Japan.
+page 17	Significant Silence.
+page 17	Opposes "Deal'.
+page 17	U.S. Aid For Allies.
+page 17	Ambassador Sees Lord Halifax.
+page 17	France's Big Hopes.
+page 17	Reynaud' Last Appeal.
+page 17	PROHIBITION OF EXPORT.
+page 17	Ranchers' Gift To British Soldiers.
+page 17	QUEEN HELPS LORD MAYOR'S FUND.
+page 17	New Barons Created.
+page 17	King's Birthday Announcement.
+page 17	Labour M.P. Hounoured.
+page 17	Restrictions Lifted.
+page 17	Frenchmen Exempted From Curfew.
+page 17	REPATRIATION FROM ITALY.
+page 19	Italians' Air Attack On Nairobi.
+page 19	ASMARA AND GURA BOMBED BY R.A.F.
+page 19	Macaca Also Raided.
+page 19	Air Raids In Africa.
+page 19	Active Reconnaissance.
+page 19	Italian Ships Take Refuge.
+page 19	Egypt's Defensive Policy.
+page 19	Vatican Paper Ceases.
+page 19	Frontier Skirmish.
+page 19	Ban Lifted.
+page 19	ROOSEVELT'S RESPONSE.
+page 19	No Bells For Church - Goers.
+page 19	TURKEY'S POSITION.
+page 19	Clarification In A Few Days Time.
+page 19	Diplomatic Activity.
+page 19	Workers Give Up Holidays.
+page 19	Magnificent Response By British Labor.
+page 19	Must Nat Slacken.
+page 19	DAY OF PRAYER FOR FRANCE.
+page 19	NON STOP RAIDS.
+page 19	Fires Rage In Towns Over Wide Belt.
+page 19	Odds OF 10 To 1.
+page 19	All Bridges Destroyed.
+page 19	Bad Weather Conditions.
+page 19	Dropped 1,000 Bombs.
+page 19	SECRET SESSION ON JUNE 20.
+page 19	CHUNGKING'S WORST RAID.
+page 19	BUSY DAY FOR R.A.F.
+page 19	Great Activity On Many Fronts.
+page 19	Ethiopian Town Attacked.
+page 19	Malta Is Not Evacuated.
+page 19	700 Italians Leave Great Britain.
+page 19	Port Said Arrests.
+page 19	Square Formation To Protect All Sides.
+page 19	Old Defence Technique As Answer to Germans.
+page 19	Officer's Description.
+page 19	Attack From Rear.
+page 19	Evacuation Precaution.
+page 19	Necessity Emphasised In The Commons.
+page 19	Opposed To Compensation.
+page 19	Dominions' Offer.
+page 19	Counter - Attack By Chinese.
+page 19	Explosion On Ship Sequel.
+page 19	Buenos Aires Police Arrest 43 People.
+page 19	MURDER CHARGE WITHDRAWN.
+page 20	SIXTEEN SHORTHAND EXPERTS IN PARK.
+page 20	Yard Collects Fifth Column Evidence Column Evidence.
+page 20	Miserable Mission.
+page 20	Danger.
+page 20	German Contributes To British War Effort.
+page 20	Woman In The House Had M.P.s. Guessing.
+page 20	FIRE VICTIM DIES.
+page 20	Tragic Sequel to Jordan Road Biaze.
+page 20	To-day's Strangest Story.
+page 20	Teo Sailors.
+page 20	Sane Names, Same Ship, Sane Age, Same Town.
+page 20	Not Related.
+page 21	French Capital Threatened with Fate of Warsaw Unless Unconditional Capitulation is Agreed Upou: Germans Refuse To Recognise Paris As Open City.
+page 21	NAZI HIGH COMMAND TO SEND RADIO ULTIMATUM TO PARIS.
+page 21	IMMEDIATE SURRENDER ONLY ALTERNATIVE OT DESTRUCTION, SAY NAZIS.
+page 21	NAZI WARNING OF FATE.
+page 21	No Troops Laft In City.
+page 21	Capture Imminent, Claim.
+page 21	Defence Of Pairs Reaches Crisis Stage.
+page 21	250,000 battle on 20-mile front, give no quarter.
+page 21	COLOSSAL CASUALTIES.
+page 21	Panzers Cross Marne.
+page 21	Counter - Attack By Chinese.
+page 21	GERMANS IN PARIS, REPORT.
+page 21	Roosevelt To Define U.S. Stand.
+page 21	Britain Calls Up More Men.
+page 21	INHERIT ANCE TAX IMPOSED.
+page 21	FORD TO BULLD ROLLS ROYCE PLANE ENGINES.
+page 21	Haile Selassie's Standard raised near Ethiopia.
+page 21	WAR IN AFRICA.
+page 21	INITIATIVE BY ALLIES.
+page 21	Daring British Raid On Libyan Frontier.
+page 21	Diredawa Bombed.
+page 21	New Threat To Maginot Line Seen.
+page 21	America Launches Battleship.
+page 22	Why Italy Will Lose In The Air.
+page 22	Our Pilots & Planes Are Superior.
+page 22	Free To Act.
+page 22	Schneider Cup Histery.
+page 22	ROOSEVELT'S RESPONSE.
+page 22	Doing Everything Possible.
+page 22	Reduction Of Capital.
+page 22	Company's Application Allowed By Court.
+page 22	Sole Holder.
+page 22	INITIATIVED BY ALLIES.
+page 22	Italians Isolated.
+page 22	East African Communique.
+page 22	R.A.F. Raids.
+page 22	Italians Raid Aden.
+page 22	NAZI HIGH COMMAND.
+page 22	Exhausting Effort.
+page 22	What Envoy Told Nazis.
+page 22	WAR CASUALTY LISTS.
+page 22	GERMANS START NEW OFFENSIVE.
+page 22	NANKING'S REQUEST.
+page 22	Wants Foreign Warships To Leave China.
+page 22	"Unexpected Eventualities".
+page 22	U.S. Aid For Allies.
+page 22	Ambassador Sees Lord Halifax.
+page 22	France's Big Hopes.
+page 22	Reynaud's Last Appeal.
+page 22	New Measure Proposed.
+page 22	Robbed On Ships' Gangway.
+page 22	POLICE SERGEANT'S WIFE CONVICTED.
+page 22	Raid On House Reveals Big Gambling Den.
+page 22	Informer Opens Door.
+page 22	Arms Enclosed Money.
+page 22	House Rent Of $200.
+page 22	Defendant's Denials.
+page 22	Mother Of Six.
+page 22	N. U. K.'s New Europe Route.
+page 22	Malta Is Not Evacuated.
+page 25	Royal Air Force Fights Second Battle Of Dunkirk Near Paris.
+page 25	Incredible Masses.
+page 25	Fantastic Odds.
+page 25	DAY OF PRAYER FOR FRANCE.
+page 25	Appeal Is Dismissed.
+page 25	Indian's Prison Term To Stand.
+page 25	Totally Innocent, Claim.
+page 25	Bridges Faces Deportation.
+page 25	May Be Sent Back To Australia.
+page 25	Bill Attacked.
+page 25	EIRE WILL STAY NEUTRAL.
+page 25	REYNAUD'S APPEAL.
+page 25	Last Chance U.S. Has Of Helping.
+page 25	More Squadrons Needed.
+page 25	COURT MARTIAL At BARRACKS.
+page 25	Royal Scots Bandsman Accused of Theft.
+page 25	Restrictions Lifted.
+page 25	Frenchmen Exempted From Curfew.
+page 25	Ranchers' Gift To British Soldiers.
+page 27	FRANCE DECLARES CAPITAL OPEN CITY TO SAVE IT FROM DESTRUCTION.
+page 27	FRENCH WILL NOT OFFER RESISTANCE IF SUBURBAN DEFENCES ARE PIERCED.
+page 27	Germany Notified.
+page 27	Defenders Outnumbered.
+page 27	Onus On Germans.
+page 27	Trains Still Running.
+page 27	CHUNGKING RIDS ANGER U.S.
+page 27	Cordell Hull's Plain Hint To Japan.
+page 27	Significant Silence.
+page 27	Opposes "Deal".
+page 27	New Barons Created.
+page 27	King's Birthday Announcement.
+page 27	Labour M.P. Honoured.
+page 27	MOSCOW ACTIVITY.
+page 27	Diplomats Rush To Soviet Capital.
+page 27	Reaction To Italian Move.
+page 27	VIVID STORY OF RETREAT.
+page 27	Battle Becomes Mere Violent.
+page 27	Utmost Resistance.
+page 27	Inexhaustible Patience.
+page 27	Few Tears.
+page 27	France Defiant.
+page 27	Resistance To Continue.
+page 27	Brtish Aid.
+page 27	BUSY DAY FOR R.A.F.
+page 27	Great Activity On Many Fronts.
+page 27	Ethipian Town Attacked.
+page 27	ROBBED TWO HOUSES.
+page 27	CANADA'S BIG WAR EFFORT.
+page 27	Factories At Full Blast.
+page 27	Natives In South Africa To Fight.
+page 29	Italians' Air Attack On Nairobi.
+page 29	ASMARA AND GURA BOMBED BY R.A.F.
+page 29	Macaca Also Raided.
+page 29	Air Raids In Africa.
+page 29	Active Reconnaissance.
+page 29	Italian Ships Take Refuge.
+page 29	Egypt's Defensive Policy.
+page 29	Vatican Paper Ceases.
+page 29	Frontier Skirmish.
+page 29	Ban Lifted.
+page 29	Theft From Bible Book Depot.
+page 29	No Bells For Church - Goers.
+page 29	TURKEY'S POSITION.
+page 29	Clarification In A Few Days Time.
+page 29	Diplomatic Activity.
+page 29	"THE TIMES" ON THE WAR.
+page 29	Says Essentials Have Not Changed.
+page 29	Effective Blockade.
+page 29	France Purchases 10,000 Lories.
+page 29	NON STOP RAIDS.
+page 29	Fires Rage In Towns Over Wide Belt.
+page 29	Odds OF 10 To 1.
+page 29	All Bridges Destroyed.
+page 29	Bad Weather Conditions.
+page 29	Dropped 1,000 Bombs.
+page 29	SECRET SESSION ON JUNE 20.
+page 29	700 Italians Leave Great Britain.
+page 29	Port Said Arrests.
+page 29	A Look Through The "Telegraph".
+page 29	50 YEARS AGO.
+page 29	25 YEARS AGO.
+page 29	10 YEARS AGO.
+page 29	5 YEARS AGO.
+page 29	Non-Belligerent Spanish Policy.
+page 29	PROHIBITION OF EXPORT.
+page 29	Evacuation Precaution.
+page 29	Necessity Emphasised In The Commons.
+page 29	Opposed To Compensation.
+page 29	Dominions' Offer.
+page 29	Workers Give Up Holidays.
+page 29	Magnificent Response By British Labour.
+page 29	Must Not Slacken.
+page 29	MURDER CHARGE WITHDRAWN.
+page 29	Explosion On Ship Sequel.
+page 29	Buenos Aires Police Arrest 43 People.
+page 29	REPATRIATION FROM ITALY.
+page 29	CHUNGKING'S WORST RAID.
+page 30	Canadian Defence Minister Named.
+page 30	CITY MURDER.
+page 30	SALESMAN'S GRAPHIC STORY.
+page 30	Salesman's Story.
+page 30	"He Fired At Me".
+page 30	Asked To Spare Citizens.
+page 30	German Operations Completed in Norway.
+page 30	Square Formation To Protect All Sides.
+page 30	Old Defence Technique As Answer to Germans.
+page 30	Officer's Description.
+page 30	Attack From Rear.
+page 30	REICH-TURKEY AGREEMENT.
+page 30	Speculation Aroused.
+page 30	SNATCHED $500 BUT CAUGHT.
+page 31	GERMANS ENTER PARIS.
+page 31	FRENCH CAPITAL IN HANDS OF INVADERS FOR FIRST TIME SINCE 1871: GALLANT DEFENCE COMES TO END.
+page 31	GREAT BATTLE THAT ENDED ON NINTH DAY.
+page 31	CITY QUIET.
+page 31	UNDEFENDED CITY.
+page 31	Stery Of The Battle.
+page 31	IMMEDIATE SURRENDER ONLY ALTERNATIVE TO DESTRUCTION, SAY NAZIS.
+page 31	NAZI WARNING OF FATE.
+page 31	No Troops Left In City.
+page 31	Capture Imminent Claim.
+page 31	Defence Of Paris Reaches Crisis Stage
+page 31	250,000 battle on 20-mile front, give no quarter.
+page 31	COLOSSAL CASUALTIES.
+page 31	Panzers Cross Marne.
+page 31	Counter - Attack By Chinese.
+page 31	COURT MARTIAL AT BARRACKS.
+page 31	Royal Scots Bandsman Accused of Theft.
+page 31	Haile Selassie's Standard raised near Ethiopia.
+page 31	WAR IN AFRICA.
+page 31	INITIATIVE BY ALLIES.
+page 31	Daring British Raid On Libyan Frontier.
+page 31	Diredawa Bombed.
+page 31	INHERITANCE TAX IMPOSED.
+page 31	EIRE WILL STAY NEUTRAL.
+page 31	German Operations Completed in Norway.
+page 31	DAY OF PRAYER FOR FRACE.
+page 32	Why Italy Will Lose In The Air.
+page 32	Our Pilots & Planes Are Superior.
+page 32	Free To Act.
+page 32	Schaeider Cup History.
+page 32	ROOSEVELT'S RESPONSE.
+page 32	Reduction Of Capital.
+page 32	Company's Application Allowed By Court.
+page 32	Sole Holder.
+page 32	INITIATIVE BY ALLIES.
+page 32	Italians Isolated.
+page 32	East African Communique.
+page 32	R.A.F. Raida.
+page 32	Italians Raid Aden.
+page 32	NAZI HIGH COMMAND.
+page 32	Exhausting Effort.
+page 32	What Envoy Told Nazis.
+page 32	WAR CASUALTY LISTS.
+page 32	GERMANS START NEW OFFENSIVE.
+page 32	NANKING'S REQUEST.
+page 32	Wants Foreign Warships To Leave China.
+page 32	"Unexpedcted Eventualities".
+page 32	U.S. Aid For Allies.
+page 32	Ambassador Sees Lord Halifax.
+page 32	France's Big Hopes.
+page 32	Reynaud's Last Appeal.
+page 32	New Measure Proposed.
+page 32	Robbed On Ship's Gangway.
+page 32	POLICE DSERGEANT'S WIFE CONVICTED.
+page 32	Raid On House Reveals Big Gambling Den.
+page 32	Informer Opens Door.
+page 32	Arms Enclosed Money.
+page 32	House Rent Of $200.
+page 32	Defendant's Denials.
+page 32	Mother Of Six.
+page 32	N.Y.K.'s New Europe Route.
+page 32	Malta Is Not Evacuated.
+page 33	Italians' Air Attack On Nairobi.
+page 33	ASMARA AND GURA BOMBED BY R.A.F.
+page 33	Macaca Also Raided.
+page 33	Air Raids In Africa.
+page 33	Active Reconnaissance.
+page 33	Italian Ships Take Refuge.
+page 33	Egypt's Defensive Policy.
+page 33	Vatican Paper Ceases.
+page 33	Frontier Skirmish.
+page 33	Ban Lifted.
+page 33	Theft From Bible Book Depot.
+page 33	No Bells For Church - Goers.
+page 33	TURKEY'S POSITION.
+page 33	Clarification In A Few Days Time.
+page 33	Diplomatic Activity.
+page 33	"THE TIMES" ON THE WAR.
+page 33	Says Essentials Have Not Changed.
+page 33	Effective Blockade.
+page 33	France Purchases 10,000 Lories.
+page 33	NON STOP RAIDS.
+page 33	Fires Rage In Towns Over Wide Belt.
+page 33	Odds OF 10 To 1.
+page 33	All Bridges Destroyed.
+page 33	Bad Weather Conditions.
+page 33	Dropped 1,000 Bombs.
+page 33	SECRET SESSION ON JUNE 20.
+page 33	700 Italians Leave Great Britain.
+page 33	Port Said Arrests.
+page 33	A Look Through The "Telegraph".
+page 33	50 YEARS AGO.
+page 33	25 YEARS AGO.
+page 33	10 YEARS AGO.
+page 33	5 YEARS AGO.
+page 33	Non-Belligerent Spanish Policy.
+page 33	PROHIBITION OF EXPORT.
+page 33	Evacuation Precaution.
+page 33	Necessity Emphasised In The Commons.
+page 33	Opposed To Compensation.
+page 33	Dominions' Offer.
+page 33	Workers Give Up Holidays.
+page 33	Magnificent Response By British Labour.
+page 33	Must Not Slacken.
+page 33	MURDER CHARGE WITHDRAWN.
+page 33	Explosion On Ship Sequel.
+page 33	Buenos Aires Police Arrest 43 People.
+page 33	REPATRIATION FROM ITALY.
+page 33	CHUNGKING'S WORST RAID.
+page 34	Canadian Defence Minister Named.
+page 34	New Threat To Maginot Line Seen.
+page 34	CITY MURDER.
+page 34	Salesman's Story.
+page 34	"He Fired At Me".
+page 34	Square Formation To Protect All Sides.
+page 34	Old Defence Technique As Answer to Germans.
+page 34	Officer's Description.
+page 34	Attack From Rear.
+page 34	REICH-TURKEY AGREEMENT.
+page 34	Speculation Aroused.
+page 34	SNATCHED $500 BUT CAUGHT.

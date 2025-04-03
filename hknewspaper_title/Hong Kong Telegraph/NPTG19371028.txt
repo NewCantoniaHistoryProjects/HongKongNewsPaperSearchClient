@@ -1,0 +1,400 @@
+page 1	BATTLE BESUMES WITH DAWN.
+page 1	SMALL FORCE HOLDING UP JAPAN ARMY.
+page 1	Rear-Guard Digging In On Soochow Creek.
+page 1	REFUGEES POURING INTO SHANGHAI.
+page 1	Reconciled To Loss.
+page 1	Wounded Refugees.
+page 1	Resistanco Not Weakened.
+page 1	Large-Scale Intervention Contemplated.
+page 1	DRIVING JAPANESE EASTWARD.
+page 1	Chinese Win Fresh Ground In Shansi.
+page 1	Invaders Also Report Victory.
+page 1	Chinese Advancing Towards Paoting.
+page 1	Diplomats' Strange Allegation.
+page 1	Non-Intervention Body Surrendered To Italy, Germany, Observers Claim.
+page 1	MEDIATION PLAN OBSRTUCTED BY JAPAN DECISION.
+page 1	No Prolongation Likely.
+page 1	Advisory Body Waits.
+page 1	Hongkong Welcomes New Governor.
+page 1	THOUSANDS SEE SPECTACULAR DEMONSTRATION.
+page 1	PLANES AND WARSHIPS IN ESCORT FOR VICE-REGAL PARTY ABOARD RANCHI.
+page 1	COMES ASHORE.
+page 1	GUARD INSPECTED.
+page 1	France Sends Sharp Notes To Spaniards.
+page 1	MARGIN REDUCED.
+page 2	FASCISTS AIDED.
+page 2	Supported Out Of Public Funds.
+page 3	KILLER BRANDS VICTIMS WITH LIVID LIPSTICK.
+page 3	Young Lovers Shot In Lonely New York Wood.
+page 3	Eskimo Community Transplanted.
+page 3	Roosevelt's President Ancestry.
+page 3	HOFFMAN AS COLONIST.
+page 3	Why Nazis Abroad Are Supervised.
+page 3	'HIGH NATIONAL POLICY.'
+page 3	Tsarist Court Revived At Secret Meeting.
+page 3	Russian Nobility Gathers In London Home.
+page 3	REFORMING CRIMINALS BY PSYCHOLOGY.
+page 3	Experts to Train Magistrates At New School.
+page 3	Nobel Prize For Anthony Eden.
+page 3	Preachers' Views Of Marriage & Engagement.
+page 3	TURNING LAW INTO COMEDY.
+page 4	Hongkong Emigree Upsets Home Authorities.
+page 4	TRANSIT DUTY ATTACKED.
+page 4	CANTON MERCHANTS AGITATING.
+page 5	Amended War Risks Rates For Marine Insurance.
+page 5	MEDIATION PLAN OBSTRUCTED BY JAPAN DECISION.
+page 5	Invitations To Be Sent.
+page 5	British Cabinet Meets.
+page 5	Mediation Difficult.
+page 5	British Representative.
+page 5	Mr. D. J. Cowan Dies Aboard Troopship.
+page 5	BATTLE RESUMES WITH DAWN.
+page 5	1,500 Japanese Killed Near Chenju.
+page 5	Incident Settled.
+page 5	Japanese Take Chinmen.
+page 5	Japanese Planes Attack Amoy Three Times.
+page 5	German Ambassador Back In Nanking.
+page 5	RECOVERED FROM ULCERATED STOMACH.
+page 5	DRIVING JAPANESE EASTWARD.
+page 5	Japanese Menace.
+page 5	Clairn Thousands Slain.
+page 5	China's Wishes.
+page 7	WIRELESS OPERATOR DROWNED IN HIS BATH.
+page 7	JURY ADDS RIDER TO THEIR VERDICT.
+page 7	Death Dealing Motor-Boats, Unknown Future.
+page 7	Shiloh Names Ex-P.C. To Succeed Him.
+page 7	FIRST ADHESIVE STAMP DESIGNS.
+page 7	Sold For 100 Guineas.
+page 7	Singapore Japanese May Petition Government.
+page 7	"ORDERED OUT OF OUR HOUSES."
+page 7	Refused Rides In Chinese Taxis And Buses.
+page 7	Lord Horder's Prophecy.
+page 7	"no Burials, No Noise, In Fifty Years."
+page 7	NEW HALL OF LEAGUE ASSEMBLY.
+page 7	Ample Room For 2,000 Persons.
+page 8	Cricketer Placed In Fix.
+page 8	MAY LOSE HIS WINTER WAGES.
+page 8	FILIPNO SWIMMER INJURED.
+page 8	Victim Of N.Y. Accident.
+page 8	A SCREEN CAREER?
+page 8	PROMISING DEBUT BY SEAFORTHS.
+page 8	Scottish Ladies Show Up Well.
+page 8	SUPERIOR STICKWORK.
+page 8	IRISH SWEEP PRIZES.
+page 8	Lion's Share To America.
+page 8	Association General Meeting.
+page 8	NOTES OF CURRENT INTEREST.
+page 9	CRICKET TEAMS.
+page 9	Kill Kidney Trouble Quick.
+page 9	C.B.A. LADIES SHOULD HAVE A GOOD SIDE.
+page 9	Shanghai Players Defeated.
+page 11	NEWS OF THE DAY IN PICTURES FROM FAR AND NEAR.
+page 11	PHOTONEWS.
+page 11	HAPPENINGS AS SEEN BY THE CAMERA'S EYE.
+page 11	War Planes Bomb Crowds Of Refugees.
+page 11	British Troops Fight To Control Mob.
+page 11	MID-AIR COLLISION.
+page 12	Chinese "Y" Doing Brave War Service.
+page 12	Workers Risk Lives To Take Comfort To Soldiers.
+page 12	Fine Response In Hongkong.
+page 12	SOOCHOW SECTION.
+page 12	H.K. COMMITTEE RESPONDS.
+page 12	FUNDS STILL REQUIRED.
+page 12	MARKET'S TONE IMPROVES.
+page 12	ARGENTINE TRADE LEAPS UPWARD.
+page 12	DUKE AND DUCHESS TO SAIL NOV. 6.
+page 12	Traveiling Aboard German Liner.
+page 12	C.I.O. Rejects Peace Plan.
+page 12	U.S. Labour Parley Calls Recess.
+page 12	SIAM LEGATION FOR BERLIN.
+page 12	Enemy Praise For Defenders Of Nanking.
+page 12	Fliers Say City Hard To Attack.
+page 12	Tokyo or Osaka More Vulnerable.
+page 12	MADRID REVOLT DENIED.
+page 12	Loyalists Charge Women Executed.
+page 12	Nationalists' Response.
+page 12	CITY QUIET.
+page 12	SCHACHT STILL AT MINISTRY.
+page 13	BATTLE CLOSE TO S'HAI BORDER.
+page 13	Japanese Thrusting Over Soochow Creek.
+page 13	RESIDENTS IN CONCESSION REPORT SEVERE FIRING.
+page 13	Battle Comes With Dawn.
+page 13	Reconciled To Loss.
+page 13	U.S. Marines Will Fire If Attacked.
+page 13	Order Issued By Admiral Yarnell.
+page 13	Incident Settled.
+page 13	Japan To Compensate For Killing Of Italian.
+page 13	BRITISH PRESS TRIBUTE.
+page 13	Chinese Resistance To Invasion Wins Loud Praise.
+page 13	Similar Stubborn Urged Stand To Aggression End.
+page 13	ANOTHER VIEW.
+page 13	HOPES FOR MEDIATION.
+page 13	WILL TRY TO MAKE RETREAT A ROUT.
+page 13	DRIVING JAPANESE EASTWARD.
+page 13	Chinese Win Fresh Ground In Shansi.
+page 13	Invaders Also Report Victory.
+page 13	Chinese Advancing Towards Paoting.
+page 13	Japanese Menace.
+page 13	GOVERNOR TAKES OATH OF OFFICE.
+page 13	Colourful Ceremony In Council Chamber.
+page 13	Covernor Delivers Message to H.K.
+page 13	TELLS OF EMPIRE'S SYMPATHY FOR H.K.
+page 13	His Excellency Hopes For Full Collaboration.
+page 13	Final Phase.
+page 13	Crowd At Theatre.
+page 13	Address Of Welcome.
+page 14	Appointment For Ship's Officer Well Known Here.
+page 14	OUR GUIDE TO THE CINEMAS.
+page 15	Chinese "Y" Doing Brave War Service.
+page 15	Workers Risk Lives To Take Comfort To Soldiers.
+page 15	Fine Response In Hongkong.
+page 15	SOOCHOW SECTION.
+page 15	H.K. COMMITTEE RESPONDS.
+page 15	FUNDS STILL REQUIRED.
+page 15	MARKET'S TONE IMPOVES.
+page 15	ARGENTINE TRADE LEAPS UPWARD.
+page 15	MEDIATION PLAN OBSTRUCTED BY JAPAN DECISION.
+page 15	No Prolongation Likely.
+page 15	Advisory Body Waits.
+page 15	Invitations To Be Sent.
+page 15	British Cabinet Meets.
+page 15	Mediation Difficult.
+page 15	British Representative.
+page 15	Duke Plans To Visit Colony.
+page 15	Hongkong Included In Duke of Windsor's Latest Itinerary.
+page 15	DUKE AND DUCHESS TO SAIL NOV. 6.
+page 15	Travelling Aboard German Liner.
+page 15	C.I.O. Rejects Peace Plan.
+page 15	U.S. Labour Parley Calls Recess.
+page 15	Helping China From Abroad.
+page 15	Nationals Organise For Defence.
+page 15	BRITISH ASSISTANCE.
+page 15	SCHACHT STILL AT MINISTRY.
+page 15	RESIGNATION NOW POSTPONED.
+page 15	SIAM LEGATION FOR BERLIN.
+page 15	Enemy Praise For Defenders Of Nanking.
+page 15	Fliers Say City Hard To Attack.
+page 15	Tokyo or Osaka More Vulnerable.
+page 15	Liberals Table Amendment.
+page 15	Continued Debate On Throne Speech.
+page 15	GOVERNMENT REPLY.
+page 15	LIBERAL PARTY AMENDMENT.
+page 15	MADRID REVOLT DENIED.
+page 15	Loyalists Charge Women Executed.
+page 15	Nationalists' Response.
+page 15	CITY QUIET.
+page 16	New Official Of University Arrives In H.K.
+page 16	Vice-Chancellor Joins Welcome To Governor.
+page 16	MAGISTRATE OFF ON FURLOUGH.
+page 16	BATTLE CLOSE TO S'HAI BORDER.
+page 16	Rcsistance Not Weakened.
+page 16	1,500 Japanese Killed Near Chenju.
+page 16	Chinese Will Not Give Up Shanghai.
+page 16	Wounded Refugees.
+page 17	Governor Delivers Message to H.K.
+page 17	Haven Of Refuge.
+page 17	Matters Of Moment.
+page 17	Governor Replies.
+page 17	Bludgeonings Of Fate.
+page 17	Blackest Cloud.
+page 17	Continuity of Policy.
+page 17	DANGER TO NAVIGATION.
+page 17	Friendly Relations.
+page 17	Pledge Of Co-operation.
+page 17	RECOVERED FROM ULCERATED STOMACH.
+page 19	Hongkong Welcomes Its New Governor.
+page 19	THOUSANDS SEE SPECTACULAR DEMONSTRATION.
+page 19	PLANS AND WARSHIPS IN ESCORT FOR VICE-REGAL PARTY ABOARD RANCHI.
+page 19	COMES ASHORE.
+page 19	GUARD INSPECTED.
+page 19	DRIVING JAPANESE EASTWARD.
+page 19	Claim Thousands Slain.
+page 19	China's Wishes.
+page 19	Chinese Guerilla Troops Surround Japanese.
+page 19	Japanese Day And Night Attacks On Hsinkow.
+page 19	Severe Casualties.
+page 19	Japanese Take Chinmen.
+page 19	Japanese Planes Attack Amoy Three Times.
+page 19	German Ambassador.
+page 19	Back In Nanking.
+page 20	Cricketer Placed In Fix.
+page 20	MAY LOSE HIS WINTER WAGES.
+page 20	FILIPINO SWIMMER INJURED.
+page 20	Victim Of N.Y. Accident.
+page 20	A SCREEN CAREER?
+page 20	PROMISING DEBUT BY SEAFORTHS.
+page 20	Scottish Ladies Show Up Well.
+page 20	IRISH SWEEP PRIZES.
+page 20	Lion's Share To America.
+page 20	MAMAK REMINDER.
+page 21	Mr. D.J. Cowan Dies Aboard Troopship.
+page 21	Kill Kidney Trouble Quick.
+page 21	A CORRECTION.
+page 21	C.B.A. LADIES SHOULD HAVE A GOOD SIDE.
+page 21	Shanghai Players Defeated.
+page 23	NEWS OF THE DAY IN PICTURES FROM FAR AND NEAR.
+page 23	PHOTONEWS.
+page 23	HAPPENINGS AS SEEN BY THE CAMERA'S EYE.
+page 23	War Planes Bomb Crowds Of Refugees.
+page 23	British Troops Fight To Control Mob.
+page 23	MID-AIR COLLISION.
+page 24	Diplomats' Strange Allegation.
+page 24	Non-Intervontion Body Surrendered To Italy, Germany, Observers Claim.
+page 24	Parliament Gets Busy.
+page 24	FIRST READING OF THREE NEW BILLS.
+page 24	Trotskyists "Removed."
+page 24	Soviet Jews Loyal To Stalin's Cause.
+page 24	WARMER TO-DAY IN HONGKONG.
+page 24	HUMIDITY ALSO RISES SLIGHTLY.
+page 24	Young Pilot Faces Court November 4.
+page 24	SUSPECTED OF HATEFUL PROFESSION.
+page 24	Chinese Sent To Prison For Year.
+page 24	Large-Scale Intervention Contemplated.
+page 24	MARGIN REDUCED.
+page 24	Drastic Revision Of Requirements In New York.
+page 24	SOLD OBSCENE PICTURES TO DETECTIVE!
+page 24	France Sends Sharp Notes To Spaniards.
+page 24	New Status For Britain's Territories.
+page 24	Important War Office Appointment Announced.
+page 24	MORE ARMY RECRUITS.
+page 24	BRITISH PRESS TRIBUTE.
+page 24	TRIBUTE TO GALLANT CHINESE SOLDIERS.
+page 25	CHINESE HALT JAPAN'S MARCH.
+page 25	Ulster Rifles Fired On While Attempting To Assist Refugees.
+page 25	BRITISH GENERAL FORCED TO SEEK SHELTER OF SAND-BAGS.
+page 25	G.O.C. Under Fire.
+page 25	Fired On British.
+page 25	U.S. Marines Will Fire If Attacked.
+page 25	Order Issued By Admiral Yarnell.
+page 25	Incident Settled.
+page 25	Japan To Compensate For Killing Of Italian.
+page 25	BRITISH PRESS TRIBUTE.
+page 25	Chinese Resistance To Invasion Wins Loud Praise.
+page 25	Similar Stubborn Stand Urged To End Aggression.
+page 25	ANOTHER VIEW.
+page 25	HOPES FOR MEDIATION.
+page 25	WILL TRY TO MAKE RETREAT A ROUT.
+page 25	DRIVING JAPANESE EASTWARD.
+page 25	Chinese Win Fresh Ground In Shansi.
+page 25	Invaders Also Report Victory.
+page 25	Chinese Advancing Towards Paoting.
+page 25	Japanese Menace.
+page 25	GOVERNOR TAKES OATH OF OFFICE.
+page 25	Colourful Ceremony In Council Chamber.
+page 25	Governor Delivers Message to H.K.
+page 25	TELLS OF EMPIRE'S SYMPATHY FOR H.K.
+page 25	Final Phase.
+page 25	Crowd At Theatre.
+page 25	Address Of Welcome.
+page 26	Appointment For Ship's Officer Well Known Here.
+page 26	OUR GUIDE TO THE CINEMAS.
+page 27	Chinese "Y" Doing Brave War Service.
+page 27	Workers Risk Lives To Take Comfort To Soldiers.
+page 27	Fine Response In Hongkong.
+page 27	SOOCHOW SECTION.
+page 27	H.K. COMMITTEE RESPONDS.
+page 27	FUNDS STILL REQUIRED.
+page 27	MARKET'S TONE IMPROVES.
+page 27	ARGENTINE TRADE LEAPS UPWARD.
+page 27	MEDIATION PLAN OBSTRUCTED BY JAPAN DECISION.
+page 27	No Prolongation Likely.
+page 27	Advisory Body Waits.
+page 27	Invitations To Be Sent.
+page 27	British Cabinet Meets.
+page 27	Mediation Diffcult.
+page 27	British Representative.
+page 27	Duke Plans To Visit Colony.
+page 27	Hongkong Included In Duke of Windsor's Latest Itinerary.
+page 27	DUKE AND DUCHESS TO SAIL NOV. 6.
+page 27	Travelling Aboard German Liner.
+page 27	C.I.O. Rejects Peace Plan.
+page 27	U.S. Labour Parley Calls Recess.
+page 27	Helping China From Abroad.
+page 27	Nationals Organise For Defence.
+page 27	BRITISH ASSISTANCE.
+page 27	SCHACHT STILL AT MINISTRY.
+page 27	RESIGNATION NOW POSTPONED.
+page 27	SIAM LEGATION FOR BERLIN.
+page 27	Enemy Praise For Defenders Of Nanking.
+page 27	Fliers Say City Hard To Attack.
+page 27	Tokyo or Osaka More Vulnerable.
+page 27	Liberals Table Amendment.
+page 27	Continued Debate On Throne Speech.
+page 27	GOVERNMENT REPLY.
+page 27	LIBERAL PARTY AMENDMENT.
+page 27	MADRID REVOLT DENIED.
+page 27	Loyalists Charge Women Executed.
+page 27	Nationalists' Response.
+page 27	CITY QUIET.
+page 28	New Official Of University Arrives In H.K.
+page 28	Vice-Chancellor Joins Welcome To Governor.
+page 28	MAGISTRATE OFF ON FURLOUGH.
+page 28	CHINESE HALT JAPAN'S MARCH.
+page 28	Contact Made Earlier.
+page 28	Cease Attacks.
+page 28	Battle Comes With Dawn.
+page 28	Reconciled To Loss.
+page 28	Resistance Not Weakened.
+page 28	U.S. MARINES WILL FIRE IF ATTACKED.
+page 28	1,500 Japanese Killed Near Chenju.
+page 28	Chinese Will Not Give Up Shanghai.
+page 28	Wounded Refugees.
+page 30	Mr. D.J. Cowan Dies Aboard Troopship.
+page 30	A CORRECTION.
+page 30	C.B.A. LADIES SHOULD HAVE A GOOD SIDE.
+page 30	Shanghai Players Defeated.
+page 31	Cricketer Placed In Fix.
+page 31	MAY LOSE HIS WINTER WAGES.
+page 31	FILIPNO SWIMMER INJURED.
+page 31	Victim Of N.Y. Accident.
+page 31	A SCREEN CAREER?
+page 31	PROMISING DEBUT BY SEAFORTHS.
+page 31	Scottish Ladies Show Up Well.
+page 31	SUPERIOR STICKWORK.
+page 31	IRISH SWEEP PRIZES.
+page 31	Lion's Share To America.
+page 31	Association General Meeting.
+page 31	NOTES OF CURRENT INTEREST.
+page 32	Hongkong Welcomes Its New Governor.
+page 32	THOUSANDS SEE SPECTACULAR DEMONSTRATION.
+page 32	PLANS AND WARSHIPS IN ESCORT FOR VICE-REGAL PARTY ABOARD RANCHI.
+page 32	COMES ASHORE.
+page 32	GUARD INSPECTED.
+page 32	DRIVING JAPANESE EASTWARD.
+page 32	Claim Thousands Slain.
+page 32	China's Wishes.
+page 32	Chinese Guerilla Troops Surround Japanese.
+page 32	Japanese Day And Night Attacks On Hsinkow.
+page 32	Severe Casualties.
+page 32	Japanese Take Chinmen.
+page 32	Japanese Planes Attack Amoy Three Times.
+page 32	German Ambassador.
+page 32	Back In Nanking.
+page 34	Governor Delivers Message to H.K.
+page 35	NEWS OF THE DAY IN PICTURES FROM FAR AND NEAR.
+page 35	PHOTONEWS.
+page 35	HAPPENINGS AS SEEN BY THE CAMERA'S EYE.
+page 35	War Planes Bomb Crowds Of Refugees.
+page 35	British Troops Fight To Control Mob.
+page 35	MID-AIR COLLISION.
+page 36	Diplomats' Strange Allegation.
+page 36	Non-Intervontion Body Surrendered To Italy, Germany, Observers Claim.
+page 36	Parliament Gets Busy.
+page 36	FIRST READING OF THREE NEW BILLS.
+page 36	Trotskyists "Removed."
+page 36	Soviet Jews Loyal To Stalin's Cause.
+page 36	WARMER TO-DAY IN HONGKONG.
+page 36	HUMIDITY ALSO RISES SLIGHTLY.
+page 36	Young Pilot Faces Court November 4.
+page 36	SUSPECTED OF HATEFUL PROFESSION.
+page 36	Chinese Sent To Prison For Year.
+page 36	Large-Scale Intervention Contemplated.
+page 36	MARGIN REDUCED.
+page 36	Drastic Revision Of Requirements In New York.
+page 36	SOLD OBSCENE PICTURES TO DETECTIVE!
+page 36	France Sends Sharp Notes To Spaniards.
+page 36	New Status For Britain's Territories.
+page 36	Important War Office Appointment Announced.
+page 36	MORE ARMY RECRUITS.
+page 36	BRITISH PRESS TRIBUTE.
+page 36	TRIBUTE TO GALLANT CHINESE SOLDIERS.

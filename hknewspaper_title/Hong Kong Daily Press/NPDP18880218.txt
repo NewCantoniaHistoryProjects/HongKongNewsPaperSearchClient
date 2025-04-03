@@ -1,0 +1,3 @@
+page 2	KOBE.
+page 2	OSAKA.
+page 2	YOKOHAMA.

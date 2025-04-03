@@ -1,0 +1,222 @@
+page 1	ARMIES LOCKED IN BITTER BATTLE.
+page 1	CHINESE STRIKE AT INVADERS FRONT AND REAR.
+page 1	Hand-to -Hand Struggle On Road to Hsuchow.
+page 1	Claim 20,000 Surrounded.
+page 1	Chinese Blow Up Railway Bridge.
+page 1	Chinese Recapture Taokow, Neihwang.
+page 1	MOBILISING FRANCE'S MIGHT.
+page 1	Defence Bill To Be Debated.
+page 1	Tokoto Recaptured.
+page 1	Nantung Captured By Japanese.
+page 1	Poles Condemn Lithuanian Settlement.
+page 1	TIENTSIN TROUBLE THREATS.
+page 1	Shops Won't Handle New Bank Notes.
+page 1	WAR GAMES ARE HARD WORK.
+page 1	Ordered To Purchase Newspaper.
+page 1	"Freeze Out" Threatens Trade Rivals.
+page 1	Japanese Bid For Tobacco Monopoly.
+page 1	Japan Seeks Control Of Universities Of N. China.
+page 1	HITLER DISPLACES DUKE OF WINDSOR.
+page 1	ENORMOUS GANS BY INSURGENTS.
+page 1	Readjustments Now Being Made.
+page 1	BRITISH PROTEST TO GENERAL FRANCO.
+page 1	Schuschnigg Embarrasses Nazi Chiefs.
+page 1	Do Not Know What To Do With Him.
+page 1	Five Drown When Junks Capsized.
+page 1	Two Still Missing In H.K. Waters.
+page 1	HUOMINTANG TO MEET.
+page 1	CLOUSTON SETS NEW RECORE.
+page 1	Englang-New Zealand In Four Days.
+page 1	START RETURN FLIGH.
+page 1	OIL COMPANY REFUTES ALLEGATIONS.
+page 1	SEIZURE OF KOVNO VETERANS' DEMAND.
+page 1	HUGE FIGHTING FORCE MASSED ON FRONTIER.
+page 1	Demand Annexation Of Lithuania.
+page 1	Army On Border.
+page 1	LIGHUANIA'S SACRIFICES APPRECIATED.
+page 4	LITHUANIA FIERCELY RESENTS SURRENDER.
+page 4	Rash Element May Cause Trouble.
+page 4	NOTE PRESENTED.
+page 4	DICTATOR RETURNS.
+page 4	PRESIDENT'S SPEECH.
+page 4	LITHUANIAN RIGHTS.
+page 4	WARSAW RIOTS.
+page 4	BAR TO JEWS.
+page 4	HONGKONG INVASION STOUTLY RESISTED ON MANY FRONTS.
+page 4	PORT SHELTER LANDING.
+page 4	OFFICIAL REPORT.
+page 4	ACTIVITY BY NIGHT.
+page 5	HONGKONG'S TRADE GAINS MARKEDLY.
+page 5	Held, Fined By Japanese.
+page 5	Church Needs Financial Aid.
+page 5	Committee Of Union Church Reports.
+page 5	ACTIVITIES REVIEWED.
+page 5	SPECIAL SERVICES.
+page 5	POSITION UNSATISFACTORY.
+page 5	CHURCH BOMBED.
+page 5	German Wounded In Linyi Attack.
+page 5	REFUGEES KILLED.
+page 5	LADIES' COMMITTEE.
+page 7	CHURCH TO FIGHT SPIRITUALISM.
+page 7	Secret Report Denounces Seance "Frands".
+page 7	Action Against Clergy.
+page 7	A BISHOP'S BAN.
+page 7	Office People Prefer Roast Beef Tiffins.
+page 7	Air Raid Precautions.
+page 7	3,700 SANDBAGS TO PROTECT ONE WINDOW.
+page 7	DEEP RELIEF.
+page 7	A MOCK RAID.
+page 7	MOTHER ADOPTS HER OWN CHILD.
+page 7	"MAGIC EYE" CAN SEE 100 MILES.
+page 7	J.L. Baird's New Marvel.
+page 7	BRITAIN IS FIRST.
+page 7	Visitor Briefly Welcome.
+page 9	Scotland Wins Rugby Tournament.
+page 9	England Beaten In International.
+page 9	Hall-Time Score.
+page 9	NEW CHAMPION.
+page 9	Louis Shek-cheung Wins Ping Pong Title.
+page 9	TENNIS FIXTURES.
+page 9	Programme Arranged For This Week.
+page 9	Interport With Macao Next Month.
+page 9	Teams For the First Trial Game Selected.
+page 9	INTERNATIONAL SERIES.
+page 9	Competition to Commence This Week.
+page 9	TOKYO OLYMPICS.
+page 9	Burghley Refuses Debate On British Atttude.
+page 9	INTERNATIONAL SERIES.
+page 9	IRELAND WINS.
+page 9	H. W. AUTIN NOT PLAYING IN DAVIS CUP.
+page 9	OUR GUIDE TO THE CINEMAS.
+page 9	IRISH SWEEP DRAW.
+page 9	Mixing Ends; Counterfoils Kept Under Guard.
+page 11	NEWS OF THE DAY IN PICTURES FROM FAR AND NEAR.
+page 11	HAPPNINGS AS SEEN BY THE CAMERA'S EYE.
+page 12	Mexico Seizes Foreign Oil Concessions.
+page 12	Climax To Months Of Dispute.
+page 12	PRESIDENT'S BROADCAST.
+page 12	FOREIGN EXCHANGE.
+page 12	WORKERS STRIKE.
+page 12	DIRECT ACTION.
+page 12	SPECIAL CONGRESS.
+page 12	Woman Killer on Hunger Strike.
+page 12	170,000-DAY'S MAIL FOR ROOSEVELT.
+page 12	Flying Over Tasman Sea.
+page 12	Clouston And Ricketts In Surprise Flight.
+page 12	JAPANESE MOPPED UP.
+page 12	HONGKONG JUNK SEIZED.
+page 13	NO GUARANTEE FOR CZECHO-SLOVANKIA.
+page 13	EMPIRE NOT READY TO GIVE PLEDGE.
+page 13	But Belief Increases Hitler Plans March Into Hungary Next.
+page 13	Terms Of Coalition.
+page 13	More Artillery For H.K.
+page 13	NAZIS TAKE REVENGE.
+page 13	Wholesale Arrest Of Vienna Socialists.
+page 13	Poles Far From Satisfied.
+page 13	DEMAND KOVNO'S SEIZURE.
+page 13	LARGE ARMY REMANS ON FRONTIER.
+page 13	Chinese In Pursuit Of Beaten Enemies.
+page 13	WAR GAMES ARE HARD WORK.
+page 13	DESPERATE LOYALIST DEFENCE.
+page 13	Insurgent Advance Persists, However.
+page 13	River Tragedy Marks Celebrations.
+page 13	Many Drowned In Seoul Tragedy.
+page 13	HITLER DISPLANCES DUKE OF WINDSOR.
+page 13	CHANG OF U.S. POLICY BEWILDER FILIPINOS.
+page 13	Mr. Paul McNutt To Be Feted.
+page 13	KUOMINTANG TO MEET.
+page 13	PLEA FOR SHANGHAI'S EXDHANGE.
+page 13	'Financial Times" On New Restrictions.
+page 13	Oil concerns To Seek Injunctions.
+page 13	Fight With Mexican Government Pending.
+page 13	OIL COMPANY REFUTES ALLEGATIONS.
+page 13	HEAVY CASUALTIES SUFFERED BY JAPAN IN RECENT BATTLES.
+page 13	Yollow River Defence Lines Can Check Any Attack.
+page 13	WARLIKE EXERCISES TERMINATE.
+page 13	Military Communique Handed Out.
+page 13	Japanese Suffer Heavy Casualties.
+page 13	Chinese Defence Strong.
+page 13	COMMISSION APPOINTED.
+page 17	Chinese In pursuit Of Beaten Enemies.
+page 17	Hand-To Hand Battle.
+page 17	Cliam 20,000 Surrounded.
+page 17	Chinese Blow Up Railway Bridge.
+page 17	Chinese Recapture Taokow, Neihwang.
+page 17	Japanese Assault Repulsed.
+page 17	Tokoto Recaptured.
+page 17	Nantung Captured By Japanese.
+page 17	Rifie Fire Audible In Peiping.
+page 17	Japanese Mopped Up.
+page 17	Japanese Success.
+page 17	THIEVES ACTIVE REPORTS SHOW.
+page 17	BANISHEE CONVICTED ON THEFT CHARGE.
+page 17	DIVAN KEEPERS CONVICTED.
+page 17	HODE "FREE" ON FERRY.
+page 17	ALLEGED FORGERS ON TRIAL.
+page 17	Crown Outlines Line Of Action.
+page 17	PLEAD NOT GUILTY.
+page 17	CLEVERLY USED MAILS TO DEFRAUD WOMAN.
+page 17	Japan Seeks Control Of Universities Of N.China.
+page 17	Long Prison Terms For Old Offenders.
+page 17	HEROIN PILL MAKERS IMPRISONED.
+page 17	BOAT PEOPLE IN TROUBLE.
+page 17	MOBILISING FANCE'S MIGHT.
+page 17	Defence Bill To Be Debated.
+page 17	DEMAND KOVNO'S SEIZURE.
+page 17	Amry On Border.
+page 17	Ministers Said To Have Resigned.
+page 17	GAMBLERS CAUGHT IN POLICE RAID.
+page 19	CHURCH TO FIGHT SPIRITUALISM.
+page 19	Secret Report Denounces Seance "Frauds".
+page 19	Action Against Clergy.
+page 19	A BISHOP'S BAN.
+page 19	Office People Prefer Roast Beef Tiffins.
+page 19	Air Raid Precautions.
+page 19	3,700 SANDBAGS TO PROTECT ONE WINDOW.
+page 19	DEEP RELIEF.
+page 19	A MOCK RAID.
+page 19	MOTHER ADOPTS HER OWN CHILD.
+page 19	"MAGIC EYE" CAN SEE 100 MILES.
+page 19	J. L. Baird's New Marvel.
+page 19	BRITAIN IS FIRST.
+page 19	MUI TSAI CASE IN COURT.
+page 21	Scotland Wins Rugby Tournament.
+page 21	England Beaten In International.
+page 21	NEW CHAMPION.
+page 21	Louis Shek-cheung wins Ping Pong Title.
+page 21	Interport With Macao Next Month.
+page 21	Teams For the First Trial Game Selected.
+page 21	INTERNATIONAL SERIES.
+page 21	Competition to Commence This Week.
+page 21	IRELAND WINS.
+page 21	BASEBALL TO START SHORTLY.
+page 21	OUR GUIDE TO THE CINEMAS.
+page 21	FANLING GOLF G. R. Cairns Wins Bogey Pool.
+page 21	H.W. AUSTIN NOT PLAYING IN DAVIS CUP.
+page 23	NEWS OF THE DAY IN PICTURES FROM FAR AND NEAR.
+page 23	HAPPENINGS AS SEEN BY THE CAMERA'S EYE.
+page 24	ENORMOUS GAINS BY INSURGENTS.
+page 24	Readjutments Now Being Made.
+page 24	BRITISH PROTEST TO GENERAL FRANCO.
+page 24	Five Drown When Junks Capsized.
+page 24	Two Still Missing In H.K. Waters.
+page 24	Obeisance To Japanese Sentries Denied.
+page 24	LITHUANIA'S SACRIFICES APPRECIATED.
+page 24	HONGKONG JUNK SEIZED.
+page 24	DATE OF HEARING FIXED.
+page 24	TIENTSIN TROUBLE THREATS.
+page 24	Shops Won't Handle Now Bank Notes.
+page 24	Ordered To Purchase Newspaper.
+page 24	"Freeze Out" Threatens Trade Rivals.
+page 24	Japanese Bid For Tobacco Monopoly.
+page 24	SMALLPOX FIGHURES INCOMPLETE.
+page 24	BIG YACHT LAUNCHED.
+page 24	Hongkong Build For New York Waters.
+page 24	CLOUSTON SETS NEW RECORD.
+page 24	England-New Zealand In Four Days.
+page 24	START RETURN FLIGHT.
+page 24	Schuschnigg Embarrasses Nazi Chiefs.
+page 24	Do Not Know What To Go With Him.
+page 24	WET WEATHER TO CONTINUE.
+page 24	ONE PICKPOCKET CAPTURED, HELPER ESCAPES.
+page 24	MORE GAMBLERS' FUNDS FOR "POOR BOX".

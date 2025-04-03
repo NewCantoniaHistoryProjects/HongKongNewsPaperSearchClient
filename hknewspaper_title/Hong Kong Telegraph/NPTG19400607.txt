@@ -1,0 +1,369 @@
+page 1	Solid Wall of Guns Creates Carnage of Wrecks.
+page 1	2,000 NAZI TANKS BATTER AGAINST WEYGAND'S LINE.
+page 1	Two Hundred Destroyed.
+page 1	Battle Rages Fiercely.
+page 1	NAZI TANKS IN TROUBLE.
+page 1	Refhel Sector Blazes Up.
+page 1	Anti-Tank Defences Scare.
+page 1	2,000 Tanks Flung Into Fight.
+page 1	36 Nazi Planes Downed.
+page 1	Splendid Morale.
+page 1	French Communique.
+page 1	Building More Planes Than We Are Losing.
+page 1	Argentina And Fifth Columnists.
+page 1	Conte Biancamano Will Stay In Neutral Port.
+page 1	Vatican As Sanctuary.
+page 1	Vault As Raid Shelter.
+page 1	Inspiring Broadcast To The French Nation.
+page 1	TO-DAY I CAN GIVE YOU REASONS FOR HOPE.
+page 1	Ring Of Steel Never Closed.
+page 1	Wan World's Admiration.
+page 1	Morale Holds Firm.
+page 1	The Allies Reply.
+page 2	Information Sought.
+page 2	DRIVE ON ICHANG.
+page 2	A Look Through The "Telegraph".
+page 2	50 YEARS AGO.
+page 2	25 YEARS AGO.
+page 2	10 YEARS AGO.
+page 2	5 YEARS AGO.
+page 2	Restricting Commodities.
+page 2	Government Control Of Many Articles.
+page 2	Export Goods Unaffected.
+page 5	SCIENTISTS NAZIS EXILED MAKE BIG DISCOVERY IN U.S.
+page 5	ONLY MINUTE QUANTITY.
+page 5	ENGLAND HAS PLENTY.
+page 5	WHEN ENERGY CEASES.
+page 5	EUROPEAN ROBBED.
+page 5	Former H.K. Journalist Held Up In Chinese Inn.
+page 5	Man 85 Sister 83 Burned to Death.
+page 5	FRENCH TROOPS ON THE ALERT.
+page 5	CAPTAIN SAVED BY HIS TEETH.
+page 5	Ricksha Coolies' War Offering.
+page 5	THEY WORKED ON HOLIDAY.
+page 5	Taught Amy To Fly.
+page 5	Federate Europe After War, Says Daladier.
+page 5	Ready To Co-operate.
+page 5	Nothing Can Stop.
+page 5	DOGS CAN AID THE PARACHUTE FIGHTERS.
+page 5	NO SLEEPING ON DUTY.
+page 7	U.S. TIGHTENS ITS PACIFIC POLICY.
+page 7	No New Treaty.
+page 7	Aimed At Japan.
+page 7	Firma Attitude To N.E.I.
+page 7	RAW MATERIALS FOR ALLIES.
+page 7	Dutch East Indies To Make Supplies.
+page 7	To Give Utmost Assistance.
+page 7	UNCONQUERABLE NATION.
+page 7	Plentiful Money For Munitions.
+page 7	Paris Takes Drastic Precautions.
+page 7	Parachutists Will Have Bad Time.
+page 7	Public Re-Assured.
+page 7	Allies Want Great War Army Stocks.
+page 7	Australia To Build More Airplanes.
+page 7	Unceasing Efforts For Allied Cause.
+page 7	To Buy Flying-Boats.
+page 7	War Damage Scheme.
+page 7	Government Plan To Replace Furniture.
+page 7	FALSE REPORT.
+page 7	REASONS FORHOPE.
+page 7	Third Nazi Enterprise.
+page 7	The Decisive Battle.
+page 7	Dream Will Be Smashed.
+page 7	Realise Our Own Faults.
+page 7	Calm And Proud.
+page 7	NAZI TANKS IN TROURLE.
+page 7	How To Deal With Parachutists.
+page 7	REPLACING LOST WAR MATERIALS.
+page 7	Gayda Wants U.S. To Stop Intervening.
+page 7	Nazi Reports Debunked.
+page 7	Caustic Comment By Swedish Paper.
+page 7	Allies' Bulls-Eyes.
+page 7	Send Aid To Allies, Wire U.S. Envoys.
+page 9	Air Raid Exercises.
+page 10	Workers Demand Inquiry Into New Rail Fares: "Abominable Decision".
+page 10	"Tribunal Ignored".
+page 10	Woman's Protest.
+page 10	300 Hope For Victory Date With Girl.
+page 10	Victory Celebrations.
+page 10	MYSTERY NAZI BALLOON.
+page 11	Solid Wall of Guns Creates Carnage of Wrecks.
+page 11	2,000 NAZI TANKS BATTER AGAINST WEYGAND'S LINE.
+page 11	Two Hundred Destroyed.
+page 11	Battle Rages Fiercely.
+page 11	NAZI TANKS IN TROUBLE.
+page 11	Refhel Sector Blazes Up.
+page 11	Anti-Tank Defences Scare.
+page 11	2,000 Tanks Flung Into Fight.
+page 11	36 Nazi Planes Downed.
+page 11	Splendid Morale.
+page 11	French Communique.
+page 11	Like A Fleet At Sea.
+page 11	Allies Fighting Incredible Odds.
+page 11	What They're Up Against.
+page 11	Plan TO Seize S'hai Settlement.
+page 11	Extraordinary Story In Chungking.
+page 11	The Alleged Plan.
+page 11	IL DUCE'S PUZZLING VACILLATIONS.
+page 11	Allied Warplanes Stage Their "Blitzkrieg".
+page 11	SWEEPING R.A.F. RAIDS ON GERMAN LINES.
+page 11	CONTIUNOUS ACTION.
+page 11	Right On The Mark.
+page 11	Machine-Gunned Targets.
+page 11	King Leopold Repudiated By His Aunt.
+page 11	Issues Communique.
+page 11	Further Delay Possible.
+page 11	THE WAR IN CHINA.
+page 11	MAJOR BATTLE IMMINENT.
+page 12	Restricting Commodities.
+page 12	Government Control Of Many Articles.
+page 12	Export Goods Unaffected.
+page 12	RAW MATERIALS FOR ALLIES.
+page 12	Dutch East Indies To Make Supplies.
+page 12	To Give Utmost Assistance.
+page 12	STOCK EXCHANGE REPORT.
+page 12	NAZI TANKS IN TROUBLE.
+page 12	ALLIES FIGHTING HEAVY ODDS.
+page 12	DUCE'S PUZZLING VACILLATIONS.
+page 12	Overtures Disregarded.
+page 12	PLAN TO SEIZE SETTLEMENT.
+page 12	To Cut Off Power & Water.
+page 12	Information Sought.
+page 12	Hitler "Already At War With U.S."
+page 12	Story of Scouts' Swastika Badge.
+page 12	Why H.K. Scoutmaster Can't Wear His Any More.
+page 15	U.S. TIGHTENS ITS PACIFIC POLICY.
+page 15	No New Treaty.
+page 15	Aimed At Japan.
+page 15	Firm Attitude To N.E.I.
+page 15	Building More Planes Than We Are Losing.
+page 15	Paris Takes Drastic Precautions.
+page 15	Parachutists Will Have Bad Time
+page 15	Public Re-Assured.
+page 15	Plentiful Money For Munitions.
+page 15	Australia To Build More Airplanes.
+page 15	Unceasing Efforts For Allied Cause.
+page 15	To Buy Flying-Boats.
+page 15	Allies Want Great War Army Stocks.
+page 15	REPLACING LOST WAR MATERIALS.
+page 15	A Look Through The "Telegraph".
+page 15	50 YEARS AGO.
+page 15	25 YEARS AGO.
+page 15	10 YEARS AGO.
+page 15	5 YEARS AGO.
+page 15	Dutch Navy Fights On.
+page 15	Playing Its Part With Allied Fleets.
+page 15	Curious Experience.
+page 15	Working Night And Day.
+page 15	Nazi Reports Debunked.
+page 15	Caustic Comment By Swedish Paper.
+page 15	Allies' Bulls-Eyes.
+page 15	FALSE REPORT.
+page 15	War Damage Scheme.
+page 15	Government Plan To Replace Furniture.
+page 15	Send Aid To Allies, Wire U.S. Envoys.
+page 15	Argentina And Fifth Columnists.
+page 15	UNCONQUERABLE NATION.
+page 17	New C.-In-C. Takes Over.
+page 17	Weygand's Near East Successor.
+page 17	Served In Last War.
+page 17	BISHOP'S WIFE VICTIMISED.
+page 17	Inspiring Broadcast To The French Nation.
+page 17	TO-DAY I CAN GIVE YOU REASONS FOR HOPE.
+page 17	Ring Of Steel Never Closed.
+page 17	Wan World's Admiration.
+page 17	Morale Holds Firm.
+page 17	The Allies Reply.
+page 17	Third Nazi Enterprise.
+page 17	The Decisive Battle.
+page 17	Dream Will Be Smashed.
+page 17	Realise Our Own Faults.
+page 17	Calm And Proud.
+page 17	Scotties In Action On Lower Somme Front.
+page 17	Live Up To Reputation.
+page 17	In Excellent Spirits.
+page 17	Gayda Wants U.S. To Stop Intervening.
+page 17	Conte Biancamano Will Stay In Neutral Port.
+page 17	Vatican As Sanctuary.
+page 17	Vault As Raid Shelter.
+page 17	American Seaman Collapses On Ferry.
+page 19	Air Raid Exercises.
+page 20	FATHER AND MOTHER DEAD.
+page 20	Boy and Sister Escape.
+page 20	Climbed From Window.
+page 20	MYSTERY NAZI BALLOON.
+page 20	NOTICE TO MARINERS.
+page 20	BELGIAN GOVT. RECOGNISED.
+page 20	AID SOUGHT FOR 5,000,000 WAR REFUGEES.
+page 20	Lew Technicality Saves Their Lives.
+page 20	SAN DOMINGO'S DICTATOR ILL.
+page 20	Wounded Soldiers Visited By Queen.
+page 20	Duke Of Windsor Resigns Post.
+page 20	BELGINAN FLEET JOINS ALLIES.
+page 21	Greatest Battle of War Raging at Increased Tempo: Slight withdrawals at Two Points But British and French Lines Otherwise Intact: Every Inch Contested.
+page 21	WEYGAND'S NEW TACTICS BATTER PANZER UNITS TO STANDSTILL.
+page 21	"HOTTEST HOLE THIS SIDE OF HELL IS SOMME AND AILETTE FRONTS", SAYS U.P.
+page 21	TERRIFIC FIRE.
+page 21	No Break Through.
+page 21	GREAT BATTLE RAGES.
+page 21	Creating Havoc.
+page 21	District On South Coast Bombed.
+page 21	GERMAN BOMBERS OVER ENGLAND IN NEW RAIDS.
+page 21	Workmen Injured.
+page 21	GERMANY'S ENORMOUS TANK ARMY.
+page 21	What The Allies Are Up Against.
+page 21	What They're Up Against.
+page 21	Like A Fleet At Sea.
+page 21	More Planes For Allies.
+page 21	U.S. Navy Releases Reserve Bombers.
+page 21	ITALIAN PRESS "WARNS" AMERICA.
+page 21	Istanbul Evacuated.
+page 21	Demand For Malta.
+page 21	Rumanian Precautions.
+page 21	LINERS TO REMAIN IN SAFE PORT.
+page 21	Vatican As Sanctuary For Allied Envoys.
+page 21	Italians Leave.
+page 21	Vatican As Sanctuary.
+page 21	Vault As Raid Shelter.
+page 21	2,000 NAZI TANKS GO INTO ACTION.
+page 21	Battle Rages Fiercely.
+page 21	Nazi Tanks In Trouble.
+page 21	CONSTABLE CHARGED.
+page 21	Alleged Preparation To Do Sedition.
+page 21	Followed From Wharf.
+page 22	2,000 NAZI TANKS.
+page 22	Rethel Sector Blazes Up.
+page 22	Anti-Tank Defences Score.
+page 22	2,000 Tanks Flung Into Fight.
+page 22	36 Nazi Planes Downed.
+page 22	Splendid Morale.
+page 22	French Communique.
+page 22	URGED TO GIVE COMPLETE AID.
+page 22	BOB GREGORY SEEKS DIVORCE.
+page 22	ITALIAN PRESS 'WARNS' AMERICA.
+page 22	II Duce's Vacillation.
+page 22	Further Delay Possible.
+page 22	Overtures Disregarded.
+page 22	Romance With Princess Baba At An End.
+page 22	"I'd Hate To See Their Faces".
+page 22	King Leopold Repudiated By His Aunt.
+page 22	Issues Communique.
+page 22	European Woman On Assault Charge.
+page 22	Argentina And Fifth Columnists.
+page 22	MOTORISTS FINED.
+page 22	120 Key Post Men Called Up This Morning.
+page 22	Story of Scouts' Swastika Badge.
+page 22	Why H.K. Scoutmaster Can't Wear His Any More.
+page 22	STERLING'S RECOVERY.
+page 22	Speculators Caught Short By Rise.
+page 22	THE WAR IN CHINA.
+page 22	MAJOR BATTLE IMMINENT.
+page 22	Law Technicality Saves Their Lives.
+page 22	Mr. Chamberlain And The Commons.
+page 22	Stole Bovril By A Trick.
+page 22	Two Men Convicted This Morning.
+page 22	Men Chased.
+page 22	GERMANS LOST 500,000 MEN.
+page 22	War Committee For India.
+page 22	ARGENTINE MEASURES.
+page 22	New Laws Guard Against Fifth Column.
+page 24	RAW MATERIALS FOR ALLIES.
+page 24	Dutch East Indies To Make Supplies.
+page 24	To Give Utmost Assistance
+page 24	Inspiring Broadcast To The French Nation.
+page 24	TO-DAY I CAN GIVE YOU REASONS FOR HOPE.
+page 24	Ring Of Steel Never Closed.
+page 24	Wan World's Admiration.
+page 24	Morale Holds Firm.
+page 24	The Allies Reply.
+page 24	Third Nazi Enterprise.
+page 24	The Decisive Battle.
+page 24	Dream Will Be Smashed.
+page 24	Realise Our Own Faults.
+page 24	Calm And Proud.
+page 24	Scotties In Action On Lower Somme Front.
+page 24	Live Up To Reputation.
+page 24	In Excellent Spirits.
+page 24	Gayda Wants U.S. To Stop Intervening.
+page 24	New C. - In. - Takes Over.
+page 24	Waygand' Near East Successor.
+page 24	Served In Last War.
+page 24	SAN DOMINGOS' DICTATOR ILL.
+page 24	Man Who Wanted To Become Emperor.
+page 24	AID SOUGHT FOR 5,000,000 WAR REFUGEES.
+page 24	Wounded Soldiers Visited By Queen.
+page 25	U.S. TIGHTENS ITS PACIFIC POLICY.
+page 25	No New Treaty.
+page 25	Aimed At Japan.
+page 25	Firm Attitude To N.E.I.
+page 25	Building More Planes Than We Are Losing.
+page 25	Paris Takes Drastic Precautions.
+page 25	Parachutists Will Have Bad Time
+page 25	Public Re-Assured.
+page 25	Plentiful Money For Munitions.
+page 25	Australia To Build More Airplanes.
+page 25	Unceasing Efforts For Allied Cause.
+page 25	To Buy Flying-Boats.
+page 25	Allies Want Great War Army Stocks.
+page 25	REPLACING LOST WAR MATERIALS.
+page 25	A Look Through The "Telegraph".
+page 25	50 YEARS AGO.
+page 25	25 YEARS AGO.
+page 25	10 YEARS AGO.
+page 25	5 YEARS AGO.
+page 25	How To Deal With Parachutists.
+page 25	Nazi Reports Debunked.
+page 25	Caustic Comment By Swedish Paper.
+page 25	Allies' Bulls-Eyes.
+page 25	FALSE REPORT.
+page 25	War Damage Scheme.
+page 25	Government Plan To Replace Furniture.
+page 25	Send Aid To Allies, Wire U.S. Envoys.
+page 25	Duke Of Windsor Resigns Post.
+page 25	UNCONQUERABLE NATION.
+page 27	Tenant Seeks Protection Of Ordinance.
+page 27	Contests Landlord's Notice To Quit.
+page 27	Onus On Defendant.
+page 27	At Least A Sub-Tenant.
+page 27	BISHOP'S WIFE VICTIMISED.
+page 27	PAULA MUST GO TO MANILA.
+page 27	Anglo-Rumanian Talks Close.
+page 27	YESTRDAY'S KOWLOON WEDDING.
+page 27	Allied Warplanes Stage Their "Blitzkrieg".
+page 27	SWEEPING R.A.F. RAIDS ON GERMAN LINES.
+page 27	CONTINUOUS ACTION.
+page 27	Right On The Mark.
+page 27	Machine-Gunned Targets.
+page 27	American Seaman Collapses On Ferry.
+page 27	Plan To Seize S'hai Settlement.
+page 27	Extraordinary Story In Chungking.
+page 27	The alleged Plan.
+page 27	To Cut Offd Power Water.
+page 27	Cold-Blooded Slaughter.
+page 27	Nazis Machine-Gun Ship's Survivors.
+page 27	Tried To Ram U-Boat.
+page 27	Only Few Escape.
+page 27	TIENTSIN SILVER ISSUE SETTLED.
+page 27	New Facts About Great Evacuation.
+page 27	Naval Shipa Make 540 Round Trips.
+page 27	5% Hit By Bombs.
+page 27	Nazi Reputation Damaged.
+page 27	BELGIAN GOVT. RECOGNISED.
+page 27	BERMUDA'S WAR DONATION.
+page 27	Hitler "Already At War With U.S."
+page 29	"SMOOTH" TYRES NOT.
+page 29	DANGEROUS, SAY EXPERTS.
+page 29	Admiralty Claim Against Hotel Company Continued To-day.
+page 29	Manager Evidence.
+page 29	Bus Co. Expert Testifies.
+page 29	BELGIAN FLEET JOINS ALLIES.
+page 29	Restricting Commodities.
+page 29	Government Control Of Many Articles.
+page 29	Export Goods Unaffected.
+page 30	Aided Wrong Man.
+page 30	Press Comment On New Offensive.
+page 30	PRESS APPLAUDS NEW MEASURES.
+page 30	FATHER AND MOTHER DEAD.
+page 30	Boy and Sister Escape.
+page 30	Climbed From Window.
+page 30	MYSTERY NAZI BALLOON.

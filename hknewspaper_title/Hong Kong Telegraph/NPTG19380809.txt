@@ -1,0 +1,180 @@
+page 1	JAPANESE ADMIT SERIOUS CASUALTIES.
+page 1	BUT CLAIM RUSSIANS' LOSS HIGHER.
+page 1	Soviet Aircraft Again Reported Over Korea.
+page 1	POLITICAL TENSION IN BENGAL.
+page 1	Opposition Votes Non-Confidence.
+page 1	Appeals For Elimination Of Violence.
+page 1	Proof Of Unfitness To Govern.
+page 1	Raiders Return to Destruction in Canton.
+page 1	LEAFLETS WARNED OF TEN-DAY BOMBING IN STORE FOR CITY.
+page 1	Eight Machines Seek Targets In Early Morning Attack.
+page 1	Destruction Commences.
+page 1	"Sanctuary" Struck.
+page 1	EUROPEAN FOUND HANGED.
+page 1	Dionne Babies In Bed With Sore Throats.
+page 1	INDIGNANT PROTEST LODGED.
+page 1	Foreigners Attack Shanhai Council's Alleged Breach.
+page 1	Suspects Handed To Japanese.
+page 1	SHANGHAI MOBILISING TO COMBAT THREAT FROM TERROR GANGS.
+page 1	OARSMAN POLITICIAN PASSES ON.
+page 1	Capt R.C. Bourne Won High Appointment.
+page 1	BRITISH EXPERTS READY TO EXAMINE BOMBING EVIDENCE.
+page 1	ITALIAN AIRMEN'S ACTIVITY DISCLOSED.
+page 1	Play Big Part In Franco's Attacks.
+page 1	Disastrous Fires Sweep Two Cities.
+page 1	Poor Quarters In Manila And San Pablo Ablaze.
+page 1	UNEMPLOYMENT DOWN. 
+page 3	PHANTOM DRIVER "GHOST OF LAWRENCE OF ARABIA."
+page 3	New Mystery Of Secret Papers.
+page 3	Methodist Conference Surprise.
+page 3	M.P.S. INTIMIDATED.
+page 3	NERO GENTLEMANI.
+page 3	New Light Thrown On Dread Disease.
+page 3	LIPS SEALED.
+page 3	"AS IF EMPTY."
+page 3	LIKE A FLASH.
+page 3	Rector Attacks Dance "Orgies."
+page 3	"TOO UPSET."
+page 3	DANCE POSTPONED.
+page 3	No More Devil's Island.
+page 3	PRESTIGE DAMAGED.
+page 3	Victory For Loyalists Is Predicted.
+page 3	Monk of 23 Becomes Heir To Title.
+page 3	PARTY CELEBRATS.
+page 3	Asia And U.S. May Have Been Linked Together.
+page 3	IMMINENT ECONOMIC CRISIS FORECAST BY LEAGUE EXPERTS.
+page 3	DISLOCATED HEART: FIRST CASE.
+page 4	RADIO BROADCAST.
+page 4	"SEEKING WAR AT ANY COST."
+page 4	NOT MEDIATING.
+page 5	HEAVY TOLL IN CANTON RAIDS.
+page 5	MANY CASUALTIES.
+page 5	GRUESOME SIGHTS.
+page 5	CATHDRAL DAMAGED.
+page 5	HUMOUR IN THE CLASSROOM.
+page 5	Fish Ducks Dog.
+page 5	BLUNT ANSWER.
+page 9	EMPIRE NEWS.
+page 9	MR. LYONS'S PLEA TO UNIONS.
+page 9	INDIA.
+page 9	CAWNPORE STRIKERS AT WORK AGAIN.
+page 9	MOTOR RACING.
+page 9	German Driver Captures Ciano Trophy.
+page 9	OUR GUIDE TO THE CINEMAS.
+page 9	Courageous Yorkshire Declaration.
+page 9	CYCLING RECORDS.
+page 9	R.H. McDowell Prepares To Try Long Distance.
+page 9	COUNTY CRICKET.
+page 11	BABIES ARE NEWS THIS WEEK.
+page 12	CENTRAL BANK NOTE DISCOUNT.
+page 12	PUDLIC IGNORES ORDER.
+page 12	CHINESE SCORE SUCCESSES.
+page 12	SUDETEN KILLED.
+page 12	RAIDERS RETURN TO DESTRUCTION IN CANTON.
+page 12	28 Machines Involved.
+page 12	Scenes Of Horror.
+page 12	SOVIET AID ARRIVES.
+page 12	Four Hundred Pilots In Hankow.
+page 12	Bombers Back Again.
+page 13	CANTON WARNED OF TERROR TO COME.
+page 13	BOMBS FALL IN CROWDED LOCALITIES.
+page 13	17 Planes Release Missiles While Above Shameen.
+page 13	DESTRUCTION COMMENCES.
+page 13	"Sanctuary" Struck.
+page 13	Big Airport For Tokyo.
+page 13	12,000,000 Yen Project Announced.
+page 13	Over Hundred Die in Early Canton Raids.
+page 13	TERRIBLE CANTON CARNAGE.
+page 13	Non-Military Areas Again Bombed.
+page 13	Eye-Witness Description.
+page 13	European Found Hanged In Y.M.C.A. Room.
+page 13	REVENCE OFFICER IN POOR HEALTH FOR MANY MONTHS.
+page 13	Mr. T.A. Ellis Last Seen Alive in Early Morning.
+page 13	CHINESE POSITION STRONG.
+page 13	RESTRICTED WATER SUPPLIES PROBABLE.
+page 13	Only Exceptional Rainfall Can Save Situation.
+page 13	NO PROSPECT OF HEAVY RAINFALL.
+page 13	STATION-MASTER SHOWS COURAGE.
+page 13	JAPANESE FAGING SERIOUS DEFEAT IN YANGTSE AREA.
+page 13	JAPANESE DRIVEN BACK 3 KILOMETRES.
+page 13	Chinese Score Successes.
+page 13	STRONG DEMAND FOR H.K. PROPERTY.
+page 13	Shanghai Companies Want Sites.
+page 13	Soviet Bombs Practically Destroy Kojo.
+page 13	PROVINCES REMAIN CHINESE.
+page 13	Japanese Unable To Control Them.
+page 13	COMMANDS IN SUIYUAN.
+page 15	Japanese Admit Serious Border Casulties.
+page 15	BUT CLAIM RUSSIANS' LOSS HIGHER.
+page 15	Soviet Aircraft Again Reported Over Korea.
+page 15	Dwellings Destroyed.
+page 15	W.A. To S.P.C. In Session.
+page 15	"SEEKING WAR AT ANY COST."
+page 15	Moscow Newspaper Accuses Japan's Militarists.
+page 15	But Provides Formula For Ending Crisis.
+page 15	NOT MEDIATING.
+page 15	BLUNT ANSWER.
+page 15	SHANGHAI MOBILISING TO COMBAT THREAT FROM TERROR GANGS.
+page 15	Dionne Babies In Bed With Sore Throats.
+page 15	AT A LOSS.
+page 15	Tension In Outakirts.
+page 16	RADIO BROADCAST.
+page 17	JAPANESE FACING SERIOUS DEFEAT IN YANGTSE AREA.
+page 17	Chinese Advancing On Wukong.
+page 17	WOMAN GASHES THROAT.
+page 17	CANTON WARNED OF TERROR TO COME.
+page 17	28 Machines Involed.
+page 17	Scenes Of Horror.
+page 17	Bombers Back Again.
+page 17	Third Raid Of Day.
+page 17	EUROPEAN FOUND HANGED IN Y.M.C.A. ROOM.
+page 17	COINCIDENCE.
+page 17	TERRIBLE CANTON CARNAGE.
+page 17	COUNTED 70 DEAD.
+page 17	PROVINCES REMAIN CHINESE.
+page 17	PEOPLE READY TO FIGHT.
+page 17	HUMOUR IN THE CLASSROOM.
+page 19	ITALIAN AIRMEN'S ACTIVITY DISCLOSED.
+page 19	Play Big Part In Franco's Attacks.
+page 19	CENTRAL BANK NOTE DISCOUNT.
+page 19	PUBLIC IGNORES ORDER.
+page 19	CHICKENS WHICH DIED NATURAL DEATHS UNFIT FOR EATING.
+page 19	OPIUM SMUGGLERS DISCOVERED.
+page 19	18 STROKES OF CANE REQUIRED.
+page 19	Europeans' Servants Convicted.
+page 19	Stole Property Of Employers.
+page 19	COMMISSIONER OF POLICE IS WITNESS.
+page 19	MAGNATE'S WIFE DIES SUDDENLY.
+page 19	ROOSEVELT IN TRANSPORT.
+page 19	PRISONERS TO BE EXCHANGED.
+page 19	CAUGHT CARRYING RAW OPIUM.
+page 19	HEROIN PILLS IN COOK'S POSSESSION.
+page 19	CHINESE RAIDERS REPORT SUCCESS.
+page 19	Many Japanese Vessels Bombed.
+page 19	Appeals For Elimination Of Violence.
+page 19	Proof Of Unfitness To Govern.
+page 19	POLITICAL TENSION IN BENGAL.
+page 19	Opposition Votes Non-Confidence.
+page 19	SHIPS IN RADIO COMMUNICATION.
+page 19	FITTER ASPHYXIATED.
+page 19	FIRE AT FILLING STATION.
+page 19	FELL FROM BIOYCLE.
+page 19	Disastrous Fires Sweep Two Cities.
+page 19	Poor Quarters In Manila And San Pablo Ablaze.
+page 19	MAN DRAW SWORD IN CAFE.
+page 19	LOCKED IN ROOM.
+page 19	GUN FIRES 7 MILES IN THE AIR.
+page 19	UNEMPLOYMENT DOWN.
+page 21	COUNTY CRICKET.
+page 23	BABIES ARE NEWS THIS WEEK.
+page 24	SOVIET AID ARRIVES.
+page 24	Four Hundred Pilots In Hankow.
+page 24	BRITISH EXPERTS READY TO EXAMINE BOMBING EVIDENCE.
+page 24	Evacuation Of Hankow Ordered.
+page 24	8 New Cases Of Cholera.
+page 24	RUSSIANS AGAIN ATTACK.
+page 24	INDIGNANT PROTEST LODGED.
+page 24	Foreigners Attack Shanghai Council's Alleged Breach.
+page 24	Suspects Handed To Japanese.
+page 24	OARSMAN POLITICIAN PASSES ON.
+page 24	Capt R.C. Bourne Won High Appointment.

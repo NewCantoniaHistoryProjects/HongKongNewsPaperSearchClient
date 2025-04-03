@@ -1,0 +1,292 @@
+page 1	JAPANESE NOW ADMIT CHINESE OFFENSIVE.
+page 1	Heavy Concentrations Of Troops in Kwangtung.
+page 1	CHENGTU RAIDED.
+page 1	Japan Won' Tolerate River Traffic.
+page 1	GUNS ROAR SALUTE FOR RUMANIAN ROYALTY.
+page 1	King And Crown Prince Arrive At Dover.
+page 1	Scientists Leaving For Germany.
+page 1	TRADE PACTS TO BE SIGNED TO-MORROW.
+page 1	Japanese In Full Retreat.
+page 1	Heavy Reinforcements Rushed Up.
+page 1	SIAM WELCOMES ITS KING.
+page 1	World Prepares For Influx Of Unhappy Exiles.
+page 1	AMSTERDAM INFLUX.
+page 1	INTER-GOVERNMENT ASSISTANCE.
+page 1	U.S. AMBASSADOR'S RECALL.
+page 1	Mystery Cargo Of Arms for H.K.
+page 1	MET IN EMBASSIES.
+page 1	MOROCCANS SMASH THROUGH LOYALISTS.
+page 1	Insurgents Claim Successful Drive.
+page 2	Mrs. Milton Gets Ten Guineas For Saving The 7.10.
+page 2	MAY BUY SAUSAGES WITH IT.
+page 2	GREAT ADVENTURE.
+page 2	'MY AMBITION.
+page 2	BRADFORD BREEKS.
+page 3	HERE'S A NEW 'FLU CURE --- LIVE ON BARGE.
+page 3	Motor Show Orders Big.
+page 3	Factories to Work To Capacity.
+page 3	Wires Crossed In Court.
+page 3	An Air Raid Warning Hoax.
+page 3	CODE SECRET KEPT IN COURT.
+page 3	"I JUST SENT IT".
+page 3	HE STOLE TO SAVE HIS HONOUR.
+page 4	JAPANESE NAVY.
+page 4	Personnel Changes Announced.
+page 5	Air Mail Subsidy Agreement.
+page 5	Terms Of Extension From Hongkong.
+page 6	Linked by "Isolation".
+page 8	Lord Hawke Captained Cricket Tours All Over World.
+page 8	SCHOOL CAREER.
+page 8	ON MANY TOURS.
+page 8	Jean Borotra Given Rare Honour.
+page 8	Lord Hawke.
+page 8	CRICKET TOURISTS WIN EASILY.
+page 8	Western Province Defeated By Eight Wickets.
+page 8	Tony Galento Knocks Out Harry Thomas.
+page 8	Shelaeff Knocks Out His Opponent.
+page 8	Wild Attack Sends U.S. Boy Down for Count In Trird Round.
+page 8	SOME UPSETS CAUSED IN GOLF FOURSOMES AT WORPLESDON.
+page 8	Amorys Lose To youngest Partnership: Holders Out.
+page 8	MIRACULOUS RECOVERY.
+page 8	HALVED HOLE IN S.
+page 8	AVALANCHE OF J's AND 4's.
+page 9	Lord Hawke Captained Many Tours.
+page 9	BUILDING YORKSHIRE SIDE.
+page 9	PRESIDENT OF M.C.C.
+page 9	UPSETS CAUSED IN WORPLESDON EVENT.
+page 11	H.K. VOLUNTEERS AT FANLING CAMP.
+page 12	COST TO JAPAN.
+page 12	Budget For 1939 Yen 8,000,000,000.
+page 12	Still Coping With The Emergency.
+page 12	MOBILIZATION PLAY.
+page 12	Reorganisation Proposed By Prince Konoye.
+page 12	U.S. Attorney General Steps Out Of Office
+page 13	CHANGSHA DISAPPEARS FROM MAP IN FLAME AND EXPLOSION.
+page 13	All Foreign Property In City Reduced To Ashes.
+page 13	Jews Tunnel To Escape.
+page 13	BRIAIN'S AMBASSADOR GOES TO CHUNGKING.
+page 13	Material Assistance For China?
+page 13	HUNGARIAN CABINET RESIGNATTION HANDED IN.
+page 13	H.K. MAIL DELAYED: DELPHINUS CRIPPLED.
+page 13	Plane Returns To Siam With Engine Trouble.
+page 13	AMERICAN GIRLS IN LAST GAME.
+page 13	Mystery Cargo Of Arms for H.K.
+page 13	MET IN EMBASSIES.
+page 13	Death Sentence Commuted By The Governor.
+page 13	"ELEVENTH MOON".
+page 13	ALLEGED ATROCITY IN AMERICAN MISSION.
+page 13	Acid Thrown In Doctors' Face.
+page 13	Taierchwang Recaptured By Chinese.
+page 14	Mrs. Milton Gets Ten Guineas For Saving The 7.10.
+page 14	MAY BUY SAUSAGES WITH IT.
+page 14	GREAT ADVENTRURE.
+page 14	'MY AMBITION'.
+page 14	BRADFORD BREEKS.
+page 14	'Girls Like Clowns'.
+page 15	HERE'S A NEW' FLU CURE --- LIVE ON BARGE.
+page 15	'NO ILLNESSES'.
+page 15	Motor Show Orders Big.
+page 15	Factories To Work To Capacity.
+page 15	Wires Crossed In Court.
+page 15	An Air Raid Warning Hoax.
+page 15	CODE SECRET KEP IN COURT.
+page 15	HE STOLE TO SAVE HIS HONOUR.
+page 16	JAPANESE NAVY.
+page 16	Personnel Changes Announced.
+page 16	World Prepares For Influx Of Unhappy Exiles.
+page 16	AMSTERDAM INFLUX.
+page 16	INTER-GOVERNMENT ASSISTANCE.
+page 16	U.S. AMBASSADOR'S RECALL.
+page 16	CHAMBERLAIN EMBARRASSED.
+page 17	MOROCCANS SMASH THROUGH LOYALISTS.
+page 17	Insurgents Claim Successful Drive.
+page 17	BIG VICTORY CLAIM.
+page 17	LEADER AND HIS WIFE.
+page 17	U.S. Attorney General Steps Out Of Office.
+page 17	RADIO BROADCAST.
+page 18	Linked by "Isolation".
+page 19	JAPANESE HOW ADMI CHINESE OFFENSIVE.
+page 19	Heavy Concentrations Of Troops in Kwangtrung.
+page 19	CHENGTU RAIDED.
+page 19	Japan Won't Tolerate River Traffic.
+page 19	GUNS ROAR SALUTE FOR RUMANIAN ROYALTY.
+page 19	King And Crown Prince Arrive At Dover.
+page 19	Scientists Leaving For Germany.
+page 19	SLAM WELCOMES ITS KING.
+page 19	Japanese In Full Retreat. Heavy Reinforcements Rushed Up.
+page 19	TRADE PACTS TO BE SIGNED TO-MORROW.
+page 20	Lord Hawke Captained Cricket Tours All Over World.
+page 20	And Played More Than 25 Years For Youkshire.
+page 20	SCHOOL CAREER.
+page 20	ON MANY TOURS.
+page 20	Jean Borotra Given Rare Honour.
+page 20	CRICKET TOURISTS WIN EASILY.
+page 20	Western Province Defeated By Eight Wickets.
+page 20	Tony Galento Overwhelms Harry Thomas.
+page 20	Shelaeff Knocks Out His Opponent.
+page 20	Wild Attack Sends U.S. Bay Down for Count In Third Round.
+page 20	SOME UPSETS CAUSED IN GOLF FOURSOMES AT WORPLESDON.
+page 20	Amorys Lose to youngest Partnership: Holders Out.
+page 21	Lord Hawke Captained Many Tours.
+page 21	UPSETS CAUSED IN WORPLESDON EVENT.
+page 23	NEWS OF THE DAY IN PICTURES FROM FAR AND NEAR.
+page 23	H.K. VOLUNTEERS AT FANLING CAMP.
+page 24	COST TO JAPAN.
+page 24	Budget For 1939 Yen 8,000,000,000.
+page 24	MOBILIZATION PLAN.
+page 24	Reorganlsation Proposed By Prince Konoye.
+page 24	ANNUAL MEETING.
+page 24	New Constitution of The Cathedral Fellowship.
+page 24	CHRISTMAS PARTY.
+page 24	Health and Beauty League Plan Function.
+page 24	STOCK MARKET RALLIES.
+page 24	AMRASSADOR TO BRITAIN.
+page 24	Rubber Market Buoyant.
+page 25	GERMAN EVENTS SHOCK PUBLIC OPINION: U.S. LEADS WORLD OUTCRY.
+page 25	American Ambassador In London Consults Govt.
+page 25	"TWILIGHT" OF JUDAISM.
+page 25	GAMPAIGN AGAINST GREAT BRITAIN.
+page 25	BRITAIN CRITICISED.
+page 25	Anglo-Italian Treaty Welcomed In Rome.
+page 25	Vatican's Move In Rome.
+page 25	HONGKONG PRAYERS FOR JEWS.
+page 25	More Refugees Arrive From Germany.
+page 25	Moroccan Troops Smash Loyalist Lines.
+page 25	Mission Flies Insurgent Colours.
+page 25	JAPANESE ROUND-UP FOREIGN RESSIDENTS.
+page 25	Violation Of Currency Laws Alleged.
+page 25	GERMAN RESIDENT IS FINED.
+page 25	BIG VICTORY CLAIM.
+page 25	CHAOTIC ACTTVITY.
+page 25	DISCUSSED IN LORD.
+page 25	HANKW RETREAT WAS ORDERLY.
+page 25	Japanese Reports Denied.
+page 25	GERMAN FIRM IN COURT.
+page 25	Armies Nearing Hunan Capital.
+page 25	JAPANESE WARSHIP DUE IN H.K..
+page 25	DELPHINUS RUNNING LATE.
+page 26	STORY OF MYSTERY SHIPMENT OF ARMAMENTS FOR H.K..
+page 26	3 Men On Trial At Bow Street.
+page 26	Guns Roar Salute For King of Rumania.
+page 27	LABOUR AND TORIES ATTACK GOVT. AGRICULTURE POLICY.
+page 27	NATIONALISATION OF INDUSTRY IS URGED.
+page 27	LEADER AND HIS WIFE.
+page 27	France Not Discussing Colonies.
+page 27	BELGIAN ATTITUDE TO SPAIN.
+page 27	Proposed Appointment Of Agent To Burgos.
+page 27	ARAB STRIKE PERSISTS.
+page 27	Natives Killed And British Soldiers Wounded In Affrays.
+page 28	"TWILIGHT" OF JUDAISM.
+page 28	HONGKONG PRAYERS FOR JEWS.
+page 28	JEWS SEEK FUNDS.
+page 28	GERMAN EVENTS SHOCK PUBIC.
+page 28	OPINION: U.S. LEADS WORLD OUTCRY.
+page 28	NO INCREASE IN SUICIDES.
+page 28	World Prepares For Influx Of Unhappy Exiles.
+page 28	Is A Fine A Conviction?.
+page 28	Interesting Appeal Before Acting Chief Justice.
+page 28	COUNSEL'S CONTENTION.
+page 28	APPELLANT'S CASE.
+page 28	AMSTERDAM INFLUX.
+page 28	JNTER-GOVERNMENT ASSISTANCE.
+page 28	U.S. AMBASSADON'S RECALL.
+page 28	CHAMBERLAIN EMBARRASSED.
+page 28	Took Wrong Turn.
+page 28	JAPANESE THROW ACID AT AMERICAN DOCTOR.
+page 28	WUCHANG INCIDENT PROVOKES CONSULATE PROTEST.
+page 28	ACM THROWN IN DOETORS'.
+page 28	TAPE IS ALLEGED.
+page 28	Bullet Explodes On Track.
+page 28	ARMIES NEARING HUNAN CAPITAL.
+page 28	COUNTER-ATTTACK NEAR KWEICHIH.
+page 29	Extensive Japanese Bombing.
+page 29	Much Damage And Many Deaths In Raids.
+page 29	NINGHSIA, KANSU AND SHENSI ARE LATEST TO SUFFER.
+page 29	An Air Raid Warning Hoax.
+page 29	CODE SECRET KEPT IN COURT.
+page 29	RUSSIAN PILOTS IN CHINA.
+page 29	Reported To Be Playing Passive Roles.
+page 29	U.S. All-Time Record Defence Appropriations.
+page 29	Are Indicated.
+page 29	Chancellor On Necessity Of Re-Armament.
+page 29	REFUGEE SQUATTERS.
+page 29	To Go Eventually Into Special Camp.
+page 29	Mechanic Flies Bomber Secretly At Night, Then Crashes.
+page 29	HE STOLE TO SAVE HIS HONOUR.
+page 29	WOMEN'S CLUB.
+page 29	Production Account Of Chinese Drama.
+page 29	Wires Crossed In Court.
+page 29	AMERICA HAS 18th BIGEST ARMY IN WORLD.
+page 29	Roosevelt Outlines New Plans For Defence.
+page 29	WHOLE CONCEPTION OF DEFENCE CHANGED.
+page 29	Father of Local Lady Dies in Shanghai.
+page 29	Japanese Investigate Property Damage.
+page 29	HERE'S A NEW 'FLU CURE-LIVE ON BARGE.
+page 30	THE MAN WHO.
+page 30	Freed 8,000,000 Women.
+page 31	JAPANESE NOW ADMIT CHINESE OFFENSIVE.
+page 31	Japan Won't Tolerate River Traffic.
+page 31	U.S. Attorney General Steps Out Of Office.
+page 31	Heavy Concentrations Of Troops in Kwangtung.
+page 31	CHENGTU RAIDED.
+page 31	Japanese In Full Retreat.
+page 31	Heavy Reinforcements Rushed Up.
+page 31	SIAM WELCOMES ITS KING.
+page 32	Lord Hawke Captained Cricket Tours All Over World.
+page 32	And Played More Than 25 Years For Yorkshire.
+page 32	Jean Borotra Given Rare Honour.
+page 32	A Delight To Sailor's Eye.
+page 32	CRICKET TOURISTS WIN EASILY.
+page 32	Western Province Defeated By Eight Wickets.
+page 32	Tony Galento Overwhelms Harry Thomas.
+page 32	TO-NIGHT'S BADMINTON PROGRAMME.
+page 32	Softball League For Ladies.
+page 32	FULL LIST OF ENTRIES.
+page 32	Shelaeff Knocks Out His Opponent.
+page 32	Wild Attack Sends U.S. Boy Down for Count In Third Round.
+page 32	SOME UPSETS CAUSED IN GOLF FOURSOMES AT WORPLESDON.
+page 32	Amorys Lose To Youngest Partnership : Holders Out.
+page 32	MIRACULOUS RECOVERY.
+page 32	HALVEDD HOLE IN.
+page 32	AVALANCHE OF 3' AND 4'.
+page 33	Lord Ilawke Captained Many Tours.
+page 33	BULDING YORKSHIRE SIDE.
+page 33	PRESIDENT OF M.C.C..
+page 33	UPSETS CAUSED IN WORPLESDON EVENT.
+page 33	SPORT ADVTS.
+page 33	THE HONG KONG JOCKEY CLUB. 
+page 34	Jews Tunnel To Escape.
+page 34	BRITAIN'S AMBASSADOR GOES TO CHUMGKING.
+page 34	Material Assistance For China?.
+page 34	HUNGARIAN CABINET RESIGNATION HANDED IN.
+page 34	CHANGSHA DISAPPEARS FROM MAP IN FLAME AND EXPLOSION.
+page 34	All Foreign Property In City Reduced To Ashes.
+page 34	AMERICAN GIRLS IN LAST GAME.
+page 34	Chinese Capture Taierchwang.
+page 34	GERMAN TRANSPORT MINISTER IN LONDON.
+page 34	Stock Market Uncertain.
+page 34	FRENCH COMMERCE ENVOYS TO BALKANS.
+page 34	H.K. MAIL DELAYED: DELPHINUS CRIPPLED.
+page 34	Plane Returns To Siam With Engine Trouble.
+page 34	THE MAN WHO FREED 8,000,000 WOMEN.
+page 35	JAPANESE DISCRIMINATION IN YANGTSE CONDEMNED BY SHANGHAI NEWSPAPERS.
+page 35	Nippon Merchantmen Accused Of Obtaining Monopoly.
+page 35	OUTSPOKEN COMMENT.
+page 35	AMERICAN PROTEST.
+page 35	SHIP'S EXPLOSION FINDINGS.
+page 35	Franc Is Starting To Recover.
+page 35	Cholera Not Yet Abated.
+page 35	Temperature Rising In HongKong.
+page 35	Health and Beauty League Plan Function.
+page 35	CZECH AND SLOVAK AGREEMENT.
+page 35	Autonomy Is To Bee Granted.
+page 35	PROVISIONAL AGREEMENT.
+page 35	Glands Made Young -Vigour Renewed Without Operation.
+page 35	Rev. A. P. Rose Welcomed To St. John's Cathedral.
+page 37	NEWS OF THE DAY IN PICTURES FROM FAR AND NEAR.
+page 37	H.K. VOLUNTEERS AT FANLING CAMP.
+page 38	Canada Is Pleased With Roosevelt's Roosevelt's Declaration.
+page 38	Charge of Murdering Son Not Proceeded With.
+page 38	Ammunition For Kuling Defenders.
+page 38	British Banks Adhere To Japan's Policy.
+page 38	Scientists Leaving For Germany.

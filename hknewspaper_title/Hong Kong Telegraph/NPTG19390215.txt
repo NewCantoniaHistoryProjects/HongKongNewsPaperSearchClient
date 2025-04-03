@@ -1,0 +1,362 @@
+page 1	POPE PIUS GOES TO LAST RESTING PLACE.
+page 1	Impressive Ritual At Funeral Of Late Pontiff.
+page 1	FRANCO OCCUPIES ENTIRE FRONTIER.
+page 1	ART TREASURES IN LEAGUE CUSTODY.
+page 1	100 DIE IN RAID.
+page 1	SWISS MINISTER TO BURGOS.
+page 1	French Visit To Britain.
+page 1	President Arrives On March 21.
+page 1	SAPIN AFTER 937 DAYS OF WAR.
+page 1	Death Of Former Army Chief.
+page 1	Japanese Boycott Soviet Auction.
+page 1	TOLLING OF BELLS.
+page 1	Fresh Clashes On Border.
+page 1	Russo-Japanese Tension Grows.
+page 1	Investiture At Buckingham Palace.
+page 1	NEW GARBOUR FOR U.S.
+page 1	BOW STREET POLICE STATION SCENES.
+page 1	RANGOON BOMBING OUTRAGE.
+page 1	"Sit-Down" Strike In Burmese School.
+page 1	Dutch Defences.
+page 1	Lords' Sympathy With China.
+page 1	Press Conference And Censorship.
+page 1	Cattle Fair Bombed.
+page 1	CONCESSIONS IN HANKOW AGAIN BLOCKADED.
+page 1	RED CROSS IN TROUBLE.
+page 1	U.S. Warned Of Invasion Danger.
+page 1	U.S. Goodwill Cruise To South Africa.
+page 1	Pirlot To Form Cabinet.
+page 1	ATTEMPTS TO CONTACT KULING.
+page 1	Naval Officers To Attempt Journey.
+page 1	Big Kowloon Robbery.
+page 1	CURFEW IN CAWNPORE.
+page 1	Prohibition Introduced in Bombay.
+page 2	NORMA SHEARER SAID '100,000 A YEAR OR I LEAVE'.
+page 2	Film Boss Borrows Money.
+page 2	COURT THREAT.
+page 2	WALKED INTO JOB.
+page 2	Archer Bags Rabbits.
+page 2	Mother Unaware "Millions Man" Is Gaoled.
+page 2	ALL GOLD IN WORLD COULD NOT PAY BILL.
+page 2	Hitler Is Told To Marry.
+page 2	Fall In London's Underground Water Supply.
+page 2	ANTI-SEMITE BILL IN SOUTH AFRICA.
+page 2	AIR FORCE OFFICERS FOR ENGLAND.
+page 2	ARBITRATION BOARD TO MEET.
+page 2	Painter To Wed Cabaret Star.
+page 3	REFUGEE BROTHERS KEEP THEIR PROMISE TO MOTHER.
+page 3	Pledged to Guard "Kid" Sister.
+page 3	PROBLEM SOLVED.
+page 3	MORE ARRIVALS.
+page 3	Radio Set In Cane.
+page 3	"Marvel Boy" Embarrasses A Society.
+page 3	MATTER OF PRESTIGE.
+page 3	Fate Trips Up Driver.
+page 3	Married Secretly To "Avoid Fuss".
+page 3	Faulty Flex Killed Dancer In Bath.
+page 3	Nazi Warning On Africa.
+page 3	Jewish Plot For Colonies.
+page 3	Give Up Shirt Tails.
+page 4	Missouri Surplus.
+page 4	ST. JOHN'S CATHEDRAL.
+page 4	Importance Of Sunday School Teaching Stressed By Dean.
+page 7	The Overnight News Page: Local and Overseas.
+page 7	GREATEST EVIL OF WAR.
+page 7	Prof. Lauten-Schlager's Address To Peace Pledge Union.
+page 7	CHRISTIANS & PACIFISM.
+page 7	ENORMOUS WARSHIP LAUNCHED.
+page 7	Hitler's Speech At Hamburg.
+page 7	LOCAL ESTATES.
+page 7	Japan's Budget Estimated At 10,000,000.000 Yen.
+page 9	CAMBRIDGE OARSMEN WILL BE HAVING A BIG CREW THIS YEAR.
+page 9	Order Of Rowing Has Been Practically Determined.
+page 12	IL DUCE TO DISCLOSE DESIRES.
+page 12	HONGKONG FARMS.
+page 12	Major Reed's Attempts In New Territories.
+page 12	U.S. Navy Prepares For Mock Battle.
+page 12	School In California.
+page 13	POPE PIUS GOES TO LAST RESTING PLACE.
+page 13	Impressive Ritual At Funeral Of Late Pontiff.
+page 13	TOLLING OF BELLS.
+page 13	France Orders More Planes.
+page 13	Newspapers Win Against Tyranny.
+page 13	ARSON IN ACRA.
+page 13	FRANCO OCCUPIES ENTIRE FRONTIER.
+page 13	ART TREASURES IN LEAGUE CUSTODY.
+page 13	100 DIE IN RAID.
+page 13	SWISS MINISTER TO BURGOS.
+page 13	HOUSE TO DEBATE RECOGNITION.
+page 13	200,000 SEEK SANCTUARY.
+page 13	BARCELONA TRIALS.
+page 13	Big Kowloon Robbery.
+page 13	AMERICAN DETAINED IN CANTON.
+page 13	Beaten By Brutal Japanese Guards.
+page 13	MASSACRE IN S'HAI.
+page 13	Three People Killed By Gangsters.
+page 13	Pirlot To Form Cabinet.
+page 13	Dutch Defences.
+page 13	BOW STREET POLICE STATION SCENES.
+page 13	Fresh Clashes On Border.
+page 13	Russo-Japanese Tension Grows.
+page 13	U.S. Warned Of Invasion Danger.
+page 13	Cattle Fair Bombed.
+page 13	CHINESE CORDON CLOSING IN ON JAPANESE H.Q.
+page 13	ATTEMPTS TO CONTACT KULING.
+page 13	Naval officers To Attempt Journey.
+page 13	CURFEW IN CAWNPORE.
+page 13	Prohibition Introduced in Bombay.
+page 13	NO MORE DRINKS IN BOMBAY.
+page 14	NORMA SHEARER SAID '100,000PUONDS A YEAR OR I LEAVE.'
+page 14	Film Boss Borrows Money.
+page 14	COURT THEREAT.
+page 14	WALKED INTO JOB.
+page 14	Archer Bags Rabbits.
+page 14	Mother Unaware "Millions Man" Is Gaoled.
+page 14	READS TO HER.
+page 14	ALL GOLD IN WORLD COULD NOT PAY BILL.
+page 14	Hitler Is Told To Marry.
+page 14	Fall In London's Underground Water Supply.
+page 14	EMPIRE NEWS.
+page 14	ANTI-SEMITE BILL IN SOUTH AFRICA.
+page 14	AIR FORCE OFFICE RS FOR ENGLAND.
+page 14	ARBITRATION BOARD TO MEET.
+page 14	Painter To Wed Cabaret Star.
+page 15	REFUGEE BROTHERS KEEP THEIR PROMISE TO MOTHER.
+page 15	Pledged to Guard "Kid " Sister.
+page 15	PROBLEM SOLVED.
+page 15	MORE ARRIVALS.
+page 15	Radio Set In Cane.
+page 15	"Marvel Boy" Embarrasses A Society.
+page 15	MATTER OF PRESTIGE.
+page 15	Fate Trips up Driver.
+page 15	Married Secretly To "Avoid Fuss."
+page 15	Faulty Flex Killed Dancer In Bath.
+page 15	Nazi Warning On Africa.
+page 15	Jewish Plot For Colonies.
+page 15	"PITY AND HATE."
+page 15	Gave Up 10,000POUND A Year For Wife.
+page 15	"Glass Of Grass-Juice."
+page 15	Give Up Shirt Tails.
+page 16	CONSIGNEES' NOTICE.
+page 16	Missouri Surplus.
+page 16	POWER OF ATTORNEY.
+page 16	HUMPHREYS ESTATE & FINANCE COMPANY, LIMITED.
+page 16	THE "STAR" FERRY COMPANY, LIMITED.
+page 16	Notice to Shareholders.
+page 16	HONGKONG HORTICULTURAL SOCIETY.
+page 16	FOR THE PROTECTION OF CHILDREN.
+page 16	What to do to help a child.
+page 16	COUNT THE "TELEGRARHS" EVERYWHERE.
+page 16	Japanese Boycott Soviet Auction.
+page 16	CHINESE CORDON CLOSING IN ON JAPANESE H.Q.
+page 16	FIGHTING RAGING IN HOPEI.
+page 16	Two Ostrich Eggs Said The Major.
+page 16	"AN INTRODUCTION."
+page 16	Lords' Sympathy With China.
+page 16	Investiture At Buckingham Palace.
+page 16	U.S. Goodwill Cruise To South Africa.
+page 17	STOLEN PROPERTY.
+page 17	Five Chinese On Trial For Possession.
+page 17	Victims Bound.
+page 17	It Registers How Butter Spreads.
+page 17	JUNK PIRATED.
+page 17	Armed Men Board From Sailing Boats.
+page 17	A Look Through The "Telegraph."
+page 17	50 YEARS AGO.
+page 17	25 YEARS AGO.
+page 17	10 YEARS AGO.
+page 17	5 YEARS AGO.
+page 17	FOUR WEDDINGS.
+page 17	"Students' Songs" & Other London Relays.
+page 17	BEETHOVEN SYMPHONY.
+page 17	CHURCH MEETING.
+page 17	Election of St Andrew's Officers for 1939.
+page 19	The Overnight News Page: Local and Overseas.
+page 19	GREATEST EVIL OF WAR.
+page 19	Prof. Lauten-Schlager's Address To Peace Pledge Union.
+page 19	CHRISTIANS & PACIFISM.
+page 19	Victims Of Aggression.
+page 19	Post War Pacifism.
+page 19	Fascist Nations.
+page 19	Easier to Fight.
+page 19	World Government Necessary.
+page 19	Christian Pacifists.
+page 19	Spelling Bee.
+page 19	Threat Of Great War.
+page 19	Conflicting Forces.
+page 19	Japan's Budget Estimated At 10,000,000,000 Yen.
+page 19	TOTALITARLAN PARTY.
+page 19	Model Spars Art Interest.
+page 21	C. BROWN WINS ST. ANDREW'S MARATHON.
+page 21	36 Competitors In Annual Event.
+page 21	FANLING RACING.
+page 21	Programme Arranged For March Meeting.
+page 21	SPORT ADVTS.
+page 21	THE NONG KONG JOCKEY CLUB.
+page 21	MEMBERS' BADGES AND ENCLOSURES.
+page 21	PUBLIC ENCLOSURE.
+page 21	SERVANTS' PASSES.
+page 21	SPORTS CLUB.
+page 21	REMINDER.
+page 21	CAMBRIDGE OARSMEN WILL BE HAVING A BIG CREW THIS YEAR .
+page 21	Order Of Rowing Has Been Practically Determined.
+page 21	MISSED HIS BLUE.
+page 21	Badminton.
+page 21	"Y" Ladies Just Beat St. Andrew's.
+page 21	OUR GUIDE TO THE CINEMAS.
+page 21	Imredy Resigns.
+page 24	RANGOON BOMBING OUTRAGE.
+page 24	"Sit-Down" Strike In Burmese School.
+page 24	HONGKONG FARMS.
+page 24	Major Reed's Attempts In New Territories.
+page 24	America.
+page 24	U.S. Navy Prepares For Mock Battle.
+page 24	School In California.
+page 24	CONCESSIONS IN HANKOW AGAIN BLOCKADED.
+page 24	RED CROSS IN TROUBLE.
+page 24	IL DUCE TO DISCLOSE DESIRES.
+page 24	French Visit To Britain.
+page 24	President Arrives On March 21.
+page 24	Press Conference And Censorship.
+page 25	BRITISH BUDGET TO REACH 1,000,000,000PUONDS.
+page 25	Highest Record Since War.
+page 25	BORROWING POWERS.
+page 25	180POUNDS DEBT PER CAPITA.
+page 25	Chinese Stage Air Raid.
+page 25	23 Japanese Planes Claim Destroyed.
+page 25	AIR MAIL DUE.
+page 25	IMPRESSIVE SCENES AT PONTIFF'S FUNERAL.
+page 25	A.R.P. In HongKong.
+page 25	VOLUNTEERS FOR NEW FIRE RESERVE.
+page 25	TRAINING FOR FIREMEN.
+page 25	Army Mobilised In Jamaica.
+page 25	JAPANESE AIR RAID MEASURES.
+page 25	New Buildings To Resist Fire.
+page 25	HE EATS PING-PONG BALLS.
+page 25	Colonies' Trade With Homeland.
+page 25	H.K. IS AT BOTTOM OF EMPIRE LIST.
+page 25	BRITAIN'S STATISTICS.
+page 25	COLONY'S TRADE FLOURISHES.
+page 25	S. China Loss But Exports Still Rise.
+page 25	NO DEPRESSION YET.
+page 25	Canton Threatened.
+page 25	CHINESE CORDON CLOSING IN ON JAPANESE H.Q.
+page 25	LUNGHWA BATTLE.
+page 25	POSITION INSECURE.
+page 25	CANTON DEFENCES.
+page 25	GUERILLA SUCCESSES.
+page 25	VICTORIES IN SOUTH HONAN.
+page 25	NAINAN CONQUEST.
+page 25	American Tells Of City's Fall.
+page 25	Heard Of Landing From Z.B.W.
+page 25	REFUGE IN CHURCH.
+page 25	CHINGESE THREATEN WUCHANG.
+page 25	PLANE NEAR DISASTER.
+page 25	Skilful Pilot Saves His Passengers.
+page 27	BRITISH GOVERNMENT TO REVEAL FAMOUS CORRESPONDENCE.
+page 27	MacMahon-Arab Notes Will Influence The Palestine Conference.
+page 27	GETTING TO GRIPS.
+page 27	Japanese To Start S'pore Paper.
+page 27	SYRIAN UNREST MOUNTS.
+page 27	STRENGTHENING PALESTINE.
+page 27	SYRIAN FRONTIER.
+page 27	Dutch Minister Visits Halifax.
+page 27	ENORMOUS JAPANESE LOSSES.
+page 27	Earl Beatty's Warning To Australia.
+page 27	Newsprint Test A Huge Success.
+page 27	CANTON'S HUMAN VULTURES.
+page 27	Bands Of Marauders Infest City.
+page 27	Japanese Grab Best Canton Sites
+page 28	CONSIGNEES' NOTICE.
+page 28	Missouri Surplus.
+page 28	HONGHONG CRICKET CLUB.
+page 28	POWER OF ATTORNEY.
+page 28	HUMPHREYS ESTATE & FINANCE COMPANY LIMITED.
+page 28	THE "STAR" FERRY COMPANY, LIMITED.
+page 28	HONGKONG HORTICULTURAL SOCIETY.
+page 28	FOR THE PROTECTION OF CHILDREN.
+page 28	POPE PIUS GOES TO LAST RESTING PLACE.
+page 28	Impressive Ritual At Funeral Of Late Pontiff.
+page 28	TOLLING OF BELLS.
+page 28	AMERICAN DETAINED IN CANTON.
+page 28	Beaten By Brutal Japanese Guards.
+page 29	Two Men Wanted One Girl: Friend Faces Jury On Stabbing Charge.
+page 29	DECIDED TO BE REASONABLE.
+page 29	ESCAPED TO MACAO.
+page 29	GIRL ALLEGES BEATING.
+page 29	BYSTANDER STRUCK.
+page 29	TRAFFIC IN GIRLS: SEQUEL IN COURT.
+page 29	Police Raid Nets Traffickers.
+page 29	Pills Were Free Of Heroin.
+page 29	ROPE CLUE.
+page 29	TO SHAMSUIPO BURGLARIES.
+page 29	Mystery Of Entry Is Cleared Up.
+page 29	Canton Trade Optimism.
+page 29	HOSPITAL SISTER LOSES WATCH.
+page 29	Radio Set owners In Court.
+page 29	Receiver Held Until Fine Paid.
+page 29	HIDDEN IN BUNK.
+page 29	NEAR CONTEMPT.
+page 29	Junk Robbery: Heavy Penalties.
+page 29	CAFES SOLD LIQUOR TO SERVICE MEN.
+page 29	A LOOK Through The "Telegraph."
+page 29	50 YEARS AGO.
+page 29	25 YEARS AGO.
+page 29	10 YEARS AGO.
+page 29	5 YEARS AGO.
+page 31	CHINA'S FINANCIAL HONESTY.
+page 31	Starts Repaying BigLoan.
+page 31	U.S. Sonator pays warm Tribute.
+page 31	Colder Weather Is Predicted.
+page 31	Stock Market Esier.
+page 31	DEATH OF VETERAN CHINESE PRESSMAN.
+page 31	Mr. Hin Wong Dies In Tung Wah Hospital This Morning.
+page 31	Sir H. Emerson To Fill Two Positinos.
+page 31	Bigger Irish Army Budget.
+page 31	Reporting Progress: by Rltehie Caider.
+page 31	It Registers how Butter Spreads.
+page 31	Russian Fascist Chief For ShangHai.
+page 31	Germany Reduces Workless.
+page 31	$100,000 For Anhwei Flood Refugees.
+page 31	Chinese Choir Recital For Refugees.
+page 33	C. BROWN WINS ST. ANDREW'S MARATHON.
+page 33	36 Competitors In Annual Event.
+page 33	France Orders More Planes.
+page 33	Cattle Fair Bombed.
+page 33	Pirlot To Form Cabinet.
+page 33	SPORT ADVTS.
+page 33	THE HONG KONG JOCKEY CLUB.
+page 33	MEMBKES BADGES AND ENCLOSUNES.
+page 33	PUBLIC ENCLOSURE.
+page 33	SERVANTS' PASSES.
+page 33	SPORTS CLUB.
+page 33	RENINDER.
+page 33	CAMBRIDGE OARSMEN WILL BE HAVING A BIG CREW THIS YEAR.
+page 33	Order Of Rowing Has Been Practically Determined.
+page 33	MISSED HIS BLUE.
+page 33	Badminton.
+page 33	"Y" Ladies Just Beat St. Andrew's.
+page 33	OUR GUIDE TO THE CINEMAS.
+page 33	Imredy Resigns.
+page 33	Newspapers Win Against Tyranny.
+page 33	Jews To Pay Up More Fines.
+page 33	U.S. Warned Of Invasion Danger.
+page 33	Big Kowloon Robbery.
+page 36	Hoihow Fall Eye-Witness Tells Story.
+page 36	MECHANISED UNITS LAND.
+page 36	YULIN FALLS.
+page 36	"SOME RESISTANCE."
+page 36	U.S. NAVY MAN IN HOIHOW.
+page 36	British Soldier Dead In Acre.
+page 36	ARSON IN ACRA.
+page 36	Rifle Shooting.
+page 36	High Scores Recorded At Stonecutters.
+page 36	MASSACRE IN S'HAI STREET.
+page 36	Three People Killed By Gangsters.
+page 36	NEW INCIDENT.
+page 36	Tub Used As Weapon.
+page 36	Chinese Claim Big Gains.
+page 36	FIGHTING RAGING IN HOPEI.
+page 36	JAPANESE WITHDRAWN.
+page 36	WITHDRAWING TO SAMSHUI.
+page 36	SERIOUS REVERSE.

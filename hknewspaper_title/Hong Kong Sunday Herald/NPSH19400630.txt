@@ -1,0 +1,131 @@
+page 1	NEWFOUNDLAND LUMBERJACKS HELP ALLIES.
+page 1	A large number of lumberjacks from Newfoundland have travelled thousands of miles to help the Allies in the war. They are now preparing camps in the New Forest, before begining work on fir plantations, which are to be feiled to provide timber for war-time purposes. 
+page 14	FRESHER.
+page 14	APT DESCRIPTION.
+page 14	EXTRAORDINARY.
+page 14	GOING INTO REVERSE.
+page 14	PROPOSAL.
+page 14	THE INKLING.
+page 14	FOUND OUT.
+page 14	COLD RECEPTION.
+page 14	NORTH POLE VACATION.
+page 14	SOLD!
+page 14	HONEST JOHN.
+page 14	INTIMATE SIGN.
+page 14	RABIT TROUBLE.
+page 14	LAST RESORT?
+page 14	DISCRETION.
+page 14	BREAKING IT GENTLY.
+page 14	GETTING ACQUAINTED.
+page 14	THE LONGEST WAY ROUND.
+page 14	THE BUSTLE.
+page 14	NEXT CONFINEMENT.
+page 14	NOT EXCUSED.
+page 14	SMART GIRL.
+page 14	SHE WAS ONLY.
+page 14	MIGHT HELP.
+page 14	HE LOST!
+page 14	DOWNRIGHT MEAN.
+page 14	CHANGED.
+page 14	ELEVATOR INCIDENT.
+page 17	'PURELY PRECAUTIONARY.'
+page 17	Hong Kong Measures To Evacuate British Women And Children.
+page 17	Anglo - Japanese Talks Still Proceeding.
+page 17	EVACUATING INDO - CHINA BY PLANE.
+page 17	REYNAUD CAR SMASH.
+page 17	MITTELHAUSER'S DECISION.
+page 17	Report From Tokyo.
+page 17	Other Nationals.
+page 17	GERMANS IN SHANGHAI TO REGISTER.
+page 17	MR. WILLKIE TO VISIT WHITE HOUSE.
+page 17	JAPAN'S MONROE DOCTRINE.
+page 17	Dorset Arrest Shock.
+page 17	MALTA'S 48 TH AIR RAID.
+page 17	AXIS MAY INTERVENE IN DANUBE.
+page 17	Japan's Inner Cabinet Holds Meeting.
+page 17	JAPANESE PRESS COMMENT.
+page 17	AIR DUEL OVER N.E. ENGLAND.
+page 17	SOVIET PORTS ON WAR FOOTING.
+page 17	EIRE'S ORDERS TO AIRCRAFT.
+page 17	MARSHAL BALBO KILLED.
+page 17	National Mourning.
+page 17	TWO CLERGYMEN ARRESTED.
+page 17	VICEROY - GANDHI CONVERSATIONS.
+page 20	R.A.F BOMB CANAL LOCKS IN GERMANY.
+page 20	WEEKS WITHOUT A HOLIDAY.
+page 20	SOUTH AFRICAN FUND FOR PLANES.
+page 20	BALKAN STATES AGITATED.
+page 20	Portents Of Soviet Move Rouse Anxious Speculation.
+page 20	Rumania Calling All Reserves To Colours.
+page 20	BRITAIN'S ARMS SPURT: NOT FLASH IN THE PAN.
+page 20	Great Project.
+page 20	"Sack Slackers."
+page 20	"We Want More."
+page 20	BRITAIN TAKES MEASURE OF HITLER.
+page 20	NAZI BOMBER SHOT DOWN.
+page 20	Casualties Slight.
+page 20	The Price For Hungary.
+page 20	As Usual.
+page 20	"Several Hours."
+page 20	Hungarian Border Guarded.
+page 20	No Surprise To London.
+page 20	Rumania Mobilising.
+page 20	News Lacking.
+page 20	DEATH OF MR. J. M. S. ROZARIO.
+page 20	NARVIK AWARDS.
+page 20	UP TO THE MINUTE.
+page 20	B.E.F. DECORATIONS.
+page 20	ITALIAN DESTROYER SUNK.
+page 20	AXIS ADVISES DELAY.
+page 20	A Monkey Wrench.
+page 20	Truth Coming Out.
+page 20	AMERICA WARNED!
+page 20	ITALIAN COMMUNIQUE.
+page 20	STEAMER TICKET TO AUSTRALIA STOLEN.
+page 21	British Government's Decision To Recognise General de Gaulle.
+page 21	AUTHORISES FREE FRENCHMEN TO ORGANISE.
+page 21	NO RATIONS FOR SMOKERS YET.
+page 21	SHANGHAI SHOOTING DEMANDS.
+page 21	North African Colonies Pledged to Fight.
+page 21	Acting As Liaison.
+page 21	NAZIS SEARCHING OUT THE WEAK SPOTS OF TREACHERY.
+page 21	SUPERVISOR OF BRITISH MAN - POWER.
+page 21	COMMANDER OF H.M.S. TETRARCH.
+page 21	CHANNEL ISLANDS DECISION.
+page 27	WILLKIE NOMINATION MARKS END OF AMERICAN ILLUSIONS.
+page 27	Powerful Personality.
+page 27	Chief Disadvantage.
+page 27	SENATOR PITTMAN HAS NEW IDEA.
+page 27	GARLAND OF DIAMONDS SOLD FOR WAR FUNDS.
+page 27	Big Gesture.
+page 27	"CLYDE'S" ATTACL PM SCJARMJPRST/
+page 27	FARM LABOURER DECORATED.
+page 27	CANADIAN CAPTURES TWO SPIES.
+page 27	GERMAN RADIO CHARGES.
+page 27	ADMIRAL LEAHY ON U.S. FLEET MOVE.
+page 31	MITTELHAUSER DECISION.
+page 31	Rank And File Of Army In Syria Lost Heart.
+page 31	INSPIRATION LACKING.
+page 31	ANTA - M - IXL TRUST MEETING.
+page 31	MR. NEVILLE CHAMBERLAIN INTERVIEWED.
+page 31	MOTORISTS WARNED.
+page 38	NAZI KULTUR REACHES TO CHANNEL ISLANDS.
+page 38	Barbarous Raid Follows Demilitarisation.
+page 38	DE GAULLE READY FOR ACTION.
+page 38	"PURELY PRECAUTIONARY."
+page 38	Chinese Statement.
+page 38	ANNIVERSARY OF THE CHINA WAR.
+page 38	Voluntary Evacuation.
+page 38	Cattle Destroyed.
+page 38	German "Triumph."
+page 38	IRELAND'S PROBLEM.
+page 38	LITTLE TO SHOW FOR GERMAN AIR ATTACKS.
+page 38	A Hard School.
+page 38	Wasted Bombs.
+page 38	POLISH TROOPS IN PALESTINE.
+page 38	BRITAIN'S SUGAR SHORTAGE.
+page 38	HONG KONG DISCUSSED IN WASHINGTON.
+page 38	EASTERN WIN AGAIN.
+page 38	SHANGHAI PROTEST.
+page 38	JAPANESE INSPEOTORS FOR INDO - CHINA.
+page 38	WOOSUNG AREA AGAIN THROWN OPEN.

@@ -1,0 +1,441 @@
+page 1	IL DUCE-APLOLGIST: TELLS IT ALIANS WHY COUNTRY IS LOSING.
+page 1	London Is Not Very Impressed.
+page 1	Lend Ear To Matsuoka.
+page 1	Beaverbrook Directs Attention to New R.A.F.
+page 1	Success for Combined British & Ethiopian Patriotic Troops.
+page 1	RED ARMY CELEBRATION.
+page 1	Campinchi Passes.
+page 1	ALBANIA.
+page 1	Italian Aviation Extends Radius.
+page 1	INDIAN NAVY TRAINING PLAN.
+page 1	Special Racing Editions.
+page 1	Ex-King Alfonso Reported Not Dead.
+page 1	Kuomintang & Communists.
+page 1	Doubt Of Future.
+page 1	BIG AIR FIGHT OVER CHANNEL.
+page 1	Nazi Invaders Turned Back.
+page 1	AID BRITAIN.
+page 1	Senate Commences Debate's Last Lap.
+page 1	Sharp Differences In Tokyo Negotiations.
+page 1	MENZIES' PLEDGE.
+page 1	Britain Will Never Be Deserted.
+page 1	Customs Pass Tragedy.
+page 2	CONTROL OF PERSONS.
+page 2	Committee Named.
+page 2	Y.W.C.A. Work.
+page 2	Annual Finance Campaign Launched.
+page 3	Hongkong News of the Week.
+page 3	A Page For The Evacuees.
+page 3	Review Of The Principal Topics February 16 To Feb. 22.
+page 3	Lastest Picture Of A.S.C. Coy. H.K.V.D.C.
+page 4	PALPH INCERSOLL.
+page 4	The PARADOX of KENNEDY.
+page 4	BEN ROBERTSON.
+page 5	TEN YEARS FOR LOOTING.
+page 5	Portsmouth Policemen Sentenced.
+page 5	Chinese Uses Farm Refusc For Gasoline.
+page 5	Tunney Is Physical Director Of Airmen.
+page 5	ROBBED RAID DEAD.
+page 5	Modern Exploration In China: Frenchman Slain.
+page 5	U.S. Rejects Appeal From Vichy.
+page 5	Japanese Crave Entertainment.
+page 5	Black-out Thieves Sent To Gaol.
+page 5	LONDON BLASTS.
+page 5	Ferrier Wins Miami Open.
+page 5	Small Units Sports.
+page 5	Japanese Youth Attempts Record.
+page 5	Hoare Still In Turkey.
+page 5	On Way To Egypt.
+page 5	ENGINEERING LECTURE.
+page 5	La Salle College Athletic Meet On Saturday.
+page 5	Soviet Denies Influence.
+page 5	PUBLIC SCHOOLS FOR RICH AND POOR ALIKE.
+page 6	MONDAY MORNING COMMENTARY.
+page 6	Senior Shield Quarter-Finals.
+page 6	Penalty Kick Decides Match In Eastern's Favour: Sing Tao Surprised By St Joseph's.
+page 6	SING TAO BEATEN.
+page 6	Saints' Brilliant Win.
+page 6	Interport Probables v. British Army.
+page 6	Colony Lose In terport Match to Sngapore.
+page 6	SPEED AND STYLE.
+page 7	Bonapartists Planning For Pretender's Return.
+page 7	Mysterious Strong-Arm Clan Formed In France.
+page 7	Bevin Is Victim Of Whisperers.
+page 7	New British Radio Offensive.
+page 7	Woman Does Not Know Of War.
+page 7	Goering Envoy To Britain.
+page 7	A.T.S. Purge-Debs May Have To Go.
+page 7	Writ Failed To Stop Frence Ship.
+page 7	CLIFF SHELTER FOR 5,000.
+page 7	NAVY HAS NEW SUPER PLANE.
+page 7	HAWTHORNDEN PRIZE.
+page 7	Vichy Rejects Demands In Tokyo Peace Talks.
+page 7	ACKNOWLEDGMENTS.
+page 8	IL Duce Tells Why Italians Losing.
+page 8	MENZIES' PLEDGE.
+page 8	TO-DAY'S RACE TIPS.
+page 8	POLICE RESERVE.
+page 8	Appeal To Chinese To Join Up.
+page 8	GERMAN PRESSMEN REMOVED.
+page 8	Third Honeymoon With Second Of Three Wives.
+page 9	IL DUCE-APOLOGIST: TELLS ITALIANS WHY COUNTRY IS LOSING.
+page 9	London Is Not Very Impressed.
+page 9	Brawl Over Song.
+page 9	Beaverbrook Directs Attention to New R.A.F.
+page 9	Success for Combined British & Ethiopian Patriotic Troops.
+page 9	Customs Pass Tragedy.
+page 9	ALBANIA.
+page 9	Italian Aviation Extends Radius.
+page 9	INDIAN NAVY TRAINING PLAN.
+page 9	Special Racing Editions.
+page 9	Ex-King Alfonso Reported Not Dead.
+page 9	RED ARMY CELEBRATION.
+page 9	RACING CARNIVAL RESUMES.
+page 9	Course Recovers.
+page 9	Sharp Differences In Tokyo Negotiations.
+page 10	Hoare Still In Turkey.
+page 10	On Way To Egypt.
+page 10	Japanese Youth Attempts Record.
+page 10	Soviet Denies In fulence.
+page 11	Hongkong News of the Week.
+page 11	Review Of The Principal Topics February 16 To Feb. 22.
+page 11	Latest Picture Of A.S.C. Coy., H.K.V.D.C.
+page 12	RALPH INGERSOLL.
+page 12	BEN ROBERTSON.
+page 12	The PARADOX of KENNEDY.
+page 13	MENZIES' PLEDGE.
+page 13	Britain Will Never Be Deserted.
+page 13	POLICE RESERVE INSTRUCTIONS.
+page 13	New Sickness Rule.
+page 13	Bomb Outrage In Shanghai.
+page 13	TEN YEARS FOR LOOTING.
+page 13	Portsmouth Policemen Sentenced.
+page 13	La Salle College Athletic Meet On Saturday.
+page 13	BIG AIR FIGHT OVER CHANNEL.
+page 13	Nazi Invaders Turned Back.
+page 13	AID BRITAIN.
+page 13	Senate Commences Debate's Last Lap.
+page 13	Japanese Crave Entertainment.
+page 13	Ferrier Wins Miami Open.
+page 13	Small Units Sports.
+page 13	Police Walk-out In Tientsin.
+page 13	Lend Ear To Matsuoka.
+page 13	ART TREASHURES MAY GO TO U.S.
+page 13	Electricity Charges.
+page 14	MONDAY MORNING COMMENTARY.
+page 14	Senior Shield Quarter-Finals.
+page 14	Penalty Kick Decides Match In Eastern's Favour: Sing Tao Surprised By St Joseph's.
+page 14	SING TAO BEATEN.
+page 14	Saints' Brilliant Win.
+page 14	Interport Probables v. British Army.
+page 15	Bonapartists Planning For Pretender's Return.
+page 15	Mysterious Strong-Arm Clan Formed In France.
+page 15	Bevin Is Victim Of Whisperers.
+page 15	New British Radio Offensive.
+page 15	Woman Does Not Know Of War.
+page 15	Goering Envoy To Britain.
+page 15	A.T.S. Purge - Debs May Have To Go.
+page 15	Writ Failed To Stop French Ship.
+page 15	CLIFF SHELTER FOR 5,000.
+page 15	NAVY HAS NEW SUPER PLANE.
+page 15	HAWTHORNDEN PRIZE.
+page 15	Modern Exploration In China: Frenchman Slain.
+page 15	Kuomintang & Communists.
+page 15	Campinchi Passes.
+page 15	Tokyo Govt Meets Chiefs Of forces.
+page 15	Liaison Conference.
+page 15	N.E.I. - Japan Talks.
+page 15	ACKNOWLEDGMENTS.
+page 16	Chinese Uses Farm Refuse For Gasoline.
+page 16	II Duce Tells Why Italians Losing.
+page 16	Customs Pass Tragedy.
+page 16	ROBBED RAID DEAD.
+page 16	TO-DAY'S RACE TIPS.
+page 16	Jews Reach Japan.
+page 16	Tunney Is Physical Director Of Airmen.
+page 16	GERMAN PRESSMEN REMOVED.
+page 16	Third Honeymoon With Second Of Three Wives.
+page 16	Racing Carnival Resumes.
+page 17	IL DUCE - APOLOGIST: TELLS ITALIANS WHY COUNTRY IS LOSING.
+page 17	London Is Not Very Imjpressed.
+page 17	Brawl Over Song.
+page 17	Beaverbrook Directs.
+page 17	Attention to New R.A.F.
+page 17	Success for Combined British & Ethiopian Patriotic Troops.
+page 17	AID BRITAIN.
+page 17	Senate Commences Debate's Last Lap.
+page 17	ALBANIA.
+page 17	Italian Aviation Extends Radius.
+page 17	INDIAN NAVY TRAINING PLAN.
+page 17	Special Racing Editions.
+page 17	Ex - King Alfonso Reported Not Dead.
+page 17	Latest Rome Message.
+page 17	Customs Pass Tragedy.
+page 17	RACING CARNIVAL RESUMES.
+page 17	Course Recovers.
+page 17	RED ARMY CELEBRATION.
+page 17	Sharp Differences In Tokyo Negotiations.
+page 18	Hoare Still In Turkey.
+page 18	On Way To Egypt.
+page 18	Japanese Youth Attempts Record.
+page 18	Soviet Denies Influence.
+page 19	Hongkong News of the Week.
+page 19	A Page For The Evacuees.
+page 19	Review Of Principal Topics February 16 To Feb. 22.
+page 19	Latest Picture Of A.S.C. Coy., H.K.V.D.C.
+page 20	RALPH INCERSOLL.
+page 20	BEN ROBERTSON.
+page 20	The PARADOX of KENNEDY.
+page 21	TEN YEARS FOR LOOTING.
+page 21	Portsmouth Policemen Sentenced.
+page 21	Chinese Uses Farm Refuse For Gasoline.
+page 21	Tunney Is Physical Director Of Airmen.
+page 21	ROBBED RAID DEAD.
+page 21	Modern Exploration In China: Frenchman Slain.
+page 21	La Salle College Athletic Meet On Satruday.
+page 21	Ferrier Wins Miami Open.
+page 21	Small Units Sports.
+page 21	Police Walk-out In Tientsin.
+page 21	N.E.I. - Japan Talks.
+page 21	BIG AIR FIGHT OVER CHANNEL.
+page 21	Nazi Invaders Turned Back.
+page 21	Tokyo Govt Meets Chiefs Of Forces.
+page 21	Kuomintang & Communists.
+page 21	Lend Ear To Matsuoka.
+page 21	ART TREASURES MAY GO TO U.S.
+page 21	Electricity Charges.
+page 22	TEN YEARS FOR LOOTING.
+page 22	Portsmouth Policemen Sentenced.
+page 22	Chinese Uses Farm Refuse For Gasoline.
+page 22	Tunney Is Physical Director Of Airmen.
+page 22	ROBBED RAID DEAD.
+page 22	Modern Exploration In China: Frenchman Slain.
+page 22	La Salle College Athletic Meet On Satruday.
+page 22	Ferrier Wins Miami Open.
+page 22	Small Units Sports.
+page 22	Police Walk-out In Tientsin.
+page 22	N.E.I. - Japan Talks.
+page 22	BIG AIR FIGHT OVER CHANNEL.
+page 22	Nazi Invaders Turned Back.
+page 22	Tokyo Govt Meets Chiefs Of Forces.
+page 22	Kuomintang & Communists.
+page 22	Lend Ear To Matsuoka.
+page 22	ART TREASURES MAY GO TO U.S.
+page 22	Electricity Charges.
+page 22	MONDAY MORNING COMMENTARY.
+page 22	Senior Shield Quarter- Finals.
+page 22	Penalty Kick Decides Match In Eastern's Favour: Sing Tao Surprised By St Joseph's.
+page 22	SPORTS ADVERT.
+page 22	THE HONG KONG JOCKEY CLUB.
+page 22	SING TAO BEATEN.
+page 22	Saints' Brilliant Win.
+page 22	Interport Probables v. Breitish Ardny.
+page 22	Colony Lose Interport Match to Singapore.
+page 22	SPEED AND STYLE.
+page 22	U.S. Basketballers In Action.
+page 22	BY Ernie Bushmiller.
+page 22	Bonapartists  Planning For Pretender's Return.
+page 22	Scrvcd In Tuniaia.
+page 24	THE' DEAD END' KIDS "ON ORESS PARADE."
+page 24	It Duce Tells Why Italians Losing.
+page 24	Italian Hired Hande.
+page 24	MENZIES' PLEDGE.
+page 24	Expeditionaory Force.
+page 24	Customs Pass Tragedy.
+page 24	Gardcncr's Dircovery.
+page 24	Black - out Thieves Sent To Gaol.
+page 24	Campinchi Passes.
+page 24	TO - DAY'S RACE TIPS.
+page 24	Rooty Hill Derby.
+page 24	(By"Cnotain Foctcr)
+page 24	Jews Reach Japan.
+page 24	GERMAN PRESSMEN REMOVED.
+page 24	Third Honcymoon With Seeond Of Three Wives.
+page 24	Japanese Crave Entertainment.
+page 24	Cincma Fang Are Problem.
+page 25	THE' DEAD END' KIDS "ON ORESS PARADE."
+page 25	It Duce Tells Why Italians Losing.
+page 25	Italian Hired Hande.
+page 25	MENZIES' PLEDGE.
+page 25	Expeditionaory Force.
+page 25	Customs Pass Tragedy.
+page 25	Gardcncr's Dircovery.
+page 25	Black - out Thieves Sent To Gaol.
+page 25	Campinchi Passes.
+page 25	TO - DAY'S RACE TIPS.
+page 25	Rooty Hill Derby.
+page 25	(By"Cnotain Foctcr)
+page 25	Jews Reach Japan.
+page 25	GERMAN PRESSMEN REMOVED.
+page 25	Third Honcymoon With Seeond Of Three Wives.
+page 25	Japanese Crave Entertainment.
+page 25	Cincma Fang Are Problem.
+page 25	IL  DUGE - APOLOGIST: TELLS ITALIANS WHY COUNTRY IS LOSING.
+page 25	London Is Not Very Impressed.
+page 25	Analyais of Duce's Speech.
+page 25	Lonscis Comparcd.
+page 25	German Commont.
+page 25	Colony's Trade Decreases By Million Pounds in Jan.
+page 25	Ltaly Forcatallcd!
+page 25	France May Regain Territory.
+page 25	Compulsory Service Tribunal.
+page 25	BIG GREEK SUCCESS.
+page 25	Take Hundreds of Rrisonern.
+page 25	Success for Combined British& Ethiopian Patriotic Troops.
+page 25	France May Regain Territory.
+page 25	Inuasion Ports Bombed.
+page 25	Thousands At Valley To Watch Big Event.
+page 26	CLASSIFIED ADVERTISFMENTS.
+page 26	NEW ANVERTLSBMENTS.
+page 26	THE BANK OF EAST ASIA, LIMITED.
+page 26	BANK HOLIDAY.
+page 26	THE "STAR" FERRY CO LTD.
+page 26	Hoare Still In Turkey.
+page 26	On Way To Egypt.
+page 26	Japanese Youth Attempts Record.
+page 26	 Soviet Denies Influence.
+page 27	Hongkong News Of the Week
+page 27	Sunday.
+page 27	Monday.
+page 27	Tuesday.
+page 27	Wednesday.
+page 27	Latcst Piclure Of A.S.C. Coy, H.K.V.D.C.
+page 27	Thursday.
+page 27	Friday.
+page 27	Saturday.
+page 29	War Cuts Heavily Into Profits Of H.K. Land Investment Co.
+page 29	Bus Brakes Inefficient.
+page 29	GAMBLING.
+page 29	Many Offenders Lose Therir BAIL.
+page 29	POLICE RESERVE INSTRUCTIONS. 
+page 29	New Sickness Rule.
+page 29	Ferricr Wins Miami Open.
+page 29	BIG AIR.
+page 29	FIGIIT OVER.
+page 29	CHANNEL.
+page 29	Nazi Invaders Turned Back.
+page 29	Recreio Hold Visiting Macao XI.
+page 29	Big Test Coming For Lend and Lease Bill.
+page 29	Debatc's Last Lap.
+page 29	Combined Services Draw 3-3 With Club - Police.
+page 29	Keen And Hard - fought Game.
+page 29	WILDCATS NOSE OUT WAHOOS.
+page 29	INDIAN NAVY TRAINING PLAN.
+page 29	Jews Reach Japan.
+page 29	La Salle Colleag Athletic Meet On Saturday.
+page 29	Lend Ear To Matsuoka.
+page 31	Bcavcrbrook Direets Attention to New R.A.F.
+page 31	RED ARMY CELEBRATION.
+page 31	Hired Bicycle And Tried To Sell It.
+page 31	European Hits Police O fficer.
+page 31	$100 Fine Imposed.
+page 31	Gustoins Pass Tragedy.
+page 31	Cnemployed Mun With Rcvolver.
+page 31	Sharp Differences In Tokyo Negotiations.
+page 31	Hlegal Letter Carrying.
+page 31	Japanese Crave Entertainment.
+page 31	Sharp Differences In Tokyo Negotiations.
+page 31	Special to the "telegraph"
+page 31	Illegal Letter Carrying.
+page 31	Japanese Crave Entertainment.
+page 31	Cincma Fang Are Problem.
+page 31	ROBBED RAID DEAD.
+page 31	Modern Exploration In China: Frenehman - Slain.
+page 31	Kuenuntang & Coeununisis.
+page 31	Support the Bomber Fund - und pravide more of these.
+page 32	Thousunds At Valley To Watch Big Event.
+page 32	LATE NEWS.
+page 32	PRESSMEN REMOVED.
+page 32	Cninese Uses Farm Refuse For Gasoline.
+page 32	U.S. Rcjects Appcal From Vichy.
+page 32	 Black - out Thieves Sent To Gaol.
+page 32	ENGINEERING LECTVRE.
+page 32	IL Duce Tells Why Italians Losing.
+page 32	Itatian Hircd Hands.
+page 32	Ex - King Alfonso Reported Not Dead.
+page 32	Third Honeymoon With Sedcond Of Three Wives.
+page 32	Tunney Is Physical Director Of Airmen.
+page 33	IL DUCE - APOLOGIST : TELLS ITALIANS WHY COUNTRY IS LOSING.
+page 33	London Is Not Very lmpressed.
+page 33	Colony's Trade Decreases By Million Pounds in Jan.
+page 33	Big Swecp Sulcs Total 1,000,000.
+page 33	EX - King Alfonso Reportcd Not Dead.
+page 33	Latest Rome Message.
+page 33	Rushca To Bcdside.
+page 33	Turkey Stands By Foreign Policy.
+page 33	Success for Combined British & Ethiopian Patriotic Troops.
+page 33	France May Regain Territory.
+page 33	Thai - Indo - China Armistice.
+page 33	Other Operationo.
+page 33	Invasion Ports Bombed.
+page 33	SPECIAL TO THE "TCLEQRAPH.
+page 33	British Subs. Sink 8 Italian Transports.
+page 34	Hoare Still In Turkey. 
+page 34	On Way To Egypt.
+page 34	Japanese Youth Attempts Record.
+page 35	Hongkong  News of the Week .
+page 35	A page For The Evocuees.
+page 36	War Ctus Heavily Into Profits Of H. K. Land  Investment Co.
+page 36	Bus Brnkes Incffieient.
+page 36	GAMBLING. 
+page 36	Many Offenders Lose Their Bail.
+page 36	POLICE RESERVE INSTRUCTIONS.
+page 36	Brawl Over Song.
+page 36	FERRJER Wins Mimni Open.
+page 36	BIG AIR.
+page 36	FIGHT OVER CHANNEL.
+page 36	Big Test Coming For Lend and Lease Bill.
+page 36	Conbined Services Draw  3- 3 With Club - Police.
+page 36	Keen And Hard  - fought Game.
+page 36	La Salle College A tbletic Meet On Saturday.
+page 36	Lend Ear To Matsuoka.
+page 37	War Ctus Heavily Into Profits Of H. K. Land  Investment Co.
+page 37	Bus Brnkes Incffieient.
+page 37	GAMBLING. 
+page 37	Many Offenders Lose Their Bail.
+page 37	POLICE RESERVE INSTRUCTIONS.
+page 37	Brawl Over Song.
+page 37	FERRJER Wins Mimni Open.
+page 37	BIG AIR.
+page 37	FIGHT OVER CHANNEL.
+page 37	Big Test Coming For Lend and Lease Bill.
+page 37	Conbined Services Draw  3- 3 With Club - Police.
+page 37	Keen And Hard  - fought Game.
+page 37	La Salle College A tbletic Meet On Saturday.
+page 37	Lend Ear To Matsuoka.
+page 38	Senior Shield Quarter - Finals Penalty Kick Decides Match In Eastern's Favour:Sing Tao Surprised By St Joseph's.
+page 38	Colony Lose Lnterport Match to Singapore.
+page 39	Beaverbrook Directs Attention to New R.A.F.
+page 39	RED ARMY.
+page 39	CELEBRATION.
+page 39	Hired Bicycle And Tried To Sell It.
+page 39	Bomb Outrage In Shanghai.
+page 39	Counterfeit Coin Charges.
+page 39	European Hits Police Offcer.
+page 39	$100 Fine Imposed.
+page 39	Customs Pass Tragedy.
+page 39	Unemployed Man With Revolver.
+page 39	MENZIES' PLEDGE.
+page 39	Britain Will Never Be Deserted.
+page 39	SNATCHING.
+page 39	Large Sum Taken From Office Boy In City.
+page 39	Sharp Differences In Tokyo Negotiations.
+page 39	Illegal Letter Carrying.
+page 39	Japanese Crave Entertainment.
+page 39	ROBBED RAID DEAD.
+page 39	Immigration Rule Broken.
+page 39	Police Walk-out In Tientsin,
+page 39	Modern Exploration In China: Frenchman Slain.
+page 39	Kuomintang & Communists.
+page 39	Campinchi Passes.
+page 39	Tokyo Govt Meets Chiefs Of Forces.
+page 39	N.E.I. - Japan Talks.
+page 39	ACKNOWLEDGMENTS.
+page 40	United Express Leads All Way.
+page 40	GEMAN PRESSMEN REMOVED.
+page 40	Chinese Uses Farm Refuse For Gasoline.
+page 40	What R.A.F. Have Done To Berlin.
+page 40	Il Duce Tells Why Italinas Losing.
+page 40	Ex - King Aifonso Reproted Not Dead.
+page 40	Tunney Is Physical Director Of Airmen.
+page 40	Compulsory Service Tribunal.

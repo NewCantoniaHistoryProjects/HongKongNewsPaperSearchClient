@@ -1,0 +1,9 @@
+page 2	SHANGHAI.
+page 2	Political.
+page 2	Registration Fecs.
+page 2	Commercial.
+page 2	Newchwang.
+page 2	Soochow.
+page 2	Chiukiang.
+page 2	The Interior.
+page 2	Japan.
